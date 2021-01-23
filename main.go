@@ -9,42 +9,18 @@ import (
 	"time"
 )
 
-// Fetch all the public organizations' membership of a user.
-//
-func fetchOrganizations(username string) ([]*github.Organization, error) {
-	client := github.NewClient(nil)
-	orgs, _, err := client.Organizations.List(context.Background(), username, nil)
-	return orgs, err
-}
+var (
+	client *github.Client
+)
 
-func writeData() {
-
-}
-
-func main() {
+func output(lang string, cnt int, pastDays int) {
 
 	now := time.Now()
-	since := now.AddDate(0, 0, -90)
-	// var username string
-	// fmt.Print("Enter GitHub username: ")
-	// fmt.Scanf("%s", &username)
-
-	// organizations, err := fetchOrganizations(username)
-	// if err != nil {
-	// 	fmt.Printf("Error: %v\n", err)
-	// 	return
-	// }
-
-	// for i, organization := range organizations {
-	// 	fmt.Printf("%v. %v\n", i+1, organization.GetLogin())
-	// }
-
-	client := github.NewClient(nil)
-	// opts := &github.SearchOptions{Sort: "stars", Order: "desc"}
+	since := now.AddDate(0, 0, -pastDays)
 	opts := &github.SearchOptions{ListOptions: github.ListOptions{PerPage: 100}, Sort: "stars", Order: "desc"}
 	//query := "language:Go stars:10..1000"
 
-	query := fmt.Sprintf("language:Go created:>%s", since.Format("2006-01-02"))
+	query := fmt.Sprintf("language:%s created:>%s", lang, since.Format("2006-01-02"))
 	fmt.Println("query:", query)
 	results, _, err := client.Search.Repositories(context.Background(), query, opts)
 	if err != nil {
@@ -64,8 +40,38 @@ func main() {
 		csvData = append(csvData, []byte(line)...)
 	}
 
-	ioutil.WriteFile("test.csv", csvData, 0622)
+	filename := fmt.Sprintf("top_%d_fastest_rising_since_%s", cnt, since.Format("2006-01-02"))
+	ioutil.WriteFile("./data/"+filename+".csv", csvData, 0622)
 	// for _, topic := range topics.Topics {
 	// 	fmt.Println(*topic.Name)
 	// }
+
+	var mdData []byte
+	var desc string
+	mdData = []byte("| Stars | Name | Url | Desc | Topics | Created | \n")
+	mdData = append(mdData, []byte("| ------------- | ------------- | ------------- | ------------- |  ------------- |  ------------- |\n")...)
+
+	for _, repo := range results.Repositories {
+		if repo.Description != nil {
+			desc = strings.Replace(*repo.Description, "|", "\\|", -1)
+			line = fmt.Sprintf("| %d | %s | %s | %q | %q | %v |\n", *repo.StargazersCount, *repo.Name, *repo.HTMLURL, desc, strings.Join(repo.Topics, ","), repo.GetCreatedAt())
+		} else {
+			line = fmt.Sprintf("| %d | %s | %s | \"\"| %q | %v |\n", *repo.StargazersCount, *repo.Name, *repo.HTMLURL, strings.Join(repo.Topics, ","), repo.GetCreatedAt())
+		}
+		mdData = append(mdData, []byte(line)...)
+	}
+
+	mdData = append(mdData, []byte("\n")...)
+
+	mdFilename := fmt.Sprintf("%s_top_%d_since_%s.md", lang, cnt, since.Format("2006-01-02"))
+	ioutil.WriteFile("./"+mdFilename, mdData, 0622)
+
+}
+
+func main() {
+
+	client = github.NewClient(nil)
+	// opts := &github.SearchOptions{Sort: "stars", Order: "desc"}
+
+	output("Go", 100, 30)
 }
