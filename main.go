@@ -49,14 +49,14 @@ func output(lang string, cnt int, pastDays int) {
 	var mdData []byte
 	var desc string
 	mdData = []byte("| Stars | Name | Desc | Created | \n")
-	mdData = append(mdData, []byte("| ----- | ------- | ------------- | ------------- |  ------------- |  ------------- |\n")...)
+	mdData = append(mdData, []byte("| ----- | ------- | ------------- | --------- |\n")...)
 
 	for _, repo := range results.Repositories {
 		if repo.Description != nil {
 			desc = strings.Replace(*repo.Description, "|", "\\|", -1)
-			line = fmt.Sprintf("| %d | [%s](%s) | %q | %v |\n", *repo.StargazersCount, *repo.Name, *repo.HTMLURL, desc, strings.Join(repo.Topics, ","), repo.GetCreatedAt())
+			line = fmt.Sprintf("| %d | [%s](%s) | %q | %v |\n", *repo.StargazersCount, *repo.Name, *repo.HTMLURL, desc, repo.GetCreatedAt())
 		} else {
-			line = fmt.Sprintf("| %d | [%s](%s) | | %v |\n", *repo.StargazersCount, *repo.Name, *repo.HTMLURL, strings.Join(repo.Topics, ","), repo.GetCreatedAt())
+			line = fmt.Sprintf("| %d | [%s](%s) |  | %v |\n", *repo.StargazersCount, *repo.Name, *repo.HTMLURL, repo.GetCreatedAt())
 		}
 		mdData = append(mdData, []byte(line)...)
 	}
