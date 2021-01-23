@@ -54,9 +54,9 @@ func output(lang string, cnt int, pastDays int) {
 	for _, repo := range results.Repositories {
 		if repo.Description != nil {
 			desc = strings.Replace(*repo.Description, "|", "\\|", -1)
-			line = fmt.Sprintf("| %d | [%s](%s) | %q | %v |\n", *repo.StargazersCount, *repo.Name, *repo.HTMLURL, desc, repo.GetCreatedAt())
+			line = fmt.Sprintf("| %d | [%s](%s) | %s | %s |\n", *repo.StargazersCount, *repo.Name, *repo.HTMLURL, desc, repo.GetCreatedAt())
 		} else {
-			line = fmt.Sprintf("| %d | [%s](%s) |  | %v |\n", *repo.StargazersCount, *repo.Name, *repo.HTMLURL, repo.GetCreatedAt())
+			line = fmt.Sprintf("| %d | [%s](%s) |  | %s |\n", *repo.StargazersCount, *repo.Name, *repo.HTMLURL, repo.GetCreatedAt())
 		}
 		mdData = append(mdData, []byte(line)...)
 	}
