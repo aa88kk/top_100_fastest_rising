@@ -54,9 +54,9 @@ func output(lang string, cnt int, pastDays int) {
 	for _, repo := range results.Repositories {
 		if repo.Description != nil {
 			desc = strings.Replace(*repo.Description, "|", "\\|", -1)
-			line = fmt.Sprintf("| %d | [%s](%s) | %q | %v |\n", *repo.StargazersCount, *repo.Name, *repo.HTMLURL, desc, repo.GetCreatedAt())
+			line = fmt.Sprintf("| %d | [%s](%s) | %s | %s |\n", *repo.StargazersCount, *repo.Name, *repo.HTMLURL, desc, repo.GetCreatedAt())
 		} else {
-			line = fmt.Sprintf("| %d | [%s](%s) |  | %v |\n", *repo.StargazersCount, *repo.Name, *repo.HTMLURL, repo.GetCreatedAt())
+			line = fmt.Sprintf("| %d | [%s](%s) |  | %s |\n", *repo.StargazersCount, *repo.Name, *repo.HTMLURL, repo.GetCreatedAt())
 		}
 		mdData = append(mdData, []byte(line)...)
 	}
@@ -73,5 +73,12 @@ func main() {
 	client = github.NewClient(nil)
 	// opts := &github.SearchOptions{Sort: "stars", Order: "desc"}
 
+	output("Go", 100, 7)
+	output("Go", 100, 15)
 	output("Go", 100, 30)
+	output("Go", 100, 60)
+	output("Go", 100, 90)
+	output("Go", 100, 180)
+	output("Go", 100, 365)
+	output("Go", 100, 730)
 }
