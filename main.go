@@ -49,7 +49,7 @@ func output(lang string, cnt int, pastDays int) {
 	var mdData []byte
 	var desc string
 	mdData = []byte("| Stars | Name | Url | Desc | Topics | Created | \n")
-	mdData = append(mdData, []byte("| ------------- | ------------- | ------------- | ------------- |  ------------- |  ------------- |\n")...)
+	mdData = append(mdData, []byte("| ----- | ------- | ------------- | ------------- |  ------------- |  ------------- |\n")...)
 
 	for _, repo := range results.Repositories {
 		if repo.Description != nil {
