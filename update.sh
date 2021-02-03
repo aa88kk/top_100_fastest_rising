@@ -7,7 +7,7 @@ date
 cd /root/top_100_fastest_rising
 git pull
 
-/root/top_100_fatest_rising/top_100_fastest_rising
+/root/top_100_fastest_rising/top_100_fastest_rising
 
 git add .
 today=`date +"%Y-%m-%d"`
