@@ -1,5 +1,5 @@
 2766, juicefs, https://github.com/juicedata/juicefs, "JuiceFS is a distributed POSIX file system built on top of Redis and S3.", "cloud-native,distributed-systems,filesystem,golang,hdfs,object-storage,posix,redis,s3,storage", 2021-01-08 09:39:46 +0000 UTC
-965, ticker, https://github.com/achannarasappa/ticker, "Terminal stock ticker with live updates and position tracking", "", 2021-01-24 03:50:46 +0000 UTC
+967, ticker, https://github.com/achannarasappa/ticker, "Terminal stock ticker with live updates and position tracking", "", 2021-01-24 03:50:46 +0000 UTC
 459, what-anime-cli, https://github.com/irevenko/what-anime-cli, "❓🖼 Find the anime scene by image using your terminal", "anime,anime-fans,anime-search,animes,cli,cli-app,go,go-cli,go-cli-example,golang,golang-application,golang-wrapper", 2021-01-17 19:28:40 +0000 UTC
 352, ditto, https://github.com/evilsocket/ditto, "A tool for IDN homograph attacks and detection.", "", 2021-01-28 13:46:48 +0000 UTC
 350, local-php-security-checker, https://github.com/fabpot/local-php-security-checker, "PHP security vulnerabilities checker", "composer,packagist,php,security", 2021-01-15 07:02:07 +0000 UTC
