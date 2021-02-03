@@ -4,9 +4,9 @@
 
 echo -e "\n----------Run Time:----------"
 date
-cd /root/top_100_fatest_rising
+cd /root/top_100_fastest_rising
 git pull
-top_100_fatest_rising
+top_100_fastest_rising
 git add .
 today=`date +"%Y-%m-%d"`
 git commit -m "updated at  $today."
