@@ -1,0 +1,13 @@
+#!/bin/sh
+
+# copy from 'https://github.com/EvanLi/Github-Ranking/blob/master/auto_run.sh'
+
+echo -e "\n----------Run Time:----------"
+date
+cd /root/top_100_fatest_rising
+git pull
+top_100_fatest_rising
+git add .
+today=`date +"%Y-%m-%d"`
+git commit -m "updated at  $today."
+git push 
