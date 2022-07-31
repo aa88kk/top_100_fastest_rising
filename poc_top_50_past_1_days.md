@@ -1,103 +1,103 @@
 | Stars | Name | Desc | Created | 
 | ----- | ------- | ------------- | ------------- |
-| 2 | [Generate_ChineseCharacterImg](https://github.com/yhk-8/Generate_ChineseCharacterImg) | 利用汉字库中的汉字，生成相应的字符图片，构建汉字字符图片数据集，可用于汉字字符生成、识别等任务 | 2022-07-30 01:03:50 +0000 UTC |
-| 2 | [ginkevtonic](https://github.com/ginkevtonic/ginkevtonic) | Config files for my GitHub profile. | 2022-07-30 00:31:51 +0000 UTC |
-| 2 | [hatch](https://github.com/malonehedges/hatch) |  | 2022-07-30 00:55:42 +0000 UTC |
-| 1 | [mern-goal-client](https://github.com/esteemayo/mern-goal-client) | Goalsetter app for youtube tutorial | 2022-07-30 00:38:25 +0000 UTC |
-| 1 | [intiapp](https://github.com/fraperrone/intiapp) |  | 2022-07-30 01:05:23 +0000 UTC |
-| 1 | [cv-portfolio-docs](https://github.com/DesignofCp/cv-portfolio-docs) | CV Portfolio Jekyll & Strapi Theme Documentation | 2022-07-30 00:49:05 +0000 UTC |
-| 1 | [Portfolio](https://github.com/hayley-elise/Portfolio) | Future personal portfolio website | 2022-07-30 01:11:56 +0000 UTC |
-| 1 | [Pokedex](https://github.com/DiogenesYazan/Pokedex) |  | 2022-07-30 01:21:28 +0000 UTC |
-| 1 | [zzx](https://github.com/zzx19136975729/zzx) |  | 2022-07-30 01:39:46 +0000 UTC |
-| 1 | [react_gallery_app-v1](https://github.com/lifelearner2/react_gallery_app-v1) | I created an image gallery app using React library | 2022-07-30 00:39:31 +0000 UTC |
-| 1 | [ShopeeRobot](https://github.com/KuuhakuTeam/ShopeeRobot) | Um bot telegram para informar as ofertas relampago disponiveis na shoope  | 2022-07-30 00:44:29 +0000 UTC |
-| 1 | [Aankk98](https://github.com/Aankk98/Aankk98) | Config files for my GitHub profile. | 2022-07-30 01:05:12 +0000 UTC |
-| 1 | [emejs](https://github.com/arasemr12/emejs) |  | 2022-07-30 00:39:12 +0000 UTC |
-| 1 | [Budget-React-App](https://github.com/ChurroC/Budget-React-App) | I made this using a tutorial by Web Dev Simplified: https://youtu.be/yz8x71BiGXg. | 2022-07-30 00:20:05 +0000 UTC |
-| 1 | [tubidy.mobi-](https://github.com/31WillemKruger31/tubidy.mobi-) |  | 2022-07-30 00:07:11 +0000 UTC |
-| 1 | [JacoKruger](https://github.com/31WillemKruger31/JacoKruger) |  | 2022-07-30 00:06:11 +0000 UTC |
-| 1 | [queue-api-challenge](https://github.com/jordmax12/queue-api-challenge) | Simple node CRUD app that uses elasticmq to trigger asynchronous workers to perform tasks. | 2022-07-30 01:08:23 +0000 UTC |
-| 1 | [barclay742.github.io](https://github.com/barclay742/barclay742.github.io) | Personal Blog Github | 2022-07-30 01:06:23 +0000 UTC |
-| 1 | [NatHacks](https://github.com/tazvik01/NatHacks) |  | 2022-07-30 00:43:37 +0000 UTC |
-| 1 | [Rock-Paper-Scissors](https://github.com/FelipeCosta55/Rock-Paper-Scissors) |  | 2022-07-30 00:55:49 +0000 UTC |
-| 1 | [jjjaaahhhh](https://github.com/Alhamo12/jjjaaahhhh) |  | 2022-07-30 00:23:21 +0000 UTC |
-| 1 | [Docker](https://github.com/mochimosh101/Docker) |  | 2022-07-30 00:15:13 +0000 UTC |
-| 1 | [Pokedex](https://github.com/FelipeMelogomes/Pokedex) |  Pokédex desenvolvida com HTML, CSS e JavaScript. | 2022-07-30 00:57:00 +0000 UTC |
-| 1 | [key_mapper](https://github.com/excepts/key_mapper) | change what certain keyboard keys do | 2022-07-30 00:33:58 +0000 UTC |
-| 1 | [rustytake-off.github.io](https://github.com/RustyTake-Off/rustytake-off.github.io) | My Jekyll website. | 2022-07-30 01:10:06 +0000 UTC |
-| 1 | [JavaScript](https://github.com/juninho15830/JavaScript) | Curso de JavaScript do Curso em Vídeo | 2022-07-30 00:19:20 +0000 UTC |
-| 1 | [laredo](https://github.com/larryWEB/laredo) |  | 2022-07-30 00:01:45 +0000 UTC |
-| 1 | [alfred](https://github.com/larryWEB/alfred) |  | 2022-07-30 00:34:02 +0000 UTC |
-| 1 | [CEPdata](https://github.com/andrebasttos/CEPdata) | Projeto de informações do CEP | 2022-07-30 00:05:54 +0000 UTC |
-| 1 | [hyroxware](https://github.com/hyroxware/hyroxware) |  | 2022-07-30 00:21:07 +0000 UTC |
-| 1 | [java2fp](https://github.com/kanamun-kbc/java2fp) | JAVAⅠの自由演習をまとめたもの2 | 2022-07-30 00:54:32 +0000 UTC |
-| 1 | [xieshuai14.github.io](https://github.com/xieshuai14/xieshuai14.github.io) |  | 2022-07-30 00:35:07 +0000 UTC |
-| 1 | [22Voxa2220](https://github.com/22Voxa2220/22Voxa2220) | Config files for my GitHub profile. | 2022-07-30 01:30:09 +0000 UTC |
-| 1 | [2022-S-Desig_Compensator_matlab](https://github.com/jungrisi/2022-S-Desig_Compensator_matlab) |  | 2022-07-30 01:22:48 +0000 UTC |
-| 1 | [cLpokemon](https://github.com/mock-test-API/cLpokemon) |  | 2022-07-30 00:26:54 +0000 UTC |
-| 1 | [Elgzaar](https://github.com/Elgzaar/Elgzaar) | Config files for my GitHub profile. | 2022-07-30 00:31:36 +0000 UTC |
-| 1 | [mern-goal-api](https://github.com/esteemayo/mern-goal-api) | Goalsetter app for youtube tutorial | 2022-07-30 00:21:10 +0000 UTC |
-| 1 | [BOT-MX](https://github.com/Bottiocarlos/BOT-MX) |  | 2022-07-30 01:31:03 +0000 UTC |
-| 1 | [iiman60](https://github.com/iiman60/iiman60) | Config files for my GitHub profile. | 2022-07-30 01:34:27 +0000 UTC |
-| 1 | [rearm](https://github.com/Gamers-Against-Weed/rearm) | Rearm Every Activation-Related Mechanism | 2022-07-30 01:24:35 +0000 UTC |
-| 1 | [ProjectEuler](https://github.com/theFishHimself/ProjectEuler) |  | 2022-07-30 00:05:56 +0000 UTC |
-| 1 | [seve](https://github.com/roblox567/seve) |  | 2022-07-30 00:09:16 +0000 UTC |
-| 1 | [PowerSongs](https://github.com/evanjd711/PowerSongs) |  | 2022-07-30 01:25:40 +0000 UTC |
-| 1 | [rp2040-motor-controller-firmware](https://github.com/runger1101001/rp2040-motor-controller-firmware) |  | 2022-07-30 00:07:16 +0000 UTC |
-| 1 | [posyandu_backend](https://github.com/adimunawar/posyandu_backend) |  | 2022-07-30 00:26:16 +0000 UTC |
-| 1 | [c-guessing-game](https://github.com/grappell/c-guessing-game) |  | 2022-07-30 00:45:27 +0000 UTC |
-| 1 | [practise-](https://github.com/SHIVA79977/practise-) |  | 2022-07-30 01:26:50 +0000 UTC |
-| 1 | [jonasbone](https://github.com/JonasBone/jonasbone) |  | 2022-07-30 01:21:57 +0000 UTC |
-| 1 | [GeoSaturnIp](https://github.com/garciarodrigue/GeoSaturnIp) | Localiza direcciones ip | 2022-07-30 01:26:10 +0000 UTC |
-| 1 | [atkrajewski.github.io](https://github.com/atkrajewski/atkrajewski.github.io) |  | 2022-07-30 00:42:25 +0000 UTC |
-| 1 | [ArkHelper2.0](https://github.com/ArkHelper/ArkHelper2.0) |  | 2022-07-30 01:08:06 +0000 UTC |
-| 1 | [wave-form](https://github.com/lukhasdeveloper/wave-form) | Wave form effect application which makes our UI very focused on what's interesting. | 2022-07-30 01:23:59 +0000 UTC |
-| 1 | [Eridabox](https://github.com/EricDann1004/Eridabox) |  | 2022-07-30 00:00:53 +0000 UTC |
-| 1 | [Definitive-of-HTML-and-CSS](https://github.com/Cappuccino093/Definitive-of-HTML-and-CSS) | Repository for educational purposes of Platzi's definitive HTML and CSS course | 2022-07-30 00:34:41 +0000 UTC |
-| 1 | [website](https://github.com/Castro-X/website) | Demo for git tutorial  | 2022-07-30 00:16:21 +0000 UTC |
-| 1 | [ArbuinoRobotIA](https://github.com/alexander695/ArbuinoRobotIA) | A script in python to create a robot in arduino with IA | 2022-07-30 00:41:52 +0000 UTC |
-| 1 | [Listar-contenido-de-una-carpeta-con-archivo-batch](https://github.com/harold-gamba/Listar-contenido-de-una-carpeta-con-archivo-batch) | Listar contenido de una carpeta con archivo batch y menu contextual en el shell de la carpeta | 2022-07-30 00:44:10 +0000 UTC |
-| 1 | [https-github.com-Aankk98-Aankk98](https://github.com/Aankk98/https-github.com-Aankk98-Aankk98) | Aankjt5678@gmail.com  | 2022-07-30 01:26:17 +0000 UTC |
-| 1 | [Codes](https://github.com/JoaoPauloSousaBulcao/Codes) | Alguns dos meus codigos | 2022-07-30 00:58:49 +0000 UTC |
-| 1 | [essay-grader](https://github.com/gadhagod/essay-grader) | HarkerDev recruit project | 2022-07-30 00:57:26 +0000 UTC |
-| 1 | [Anythink-Market-gwzgo](https://github.com/ObelusFamily/Anythink-Market-gwzgo) |  | 2022-07-30 00:56:57 +0000 UTC |
-| 1 | [Natural-reserves-in-Egypt](https://github.com/monsef6/Natural-reserves-in-Egypt) |  | 2022-07-30 00:57:12 +0000 UTC |
-| 1 | [Generate_Chinese_char](https://github.com/yhk-8/Generate_Chinese_char) | 将txt文本中的汉字字符，转换成图片数据集，可用于汉字识别，汉字生成等任务。 | 2022-07-30 01:00:49 +0000 UTC |
-| 0 | [rush](https://github.com/kingubaid/rush) |  | 2022-07-30 00:32:03 +0000 UTC |
-| 0 | [flowmax](https://github.com/sundruid/flowmax) | Mass flow controller calibration calculator originally written for Tylan General | 2022-07-30 00:25:07 +0000 UTC |
-| 0 | [henriq4](https://github.com/henriq4/henriq4) |  | 2022-07-30 00:31:59 +0000 UTC |
-| 0 | [T89](https://github.com/devloopperz19/T89) |  | 2022-07-30 00:11:11 +0000 UTC |
-| 0 | [JWT-JSON-Web-Token-With-SpringBoot](https://github.com/otmanet/JWT-JSON-Web-Token-With-SpringBoot) |  | 2022-07-30 00:32:42 +0000 UTC |
-| 0 | [Etil-arya.github.io](https://github.com/Etil-arya/Etil-arya.github.io) |  | 2022-07-30 00:14:36 +0000 UTC |
-| 0 | [fastapi-assignment](https://github.com/khushal123/fastapi-assignment) |  | 2022-07-30 00:26:01 +0000 UTC |
-| 0 | [CucumberSeleniumFramework](https://github.com/abdelalies/CucumberSeleniumFramework) |  | 2022-07-30 00:33:46 +0000 UTC |
-| 0 | [StackImplimentation](https://github.com/AjayMorde/StackImplimentation) |  | 2022-07-30 00:32:36 +0000 UTC |
-| 0 | [repo1](https://github.com/isbert86/repo1) |  | 2022-07-30 00:16:14 +0000 UTC |
-| 0 | [email_regex](https://github.com/yippeejimmee/email_regex) |  | 2022-07-30 00:34:45 +0000 UTC |
-| 0 | [SQL](https://github.com/ItamarBerti/SQL) |  | 2022-07-30 00:00:15 +0000 UTC |
-| 0 | [Admin-Dashboard4](https://github.com/malek0x1/Admin-Dashboard4) |  | 2022-07-30 00:00:10 +0000 UTC |
-| 0 | [-octo-](https://github.com/Ramyuser/-octo-) |  | 2022-07-30 00:00:59 +0000 UTC |
-| 0 | [natHACKS2022](https://github.com/ericxiong1/natHACKS2022) |  | 2022-07-30 00:01:45 +0000 UTC |
-| 0 | [ios-showcase](https://github.com/brunoorocha/ios-showcase) |  | 2022-07-30 00:04:02 +0000 UTC |
-| 0 | [ali2019M](https://github.com/ali2019M/ali2019M) | Config files for my GitHub profile. | 2022-07-30 00:06:09 +0000 UTC |
-| 0 | [map_making_exercise_from_lidar_data](https://github.com/kouhei1970/map_making_exercise_from_lidar_data) | map making exercise from lidar data | 2022-07-30 00:04:04 +0000 UTC |
-| 0 | [api2022](https://github.com/MineBZ/api2022) |  | 2022-07-30 00:06:32 +0000 UTC |
-| 0 | [bikesharing](https://github.com/DennisdelRioCarbo/bikesharing) |  | 2022-07-30 00:04:44 +0000 UTC |
-| 0 | [megawinupdated0730222](https://github.com/Neilnayakmsis/megawinupdated0730222) |  | 2022-07-30 00:00:40 +0000 UTC |
-| 0 | [database-modeling](https://github.com/ricardomartinso/database-modeling) |  | 2022-07-30 00:08:57 +0000 UTC |
-| 0 | [week1project](https://github.com/homelandcn/week1project) |  | 2022-07-30 00:08:49 +0000 UTC |
-| 0 | [census](https://github.com/chrisdavis179/census) |  | 2022-07-30 00:04:53 +0000 UTC |
-| 0 | [Matlab-and-Materials-science-A-study-into-hysteresis-loops-](https://github.com/aze2/Matlab-and-Materials-science-A-study-into-hysteresis-loops-) |  | 2022-07-30 00:03:50 +0000 UTC |
-| 0 | [constraints-SQL](https://github.com/dayanecol/constraints-SQL) |  | 2022-07-30 00:01:22 +0000 UTC |
-| 0 | [angular-testing-services](https://github.com/moisesBenites/angular-testing-services) | curso de testing de servicios en angular | 2022-07-30 00:05:18 +0000 UTC |
-| 0 | [web3builder_dashboard-](https://github.com/mkhb654/web3builder_dashboard-) |  | 2022-07-30 00:13:25 +0000 UTC |
-| 0 | [dicoding-backend-developer](https://github.com/yogiflogic/dicoding-backend-developer) | Repository ini berisi tentang kelas back-end di dicoding | 2022-07-30 00:07:32 +0000 UTC |
-| 0 | [turbotest_hlwvmps7_ahk8413k](https://github.com/turbocanary/turbotest_hlwvmps7_ahk8413k) |  | 2022-07-30 00:13:55 +0000 UTC |
-| 0 | [c99](https://github.com/getshreya09/c99) |  | 2022-07-30 00:17:44 +0000 UTC |
-| 0 | [aaaaaaaaaaaa](https://github.com/Dighzy/aaaaaaaaaaaa) |  | 2022-07-30 00:18:06 +0000 UTC |
-| 0 | [personal-website-2022](https://github.com/brendisurfs/personal-website-2022) | new personal website.  | 2022-07-30 00:16:43 +0000 UTC |
-| 0 | [TestLang](https://github.com/hrolfurgylfa/TestLang) | A very basic programming language interpreter that I'm making in F# to learn more about interpereters and compilers | 2022-07-30 00:12:48 +0000 UTC |
-| 0 | [snoziroh25](https://github.com/snoziroh25/snoziroh25) | Config files for my GitHub profile. | 2022-07-30 00:18:41 +0000 UTC |
-| 0 | [Singapore-License-Plate-Recognition](https://github.com/yolins995503/Singapore-License-Plate-Recognition) |  | 2022-07-30 00:19:37 +0000 UTC |
-| 0 | [react-fund](https://github.com/Orantes-J/react-fund) |  | 2022-07-30 00:21:22 +0000 UTC |
+| 3 | [limine-zig-barebones](https://github.com/limine-bootloader/limine-zig-barebones) | A simple Limine-compliant Zig kernel example/template. | 2022-07-31 01:05:17 +0000 UTC |
+| 3 | [company-youtubes](https://github.com/sw-yx/company-youtubes) | Resource: The Best Company YouTubes | 2022-07-31 00:06:47 +0000 UTC |
+| 3 | [limine-zig](https://github.com/limine-bootloader/limine-zig) | A Zig library for working with The Limine Boot Protocol | 2022-07-31 01:04:38 +0000 UTC |
+| 2 | [Asari](https://github.com/W6Z/Asari) | A powerful token/cookie grabber, creates a fully undetectable cookie/token logger within seconds, undetected by any AV as well. | 2022-07-31 00:20:25 +0000 UTC |
+| 2 | [discord-clone](https://github.com/brunosoares99/discord-clone) | A discord clone made by me with help of rocketseat's video from youtube. | 2022-07-31 01:19:37 +0000 UTC |
+| 1 | [Bank-Pymysql](https://github.com/sebastian-cp/Bank-Pymysql) |  | 2022-07-31 00:26:07 +0000 UTC |
+| 1 | [class](https://github.com/Nimpo2k/class) | class | 2022-07-31 00:23:34 +0000 UTC |
+| 1 | [blog_template](https://github.com/kiranshila/blog_template) | For brad | 2022-07-31 00:22:38 +0000 UTC |
+| 1 | [roguelike](https://github.com/ilzd/roguelike) | Roguelike game made using the Phaser 3 framework | 2022-07-31 00:44:10 +0000 UTC |
+| 1 | [Soul-Barrier-Calculator](https://github.com/Burrunjur/Soul-Barrier-Calculator) | calculadora del buff Soul Barrier del Dark Wizard de Mu Online | 2022-07-31 01:36:03 +0000 UTC |
+| 1 | [Optometric-Disease-Classifier](https://github.com/JasSarin/Optometric-Disease-Classifier) |  | 2022-07-31 00:51:56 +0000 UTC |
+| 1 | [peoplehere](https://github.com/pfrazee/peoplehere) |  | 2022-07-31 00:55:12 +0000 UTC |
+| 1 | [connect-four](https://github.com/TenType/connect-four) | Play the simple game of Connect Four online! | 2022-07-31 01:21:46 +0000 UTC |
+| 1 | [AudioLowQuality-ifier](https://github.com/MEMESCOEP/AudioLowQuality-ifier) | Make audio low quality lol | 2022-07-31 00:48:19 +0000 UTC |
+| 1 | [Dolphin-CPD](https://github.com/DolphinHackers/Dolphin-CPD) | Core Public Database by Dolphin-Team. | 2022-07-31 00:27:18 +0000 UTC |
+| 1 | [ToiletPaperWeekly](https://github.com/therealchisco/ToiletPaperWeekly) | An RSS sourced print journal | 2022-07-31 00:05:42 +0000 UTC |
+| 1 | [CodeHouse](https://github.com/abdi0122/CodeHouse) | This is our project for Code  | 2022-07-31 00:11:27 +0000 UTC |
+| 1 | [Tasks-React](https://github.com/sebastian-cp/Tasks-React) |  | 2022-07-31 01:07:28 +0000 UTC |
+| 1 | [ReappearancePeriod-ISWs](https://github.com/wanggfio/ReappearancePeriod-ISWs) | Data submitted to GRL: Reappearance Period of the Internal Solitary Waves in SCS | 2022-07-31 01:24:24 +0000 UTC |
+| 1 | [inventory](https://github.com/pascaline-1/inventory) | Inventory management system for managing In and Out of stock for small and medium shop business | 2022-07-31 00:11:14 +0000 UTC |
+| 1 | [Alunos-e-Professores-front](https://github.com/Andreicsantana/Alunos-e-Professores-front) |  | 2022-07-31 00:57:19 +0000 UTC |
+| 1 | [Yvangelion](https://github.com/Yvangelion/Yvangelion) | Haden Portfolio | 2022-07-31 01:19:01 +0000 UTC |
+| 1 | [sanz](https://github.com/robosanchez/sanz) |  | 2022-07-31 01:35:27 +0000 UTC |
+| 1 | [D.A.JAcevedo](https://github.com/acevedo149/D.A.JAcevedo) | Pagina compania | 2022-07-31 00:05:57 +0000 UTC |
+| 1 | [pycontroller](https://github.com/benjaminaheath/pycontroller) | python pico rgb controller | 2022-07-31 01:38:03 +0000 UTC |
+| 1 | [Elec-Mag-Light](https://github.com/zhaohuihust/Elec-Mag-Light) |  | 2022-07-31 01:15:44 +0000 UTC |
+| 1 | [Login-Form](https://github.com/sebastian-cp/Login-Form) |  | 2022-07-31 00:52:41 +0000 UTC |
+| 1 | [projeto-pokemon](https://github.com/StartGamesYT/projeto-pokemon) |  | 2022-07-31 01:02:08 +0000 UTC |
+| 1 | [Contact-Form](https://github.com/sebastian-cp/Contact-Form) |  | 2022-07-31 00:53:51 +0000 UTC |
+| 1 | [PluginDistD17](https://github.com/goatcorp/PluginDistD17) |  | 2022-07-31 01:21:11 +0000 UTC |
+| 1 | [LAM120](https://github.com/LAM120/LAM120) | Config files for my GitHub profile. | 2022-07-31 00:42:46 +0000 UTC |
+| 1 | [LarrysPasswords](https://github.com/qawse3dr/LarrysPasswords) |  | 2022-07-31 00:53:24 +0000 UTC |
+| 1 | [scriptvps](https://github.com/Channel-Gratisan/scriptvps) |  | 2022-07-31 00:35:59 +0000 UTC |
+| 1 | [eovua](https://github.com/eovua/eovua) | Config files for my GitHub profile. | 2022-07-31 00:29:01 +0000 UTC |
+| 1 | [Shahramdz](https://github.com/Shahramdz/Shahramdz) | Config files for my GitHub profile. | 2022-07-31 00:49:24 +0000 UTC |
+| 1 | [Finder](https://github.com/EliteDecode/Finder) | A Google clone with React and Tailwind css | 2022-07-31 00:51:02 +0000 UTC |
+| 1 | [pichau](https://github.com/hyago-silvaaa/pichau) |  | 2022-07-31 00:05:03 +0000 UTC |
+| 1 | [Sweetviz-EDA-Exploratory-Data-Analysis-Titanic](https://github.com/MuriloKrominski/Sweetviz-EDA-Exploratory-Data-Analysis-Titanic) | Antes de trabalhar com seus dados, é importante conhece-los, e isso se torna fácil com uma EDA que usa bibliotecas Python.  A análise exploratória de dados Exploratory Data Analysis (EDA) é uma etapa INICIAL e ESSENCIAL na maioria dos projetos de ciência de dados e geralmente consiste em executar as mesmas etapas para caracterizar um conjunto de dados (por exemplo, descobrir tipos de dados, informações ausentes, distribuição de valores, correlações, etc.). Dada a repetitividade e semelhança de tais tarefas, existem algumas bibliotecas que automatizam e ajudam a iniciar o processo.  Usar o Sweetviz facilmente me dá um impulso significativo quando começo a analisar um novo conjunto de dados. Vale ressaltar que também acho útil mais tarde no processo de análise, por exemplo, durante a geração de recursos, para obter uma visão geral rápida de como os novos recursos funcionam. Espero que você ache uma ferramenta útil em sua própria análise de dados.  Sweetviz gera belas visualizações de alta densidade para iniciar o EDA com apenas poucas linhas de código!  Além da análise detalhada de recursos, ele se destaca de outros pacotes EDA, fornecendo:  **analyze() Análise de destino: mostra como um valor de destino (por exemplo, "Sobreviveu" no conjunto de dados do Titanic) se relaciona com outros recursos. **compare() Comparações de conjuntos de dados: por exemplo, "Treinamento vs Teste" e intra-set "Masculino vs Feminino". **compare_intra() Correlação/associações: integração completa de correlações e associações de dados numéricos e categóricos, tudo em um gráfico e tabela. | 2022-07-31 01:03:01 +0000 UTC |
+| 1 | [api-node-express-mongo](https://github.com/rovcode/api-node-express-mongo) | API REST programada en nodejs, expressjs y mongo(no relacional), así mismo se crea un CRUD con mysql(relacional) | 2022-07-31 00:45:27 +0000 UTC |
+| 1 | [TaskBarX](https://github.com/sebastian-cp/TaskBarX) |  | 2022-07-31 01:12:40 +0000 UTC |
+| 1 | [Guia_Estudo_NodeJS](https://github.com/DanielFFerreira/Guia_Estudo_NodeJS) | O objetivo desse repositório e compartilhar os estudos, usando a tecnologia node e contribuir com a comunidade. | 2022-07-31 00:04:14 +0000 UTC |
+| 1 | [Tags-from-text](https://github.com/Mattlau04/Tags-from-text) | A GUI tool to find tags from text using a set of regex rules  | 2022-07-31 00:40:06 +0000 UTC |
+| 1 | [Minor-Browser-Migrator](https://github.com/Mf-3d/Minor-Browser-Migrator) | aurora Project.によるマイナーブラウザ間の移行支援ツール。 | 2022-07-31 00:24:16 +0000 UTC |
+| 0 | [hw3](https://github.com/MDB1994/hw3) |  | 2022-07-31 00:05:58 +0000 UTC |
+| 0 | [js-dictionary-app-clone](https://github.com/junghyun89/js-dictionary-app-clone) |  | 2022-07-31 00:05:14 +0000 UTC |
+| 0 | [CV](https://github.com/KapKapych/CV) | Первый проект | 2022-07-31 00:06:05 +0000 UTC |
+| 0 | [minecraftafkclient](https://github.com/CVaRy/minecraftafkclient) |  | 2022-07-31 00:04:44 +0000 UTC |
+| 0 | [laravel-course](https://github.com/natavitoriano/laravel-course) |  | 2022-07-31 00:04:32 +0000 UTC |
+| 0 | [swipe](https://github.com/sufficientfunds/swipe) |  | 2022-07-31 00:07:06 +0000 UTC |
+| 0 | [cs416](https://github.com/tghabour/cs416) | Narrative data visualization | 2022-07-31 00:06:40 +0000 UTC |
+| 0 | [udacity_fwd_c_project](https://github.com/Ahmed1010-1999/udacity_fwd_c_project) |  | 2022-07-31 00:08:28 +0000 UTC |
+| 0 | [bmeg-bootcamp](https://github.com/xmayanx/bmeg-bootcamp) |  | 2022-07-31 00:09:03 +0000 UTC |
+| 0 | [Kyky0504](https://github.com/Kyky0504/Kyky0504) | Config files for my GitHub profile. | 2022-07-31 00:09:32 +0000 UTC |
+| 0 | [shweeed](https://github.com/seanodera/shweeed) |  | 2022-07-31 00:06:15 +0000 UTC |
+| 0 | [booze-brothers](https://github.com/Tguntenaar/booze-brothers) |  | 2022-07-31 00:08:36 +0000 UTC |
+| 0 | [ruby_scripts](https://github.com/Vladr-mir/ruby_scripts) |  | 2022-07-31 00:10:12 +0000 UTC |
+| 0 | [Bagdum](https://github.com/Elvira374/Bagdum) |  | 2022-07-31 00:03:36 +0000 UTC |
+| 0 | [atira-website](https://github.com/in03/atira-website) |  | 2022-07-31 00:09:51 +0000 UTC |
+| 0 | [Ribeirocj](https://github.com/Ribeiroprcima/Ribeirocj) | Testando código HTML | 2022-07-31 00:11:12 +0000 UTC |
+| 0 | [Homework_10](https://github.com/MikeKoss43/Homework_10) |  | 2022-07-31 00:16:01 +0000 UTC |
+| 0 | [test](https://github.com/brucekimrokcmu/test) |  | 2022-07-31 00:14:40 +0000 UTC |
+| 0 | [proyecto-potrero](https://github.com/rosirossi/proyecto-potrero) | Proyecto final Potrero Digital | 2022-07-31 00:12:30 +0000 UTC |
+| 0 | [react-site4](https://github.com/webstoryboy/react-site4) |  | 2022-07-31 00:13:32 +0000 UTC |
+| 0 | [sea2](https://github.com/olafix2009/sea2) |  | 2022-07-31 00:16:04 +0000 UTC |
+| 0 | [tt](https://github.com/TheMerchantHub/tt) |  | 2022-07-31 00:11:48 +0000 UTC |
+| 0 | [cex-price-aggregator](https://github.com/fortoon21/cex-price-aggregator) |  | 2022-07-31 00:17:54 +0000 UTC |
+| 0 | [jenkins-devops-microservice](https://github.com/M4tt-/jenkins-devops-microservice) |  | 2022-07-31 00:00:11 +0000 UTC |
+| 0 | [Eclipse-Beta-JS-](https://github.com/sgtbonsai/Eclipse-Beta-JS-) |  | 2022-07-31 00:19:18 +0000 UTC |
+| 0 | [git_demo](https://github.com/pei-yang123/git_demo) | this repository is a demo and used to learn | 2022-07-31 00:20:20 +0000 UTC |
+| 0 | [crud](https://github.com/willian-vieira/crud) | Operações de Create, Read, Update e Delete com Java 👨‍💻. | 2022-07-31 00:20:36 +0000 UTC |
+| 0 | [binary](https://github.com/emily-bytes/binary) | This program converts a positive number from decimal to binary notation  | 2022-07-31 00:10:26 +0000 UTC |
+| 0 | [Fantasy-PL-20-21](https://github.com/Mahmoud-12-cyber/Fantasy-PL-20-21) |  | 2022-07-31 00:00:42 +0000 UTC |
+| 0 | [ansor](https://github.com/Davlatovansori/ansor) | https://instagram.com/art_vibes_0?igshid=YmMyMTA2M2Y= | 2022-07-31 00:01:37 +0000 UTC |
+| 0 | [EjemploContinue](https://github.com/EdgarYahirPinaElguero/EjemploContinue) |  | 2022-07-31 00:01:37 +0000 UTC |
+| 0 | [app-games](https://github.com/dbs15/app-games) |  | 2022-07-31 00:00:31 +0000 UTC |
+| 0 | [Tip-Calculator](https://github.com/AdiletZhusupov/Tip-Calculator) |  | 2022-07-31 00:22:57 +0000 UTC |
+| 0 | [product](https://github.com/femasHirani/product) | product design page | 2022-07-31 00:31:08 +0000 UTC |
+| 0 | [onair](https://github.com/MarkDBlackwell/onair) | On-Air iframe for radio station website | 2022-07-31 00:35:50 +0000 UTC |
+| 0 | [Final-Project](https://github.com/GHanna25/Final-Project) |  | 2022-07-31 00:30:11 +0000 UTC |
+| 0 | [Anushahemanthi](https://github.com/Anushahemanthi/Anushahemanthi) | Config files for my GitHub profile. | 2022-07-31 00:39:17 +0000 UTC |
+| 0 | [Fundacion-Fontana](https://github.com/Dulc1/Fundacion-Fontana) |  | 2022-07-31 00:37:24 +0000 UTC |
+| 0 | [NetPresentValue](https://github.com/jlee5814/NetPresentValue) |  | 2022-07-31 00:39:36 +0000 UTC |
+| 0 | [entris-fleek](https://github.com/adi4cyber/entris-fleek) |  | 2022-07-31 00:31:22 +0000 UTC |
+| 0 | [CV](https://github.com/Muradkabir0208/CV) | 31-07-2022, first | 2022-07-31 00:36:33 +0000 UTC |
+| 0 | [Pokedex](https://github.com/Valouuu94/Pokedex) |  | 2022-07-31 00:39:54 +0000 UTC |
+| 0 | [flutter](https://github.com/aymanoxtar/flutter) | project | 2022-07-31 00:36:43 +0000 UTC |
+| 0 | [openBIMTranning](https://github.com/RyugaRyuzaki/openBIMTranning) |  | 2022-07-31 00:36:20 +0000 UTC |
+| 0 | [Indoor-Lap-Timer](https://github.com/FlyFrosty/Indoor-Lap-Timer) | For the newer Fitbits (Sense 1) | 2022-07-31 00:36:25 +0000 UTC |
+| 0 | [Modularizaci-n-en-Python---Ejercicio-1](https://github.com/ingjose95/Modularizaci-n-en-Python---Ejercicio-1) | Ejemplo de creación de módulos. Operaciones matemáticas básicas. | 2022-07-31 00:37:11 +0000 UTC |
+| 0 | [Derek-Rowell](https://github.com/wall2wallworks1-lab/Derek-Rowell) |  | 2022-07-31 00:38:34 +0000 UTC |
+| 0 | [thrillio](https://github.com/KoYe2021/thrillio) |  | 2022-07-31 00:40:24 +0000 UTC |
+| 0 | [PaisstoreQ](https://github.com/PaisstoreQ/PaisstoreQ) | Config files for my GitHub profile. | 2022-07-31 00:40:17 +0000 UTC |
+| 0 | [sotore-test](https://github.com/zuryLanderos/sotore-test) | testing nestjs, swagger and heroku | 2022-07-31 00:14:05 +0000 UTC |
+| 0 | [EjerciciosDeClase](https://github.com/EdgarYahirPinaElguero/EjerciciosDeClase) |  | 2022-07-31 00:30:33 +0000 UTC |
+| 0 | [gattulina](https://github.com/gattulina/gattulina) |  | 2022-07-31 00:26:05 +0000 UTC |
+| 0 | [AWS_BayWheels](https://github.com/RuixinCheng/AWS_BayWheels) | AWS project - build a flask webpage (Bay Wheels) | 2022-07-31 00:37:44 +0000 UTC |
+| 0 | [assignment-tracker](https://github.com/Jswens24/assignment-tracker) |  | 2022-07-31 00:41:46 +0000 UTC |
+| 0 | [Browser-Arcade-Game](https://github.com/Gormalt/Browser-Arcade-Game) | Game made with Noor for mentoring~ | 2022-07-31 00:45:49 +0000 UTC |
+| 0 | [giffy-app](https://github.com/ItsSunny12/giffy-app) |  | 2022-07-31 00:31:31 +0000 UTC |
+| 0 | [git-demo](https://github.com/yemengStarSea/git-demo) |  | 2022-07-31 00:44:19 +0000 UTC |
 
