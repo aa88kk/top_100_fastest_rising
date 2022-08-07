@@ -1,19 +1,21 @@
 | Stars | Name | Desc | Created | 
 | ----- | ------- | ------------- | ------------- |
-| 0 | [go-movies-restapi](https://github.com/dogukanozdemir/go-movies-restapi) |  | 2022-08-06 00:38:24 +0000 UTC |
-| 0 | [price-drop-checker](https://github.com/Wiztim/price-drop-checker) |  | 2022-08-06 00:19:51 +0000 UTC |
-| 0 | [fblive](https://github.com/sousvk123/fblive) |  | 2022-08-06 01:37:35 +0000 UTC |
-| 0 | [cdn53](https://github.com/AWildBeard/cdn53) | A tool and library that allows you to store arbitrary files in DNS TXT records. Useful for Malware, in-memory execution droppers, etc | 2022-08-06 00:31:09 +0000 UTC |
-| 0 | [portfolio-v2-backend](https://github.com/TechBuilder-360/portfolio-v2-backend) |  | 2022-08-06 00:32:05 +0000 UTC |
-| 0 | [go_module](https://github.com/coolsunxu/go_module) |  | 2022-08-06 00:42:02 +0000 UTC |
-| 0 | [go-leaderboard](https://github.com/JeongMinSik/go-leaderboard) |  | 2022-08-06 00:45:13 +0000 UTC |
-| 0 | [friends-lang](https://github.com/mahsayedsalem/friends-lang) | This repo is for a new programming language written in Go called Friends. | 2022-08-06 00:18:23 +0000 UTC |
-| 0 | [go-core-concepts](https://github.com/emiliocramer/go-core-concepts) |  | 2022-08-06 00:42:32 +0000 UTC |
-| 0 | [spa](https://github.com/s02190058/spa) | Single Page Application | 2022-08-06 00:03:09 +0000 UTC |
-| 0 | [go-product-showcase](https://github.com/uesleicarvalhoo/go-product-showcase) |  | 2022-08-06 01:36:51 +0000 UTC |
-| 0 | [snippets](https://github.com/DmitriiTrifonov/snippets) | snippets is a web snippets app | 2022-08-06 00:08:38 +0000 UTC |
-| 0 | [Weather-API](https://github.com/AlexanderTurok/Weather-API) |  | 2022-08-06 01:21:58 +0000 UTC |
-| 0 | [blockchain202206999](https://github.com/choigy/blockchain202206999) |  | 2022-08-06 00:57:53 +0000 UTC |
-| 0 | [Golang_Fiber_MongoDB](https://github.com/JDVelasquezO/Golang_Fiber_MongoDB) | Api for Golang with conn to MongoDB | 2022-08-06 01:21:59 +0000 UTC |
-| 0 | [connectivity](https://github.com/quaisx/connectivity) | Exploring Go Tcp Server graceful shutdowns | 2022-08-06 01:31:57 +0000 UTC |
+| 0 | [go-hello](https://github.com/chrischen1126/go-hello) |  | 2022-08-07 00:42:48 +0000 UTC |
+| 0 | [di-notebook-connect](https://github.com/jasonblanchard/di-notebook-connect) |  | 2022-08-07 00:48:36 +0000 UTC |
+| 0 | [exemplo-wait-group](https://github.com/lucas2500/exemplo-wait-group) | Simples exemplo de uso do wait group | 2022-08-07 01:06:07 +0000 UTC |
+| 0 | [My-Bot-store-v2](https://github.com/NopKorawit/My-Bot-store-v2) |  | 2022-08-07 01:31:55 +0000 UTC |
+| 0 | [rose](https://github.com/chipzoller/rose) |  | 2022-08-07 00:51:32 +0000 UTC |
+| 0 | [rock-paper-scissors-webapp](https://github.com/LightBulbfromSpace/rock-paper-scissors-webapp) |  | 2022-08-07 00:26:06 +0000 UTC |
+| 0 | [github-terrajet-provider](https://github.com/noseka1/github-terrajet-provider) |  | 2022-08-07 00:39:13 +0000 UTC |
+| 0 | [securechat](https://github.com/sklarsa/securechat) |  | 2022-08-07 01:18:01 +0000 UTC |
+| 0 | [intensive-golang](https://github.com/dgoscn/intensive-golang) | This is just a warm up for new contributions using Golang  | 2022-08-07 00:27:15 +0000 UTC |
+| 0 | [go_post_get](https://github.com/chrischen1126/go_post_get) |  | 2022-08-07 00:05:25 +0000 UTC |
+| 0 | [algs](https://github.com/vintobolt/algs) |  | 2022-08-07 00:10:34 +0000 UTC |
+| 0 | [Interpreter_in_go](https://github.com/burke-md/Interpreter_in_go) | Building a code interpreter using Go | 2022-08-07 00:24:12 +0000 UTC |
+| 0 | [rbxlabel](https://github.com/tomoconnor/rbxlabel) |  | 2022-08-07 00:09:35 +0000 UTC |
+| 0 | [docker-gs-ping](https://github.com/louislef299/docker-gs-ping) |  | 2022-08-07 00:32:16 +0000 UTC |
+| 0 | [golang-microservice-docker](https://github.com/danielm/golang-microservice-docker) | Simpppple Microservice with Go and Docker (testing) | 2022-08-07 01:38:44 +0000 UTC |
+| 0 | [algorithms](https://github.com/charllysonsouza/algorithms) | A repository for interesting algorithms | 2022-08-07 00:07:45 +0000 UTC |
+| 0 | [greeting-go](https://github.com/chrischen1126/greeting-go) |  | 2022-08-07 00:44:51 +0000 UTC |
+| 0 | [nutsak](https://github.com/mjwhitta/nutsak) | Network Utility Swiss-Army Knife similar to socat. | 2022-08-07 00:36:04 +0000 UTC |
 
