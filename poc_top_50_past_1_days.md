@@ -1,103 +1,103 @@
 | Stars | Name | Desc | Created | 
 | ----- | ------- | ------------- | ------------- |
-| 2 | [trabajo-colaborativo-git-fernando-manuel](https://github.com/surprograma-talleres/trabajo-colaborativo-git-fernando-manuel) | trabajo-colaborativo-git-fernando-manuel created by GitHub Classroom | 2022-08-18 00:26:36 +0000 UTC |
-| 2 | [kernel_coral-manifest](https://github.com/GrapheneOS/kernel_coral-manifest) |  | 2022-08-18 00:54:31 +0000 UTC |
-| 2 | [OctopusKeylogger](https://github.com/Bl4ckM1rror/OctopusKeylogger) |  | 2022-08-18 00:20:08 +0000 UTC |
-| 2 | [kernel_redbull-manifest](https://github.com/GrapheneOS/kernel_redbull-manifest) |  | 2022-08-18 00:57:56 +0000 UTC |
-| 2 | [Never-Sleep](https://github.com/DigitalTectonics/Never-Sleep) | Are you being kicked out of Slack Huddles due to the screensaver not realizing you're in a meeting? While fear not, Never Sleep is here for you. | 2022-08-18 00:36:13 +0000 UTC |
-| 2 | [Salute](https://github.com/EveSantana/Salute) |  | 2022-08-18 00:17:45 +0000 UTC |
-| 1 | [IA_Avanzada](https://github.com/new-superuser-alt9193/IA_Avanzada) |  | 2022-08-18 00:19:36 +0000 UTC |
-| 1 | [textgame-1](https://github.com/rheingraf/textgame-1) | txgame#1 | 2022-08-18 00:31:53 +0000 UTC |
-| 1 | [RoboticProcessAutomation](https://github.com/VitorFaust/RoboticProcessAutomation) | Funções e Projetos de RPA | 2022-08-18 00:02:50 +0000 UTC |
-| 1 | [android-site](https://github.com/abelisaacnogueirapinto/android-site) |  | 2022-08-18 01:19:39 +0000 UTC |
-| 1 | [php-server](https://github.com/yuasys/php-server) | PHP内蔵serverを使った軽い開発環境でちょっとしたPHPコードの実験を！ | 2022-08-18 00:56:29 +0000 UTC |
-| 1 | [Cypress-projects](https://github.com/matias-fuentes/Cypress-projects) |  | 2022-08-18 00:01:43 +0000 UTC |
-| 1 | [remote-netscape-bookmark-loader-extension](https://github.com/cristianofromagio/remote-netscape-bookmark-loader-extension) | Load and parse remote Netscape-bookmark formatted files to run bookmarklets without the need to have them saved as (browser) bookmarks. | 2022-08-18 01:27:03 +0000 UTC |
-| 1 | [Cracking-Coding-Interview-Overview](https://github.com/royal0721/Cracking-Coding-Interview-Overview) | 針對 Cracking the coding interview 做的一些整理和補充 | 2022-08-18 01:13:22 +0000 UTC |
-| 1 | [React-ChartJs-Typescript](https://github.com/ncrown1190/React-ChartJs-Typescript) | React charts using chart Js 2 and Typescript | 2022-08-18 00:37:46 +0000 UTC |
-| 1 | [phaser-fullscreen-typescript-vite-template](https://github.com/SomethingWithComputers/phaser-fullscreen-typescript-vite-template) | A Phaser fullscreen typescript vite template | 2022-08-18 00:25:02 +0000 UTC |
-| 1 | [openshift-router-sharding](https://github.com/tcmcginnis/openshift-router-sharding) | Various yaml and scripts I used to test OCP Router Sharding | 2022-08-18 01:08:55 +0000 UTC |
-| 1 | [vitor.readme](https://github.com/VitorAugustoprg/vitor.readme) |  | 2022-08-18 01:12:52 +0000 UTC |
-| 1 | [16544-Stratobots](https://github.com/N06802/16544-Stratobots) | 16544 FTC Stratobots team code for 2022-23 Powerplay | 2022-08-18 00:41:10 +0000 UTC |
-| 1 | [front-end](https://github.com/williamunesc/front-end) |  | 2022-08-18 00:27:08 +0000 UTC |
-| 1 | [17-08-2022-pratica-dicionario](https://github.com/moonixt/17-08-2022-pratica-dicionario) | Pratica de dicionário realizada em 17/08/2022 | 2022-08-18 01:17:43 +0000 UTC |
-| 1 | [julian-q.github.io](https://github.com/julian-q/julian-q.github.io) |  | 2022-08-18 00:50:07 +0000 UTC |
-| 1 | [jogo-da-velha](https://github.com/maumaucb18/jogo-da-velha) | jogo da velha feito em JS | 2022-08-18 00:15:04 +0000 UTC |
-| 1 | [pedereparo](https://github.com/mauricioqvp/pedereparo) | Aplicação para cadastro de solicitação de reparos  | 2022-08-18 01:02:31 +0000 UTC |
-| 1 | [Brunomelo0](https://github.com/Brunomelo0/Brunomelo0) | Config files for my GitHub profile. | 2022-08-18 00:58:26 +0000 UTC |
-| 1 | [Personal-Proyect](https://github.com/Johnson2002/Personal-Proyect) | This is my first page, where im gonna promote me, and us for my portfolio  | 2022-08-18 01:06:37 +0000 UTC |
-| 1 | [My-L293D-Motor-Driver-Library](https://github.com/Yhaw/My-L293D-Motor-Driver-Library) | Simple motor driver library for L293D and L293N Motor Drivers. | 2022-08-18 00:43:16 +0000 UTC |
-| 1 | [bigquery-dlp-remote-function](https://github.com/GoogleCloudPlatform/bigquery-dlp-remote-function) |  | 2022-08-18 00:00:46 +0000 UTC |
-| 1 | [aula01](https://github.com/mariafonsecaa/aula01) |  | 2022-08-18 00:24:53 +0000 UTC |
-| 1 | [jfreechart](https://github.com/claudemartinmagdangal/jfreechart) | jfreechart | 2022-08-18 00:23:02 +0000 UTC |
-| 1 | [miweb](https://github.com/Amhedriel/miweb) | Practica de Git | 2022-08-18 01:35:08 +0000 UTC |
-| 1 | [mobrix-app](https://github.com/CianciarusoCataldo/mobrix-app) | A ready to use React app, powered with MoBrix tools | 2022-08-18 01:00:28 +0000 UTC |
-| 1 | [cc-chargen](https://github.com/massif-press/cc-chargen) |  | 2022-08-18 00:01:21 +0000 UTC |
-| 1 | [bike-stores](https://github.com/galexbh/bike-stores) | Datawarehouse and ETL of a bike stores | 2022-08-18 00:29:16 +0000 UTC |
-| 1 | [quizz](https://github.com/Gsurica/quizz) |  | 2022-08-18 00:04:21 +0000 UTC |
-| 1 | [Lazar](https://github.com/Lazar-Ilic/Lazar) | Notes has files which contain theorems and definitions useful for memorisation and recollection, as well as files of papers, ideation sessions, codes, subchapter by subchapter textbooks commentaries, papers commentaries, and puzzles. Resume has Resume, Transcript, and Verificational Image Files. | 2022-08-18 00:07:58 +0000 UTC |
-| 1 | [django-shop](https://github.com/plehom/django-shop) | Simple django shop with admin features | 2022-08-18 00:33:34 +0000 UTC |
-| 1 | [commonMethods](https://github.com/isGeekCode/commonMethods) |  | 2022-08-18 00:42:51 +0000 UTC |
-| 1 | [Tatiaca](https://github.com/Tatiaca/Tatiaca) | Config files for my GitHub profile. | 2022-08-18 01:05:26 +0000 UTC |
-| 1 | [text_characterization_toolkit](https://github.com/facebookresearch/text_characterization_toolkit) | A library for computing diverse text characteristics and using them to analyze data sets and models with ease. | 2022-08-18 00:56:34 +0000 UTC |
-| 1 | [Chat-Emojis-Python](https://github.com/juancalderonx/Chat-Emojis-Python) |  | 2022-08-18 00:15:22 +0000 UTC |
-| 1 | [Speed-Cube-Timer](https://github.com/dmadjar/Speed-Cube-Timer) | Speed! Cube Timer is a sleek and intuitive Rubik's cube timer. Use Speed! to get detailed statistics on your solves, and improve your times. You can also save your times and scrambles with your friends through iMessage! | 2022-08-18 00:37:41 +0000 UTC |
-| 1 | [design-patterns](https://github.com/filipeas/design-patterns) | This repository implements all of the design patterns of Gang of Four (GoF) with TypeScript. | 2022-08-18 00:18:55 +0000 UTC |
-| 1 | [Maximizing-LPP-Problem-using-Python](https://github.com/JadhavRushi/Maximizing-LPP-Problem-using-Python) | Here is the code for solving the linear programming problem using python. Maximization of the problem is being done here. | 2022-08-18 01:20:38 +0000 UTC |
-| 1 | [modulos_e_importacao](https://github.com/moonixt/modulos_e_importacao) | modulos em programacao | 2022-08-18 01:26:25 +0000 UTC |
-| 1 | [trendline-app](https://github.com/claudemartinmagdangal/trendline-app) | trendline-app | 2022-08-18 00:01:26 +0000 UTC |
-| 1 | [TPGrupalProgramacionII](https://github.com/NachoGallo7/TPGrupalProgramacionII) | Trabajo Grupal \| Tecnicatura Universitaria en Programacion \| UTN | 2022-08-18 00:18:24 +0000 UTC |
-| 1 | [100-Days-of-Code](https://github.com/Oyibo-Efetobor/100-Days-of-Code) | projects done by me on this course so far.. | 2022-08-18 00:14:29 +0000 UTC |
-| 1 | [Dice-game](https://github.com/Kelly-A-gif/Dice-game) |  | 2022-08-18 00:45:30 +0000 UTC |
-| 1 | [ProcessScheduling](https://github.com/XuLiquid/ProcessScheduling) |  | 2022-08-18 01:24:45 +0000 UTC |
-| 1 | [consommation-de-voiture-](https://github.com/mouadramzi/consommation-de-voiture-) | Application de gestion de consommation de la voiture avec une partie de SMS messagerie et aussi voir le code de la route  | 2022-08-18 00:53:46 +0000 UTC |
-| 1 | [API-Demon-Slayer](https://github.com/cguifernandes/API-Demon-Slayer) |  | 2022-08-18 01:32:09 +0000 UTC |
-| 1 | [BookingApp](https://github.com/Kofi-eo/BookingApp) | This is a booking web app created with the mern stack | 2022-08-18 00:23:47 +0000 UTC |
-| 1 | [easy-understand-news](https://github.com/IqrorjonCoder/easy-understand-news) | Easy Understand News in kun.uz | 2022-08-18 00:11:46 +0000 UTC |
-| 1 | [Redes-de-computadores](https://github.com/M4milos/Redes-de-computadores) |  | 2022-08-18 00:19:02 +0000 UTC |
-| 1 | [platzi.fundamentos-spring-boot](https://github.com/aortegaf/platzi.fundamentos-spring-boot) |  | 2022-08-18 00:44:47 +0000 UTC |
-| 1 | [Predicting-Plotting-Visualizing-Company-s-Share](https://github.com/Aditdoshi1/Predicting-Plotting-Visualizing-Company-s-Share) |  | 2022-08-18 01:07:33 +0000 UTC |
-| 1 | [KeepMe](https://github.com/mxtqn/KeepMe) | Projeto de aplicação para controle financeiro | 2022-08-18 00:41:49 +0000 UTC |
-| 1 | [Library](https://github.com/shodiyorbek2006/Library) |  | 2022-08-18 01:19:11 +0000 UTC |
-| 1 | [dicionarios_python](https://github.com/moonixt/dicionarios_python) | Dicionários em Python | 2022-08-18 01:31:21 +0000 UTC |
-| 1 | [nuxt3-template](https://github.com/amihhs/nuxt3-template) |  | 2022-08-18 01:33:25 +0000 UTC |
-| 1 | [-](https://github.com/Maksim446/-) |  | 2022-08-18 01:11:51 +0000 UTC |
-| 1 | [OnlineIslamicQuiz](https://github.com/FidanAlizade/OnlineIslamicQuiz) | Firebase Realtime Database ilə Java dilində yazılmış quiz ilkin versiyası(tam hazir deyil, quiz suallari əlavə olunmayıb) | 2022-08-18 00:06:32 +0000 UTC |
-| 1 | [ibnu-md3](https://github.com/POOJJHG/ibnu-md3) |  | 2022-08-18 01:17:16 +0000 UTC |
-| 1 | [to-do-app-server](https://github.com/pauloruan/to-do-app-server) | ✅ Aplication to create a list of tasks. | 2022-08-18 01:29:36 +0000 UTC |
-| 1 | [RestoBar](https://github.com/grupo5pnt1/RestoBar) |  | 2022-08-18 00:54:06 +0000 UTC |
-| 1 | [Miguel](https://github.com/MiguelSepulvedaConejeros/Miguel) |  | 2022-08-18 00:39:24 +0000 UTC |
-| 1 | [LibraryKotlin](https://github.com/fayzullo2006/LibraryKotlin) |  | 2022-08-18 01:20:17 +0000 UTC |
-| 1 | [A-star](https://github.com/XuLiquid/A-star) |  | 2022-08-18 00:48:12 +0000 UTC |
-| 1 | [Wendad-site](https://github.com/amirhosin-vahidi/Wendad-site) | My new site vandad | 2022-08-18 00:43:58 +0000 UTC |
-| 1 | [wildfire2256](https://github.com/wildfire2256/wildfire2256) | Config files for my GitHub profile. | 2022-08-18 01:30:58 +0000 UTC |
-| 0 | [import-error](https://github.com/LookYgor/import-error) |  | 2022-08-18 00:18:56 +0000 UTC |
-| 0 | [calculando](https://github.com/andersonbpaz/calculando) |  | 2022-08-18 00:19:44 +0000 UTC |
-| 0 | [Principios-SOLID-y-Clean-Code](https://github.com/elpolardev/Principios-SOLID-y-Clean-Code) | Created with StackBlitz ⚡️ | 2022-08-18 00:17:48 +0000 UTC |
-| 0 | [RTS](https://github.com/Walnut356/RTS) |  | 2022-08-18 00:20:15 +0000 UTC |
-| 0 | [meu-projeto](https://github.com/MvFranca/meu-projeto) | Projeto voltado para Intelgência Artificial. | 2022-08-18 00:21:37 +0000 UTC |
-| 0 | [vigilant-chainsaw](https://github.com/tinanickolenickole/vigilant-chainsaw) |  | 2022-08-18 00:17:55 +0000 UTC |
-| 0 | [Library](https://github.com/Alex-Andriana/Library) |  | 2022-08-18 00:14:09 +0000 UTC |
-| 0 | [git-demo](https://github.com/lanjiqing/git-demo) |  | 2022-08-18 00:11:47 +0000 UTC |
-| 0 | [py-unzip-folders](https://github.com/seanbranner/py-unzip-folders) | unzip multiple folders at once | 2022-08-18 00:23:14 +0000 UTC |
-| 0 | [PyGameSpots](https://github.com/KatyH820/PyGameSpots) |  | 2022-08-18 00:18:59 +0000 UTC |
-| 0 | [myfirst](https://github.com/Mayankgoyal-bit/myfirst) |  | 2022-08-18 00:23:07 +0000 UTC |
-| 0 | [18.SocialNetwork](https://github.com/charlottearichard/18.SocialNetwork) | Module 18 Challenge  | 2022-08-18 00:23:08 +0000 UTC |
-| 0 | [Desafio5](https://github.com/elafalla/Desafio5) | Repositorio para la presentación del desafio 5 (crear repositorio en Github) | 2022-08-18 00:11:40 +0000 UTC |
-| 0 | [iternus](https://github.com/adegokeobafemi/iternus) |  | 2022-08-18 00:24:32 +0000 UTC |
-| 0 | [amilcar01](https://github.com/amilcar01/amilcar01) | Config files for my GitHub profile. | 2022-08-18 00:25:04 +0000 UTC |
-| 0 | [contenedores.jframes](https://github.com/PabloRoVe/contenedores.jframes) |  | 2022-08-18 00:25:06 +0000 UTC |
-| 0 | [withus](https://github.com/jihwan20/withus) |  | 2022-08-18 00:16:50 +0000 UTC |
-| 0 | [prueba5](https://github.com/FrancescaCogno/prueba5) |  | 2022-08-18 00:25:54 +0000 UTC |
-| 0 | [CMPG-323-Overview-32134452-](https://github.com/relebogile-2000/CMPG-323-Overview-32134452-) | an overview of CMPG 323 Project 1, the main repository | 2022-08-18 00:25:58 +0000 UTC |
-| 0 | [PWEB](https://github.com/gsabino1/PWEB) |  | 2022-08-18 00:25:27 +0000 UTC |
-| 0 | [P1_BASES1_201709282](https://github.com/2730538920101/P1_BASES1_201709282) | Proyecto #1 Bases de datos 1 | 2022-08-18 00:18:28 +0000 UTC |
-| 0 | [Testes](https://github.com/chatosPraCaraio/Testes) |  | 2022-08-18 00:04:47 +0000 UTC |
-| 0 | [test2.github.io](https://github.com/Seantoni/test2.github.io) | test2 | 2022-08-18 00:19:28 +0000 UTC |
-| 0 | [linux-projeto2-iac](https://github.com/DiegoCharlau/linux-projeto2-iac) | Script para provisionamento de um servidor Apache | 2022-08-18 00:24:17 +0000 UTC |
-| 0 | [COMP2041-9044-21T1-Final-Exam](https://github.com/ecooler/COMP2041-9044-21T1-Final-Exam) |  | 2022-08-18 00:27:46 +0000 UTC |
-| 0 | [doda](https://github.com/chamith/doda) | Download Daemon | 2022-08-18 00:26:03 +0000 UTC |
-| 0 | [prueba8888](https://github.com/lageniaestela/prueba8888) | prueba de clases | 2022-08-18 00:21:46 +0000 UTC |
-| 0 | [esaznjh](https://github.com/Gionets/esaznjh) | 广东爱心影院 | 2022-08-18 00:28:00 +0000 UTC |
-| 0 | [jaysonstn](https://github.com/jaysonstn/jaysonstn) |  | 2022-08-18 00:03:45 +0000 UTC |
+| 2 | [File-Sorter-en](https://github.com/NHLOCAL/File-Sorter-en) | Script to sort scattered files by type | 2022-08-19 00:08:17 +0000 UTC |
+| 2 | [TikShorts](https://github.com/QIN2DIM/TikShorts) | 🍜优雅地下饭，魔改于2022年字节青训营的抖音项目 | 2022-08-19 00:01:50 +0000 UTC |
+| 2 | [growtopi-internel](https://github.com/purpl3r0se/growtopi-internel) | pls no skid wtF! | 2022-08-19 00:14:48 +0000 UTC |
+| 2 | [GetStuffDone](https://github.com/karele7/GetStuffDone) | To Do List  | 2022-08-19 00:44:59 +0000 UTC |
+| 1 | [PHP-data-object-coding](https://github.com/davidobinna/PHP-data-object-coding) |  | 2022-08-19 00:34:03 +0000 UTC |
+| 1 | [portfolio](https://github.com/lchirione/portfolio) |  | 2022-08-19 00:07:52 +0000 UTC |
+| 1 | [Prueba1](https://github.com/psycodev/Prueba1) |  | 2022-08-19 00:21:34 +0000 UTC |
+| 1 | [Heisbana-altschool-template](https://github.com/Heisbana/Heisbana-altschool-template) |  | 2022-08-19 00:36:49 +0000 UTC |
+| 1 | [task-tracker](https://github.com/Roymaniac/task-tracker) |  | 2022-08-19 01:01:49 +0000 UTC |
+| 1 | [TimeKiller](https://github.com/W1THRD/TimeKiller) | A button that allows the killing of time | 2022-08-19 01:09:29 +0000 UTC |
+| 1 | [AI_Dev_meetup_2022](https://github.com/cycoslee/AI_Dev_meetup_2022) | Hands-on Seminar materials for NVIDIA AI Developer Meetup 2022 | 2022-08-19 00:28:11 +0000 UTC |
+| 1 | [ECS](https://github.com/Raffa064/ECS) | Entity component system inpired by artemis | 2022-08-19 01:05:28 +0000 UTC |
+| 1 | [UK-Housing](https://github.com/sr-patel/UK-Housing) | A proof of concept using Jupyter Labs to access .csv and produce a user-friendly graph using matplotlib. | 2022-08-19 01:12:23 +0000 UTC |
+| 1 | [HarmonyMod](https://github.com/JustinANelson/HarmonyMod) |  | 2022-08-19 00:19:36 +0000 UTC |
+| 1 | [website-odinProject](https://github.com/kenaebus/website-odinProject) | Temporary name for building a "The Odin Project" Landing page | 2022-08-19 00:04:25 +0000 UTC |
+| 1 | [PAULINASARBINOWSKAKRUGER](https://github.com/PAULINASARBINOWSKAKRUGER/PAULINASARBINOWSKAKRUGER) | Config files for my GitHub profile. | 2022-08-19 00:37:11 +0000 UTC |
+| 1 | [Evolutionary-Game-Theory-Classic-Paper-Code-Reproduction](https://github.com/Long-zhengtian/Evolutionary-Game-Theory-Classic-Paper-Code-Reproduction) | 演化博弈论经典论文代码复现 | 2022-08-19 00:36:31 +0000 UTC |
+| 1 | [iTunes-12.41.3](https://github.com/Boonk8812/iTunes-12.41.3) | iTunes is a Music Player. | 2022-08-19 00:53:23 +0000 UTC |
+| 1 | [halo-theme-paper](https://github.com/OnlyTL/halo-theme-paper) |  | 2022-08-19 00:52:49 +0000 UTC |
+| 1 | [iamanwarul](https://github.com/iamanwarul/iamanwarul) | Config files for my GitHub profile. | 2022-08-19 00:32:47 +0000 UTC |
+| 1 | [advanced-to-do-list](https://github.com/sparklaunch/advanced-to-do-list) |  | 2022-08-19 01:07:48 +0000 UTC |
+| 1 | [mberekpe-Anthony-chigozia](https://github.com/KDK7monta/mberekpe-Anthony-chigozia) | Male | 2022-08-19 01:19:31 +0000 UTC |
+| 1 | [lol](https://github.com/CZARDOOM/lol) |  | 2022-08-19 00:20:31 +0000 UTC |
+| 1 | [blogger-category-post](https://github.com/iamanwarul/blogger-category-post) |  | 2022-08-19 01:15:17 +0000 UTC |
+| 1 | [Declarations-and-Expressions](https://github.com/bslockhart/Declarations-and-Expressions) | Module 3 \| Code Review Videos \| Declarations and Expressions | 2022-08-19 00:28:48 +0000 UTC |
+| 1 | [SCC0252-Visualizacao-Computacional](https://github.com/Heitorcp/SCC0252-Visualizacao-Computacional) | Materials from the course SSC0252 - Visualização Computacional at University of São Paulo | 2022-08-19 00:05:04 +0000 UTC |
+| 1 | [Infinite-Infinati-Mint](https://github.com/b1oo/Infinite-Infinati-Mint) | Extremely simply example of a custom music nft smart contract written by @sweetman_eth -  | 2022-08-19 00:28:02 +0000 UTC |
+| 1 | [Projeto-4](https://github.com/1NicolasLima/Projeto-4) |  | 2022-08-19 00:41:49 +0000 UTC |
+| 1 | [matches-simulator-api](https://github.com/ThiagoDevJunior/matches-simulator-api) | API REST - PARA SIMULAR PARTIDAS, API DO APP MATCHES SIMULATOR, ANDROID NATIVO. | 2022-08-19 00:50:44 +0000 UTC |
+| 1 | [TRACreateLineCatalougeWS](https://github.com/Naganathan13d/TRACreateLineCatalougeWS) |  | 2022-08-19 01:19:13 +0000 UTC |
+| 1 | [caio](https://github.com/CaioAlves89/caio) |  | 2022-08-19 01:25:22 +0000 UTC |
+| 1 | [sprint](https://github.com/Matheus-Ribeir/sprint) |  | 2022-08-19 00:57:56 +0000 UTC |
+| 1 | [reactord](https://github.com/SalvadorBrandolin/reactord) |  | 2022-08-19 01:32:15 +0000 UTC |
+| 1 | [julpin-rental](https://github.com/Julpinsyah/julpin-rental) |  | 2022-08-19 00:02:44 +0000 UTC |
+| 1 | [fdw2_2022_2_api_produtos_mem](https://github.com/profries/fdw2_2022_2_api_produtos_mem) | API para realizar CRUD de produtos em memória (Array) | 2022-08-19 00:14:19 +0000 UTC |
+| 1 | [exercicio_02](https://github.com/RunsCreeperBTC/exercicio_02) | desculpa por nao atingir as expectativas, mas eu tentei, e quero muito aprender! Obrigado! | 2022-08-19 00:50:55 +0000 UTC |
+| 1 | [SME0808_Series_Temporais](https://github.com/Heitorcp/SME0808_Series_Temporais) | SME0808 - Series Temporais Course Materials at University of São Paulo | 2022-08-19 00:14:12 +0000 UTC |
+| 1 | [curso_ebac_frontend](https://github.com/joaolucaslemos/curso_ebac_frontend) |  | 2022-08-19 00:02:55 +0000 UTC |
+| 1 | [m7sseenn](https://github.com/m7sseenn/m7sseenn) | Config files for my GitHub profile. | 2022-08-19 00:07:08 +0000 UTC |
+| 1 | [blog_code](https://github.com/zzp-1998/blog_code) |  | 2022-08-19 01:03:22 +0000 UTC |
+| 1 | [table-schema](https://github.com/mnemesong/table-schema) |  | 2022-08-19 00:00:26 +0000 UTC |
+| 1 | [qabt-qtruck](https://github.com/weareqacademy/qabt-qtruck) | Projeto do Qtruck usado no QAcademy Bootcamp 1o Edição | 2022-08-19 00:31:52 +0000 UTC |
+| 1 | [PraticesJava](https://github.com/TorresPerrier/PraticesJava) | Projeto básico com o intuito de aprimorar e aprender conhecimentos refernte a linguagem Java | 2022-08-19 00:46:21 +0000 UTC |
+| 1 | [ezekiel1](https://github.com/nattymixchop/ezekiel1) | I have got my account back | 2022-08-19 01:17:09 +0000 UTC |
+| 1 | [lopes](https://github.com/CaioAlves89/lopes) |  | 2022-08-19 01:26:04 +0000 UTC |
+| 1 | [TS-Build-Script](https://github.com/RC-14/TS-Build-Script) | Simple script to build Type Script projects that include non ts files (html, css, ...). | 2022-08-19 00:05:57 +0000 UTC |
+| 1 | [testing-library](https://github.com/Dodairon/testing-library) |  | 2022-08-19 00:28:33 +0000 UTC |
+| 1 | [smartcar](https://github.com/hdu-hahaha/smartcar) | 一些智能小车滴代码 | 2022-08-19 00:03:20 +0000 UTC |
+| 1 | [Dom-calculation-mobile](https://github.com/Amibiplob/Dom-calculation-mobile) |  | 2022-08-19 00:01:02 +0000 UTC |
+| 1 | [terraform-provider-alibabaCloudStack](https://github.com/aliyun/terraform-provider-alibabaCloudStack) |  | 2022-08-19 01:21:23 +0000 UTC |
+| 1 | [cssmotion](https://github.com/LUK3D/cssmotion) | JS Library to animate DOM elements 🚀 | 2022-08-19 00:04:45 +0000 UTC |
+| 1 | [Mockup-Noticias](https://github.com/yucaman09/Mockup-Noticias) |  | 2022-08-19 00:24:45 +0000 UTC |
+| 1 | [alves](https://github.com/CaioAlves89/alves) |  | 2022-08-19 01:25:50 +0000 UTC |
+| 1 | [Anythink-Market-m0pml](https://github.com/ObelusFamily/Anythink-Market-m0pml) |  | 2022-08-19 01:25:07 +0000 UTC |
+| 1 | [congenial-winner](https://github.com/12ferina/congenial-winner) |  | 2022-08-19 00:51:03 +0000 UTC |
+| 1 | [coffe-delivery-ignite](https://github.com/henricker/coffe-delivery-ignite) |  | 2022-08-19 00:43:53 +0000 UTC |
+| 1 | [rms](https://github.com/DeepananthK/rms) | Resource Management System | 2022-08-19 01:29:13 +0000 UTC |
+| 1 | [C-Program](https://github.com/si0p/C-Program) |  | 2022-08-19 00:46:36 +0000 UTC |
+| 1 | [Copymanga-Downloader](https://github.com/Animuses/Copymanga-Downloader) | 一个基于Python的Copymanga下载小工具 | 2022-08-19 00:06:37 +0000 UTC |
+| 1 | [Object-oriented-programming-PHP](https://github.com/davidobinna/Object-oriented-programming-PHP) |  | 2022-08-19 00:28:56 +0000 UTC |
+| 1 | [Movies_spider](https://github.com/19903281604/Movies_spider) |  | 2022-08-19 00:51:07 +0000 UTC |
+| 1 | [Logical-Operators](https://github.com/bslockhart/Logical-Operators) | Module 3 \| Code Review Videos \| Logical Operators | 2022-08-19 00:48:54 +0000 UTC |
+| 1 | [Discord-Clear-DM](https://github.com/ImStor/Discord-Clear-DM) | Discord Message Deleter \| Clear Discord DM \| Clear Discord Groupchat/Server Messages | 2022-08-19 00:00:16 +0000 UTC |
+| 1 | [pucminas-eixo3-AppEscola](https://github.com/avgro/pucminas-eixo3-AppEscola) |  | 2022-08-19 00:58:47 +0000 UTC |
+| 1 | [cv](https://github.com/arthurgalstyan/cv) | It`s my first web-site | 2022-08-19 00:42:52 +0000 UTC |
+| 1 | [React_Projects](https://github.com/reginardzss/React_Projects) |  | 2022-08-19 00:04:27 +0000 UTC |
+| 1 | [kalman-filter-gps-location](https://github.com/T0masNguyen/kalman-filter-gps-location) |  | 2022-08-19 00:24:15 +0000 UTC |
+| 1 | [CCPRGG1L_ASSIGNMENT_INF224](https://github.com/dunkintofu/CCPRGG1L_ASSIGNMENT_INF224) |  | 2022-08-19 00:58:07 +0000 UTC |
+| 1 | [demo](https://github.com/biubiudragon/demo) |  | 2022-08-19 01:13:08 +0000 UTC |
+| 1 | [12ferina](https://github.com/12ferina/12ferina) | Config files for my GitHub profile. | 2022-08-19 00:42:06 +0000 UTC |
+| 1 | [firebase](https://github.com/Dropshoop/firebase) |  | 2022-08-19 00:48:00 +0000 UTC |
+| 1 | [Giveaway-Bot](https://github.com/Whiteflame362/Giveaway-Bot) | This repository contains the files for operating and developing GiveawayBot#4526 in AndyTheGreat315's server | 2022-08-19 00:55:24 +0000 UTC |
+| 1 | [rcs-3i-react](https://github.com/diegograssino/rcs-3i-react) |  | 2022-08-19 00:03:48 +0000 UTC |
+| 1 | [ogreeni-blog](https://github.com/OGreeni/ogreeni-blog) |  | 2022-08-19 00:30:24 +0000 UTC |
+| 1 | [week1](https://github.com/EmalineG/week1) |  | 2022-08-19 00:21:01 +0000 UTC |
+| 1 | [Chrome-Developer-Tools-Debugger](https://github.com/bslockhart/Chrome-Developer-Tools-Debugger) | Module 3 \| Code Review Videos \| Chrome Developer Tools Debugger | 2022-08-19 00:18:00 +0000 UTC |
+| 1 | [Impulsive-developer](https://github.com/OlarCrown/Impulsive-developer) |  | 2022-08-19 01:24:31 +0000 UTC |
+| 1 | [semaforoArduino](https://github.com/GustavoMatoi/semaforoArduino) |  | 2022-08-19 01:30:02 +0000 UTC |
+| 1 | [Live-search-prediction-system](https://github.com/davidobinna/Live-search-prediction-system) |  | 2022-08-19 00:23:23 +0000 UTC |
+| 1 | [Agrinho2022](https://github.com/isaacbribeiro/Agrinho2022) |  | 2022-08-19 00:17:05 +0000 UTC |
+| 1 | [xGirlixenx](https://github.com/xGirlixenx/xGirlixenx) | Config files for my GitHub profile. | 2022-08-19 00:58:39 +0000 UTC |
+| 1 | [Data_Science](https://github.com/Farhan-021999/Data_Science) | This repo is about all the data science projects completed by Farhan. | 2022-08-19 00:33:23 +0000 UTC |
+| 1 | [clientes-app-angular-](https://github.com/rodolfo341/clientes-app-angular-) |  | 2022-08-19 00:50:54 +0000 UTC |
+| 1 | [School-grades](https://github.com/ulrichsantos/School-grades) |  | 2022-08-19 01:14:30 +0000 UTC |
+| 1 | [DISCI](https://github.com/MarlenGabrich/DISCI) | PhD course: Software design for scientific computing | 2022-08-19 00:56:58 +0000 UTC |
+| 1 | [rentX](https://github.com/kevinrf100/rentX) | This is API for rent car | 2022-08-19 01:20:41 +0000 UTC |
+| 0 | [tp-operativos](https://github.com/mbertogliati/tp-operativos) |  | 2022-08-19 00:18:52 +0000 UTC |
+| 0 | [flutter-products-web](https://github.com/netoya/flutter-products-web) |  | 2022-08-19 00:15:30 +0000 UTC |
+| 0 | [turbotest_yegz4koi_0gmqi7zs](https://github.com/turbocanary/turbotest_yegz4koi_0gmqi7zs) |  | 2022-08-19 00:19:47 +0000 UTC |
+| 0 | [http](https://github.com/programad0rJS/http) |  | 2022-08-19 00:18:43 +0000 UTC |
+| 0 | [remix-hn-react-email-template](https://github.com/LLazyEmail/remix-hn-react-email-template) |  | 2022-08-19 00:16:33 +0000 UTC |
+| 0 | [ProyectoPROv2C38](https://github.com/bAke19/ProyectoPROv2C38) |  | 2022-08-19 00:17:23 +0000 UTC |
+| 0 | [ortegapelaez-1ra-Entrega](https://github.com/hasselGOP/ortegapelaez-1ra-Entrega) | Ejemplo de avance de carrito para tienda OnixGlam | 2022-08-19 00:20:02 +0000 UTC |
+| 0 | [colcones](https://github.com/bilmaquinnn/colcones) | cod | 2022-08-19 00:20:41 +0000 UTC |
+| 0 | [StatusInvest](https://github.com/kairobeduti/StatusInvest) |  | 2022-08-19 00:20:56 +0000 UTC |
+| 0 | [DisenoSistemas2022](https://github.com/Stefanocozza98/DisenoSistemas2022) | Pantallas diseño 2022 | 2022-08-19 00:20:57 +0000 UTC |
+| 0 | [testy](https://github.com/bilal-hassan-eg/testy) |  | 2022-08-19 00:18:52 +0000 UTC |
+| 0 | [Pong-Turtle](https://github.com/e-chenxu/Pong-Turtle) | Simple Pong game using Turtle graphics | 2022-08-19 00:01:02 +0000 UTC |
+| 0 | [RyoheiMiyaki](https://github.com/RyoheiMiyaki/RyoheiMiyaki) | Config files for my GitHub profile. | 2022-08-19 00:21:20 +0000 UTC |
+| 0 | [Sustainability-Matters-FrontEnd](https://github.com/laaragm/Sustainability-Matters-FrontEnd) | React app built to help track a person's carbon emissions on a daily basis | 2022-08-19 00:04:04 +0000 UTC |
 
