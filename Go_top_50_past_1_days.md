@@ -1,19 +1,26 @@
 | Stars | Name | Desc | Created | 
 | ----- | ------- | ------------- | ------------- |
-| 0 | [servio](https://github.com/tolumadamori/servio) | Simple Web Server where I review the net/http package.  | 2022-08-20 00:40:36 +0000 UTC |
-| 0 | [codebank](https://github.com/correa0inaiara/codebank) | Projeto desenvolvido durante a imersão do evento Fullstack && Fullcycle 2022 | 2022-08-20 00:48:09 +0000 UTC |
-| 0 | [denco-redis](https://github.com/joshua-auchincloss/denco-redis) | denco + redis in compose | 2022-08-20 01:40:56 +0000 UTC |
-| 0 | [web_template](https://github.com/asiasilu/web_template) |  | 2022-08-20 01:24:45 +0000 UTC |
-| 0 | [awesome2](https://github.com/abitofhelp/awesome2) | A grpc service that communicates via grpc with the awesome service. | 2022-08-20 00:50:35 +0000 UTC |
-| 0 | [circular-buffer](https://github.com/albachteng/circular-buffer) |  | 2022-08-20 00:32:17 +0000 UTC |
-| 0 | [Go-Echo-Playground](https://github.com/pavittarsingh315/Go-Echo-Playground) |  | 2022-08-20 00:35:12 +0000 UTC |
-| 0 | [go-server](https://github.com/adrianmg/go-server) | http server in go | 2022-08-20 01:10:55 +0000 UTC |
-| 0 | [fms-backend-admin](https://github.com/GustavoP334/fms-backend-admin) |  | 2022-08-20 00:40:29 +0000 UTC |
-| 0 | [konfigurasi-elektron-kimia](https://github.com/hansputera/konfigurasi-elektron-kimia) | Implementasi pembelajaran kimia 19 Agustus 2022 | 2022-08-20 01:38:35 +0000 UTC |
-| 0 | [bookings](https://github.com/jinheehanaaa/bookings) |  | 2022-08-20 01:21:31 +0000 UTC |
-| 0 | [awesome_client](https://github.com/abitofhelp/awesome_client) | A simple grpc client that exercises the awesome service. | 2022-08-20 01:16:22 +0000 UTC |
-| 0 | [CursoGoServerWeb](https://github.com/btatac/CursoGoServerWeb) |  | 2022-08-20 01:33:03 +0000 UTC |
-| 0 | [tonic-cli](https://github.com/fumeapp/tonic-cli) | Tonic Framework Command Line Interface | 2022-08-20 01:06:38 +0000 UTC |
-| 0 | [CLI-expenses-calculator-](https://github.com/CordascoLucas/CLI-expenses-calculator-) | simple cli aplication that calculate the expenses | 2022-08-20 01:21:32 +0000 UTC |
-| 0 | [intcast](https://github.com/mimuret/intcast) |  | 2022-08-20 01:27:36 +0000 UTC |
+| 1 | [QRCODE-AUTHENTICATION-GOLANG](https://github.com/rhomari/QRCODE-AUTHENTICATION-GOLANG) |  | 2022-08-21 00:02:25 +0000 UTC |
+| 1 | [Go-API-Rest](https://github.com/Gierdiaz/Go-API-Rest) |  | 2022-08-21 00:59:02 +0000 UTC |
+| 1 | [jellyfish](https://github.com/baibikov/jellyfish) | Define and run in-memory broker | 2022-08-21 00:36:05 +0000 UTC |
+| 1 | [save-data](https://github.com/blobbybilb/save-data) | Simply saves data | 2022-08-21 00:28:52 +0000 UTC |
+| 0 | [transaction_service](https://github.com/davyc98/transaction_service) |  | 2022-08-21 00:29:25 +0000 UTC |
+| 0 | [SSCal](https://github.com/wirehaiku/SSCal) | Stephen's Stack Calculator | 2022-08-21 01:09:04 +0000 UTC |
+| 0 | [authentication_go](https://github.com/yeric17/authentication_go) |  | 2022-08-21 00:01:12 +0000 UTC |
+| 0 | [go_message_cli](https://github.com/alanmxll/go_message_cli) |  | 2022-08-21 00:19:16 +0000 UTC |
+| 0 | [go-deltatime](https://github.com/ungame/go-deltatime) |  | 2022-08-21 00:20:20 +0000 UTC |
+| 0 | [jenkins-ci-cd](https://github.com/Leonardo-Henrique/jenkins-ci-cd) |  | 2022-08-21 00:08:26 +0000 UTC |
+| 0 | [gugudan](https://github.com/seedeekr/gugudan) | nine by nine golang | 2022-08-21 01:14:24 +0000 UTC |
+| 0 | [srng-robot](https://github.com/hpb-project/srng-robot) |  | 2022-08-21 01:20:42 +0000 UTC |
+| 0 | [enkigis-test](https://github.com/jssia/enkigis-test) | Testing out EnkiGIS for planetary sciences data using Go. | 2022-08-21 00:57:02 +0000 UTC |
+| 0 | [go-bot](https://github.com/martian17/go-bot) |  | 2022-08-21 00:27:21 +0000 UTC |
+| 0 | [Calculator-for-Determining-Range-of-Gear-Reduction-for-Robot](https://github.com/DrakeH5/Calculator-for-Determining-Range-of-Gear-Reduction-for-Robot) | Calculator for Determining Range of Gear Reduction for a Combat Robot based on http://runamok.tech/AskAaron/optimum.html | 2022-08-21 00:54:01 +0000 UTC |
+| 0 | [grpc-streaming](https://github.com/ricarrrdoaraujo/grpc-streaming) |  | 2022-08-21 01:17:50 +0000 UTC |
+| 0 | [discord_toy](https://github.com/yms2772/discord_toy) | bwmarrin/discordgo를 사용한 간단한 디스코드 봇 | 2022-08-21 00:28:40 +0000 UTC |
+| 0 | [go](https://github.com/nocturnalplay/go) |  | 2022-08-21 00:08:33 +0000 UTC |
+| 0 | [goAcritty](https://github.com/dilanEspindola/goAcritty) |  | 2022-08-21 00:19:11 +0000 UTC |
+| 0 | [ghostviewer](https://github.com/iammaguire/ghostviewer) | Covert remote desktop POC for Windows. Uses DXGI's DDAPI for capture on Windows 8 and above. This isn't available on ealier versions of Windows so BitBlt is used in these cases. Keyboard and mouse input supported, except for dragging. | 2022-08-21 00:22:43 +0000 UTC |
+| 0 | [zhao-go](https://github.com/alobe/zhao-go) |  | 2022-08-21 01:06:42 +0000 UTC |
+| 0 | [Bank-Heist](https://github.com/BrailyGuzman/Bank-Heist) |  | 2022-08-21 00:55:37 +0000 UTC |
+| 0 | [gosrv](https://github.com/davidgaspardev/gosrv) |  | 2022-08-21 01:13:36 +0000 UTC |
 
