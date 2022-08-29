@@ -1,103 +1,103 @@
 | Stars | Name | Desc | Created | 
 | ----- | ------- | ------------- | ------------- |
-| 2 | [binja-swift-demangler](https://github.com/saagarjha/binja-swift-demangler) | Binary Ninja plugin to demangle Swift function names | 2022-08-28 01:11:49 +0000 UTC |
-| 2 | [SimpleMining](https://github.com/devPrinc/SimpleMining) | Simples plugin de mineração com multiplicadores para vips, suporte a vault etc. | 2022-08-28 00:01:57 +0000 UTC |
-| 2 | [conventional_extensions](https://github.com/kaspth/conventional_extensions) | ConventionalExtensions sets up a file naming convention to extend your domain model | 2022-08-28 00:22:11 +0000 UTC |
-| 2 | [noto](https://github.com/attaryu/noto) | note web app | 2022-08-28 00:23:25 +0000 UTC |
-| 1 | [DSet](https://github.com/ksoldier0419/DSet) |  | 2022-08-28 00:28:17 +0000 UTC |
-| 1 | [CRMAPP](https://github.com/MohammadJunaidG/CRMAPP) |  | 2022-08-28 00:27:29 +0000 UTC |
-| 1 | [Flutter_API_movies](https://github.com/ogabrielfelipe/Flutter_API_movies) | Criação de uma aplicação em Flutter que consulta a API do themoviedb.org, onde mostra uma série de filmes onde pode visualizar a sinopse ou clicar em supreenda-me. | 2022-08-28 00:51:58 +0000 UTC |
-| 1 | [Advanced-Parser](https://github.com/amukh1/Advanced-Parser) | advanced-parser for a future language | 2022-08-28 01:09:51 +0000 UTC |
-| 1 | [cti-pj-manager-ui](https://github.com/DayanGH/cti-pj-manager-ui) |  | 2022-08-28 00:42:07 +0000 UTC |
-| 1 | [searchdb](https://github.com/MasterChad/searchdb) | Cherchez une string dans vos bases de données. | 2022-08-28 01:07:32 +0000 UTC |
-| 1 | [SeansLifeArchive_Images_KDE](https://github.com/seanpm2001/SeansLifeArchive_Images_KDE) | The module for my life story project that contains my KDE (K Desktop Environment) images, and acts as a portal project to other KDE projects of mine. | 2022-08-28 01:23:30 +0000 UTC |
-| 1 | [stable-diffusion-colab-tools](https://github.com/karaage0703/stable-diffusion-colab-tools) | Stable diffusion very easy and useful tools on Google Colaboratory(Google Colab) | 2022-08-28 00:12:48 +0000 UTC |
-| 1 | [Todo_App_JS](https://github.com/alperwebdev/Todo_App_JS) |  | 2022-08-28 00:50:35 +0000 UTC |
-| 1 | [MBTinder](https://github.com/terracraft321/MBTinder) |  | 2022-08-28 00:35:10 +0000 UTC |
-| 1 | [jnmartinez8387](https://github.com/jnmartinez8387/jnmartinez8387) | Config files for my GitHub profile. | 2022-08-28 01:24:32 +0000 UTC |
-| 1 | [Project-Talker-Manager](https://github.com/thaistcardoso/Project-Talker-Manager) |  | 2022-08-28 00:58:20 +0000 UTC |
-| 1 | [Project-One-For-All](https://github.com/thaistcardoso/Project-One-For-All) |  | 2022-08-28 00:37:38 +0000 UTC |
-| 1 | [BTC--equipe-01--backend](https://github.com/Niloxp753/BTC--equipe-01--backend) | developer-fork | 2022-08-28 00:36:58 +0000 UTC |
-| 1 | [bmcauley.github.io](https://github.com/bmcauley/bmcauley.github.io) | Blog site for ST 558 | 2022-08-28 00:17:43 +0000 UTC |
-| 1 | [Avalanche](https://github.com/areski1337/Avalanche) |  | 2022-08-28 01:13:01 +0000 UTC |
-| 1 | [file-share-bot](https://github.com/Unknownguy007/file-share-bot) | Send a file to the bot and get a special link | 2022-08-28 00:00:35 +0000 UTC |
-| 1 | [fec2022](https://github.com/vrcapelane/fec2022) | Projeto fec 2022 codado por Wallace Sinatra e Vitor Capelane | 2022-08-28 00:33:01 +0000 UTC |
-| 1 | [FD](https://github.com/fourzyxd/FD) |  | 2022-08-28 00:19:48 +0000 UTC |
-| 1 | [EncryptDecrypt](https://github.com/erismaroliveira/EncryptDecrypt) |  | 2022-08-28 00:00:02 +0000 UTC |
-| 1 | [mingwhy.github.io](https://github.com/mingwhy/mingwhy.github.io) | blog | 2022-08-28 00:23:49 +0000 UTC |
-| 1 | [Final_Assignment_PythonProject](https://github.com/thevithushan/Final_Assignment_PythonProject) |  | 2022-08-28 01:09:00 +0000 UTC |
-| 1 | [epp_605_687_fall_2022](https://github.com/hococoder/epp_605_687_fall_2022) |  | 2022-08-28 01:25:50 +0000 UTC |
-| 1 | [SeansLifeArchive_Images_System76](https://github.com/seanpm2001/SeansLifeArchive_Images_System76) | The module for my life story project that contains my System76 images. | 2022-08-28 01:32:22 +0000 UTC |
-| 1 | [RhymeTime](https://github.com/Danh295/RhymeTime) |  | 2022-08-28 00:03:13 +0000 UTC |
-| 1 | [JavaCore](https://github.com/liza-vic/JavaCore) |  | 2022-08-28 00:43:05 +0000 UTC |
-| 1 | [whuki.github.io](https://github.com/WHuKi/whuki.github.io) | 个人博客 | 2022-08-28 01:33:06 +0000 UTC |
-| 1 | [bunda](https://github.com/y0x54a/bunda) | A lightweight web framework for the Bun javascript runtime. | 2022-08-28 00:04:59 +0000 UTC |
-| 1 | [vindhala](https://github.com/luisfalconmx/vindhala) | Tailwindcss components and templates | 2022-08-28 01:19:29 +0000 UTC |
-| 1 | [weather.js](https://github.com/black-purple/weather.js) | A simple webapp that gets you the weather of your city | 2022-08-28 00:48:12 +0000 UTC |
-| 1 | [mihirangathd](https://github.com/mihirangathd/mihirangathd) | Config files for my GitHub profile. | 2022-08-28 01:26:47 +0000 UTC |
-| 1 | [Algo-DataStructures](https://github.com/pxs4528/Algo-DataStructures) | UTA course 3318 | 2022-08-28 01:28:40 +0000 UTC |
-| 1 | [Royal0999](https://github.com/Royal0999/Royal0999) | Config files for my GitHub profile. | 2022-08-28 00:56:31 +0000 UTC |
-| 1 | [taetay.github.io](https://github.com/taetay/taetay.github.io) |  | 2022-08-28 00:10:23 +0000 UTC |
-| 1 | [MenuArt](https://github.com/yikaury26/MenuArt) | Menu Articulos, Puede agregar y ver articulos | 2022-08-28 00:25:53 +0000 UTC |
-| 1 | [Dolphin](https://github.com/Dolphin-video/Dolphin) | A framework meant for generating videos with little to no user input | 2022-08-28 01:00:56 +0000 UTC |
-| 1 | [Project-Abe-Shinzo](https://github.com/CoffeeManiac92/Project-Abe-Shinzo) | This is an ongoing project for my study about the Chinese comments on Bilibili on the day Abe Shinzo was assassinated. All codes but the scraper of Bilibili comments, as you see here, are my creation. The NLP functions are from HanLP. | 2022-08-28 01:04:05 +0000 UTC |
-| 1 | [treasure-hunt](https://github.com/KevinKuriakoseA/treasure-hunt) |  | 2022-08-28 01:22:43 +0000 UTC |
-| 1 | [808-Stealer](https://github.com/Pandaxyz-xd/808-Stealer) | ➡️ 808 Stealer \| it is a script that finds the discord info, dump pc info and ip | 2022-08-28 00:04:59 +0000 UTC |
-| 1 | [siteHtmlteste](https://github.com/IngridFBalbino/siteHtmlteste) |  | 2022-08-28 00:55:54 +0000 UTC |
-| 1 | [Sean-Wallace-Work-Day-Scheduler](https://github.com/SeanU2022/Sean-Wallace-Work-Day-Scheduler) | Daily Calendar schedule for events shown in timeblocks | 2022-08-28 00:59:19 +0000 UTC |
-| 1 | [Project-Docker-todo-list](https://github.com/thaistcardoso/Project-Docker-todo-list) | Repositórios de Projetos enquanto era estudando de Desenvolvimento na Trybe | 2022-08-28 00:14:25 +0000 UTC |
-| 1 | [IZZUL0R1](https://github.com/IZZUL0R1/IZZUL0R1) | Config files for my GitHub profile. | 2022-08-28 01:21:19 +0000 UTC |
-| 1 | [moto-morini](https://github.com/ABaker14791/moto-morini) |  | 2022-08-28 00:51:58 +0000 UTC |
-| 1 | [Agro-sells-tienda](https://github.com/Biggyhands/Agro-sells-tienda) | Proyecto Ciclo 3 Mintic 2022 | 2022-08-28 00:34:13 +0000 UTC |
-| 1 | [Project-Store-Manager](https://github.com/thaistcardoso/Project-Store-Manager) |  | 2022-08-28 01:03:30 +0000 UTC |
-| 1 | [Python-Projects](https://github.com/timjaphet/Python-Projects) |  | 2022-08-28 00:04:22 +0000 UTC |
-| 1 | [community](https://github.com/MdHRShohel/community) |  | 2022-08-28 00:37:18 +0000 UTC |
-| 1 | [rotate-hover](https://github.com/gleydsonbrito/rotate-hover) |  | 2022-08-28 00:15:27 +0000 UTC |
-| 1 | [Pojects-All-For-One](https://github.com/thaistcardoso/Pojects-All-For-One) |  | 2022-08-28 00:30:59 +0000 UTC |
-| 1 | [janivr](https://github.com/janivr/janivr) | Config files for my GitHub profile. | 2022-08-28 00:35:40 +0000 UTC |
-| 1 | [-_](https://github.com/Pasiya200/-_) |  | 2022-08-28 01:29:52 +0000 UTC |
-| 1 | [Adapt_Dashboard](https://github.com/Byungho-ux/Adapt_Dashboard) |  | 2022-08-28 00:23:14 +0000 UTC |
-| 1 | [docker-django-postgres-tmp](https://github.com/Loopscentral/docker-django-postgres-tmp) | A template for building django and postgres applications | 2022-08-28 00:30:00 +0000 UTC |
-| 1 | [E-TRADE](https://github.com/JnrDevoloper/E-TRADE) |  | 2022-08-28 00:03:32 +0000 UTC |
-| 1 | [pizza](https://github.com/nv-nguyen/pizza) | [3DV 2022 (Oral)] Pytorch implementation of "PIZZA: A Powerful Image-only Zero-Shot Zero-CAD Approach to 6 DoF Tracking" paper | 2022-08-28 00:13:37 +0000 UTC |
-| 1 | [Project-Blogs-API](https://github.com/thaistcardoso/Project-Blogs-API) |  | 2022-08-28 01:04:41 +0000 UTC |
-| 1 | [CalculatorProjects](https://github.com/christianpark6/CalculatorProjects) | In this this repo, I have included a few python files that utilize functions that help determine baseline dietary guidelines using the IIFYM (If it fits your macros) diet style and amortization scheduling. In understanding the mathematics behind calculating these values on an individual level, I wrote functions that would take all the thinking and calculations out of it to make understanding the costs of a mortgage and the nutrition required for dieting. | 2022-08-28 00:08:37 +0000 UTC |
-| 1 | [Survey-Form-HTML-CSS](https://github.com/coderabdu/Survey-Form-HTML-CSS) | A survey form page to tell us a little bit about yourself. Built using HTML and CSS.  | 2022-08-28 00:51:57 +0000 UTC |
-| 0 | [mc-lgy.github.io](https://github.com/mc-lgy/mc-lgy.github.io) |  | 2022-08-28 00:34:08 +0000 UTC |
-| 0 | [arigomez](https://github.com/ariamzige04/arigomez) |  | 2022-08-28 00:21:00 +0000 UTC |
-| 0 | [calculator](https://github.com/StefanieCruzV/calculator) |  | 2022-08-28 00:32:26 +0000 UTC |
-| 0 | [colombia](https://github.com/jimalaros/colombia) |  | 2022-08-28 00:36:10 +0000 UTC |
-| 0 | [sugoroku-app](https://github.com/goorer/sugoroku-app) |  | 2022-08-28 00:37:10 +0000 UTC |
-| 0 | [javajungsuk_ch02](https://github.com/daheeamond/javajungsuk_ch02) | 자바의정석 기초편 ch02 | 2022-08-28 00:37:51 +0000 UTC |
-| 0 | [c-21](https://github.com/OKabeer/c-21) |  | 2022-08-28 00:33:34 +0000 UTC |
-| 0 | [pushpa](https://github.com/JVB1234/pushpa) | Hacking learner | 2022-08-28 00:38:35 +0000 UTC |
-| 0 | [CDK-LAMBDA_SQS](https://github.com/dookidook/CDK-LAMBDA_SQS) |  | 2022-08-28 00:37:36 +0000 UTC |
-| 0 | [LP3](https://github.com/FabricioCC/LP3) |  | 2022-08-28 00:35:53 +0000 UTC |
-| 0 | [pern](https://github.com/galiardi/pern) |  | 2022-08-28 00:39:36 +0000 UTC |
-| 0 | [Jotsan123](https://github.com/Jotsan123/Jotsan123) | Config files for my GitHub profile. | 2022-08-28 00:41:12 +0000 UTC |
-| 0 | [baixada-santista](https://github.com/JoaoPedroCordoba/baixada-santista) | exericico da baixada santista  | 2022-08-28 00:41:33 +0000 UTC |
-| 0 | [ecommerce-hafa-frontend](https://github.com/ArnelOfBogota/ecommerce-hafa-frontend) |  | 2022-08-28 00:40:12 +0000 UTC |
-| 0 | [Training](https://github.com/laalsanedo/Training) |  | 2022-08-28 00:42:18 +0000 UTC |
-| 0 | [Lab_website](https://github.com/songchao1986/Lab_website) |  | 2022-08-28 00:42:30 +0000 UTC |
-| 0 | [Exercises](https://github.com/haodayizhia/Exercises) | Some little exercise | 2022-08-28 00:38:14 +0000 UTC |
-| 0 | [jhipsterOnline](https://github.com/youssefwkf/jhipsterOnline) |  | 2022-08-28 00:41:58 +0000 UTC |
-| 0 | [Metaa](https://github.com/RnzRmsss/Metaa) |  | 2022-08-28 00:41:31 +0000 UTC |
-| 0 | [trayBeamz](https://github.com/trayBeamz/trayBeamz) | Config files for my GitHub profile. | 2022-08-28 00:45:20 +0000 UTC |
-| 0 | [proyectodevida](https://github.com/gamezz24/proyectodevida) |  | 2022-08-28 00:45:42 +0000 UTC |
-| 0 | [Loan-Analyzer](https://github.com/mbfm24/Loan-Analyzer) |  | 2022-08-28 00:37:21 +0000 UTC |
-| 0 | [turbotest_22uwuuij_knxvwoau](https://github.com/turbocanary/turbotest_22uwuuij_knxvwoau) |  | 2022-08-28 00:45:26 +0000 UTC |
-| 0 | [tiktok_review](https://github.com/hendragff/tiktok_review) | TIKTOK REVIEW FROM PUBLIC SOURCE | 2022-08-28 00:39:05 +0000 UTC |
-| 0 | [DEBIAN_SCRIPTS](https://github.com/joseluisbrito/DEBIAN_SCRIPTS) | Debian Scripts for Basic Tasks | 2022-08-28 00:27:01 +0000 UTC |
-| 0 | [git-github-basics-optional-ronintactical](https://github.com/csuf-cs-131-5-22fa/git-github-basics-optional-ronintactical) | git-github-basics-optional-ronintactical created by GitHub Classroom | 2022-08-28 00:45:31 +0000 UTC |
-| 0 | [simulador-interactivo-Cardelle](https://github.com/rroca2498/simulador-interactivo-Cardelle) |  | 2022-08-28 00:33:26 +0000 UTC |
-| 0 | [Las-8-Maravillas-del-Mundo](https://github.com/BatziElectronics/Las-8-Maravillas-del-Mundo) |  | 2022-08-28 00:44:28 +0000 UTC |
-| 0 | [Practica2](https://github.com/EnEr0797/Practica2) | Formulario con validaciones | 2022-08-28 00:46:05 +0000 UTC |
-| 0 | [practica1_fdp](https://github.com/AnaVega070/practica1_fdp) |  | 2022-08-28 00:44:01 +0000 UTC |
-| 0 | [arithmetic](https://github.com/figueyes/arithmetic) |  | 2022-08-28 00:46:33 +0000 UTC |
-| 0 | [bidevent](https://github.com/wangxiaosi2001/bidevent) |  | 2022-08-28 00:46:12 +0000 UTC |
-| 0 | [liamlol0987.com](https://github.com/LiamThelol/liamlol0987.com) |  | 2022-08-28 00:48:03 +0000 UTC |
-| 0 | [unfold2022](https://github.com/captain24tyagi/unfold2022) | Created with CodeSandbox | 2022-08-28 00:48:24 +0000 UTC |
-| 0 | [Biolab-Project](https://github.com/Mousaabdelrahman/Biolab-Project) |  | 2022-08-28 00:39:05 +0000 UTC |
-| 0 | [my-meta-repo](https://github.com/anaswj/my-meta-repo) | practice account sor learning git | 2022-08-28 00:48:14 +0000 UTC |
-| 0 | [Project-15](https://github.com/niktalasila6/Project-15) |  | 2022-08-28 00:48:21 +0000 UTC |
+| 2 | [RouteFInder](https://github.com/rocas777/RouteFInder) | Route finder in a multigraph for the city of Porto with A*,ALT and GE implementations  | 2022-08-29 00:09:30 +0000 UTC |
+| 2 | [Tee-Time](https://github.com/jeahounghong/Tee-Time) |  | 2022-08-29 00:05:25 +0000 UTC |
+| 1 | [enigne](https://github.com/ferhatgec/enigne) | reversed engine | 2022-08-29 00:28:06 +0000 UTC |
+| 1 | [user-agent-js](https://github.com/daliandazi/user-agent-js) | user-agent-js | 2022-08-29 00:00:33 +0000 UTC |
+| 1 | [dcf](https://github.com/dcf886/dcf) |  | 2022-08-29 00:31:59 +0000 UTC |
+| 1 | [Github-Emojis](https://github.com/Blessingdev233/Github-Emojis) | `Complete list of emoji Markup on Github` | 2022-08-29 00:14:09 +0000 UTC |
+| 1 | [Markers](https://github.com/DinaAlSharif/Markers) |  | 2022-08-29 00:54:32 +0000 UTC |
+| 1 | [Pandas-Cheat-Sheet](https://github.com/HectorMelendez/Pandas-Cheat-Sheet) | Data Analytics: Most Used Functions | 2022-08-29 00:35:15 +0000 UTC |
+| 1 | [react-auth0](https://github.com/johngualteros/react-auth0) |  | 2022-08-29 00:30:06 +0000 UTC |
+| 1 | [65thugsonwalker](https://github.com/65thugsonwalker/65thugsonwalker) | Config files for my GitHub profile. | 2022-08-29 00:19:15 +0000 UTC |
+| 1 | [City-Skyline](https://github.com/DinaAlSharif/City-Skyline) |  | 2022-08-29 01:15:05 +0000 UTC |
+| 1 | [bitburner](https://github.com/PrithiPal/bitburner) | Scripts for the Bitburner game | 2022-08-29 01:29:48 +0000 UTC |
+| 1 | [Site-Blocker-Extension](https://github.com/saeedkohansal/Site-Blocker-Extension) | Site Blocker Chrome Extension, By that extension, You Can Control The User's Access To Any Website With Blacklist Or Whitelist and Block Or Allow User Access On the Client-Side Using Vanilla JavaScript then display the access denied error You can block any Domain or IP you want. | 2022-08-29 00:10:21 +0000 UTC |
+| 1 | [Nutrition-Label](https://github.com/DinaAlSharif/Nutrition-Label) |  | 2022-08-29 01:03:43 +0000 UTC |
+| 1 | [TesteJson](https://github.com/AilsonsJunior/TesteJson) | Aplicação de teste manipulando arquivo Json utilizando interface PHP/JavaScript e gravando Json recebido em Banco de dados MySql | 2022-08-29 00:12:52 +0000 UTC |
+| 1 | [agrotivo_api](https://github.com/developedbyjay/agrotivo_api) | A rest Api for Agrotivo website | 2022-08-29 00:50:15 +0000 UTC |
+| 1 | [neek05.github.io](https://github.com/neek05/neek05.github.io) |  | 2022-08-29 00:44:05 +0000 UTC |
+| 1 | [cloud-music](https://github.com/HY-HY-49/cloud-music) | used to learn React | 2022-08-29 00:10:37 +0000 UTC |
+| 1 | [Photo-gallery](https://github.com/DinaAlSharif/Photo-gallery) |  | 2022-08-29 01:00:13 +0000 UTC |
+| 1 | [words](https://github.com/Punny520/words) | 我爱记单词软件 | 2022-08-29 00:37:49 +0000 UTC |
+| 1 | [Mungawka10](https://github.com/Mungawka10/Mungawka10) | Config files for my GitHub profile. | 2022-08-29 00:33:23 +0000 UTC |
+| 1 | [AHmedDz](https://github.com/Abounihal/AHmedDz) | السلام عليكم  | 2022-08-29 00:59:50 +0000 UTC |
+| 1 | [Rothko-painting](https://github.com/DinaAlSharif/Rothko-painting) |  | 2022-08-29 00:57:45 +0000 UTC |
+| 1 | [stealer-cookie-parser](https://github.com/worstheaven/stealer-cookie-parser) |  | 2022-08-29 01:09:19 +0000 UTC |
+| 1 | [Magazine](https://github.com/DinaAlSharif/Magazine) |  | 2022-08-29 01:18:26 +0000 UTC |
+| 1 | [EquipoF](https://github.com/MrAnthropocene/EquipoF) | Hola Mundo por Montes Munoz | 2022-08-29 01:14:38 +0000 UTC |
+| 1 | [muller_De_Cypher](https://github.com/Timothy2882/muller_De_Cypher) | Testnet in help  | 2022-08-29 00:25:27 +0000 UTC |
+| 1 | [-kasdiling](https://github.com/Kasdiling/-kasdiling) | Mari kita buat sejarah dunia bersama @Dr Nicholas bahwa pioneer akan bisa membuat kesejahteraan bagi umat | 2022-08-29 00:35:20 +0000 UTC |
+| 1 | [simple-style-blue_website_html_css](https://github.com/15Atapsina/simple-style-blue_website_html_css) |  | 2022-08-29 00:43:11 +0000 UTC |
+| 1 | [Cv](https://github.com/TopG-coder/Cv) |  | 2022-08-29 00:50:29 +0000 UTC |
+| 1 | [Penguin](https://github.com/DinaAlSharif/Penguin) |  | 2022-08-29 01:26:47 +0000 UTC |
+| 1 | [Balance-Sheet](https://github.com/DinaAlSharif/Balance-Sheet) |  | 2022-08-29 01:07:25 +0000 UTC |
+| 1 | [love-hu](https://github.com/bianlovehu/love-hu) |  | 2022-08-29 01:10:53 +0000 UTC |
+| 1 | [smarty-ui-app-ts-template](https://github.com/smarty-team/smarty-ui-app-ts-template) |  | 2022-08-29 01:24:30 +0000 UTC |
+| 1 | [murilobispo](https://github.com/murilobispo/murilobispo) |  | 2022-08-29 01:33:29 +0000 UTC |
+| 1 | [live_chat_app](https://github.com/bgass10/live_chat_app) |  | 2022-08-29 00:02:53 +0000 UTC |
+| 1 | [DefinitelyGoingToPhishGoogle-GooglePhishingPage-](https://github.com/UNKNOW-afk717/DefinitelyGoingToPhishGoogle-GooglePhishingPage-) | Google Phishing Page | 2022-08-29 00:48:25 +0000 UTC |
+| 1 | [pizza-megaparsec](https://github.com/lsrcz/pizza-megaparsec) |  | 2022-08-29 00:39:35 +0000 UTC |
+| 1 | [Lista-2](https://github.com/DyingFlower/Lista-2) | Lista 2 de Técnicas de programação | 2022-08-29 00:45:12 +0000 UTC |
+| 1 | [clean-architecture-core](https://github.com/matthewrenze/clean-architecture-core) | A sample app for my online course "Clean Architecture: Patterns, Practices, and Principles" in .NET Core | 2022-08-29 00:08:56 +0000 UTC |
+| 1 | [appmovil](https://github.com/FelipeeeHM/appmovil) |  | 2022-08-29 00:34:34 +0000 UTC |
+| 1 | [xojbackground](https://github.com/yuluo-yx/xojbackground) | 前期开发的xoj后台管理系统 | 2022-08-29 01:19:45 +0000 UTC |
+| 1 | [loginRecados](https://github.com/mauriciolima2701/loginRecados) |  | 2022-08-29 00:03:13 +0000 UTC |
+| 1 | [Picasso-painting](https://github.com/DinaAlSharif/Picasso-painting) |  | 2022-08-29 01:12:05 +0000 UTC |
+| 1 | [OptifineDL](https://github.com/LoryKiller/OptifineDL) | A Minecraft Optifine mod downloader in python | 2022-08-29 00:05:15 +0000 UTC |
+| 1 | [znj](https://github.com/itmisx/znj) | 面向中小团队，基于文档的项目协作工具，免费开源 | 2022-08-29 00:11:41 +0000 UTC |
+| 1 | [paper-implementations](https://github.com/wenjianzhou2931/paper-implementations) | implementations of some papers that I've read | 2022-08-29 00:50:57 +0000 UTC |
+| 1 | [SimpleChattyBot](https://github.com/TycjanLamkiewicz/SimpleChattyBot) | Simple Chatty Bot | 2022-08-29 00:45:40 +0000 UTC |
+| 1 | [Cafe-Menu](https://github.com/DinaAlSharif/Cafe-Menu) |  | 2022-08-29 00:01:37 +0000 UTC |
+| 1 | [Drum-kit](https://github.com/ankitd2002/Drum-kit) |  | 2022-08-29 00:52:28 +0000 UTC |
+| 1 | [google_colab_stable_diffusion](https://github.com/tknr/google_colab_stable_diffusion) | use Stable Diffusion with Google Colab | 2022-08-29 01:16:18 +0000 UTC |
+| 1 | [Rocket](https://github.com/BUZ-Rocket/Rocket) |  | 2022-08-29 01:30:25 +0000 UTC |
+| 1 | [CV](https://github.com/D3RAH/CV) | my cv-html | 2022-08-29 00:06:44 +0000 UTC |
+| 1 | [JS-Lamp](https://github.com/JoaoZalli/JS-Lamp) | Neste projeto, temos a aplicação web de Js em uma lâmpada. Neste projeto, o usuário consegue ligar, desligar e quebrar a lâmpada. | 2022-08-29 01:21:24 +0000 UTC |
+| 1 | [Karatsuba-multiplication-using-C](https://github.com/tonejk1/Karatsuba-multiplication-using-C) | karatsuba multiplication using C | 2022-08-29 00:07:20 +0000 UTC |
+| 1 | [registration_form](https://github.com/Rlapuz/registration_form) |  | 2022-08-29 00:42:17 +0000 UTC |
+| 1 | [test-cd3](https://github.com/htnha/test-cd3) |  | 2022-08-29 00:50:23 +0000 UTC |
+| 1 | [esgomezm.github.io](https://github.com/esgomezm/esgomezm.github.io) |  | 2022-08-29 00:02:29 +0000 UTC |
+| 1 | [you-are-an-idiot](https://github.com/Hardwaregore/you-are-an-idiot) | JS fork bomb | 2022-08-29 01:22:46 +0000 UTC |
+| 0 | [fplinks](https://github.com/liveinwood/fplinks) | 雑多なリンク集 | 2022-08-29 00:05:07 +0000 UTC |
+| 0 | [beatrizfriso.github.io](https://github.com/beatrizfriso/beatrizfriso.github.io) |  | 2022-08-29 00:05:18 +0000 UTC |
+| 0 | [odin-recipes](https://github.com/bigguylittle/odin-recipes) |  | 2022-08-29 00:08:44 +0000 UTC |
+| 0 | [junit-app](https://github.com/DanielCifuentes05/junit-app) | CursoJunit | 2022-08-29 00:09:42 +0000 UTC |
+| 0 | [alx-pre_course](https://github.com/Mwasahaelvis/alx-pre_course) | I'm now a ALX student, this is my first repository as a full-stack engineer  | 2022-08-29 00:09:49 +0000 UTC |
+| 0 | [19-Text-Editor](https://github.com/favalos06/19-Text-Editor) |  | 2022-08-29 00:10:20 +0000 UTC |
+| 0 | [bash-scripts](https://github.com/amineabdelmoumen/bash-scripts) |  | 2022-08-29 00:02:49 +0000 UTC |
+| 0 | [cc7e88cf](https://github.com/appsmithgitsynctest/cc7e88cf) |  | 2022-08-29 00:12:20 +0000 UTC |
+| 0 | [whatKindOfCar](https://github.com/tea-hkim/whatKindOfCar) | What kind of car is this? | 2022-08-29 00:04:39 +0000 UTC |
+| 0 | [pong-davimatos-353](https://github.com/Davi-353/pong-davimatos-353) |  | 2022-08-29 00:11:48 +0000 UTC |
+| 0 | [turbotest_jsnssgaw_4p7e4rt3](https://github.com/turbocanary/turbotest_jsnssgaw_4p7e4rt3) |  | 2022-08-29 00:15:03 +0000 UTC |
+| 0 | [h87a-wkl-firmware](https://github.com/Druah/h87a-wkl-firmware) | Firmware for hineybush's h87a series of PCBs compiled with build options I like. | 2022-08-29 00:02:01 +0000 UTC |
+| 0 | [43_7768](https://github.com/wwwuuid2com40/43_7768) | PHP聚合支付源码 独立版智狐聚合支付v1.0.5.21 | 2022-08-29 00:17:15 +0000 UTC |
+| 0 | [vs-code-keybinds](https://github.com/JulesPatry/vs-code-keybinds) |  | 2022-08-29 00:09:14 +0000 UTC |
+| 0 | [28_7787](https://github.com/wwwuuid2com43/28_7787) | 服务器打包的微交易盘/K线修复/带简易教程(源码仅供学习) | 2022-08-29 00:20:06 +0000 UTC |
+| 0 | [refugio](https://github.com/mromero02/refugio) | Refugio de Animales | 2022-08-29 00:19:43 +0000 UTC |
+| 0 | [Aul-o-Mario-Jorge](https://github.com/MarryCristina/Aul-o-Mario-Jorge) |  | 2022-08-29 00:10:34 +0000 UTC |
+| 0 | [487W-SUNLAB-Student-Reg](https://github.com/Fennzo/487W-SUNLAB-Student-Reg) |  | 2022-08-29 00:21:10 +0000 UTC |
+| 0 | [PLF](https://github.com/Peterdlktsang/PLF) | Peter love frontend  | 2022-08-29 00:23:57 +0000 UTC |
+| 0 | [sonkotich](https://github.com/sonkotich/sonkotich) | Config files for my GitHub profile. | 2022-08-29 00:20:10 +0000 UTC |
+| 0 | [hexlet-git](https://github.com/itsuchur/hexlet-git) |  | 2022-08-29 00:19:23 +0000 UTC |
+| 0 | [turbotest_jsnssgaw_m4rbxmtm](https://github.com/turbocanary/turbotest_jsnssgaw_m4rbxmtm) |  | 2022-08-29 00:23:55 +0000 UTC |
+| 0 | [chropath-](https://github.com/TTechCodes/chropath-) |  | 2022-08-29 00:22:47 +0000 UTC |
+| 0 | [acc-cosc-1337-spring-2020-zgaudio](https://github.com/ZGAudio/acc-cosc-1337-spring-2020-zgaudio) |  | 2022-08-29 00:05:23 +0000 UTC |
+| 0 | [JoninMemberShip](https://github.com/JunBumHan/JoninMemberShip) | Apply mySql | 2022-08-29 00:05:14 +0000 UTC |
+| 0 | [blocklist](https://github.com/Picblick/blocklist) | a repo for PiHole blocklists | 2022-08-29 00:05:35 +0000 UTC |
+| 0 | [labcaches_gpx](https://github.com/Geo-Nord/labcaches_gpx) | GPX of Labcaches | 2022-08-29 00:04:48 +0000 UTC |
+| 0 | [FInal-Lab-project](https://github.com/Dylgri5365/FInal-Lab-project) |  | 2022-08-29 00:04:43 +0000 UTC |
+| 0 | [SpringMvcBasic](https://github.com/GyeongSooJung/SpringMvcBasic) |  | 2022-08-29 00:07:04 +0000 UTC |
+| 0 | [MilibroFamiliar](https://github.com/Joan07MadMax/MilibroFamiliar) | websitedemialbumfamiliar | 2022-08-29 00:08:52 +0000 UTC |
+| 0 | [43_7727](https://github.com/wwwuuid2com40/43_7727) | 青苹果影视系统源码/影视聚合/影视导航/影视点播网站源码 | 2022-08-29 00:11:16 +0000 UTC |
+| 0 | [myFirstProject](https://github.com/SheridanCavalier/myFirstProject) |  | 2022-08-29 00:11:46 +0000 UTC |
+| 0 | [eldenapp](https://github.com/Dreams0809/eldenapp) |  | 2022-08-29 00:09:41 +0000 UTC |
+| 0 | [python-example](https://github.com/iamchoiz/python-example) |  | 2022-08-29 00:11:51 +0000 UTC |
+| 0 | [d82e0e12](https://github.com/appsmithgitsynctest/d82e0e12) |  | 2022-08-29 00:12:46 +0000 UTC |
+| 0 | [Levitating](https://github.com/SamiyaAwesome/Levitating) |  | 2022-08-29 00:14:38 +0000 UTC |
+| 0 | [git-test](https://github.com/mattdchambers/git-test) |  | 2022-08-29 00:14:31 +0000 UTC |
+| 0 | [C-73](https://github.com/arshita2/C-73) |  | 2022-08-29 00:14:20 +0000 UTC |
+| 0 | [SWDYNAMICS](https://github.com/SWDYNAMICS/SWDYNAMICS) | Config files for my GitHub profile. | 2022-08-29 00:15:15 +0000 UTC |
+| 0 | [smc](https://github.com/zufarzf/smc) | production-site | 2022-08-29 00:14:30 +0000 UTC |
+| 0 | [LSP_Balogun](https://github.com/Shady-Rouk/LSP_Balogun) |  | 2022-08-29 00:07:53 +0000 UTC |
 
