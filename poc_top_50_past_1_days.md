@@ -1,103 +1,103 @@
 | Stars | Name | Desc | Created | 
 | ----- | ------- | ------------- | ------------- |
-| 2 | [hexo-theme-freemind-plus](https://github.com/myyerrol/hexo-theme-freemind-plus) | :cyclone: More powerful bootstrap theme for hexo——更加强大的Hexo博客主题。本主题是在原有hexo-theme-freemind的基础上进行了二次开发，修改了部分页面的样式并添加了更多实用的功能。 | 2022-09-08 00:39:56 +0000 UTC |
-| 1 | [kingaman](https://github.com/Rajeevsingh00/kingaman) | Bad Boy👿 | 2022-09-08 00:27:25 +0000 UTC |
-| 1 | [SAS](https://github.com/fespinozam/SAS) | Programación SAS | 2022-09-08 00:20:24 +0000 UTC |
-| 1 | [Plants-Online-Design](https://github.com/MohamedIbrahim1708/Plants-Online-Design) |  | 2022-09-08 00:14:30 +0000 UTC |
-| 1 | [moon](https://github.com/Israel-Oliveira/moon) | Trabalho Segundo Modulo Web | 2022-09-08 01:10:31 +0000 UTC |
-| 1 | [ts-commonjs-tsup](https://github.com/FelipeSharkao/ts-commonjs-tsup) | Example of how to interop CommonJS with Typescript using tsup | 2022-09-08 01:17:00 +0000 UTC |
-| 1 | [MoneroOcean](https://github.com/nacolebuendel3/MoneroOcean) | Branch of Monero Cryptocurrency  | 2022-09-08 01:23:35 +0000 UTC |
-| 1 | [hr-payroll-system](https://github.com/oluwatobi2018/hr-payroll-system) | HR payroll system  | 2022-09-08 00:22:36 +0000 UTC |
-| 1 | [desafio-git-em-c-](https://github.com/zorin375/desafio-git-em-c-) | este código foi inteiramente baseado no desfio git escrito c++ | 2022-09-08 00:29:30 +0000 UTC |
-| 1 | [debdroid-starter](https://github.com/SUFandom/debdroid-starter) | A starter script to run the OS Perfectly  | 2022-09-08 00:16:57 +0000 UTC |
-| 1 | [muslumergenc](https://github.com/muslumergenc/muslumergenc) | My personal repository | 2022-09-08 00:57:03 +0000 UTC |
-| 1 | [notes-app](https://github.com/JustinRoesner/notes-app) | React web app to keep notes. | 2022-09-08 01:00:32 +0000 UTC |
-| 1 | [appim-emu](https://github.com/yingnengd/appim-emu) |  | 2022-09-08 01:02:46 +0000 UTC |
-| 1 | [Projeto_22](https://github.com/luisazvd/Projeto_22) |  | 2022-09-08 00:27:38 +0000 UTC |
-| 1 | [rally](https://github.com/h0tk3y/rally) |  | 2022-09-08 00:21:35 +0000 UTC |
-| 1 | [pingpong-scorer](https://github.com/Tonyli3586/pingpong-scorer) |  | 2022-09-08 01:26:51 +0000 UTC |
-| 1 | [portfolio](https://github.com/fabus961/portfolio) |  | 2022-09-08 00:36:52 +0000 UTC |
-| 1 | [discord-clear-dm](https://github.com/mukitan/discord-clear-dm) |  | 2022-09-08 00:19:44 +0000 UTC |
-| 1 | [focus-send](https://github.com/keyboardio/focus-send) | Bare-bones Focus testing tool | 2022-09-08 00:06:08 +0000 UTC |
-| 1 | [Cuiboxuan](https://github.com/Cuiboxuan/Cuiboxuan) | Config files for my GitHub profile. | 2022-09-08 01:15:55 +0000 UTC |
-| 1 | [YuanHangTools](https://github.com/muchuans/YuanHangTools) |  | 2022-09-08 00:56:29 +0000 UTC |
-| 1 | [Online-Library-Management](https://github.com/MohamedIbrahim1708/Online-Library-Management) |  | 2022-09-08 00:31:19 +0000 UTC |
-| 1 | [BluCru-Worlds-2022](https://github.com/Slipshodleaf74/BluCru-Worlds-2022) |  | 2022-09-08 00:36:59 +0000 UTC |
-| 1 | [Muriidimaxamedrooble](https://github.com/Muriidimaxamedrooble/Muriidimaxamedrooble) | Config files for my GitHub profile. | 2022-09-08 00:37:20 +0000 UTC |
-| 1 | [modelo-react-eslint](https://github.com/CosmoAndrade/modelo-react-eslint) |  | 2022-09-08 00:40:53 +0000 UTC |
-| 1 | [Food-Website-Design](https://github.com/MohamedIbrahim1708/Food-Website-Design) |  | 2022-09-08 00:03:00 +0000 UTC |
-| 1 | [a_samp](https://github.com/zHypezinXzL/a_samp) |  | 2022-09-08 01:23:58 +0000 UTC |
-| 1 | [embassy-rp-skeleton](https://github.com/SupImDos/embassy-rp-skeleton) | Project Skeleton for RP2040 Embedded Firmware using Embassy | 2022-09-08 01:22:02 +0000 UTC |
-| 1 | [xiezhen_download](https://github.com/angel-yi/xiezhen_download) | 抓取写真图片组建数据集 | 2022-09-08 00:38:00 +0000 UTC |
-| 1 | [Yesa53](https://github.com/Yesa53/Yesa53) | Config files for my GitHub profile. | 2022-09-08 00:54:59 +0000 UTC |
-| 1 | [typescript-guide](https://github.com/heodokyung/typescript-guide) | 타입스트립트에 대하여 정리한 내용입니다. | 2022-09-08 01:24:44 +0000 UTC |
-| 1 | [demos](https://github.com/hgg8ghtr15/demos) |  | 2022-09-08 00:23:35 +0000 UTC |
-| 1 | [McStore](https://github.com/Perkirasonn/McStore) | Descarga aplicaciones compra servicios y adquiere productos tabien vende los tuyos  | 2022-09-08 00:54:51 +0000 UTC |
-| 1 | [randymedina656](https://github.com/randymedina656/randymedina656) | Config files for my GitHub profile. | 2022-09-08 01:03:24 +0000 UTC |
-| 1 | [09arrehman](https://github.com/09arrehman/09arrehman) | Config files for my GitHub profile. | 2022-09-08 01:24:22 +0000 UTC |
-| 1 | [Linear-Regression---Simple-Ridge-Lasso-ElasticNet](https://github.com/0628Vishal/Linear-Regression---Simple-Ridge-Lasso-ElasticNet) | This Jupyter notebook showcases the different types of Linear regressions and compares their performance and accuracy | 2022-09-08 01:08:33 +0000 UTC |
-| 1 | [tccentralizer](https://github.com/Leonardo-FP/tccentralizer) |  | 2022-09-08 00:57:27 +0000 UTC |
-| 1 | [Education-Website-Design](https://github.com/MohamedIbrahim1708/Education-Website-Design) |  | 2022-09-08 00:00:05 +0000 UTC |
-| 1 | [Comision-43645](https://github.com/coderhouse-js/Comision-43645) |  | 2022-09-08 00:38:25 +0000 UTC |
-| 1 | [SlimeRunning](https://github.com/eungyukm/SlimeRunning) | 슬라임 러닝 게임 입니다. | 2022-09-08 00:13:08 +0000 UTC |
-| 1 | [MD1_Test_CheckVaCham](https://github.com/ChuMinh28/MD1_Test_CheckVaCham) |  | 2022-09-08 01:04:10 +0000 UTC |
-| 1 | [youtube-compose](https://github.com/arthurdamous/youtube-compose) | A Youtube App UI Clone, made entire using Jetpack Compose | 2022-09-08 01:24:29 +0000 UTC |
-| 1 | [NiCarNaeCar](https://github.com/pcsoyeon/NiCarNaeCar) | Your Car is Mine. Ty! | 2022-09-08 00:27:43 +0000 UTC |
-| 1 | [include-a_samp](https://github.com/zHypezinXzL/include-a_samp) |  | 2022-09-08 01:32:06 +0000 UTC |
-| 1 | [interactive-rating-component-main](https://github.com/alejandrojust/interactive-rating-component-main) |  | 2022-09-08 00:07:24 +0000 UTC |
-| 1 | [japanese11](https://github.com/aaronsuu/japanese11) | Work done for J.N. Burnett Secondary Japanese 11 Class (2022-2023) S1 - Block C | 2022-09-08 00:16:13 +0000 UTC |
-| 1 | [rock-paper-sizors](https://github.com/MEMEKING16/rock-paper-sizors) |  | 2022-09-08 00:40:22 +0000 UTC |
-| 1 | [Supermarket-Online-Management](https://github.com/MohamedIbrahim1708/Supermarket-Online-Management) |  | 2022-09-08 00:44:26 +0000 UTC |
-| 1 | [JQuery-JavaScript](https://github.com/0poison/JQuery-JavaScript) |  | 2022-09-08 00:52:02 +0000 UTC |
-| 1 | [IxshelC](https://github.com/IxshelC/IxshelC) |  | 2022-09-08 00:01:58 +0000 UTC |
-| 1 | [trarecord](https://github.com/thehaigo/trarecord) | multi platform project by elixir-desktop and phoenix | 2022-09-08 01:08:05 +0000 UTC |
-| 1 | [stm32_addressed_led](https://github.com/jbvalle/stm32_addressed_led) |  | 2022-09-08 00:08:54 +0000 UTC |
-| 1 | [Rajeevsingh00](https://github.com/Rajeevsingh00/Rajeevsingh00) | Config files for my GitHub profile. | 2022-09-08 00:27:51 +0000 UTC |
-| 1 | [Darckur-](https://github.com/Darckur/Darckur-) |  | 2022-09-08 00:53:06 +0000 UTC |
-| 1 | [PoorPeople-Website-Management](https://github.com/MohamedIbrahim1708/PoorPeople-Website-Management) |  | 2022-09-08 00:48:59 +0000 UTC |
-| 1 | [Fast_Fourier_Transformation_Optimization-Prog2](https://github.com/SKrav21/Fast_Fourier_Transformation_Optimization-Prog2) | CSE202 | 2022-09-08 00:35:54 +0000 UTC |
-| 1 | [kernel-CI](https://github.com/snnbyyds/kernel-CI) |  | 2022-09-08 00:30:37 +0000 UTC |
-| 1 | [betterflag](https://github.com/beloncode/betterflag) | It's a flag (golang package) implementation in C++, only useful methods has been implemented | 2022-09-08 00:23:19 +0000 UTC |
-| 1 | [arathitwitch.github.io](https://github.com/arathitwitch/arathitwitch.github.io) |  | 2022-09-08 00:04:39 +0000 UTC |
-| 1 | [Project_4](https://github.com/lizzifer991/Project_4) | Project 4 | 2022-09-08 00:39:40 +0000 UTC |
-| 1 | [Pre-trained-Recommender-System](https://github.com/myhakureimu/Pre-trained-Recommender-System) |  | 2022-09-08 00:07:12 +0000 UTC |
-| 1 | [LojaTeste1](https://github.com/jsbrhub/LojaTeste1) | Versão 1 Loja Virtual | 2022-09-08 01:22:44 +0000 UTC |
-| 1 | [Prediction-based-on-classification-models-](https://github.com/0628Vishal/Prediction-based-on-classification-models-) | This notebook showcases a prediction model based on classification algorithms such as Logistic Regression,  Naive Bayes, Random Forest, Decision Tree, KNN. It compares the accuracy of all the models and also looks at the impact of PCA and feature selection on all of the mentioned algorithms. Finally comparing the accuracy with and without PCA for all algorithms by the means of visualizations.  | 2022-09-08 01:25:25 +0000 UTC |
-| 1 | [Encdec-Prog2](https://github.com/SKrav21/Encdec-Prog2) | CSE109 | 2022-09-08 00:45:06 +0000 UTC |
-| 1 | [Flight-Price-Prediction](https://github.com/0628Vishal/Flight-Price-Prediction) | This notebook showcases the flight price prediction module based on the distance and the shortest path between the points based on the data source used. | 2022-09-08 01:17:57 +0000 UTC |
-| 1 | [planear_bot](https://github.com/ImKavo/planear_bot) |  | 2022-09-08 00:30:47 +0000 UTC |
-| 1 | [AboutMaterial](https://github.com/amraymanamar737/AboutMaterial) | MyClone | 2022-09-08 01:20:57 +0000 UTC |
-| 1 | [curriculo](https://github.com/eduardoproenca/curriculo) | Currículo Eduardo Gabriel | 2022-09-08 00:16:08 +0000 UTC |
-| 1 | [open_manipulator_6dof](https://github.com/JeonB/open_manipulator_6dof) | 6dof manipulator | 2022-09-08 00:17:17 +0000 UTC |
-| 1 | [sendMailPython](https://github.com/Bruccedf/sendMailPython) | Envio de email em Python e SMTP | 2022-09-08 00:13:32 +0000 UTC |
-| 1 | [RadderCRUD](https://github.com/Dentyna/RadderCRUD) |  | 2022-09-08 01:12:02 +0000 UTC |
-| 1 | [Zbilale](https://github.com/Zbilale/Zbilale) | Config files for my GitHub profile. | 2022-09-08 01:16:29 +0000 UTC |
-| 1 | [TINIY-craft-1.2.0](https://github.com/Toyirov-Dev/TINIY-craft-1.2.0) | This is version 1.2.0 of TINY-craft game.  Textures have changed in this version compared to the previous one. | 2022-09-08 01:17:42 +0000 UTC |
-| 1 | [PesquisaPic](https://github.com/LeonardoCarvalho2310/PesquisaPic) | Repositório de um projeto de automação para criação de usuário em um site. | 2022-09-08 00:17:41 +0000 UTC |
-| 1 | [A-A-PROGRAMACION-ARGENTINA-PROGRAMA-YoProgramo-FrontEndADM](https://github.com/admazzaglia/A-A-PROGRAMACION-ARGENTINA-PROGRAMA-YoProgramo-FrontEndADM) |  | 2022-09-08 00:20:03 +0000 UTC |
-| 1 | [Bayesian-Regression-VS-OLS-](https://github.com/0628Vishal/Bayesian-Regression-VS-OLS-) | This notebook shows a difference in terms of performance and accuracy for Bayesian Regression and ordinary least Squares method of Regression. | 2022-09-08 00:56:08 +0000 UTC |
-| 1 | [Food-Order-Design](https://github.com/MohamedIbrahim1708/Food-Order-Design) |  | 2022-09-08 00:05:11 +0000 UTC |
-| 1 | [Example-automation-test-API-com-Robot-Framework](https://github.com/Junielton-lara/Example-automation-test-API-com-Robot-Framework) |  | 2022-09-08 01:17:59 +0000 UTC |
-| 1 | [ccpreston](https://github.com/ClarePres10/ccpreston) | My information used on an iOS open source <owner > code! | 2022-09-08 01:16:41 +0000 UTC |
-| 0 | [bot](https://github.com/devforkronos/bot) |  | 2022-09-08 00:02:19 +0000 UTC |
-| 0 | [homeDetector](https://github.com/Quickzand/homeDetector) |  | 2022-09-08 00:02:50 +0000 UTC |
-| 0 | [TicTacToe](https://github.com/maydaythecoder/TicTacToe) |  | 2022-09-08 00:03:11 +0000 UTC |
-| 0 | [Kitman](https://github.com/JAbbottSportScience/Kitman) |  | 2022-09-08 00:03:18 +0000 UTC |
-| 0 | [jayachandranarala](https://github.com/jayachandranarala/jayachandranarala) | HELLO | 2022-09-08 00:01:20 +0000 UTC |
-| 0 | [intro-section-with-menu-dropdown](https://github.com/joao-junior/intro-section-with-menu-dropdown) |  | 2022-09-08 00:01:14 +0000 UTC |
-| 0 | [Battleship](https://github.com/amyollomani1/Battleship) |  | 2022-09-08 00:02:30 +0000 UTC |
-| 0 | [npm-workspaces](https://github.com/30DaysOf/npm-workspaces) | Exploring usage of `npm workspaces` to create and manage monorepos | 2022-09-08 00:03:45 +0000 UTC |
-| 0 | [playgame](https://github.com/filipexh/playgame) |  | 2022-09-08 00:04:13 +0000 UTC |
-| 0 | [rear-camera-mj](https://github.com/nrc-openlab/rear-camera-mj) |  | 2022-09-08 00:05:12 +0000 UTC |
-| 0 | [api-teste-faculdade](https://github.com/gguilhermepontes/api-teste-faculdade) |  | 2022-09-08 00:06:39 +0000 UTC |
-| 0 | [default-react](https://github.com/AlekseyMinsk/default-react) |  | 2022-09-08 00:06:30 +0000 UTC |
-| 0 | [Trivia-Game](https://github.com/arrie-aries/Trivia-Game) |  | 2022-09-08 00:08:56 +0000 UTC |
-| 0 | [reactnative](https://github.com/ReactiveEquipo3/reactnative) |  | 2022-09-08 00:07:56 +0000 UTC |
-| 0 | [Personal-Repository](https://github.com/Emmicool/Personal-Repository) | For practice | 2022-09-08 00:08:52 +0000 UTC |
-| 0 | [Paycheck](https://github.com/amyollomani1/Paycheck) |  | 2022-09-08 00:09:20 +0000 UTC |
-| 0 | [lib](https://github.com/snowfallorg/lib) | Unified configuration for systems, packages, modules, shells, templates, and more with Nix Flakes. | 2022-09-08 00:07:34 +0000 UTC |
-| 0 | [school](https://github.com/musculoso3004/school) |  | 2022-09-08 00:11:56 +0000 UTC |
-| 0 | [unvbnf](https://github.com/hukioip/unvbnf) | 国内一卡2卡三卡四卡\|韩国一卡2卡3卡4卡精品抖音 | 2022-09-08 00:12:41 +0000 UTC |
-| 0 | [HighSchoolDesign](https://github.com/Space-Rangers/HighSchoolDesign) |  | 2022-09-08 00:13:25 +0000 UTC |
-| 0 | [Stock-Analysis](https://github.com/iruneiro33/Stock-Analysis) |  | 2022-09-08 00:11:02 +0000 UTC |
+| 2 | [King-of-Bots](https://github.com/Twelve-blog/King-of-Bots) | new | 2022-09-09 00:45:09 +0000 UTC |
+| 1 | [MyWebsite](https://github.com/JungsonStone/MyWebsite) | 我的网站 | 2022-09-09 00:39:11 +0000 UTC |
+| 1 | [GabrielGarcoaRodrigues](https://github.com/GabrielGarcoaRodrigues/GabrielGarcoaRodrigues) |  | 2022-09-09 00:00:33 +0000 UTC |
+| 1 | [character-The-Breaking-Bad--API](https://github.com/fathy-said/character-The-Breaking-Bad--API) |  | 2022-09-09 00:33:05 +0000 UTC |
+| 1 | [Laboratorio3-Github](https://github.com/Paula2208/Laboratorio3-Github) |  | 2022-09-09 00:39:57 +0000 UTC |
+| 1 | [BOTZ37](https://github.com/naylachan/BOTZ37) |  | 2022-09-09 00:09:54 +0000 UTC |
+| 1 | [abosadq](https://github.com/abosadq/abosadq) | abo sadq | 2022-09-09 01:02:03 +0000 UTC |
+| 1 | [ufo-web-project-2](https://github.com/VioletKawaiiii/ufo-web-project-2) |  | 2022-09-09 00:47:28 +0000 UTC |
+| 1 | [Projeto-Card-pio](https://github.com/MariaMaduuh/Projeto-Card-pio) | Projeto desenvolvido no SENAI-Barueri por mim :> | 2022-09-09 01:09:15 +0000 UTC |
+| 1 | [Natasc](https://github.com/Natasc/Natasc) | Config files for my GitHub profile. | 2022-09-09 01:27:12 +0000 UTC |
+| 1 | [SILENT-EXCEL-XLS-EXPLOIT-CLEAN-io](https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-io) |  | 2022-09-09 00:03:48 +0000 UTC |
+| 1 | [Java](https://github.com/rodolfobortolozo/Java) | Java | 2022-09-09 00:09:48 +0000 UTC |
+| 1 | [solid-typescript](https://github.com/robertolima-dev/solid-typescript) |  | 2022-09-09 00:25:13 +0000 UTC |
+| 1 | [SCUTFindOverachievers](https://github.com/1067088037/SCUTFindOverachievers) | 华南理工大学找到卷王，基于 Python 的综测系统数据爬虫 | 2022-09-09 00:12:03 +0000 UTC |
+| 1 | [Pokemon-API-project](https://github.com/VioletKawaiiii/Pokemon-API-project) |  | 2022-09-09 01:17:51 +0000 UTC |
+| 1 | [faculdade-java](https://github.com/7rik/faculdade-java) | Execícios da faculdade em Java | 2022-09-09 00:32:16 +0000 UTC |
+| 1 | [nvim64Lite](https://github.com/HUAHUAI23/nvim64Lite) | packaged neovim | 2022-09-09 01:38:17 +0000 UTC |
+| 1 | [Challenge_Alura_Cash](https://github.com/karolbgoes/Challenge_Alura_Cash) |  | 2022-09-09 00:16:48 +0000 UTC |
+| 1 | [SILENT-PDF-EXPLOIT-CLEAN-io](https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-io) |  | 2022-09-09 00:02:49 +0000 UTC |
+| 1 | [Doc](https://github.com/ElizabethYasmin/Doc) |  | 2022-09-09 00:51:00 +0000 UTC |
+| 1 | [cloneCording-FE](https://github.com/IKEAcloneCording/cloneCording-FE) |  | 2022-09-09 01:18:33 +0000 UTC |
+| 1 | [rc-notification-recording-test](https://github.com/tylerlong/rc-notification-recording-test) |  | 2022-09-09 00:04:02 +0000 UTC |
+| 1 | [cyuyan](https://github.com/btliuyang/cyuyan) | 大一初步学习c语言 | 2022-09-09 01:29:58 +0000 UTC |
+| 1 | [Fundamental-Structures-in-Computer-Science-CSC-1500-](https://github.com/lanapinjic/Fundamental-Structures-in-Computer-Science-CSC-1500-) | Fundamental Structures in Computer Science  Class, CSC 1500 at Wayne State University from 09/01/2022 and ongoing. Assemble and validate complex logical statements. 2. Categorize data into distinctive sets and manipulate sets in relation to one another. 3. Prove mathematical statements through the usage of direct and indirect methodologies. 4. Convert data from one form to another, perform operations upon the converted data, and  return it to its previous form. 5. Introduce additional information into transmitted data for the purpose of error-checking. 6. Connect sets of data with relational operations and define the nature of those relations. 7. Manipulate and systematically analyze graphs and trees. 8. Utilize graphs and trees to represent data and optimize algorithms. 9. Use matrix operations to perform error-checking, path-finding, and schedule-optimization  tasks. 10. Recognize and rank algorithms in terms of their relative complexities. 11. Determine probabilities through the creation of various permutations and combinations. 12. How to encrypt and decrypt data.  | 2022-09-09 00:40:02 +0000 UTC |
+| 1 | [10-minutemail.com](https://github.com/Temporary-Email/10-minutemail.com) |  | 2022-09-09 00:25:58 +0000 UTC |
+| 1 | [App-Maps](https://github.com/eslam-hegazy/App-Maps) |  | 2022-09-09 00:54:15 +0000 UTC |
+| 1 | [Next-GraphQL-CMS-Blog](https://github.com/Laiba-Akram/Next-GraphQL-CMS-Blog) |  | 2022-09-09 00:47:09 +0000 UTC |
+| 1 | [10-minutemail.net](https://github.com/Temporary-Email/10-minutemail.net) |  | 2022-09-09 00:26:53 +0000 UTC |
+| 1 | [pgnifpr2022](https://github.com/samrickbr/pgnifpr2022) |  | 2022-09-09 00:05:18 +0000 UTC |
+| 1 | [SUAS-2023](https://github.com/MissouriMRR/SUAS-2023) | Missouri S&T Multirotor Robot Design Team's code for the Association for Unmanned Vehicle Systems International's 2023 Student Unmanned Aerial Systems Competition (AUVSI SUAS 2023) | 2022-09-09 00:22:49 +0000 UTC |
+| 1 | [AR_app](https://github.com/NancyCYX/AR_app) |  | 2022-09-09 00:53:40 +0000 UTC |
+| 1 | [portfolioSite](https://github.com/PerozinBastos/portfolioSite) |  | 2022-09-09 00:18:06 +0000 UTC |
+| 1 | [DoTweenExtended](https://github.com/MathieuMZR/DoTweenExtended) | Free extension of DoTween including new functions for common or uncommon uses. | 2022-09-09 00:55:50 +0000 UTC |
+| 1 | [Quiz-apps-project](https://github.com/VioletKawaiiii/Quiz-apps-project) |  | 2022-09-09 01:24:47 +0000 UTC |
+| 1 | [node-graphql-redis-login](https://github.com/mthlemos/node-graphql-redis-login) | WIP: A login system using GraphQL for API, Redis for session store and PostgreSQL for database storage. | 2022-09-09 00:13:42 +0000 UTC |
+| 1 | [MyWebsite](https://github.com/garisonz/MyWebsite) |  | 2022-09-09 00:34:57 +0000 UTC |
+| 1 | [SaveHighlightedText](https://github.com/MertArkin/SaveHighlightedText) | A simple Chrome extension that helps users to highlight text and save that text in the extension pop-up box. When users click on the Pop-Up box, it will show any previous information previously saved on that website they are currently on. | 2022-09-09 00:17:48 +0000 UTC |
+| 1 | [URL_Validator](https://github.com/GabrielGarcoaRodrigues/URL_Validator) | Um validador de URL em python, que verifica se a URL digitada possui todos os atributos necessários. | 2022-09-09 00:43:04 +0000 UTC |
+| 1 | [Chat1135_2022](https://github.com/stenly87/Chat1135_2022) |  | 2022-09-09 00:12:04 +0000 UTC |
+| 1 | [rxexpress](https://github.com/2401anto/rxexpress) | VENTA DE COPIADORAS RICOH AL POR MAYOR | 2022-09-09 01:30:56 +0000 UTC |
+| 1 | [10-minutemail.org](https://github.com/Temporary-Email/10-minutemail.org) |  | 2022-09-09 00:27:55 +0000 UTC |
+| 1 | [japanese_resto-Project_1](https://github.com/VioletKawaiiii/japanese_resto-Project_1) |  | 2022-09-09 00:07:36 +0000 UTC |
+| 1 | [flutter_calculator](https://github.com/Arun100203/flutter_calculator) | an simple desktop calculator application using flutter | 2022-09-09 00:49:47 +0000 UTC |
+| 1 | [Jogo_Forca_e_Adivinha](https://github.com/GabrielGarcoaRodrigues/Jogo_Forca_e_Adivinha) | Jogo da forca e adivinhação feito em python | 2022-09-09 00:50:08 +0000 UTC |
+| 1 | [khalifa4pf](https://github.com/khalifa4pf/khalifa4pf) | Config files for my GitHub profile. | 2022-09-09 01:08:30 +0000 UTC |
+| 1 | [BaseDatosRelacionales](https://github.com/EmmanuelRamos143/BaseDatosRelacionales) | Materia Base de Datos Relacionales | 2022-09-09 00:10:49 +0000 UTC |
+| 1 | [KFC-Crazy-Thursday](https://github.com/Shiroiame-Kusu/KFC-Crazy-Thursday) | 对，肯德基疯狂星期四请V我50 | 2022-09-09 00:34:13 +0000 UTC |
+| 1 | [inet](https://github.com/WtzLAS/inet) |  | 2022-09-09 00:36:44 +0000 UTC |
+| 1 | [pruebaspotify](https://github.com/zMichael2/pruebaspotify) |  | 2022-09-09 00:36:05 +0000 UTC |
+| 1 | [Nodejs_Authentication](https://github.com/rahulrajamani31/Nodejs_Authentication) |  | 2022-09-09 00:48:02 +0000 UTC |
+| 1 | [Api-Task-Organization-with-swagger](https://github.com/VicenteOgalde/Api-Task-Organization-with-swagger) |  | 2022-09-09 01:33:36 +0000 UTC |
+| 1 | [brianfontichelliedi](https://github.com/lautaroluzbrian/brianfontichelliedi) | es una pagina creada para un tp de programacion web | 2022-09-09 00:19:45 +0000 UTC |
+| 1 | [web-project-](https://github.com/Minhaj9906/web-project-) |  | 2022-09-09 01:32:34 +0000 UTC |
+| 1 | [Lobinhobaji](https://github.com/Lobinhobaji/Lobinhobaji) | Config files for my GitHub profile. | 2022-09-09 00:19:43 +0000 UTC |
+| 1 | [youtube-downloader](https://github.com/xB0SsZz/youtube-downloader) |  | 2022-09-09 00:09:18 +0000 UTC |
+| 1 | [Create-Dapps-Faster](https://github.com/coderRaj07/Create-Dapps-Faster) |  | 2022-09-09 01:12:11 +0000 UTC |
+| 1 | [RodrigoPad](https://github.com/INeonysI/RodrigoPad) |  | 2022-09-09 01:07:14 +0000 UTC |
+| 1 | [BdC](https://github.com/cristobaldominguez/BdC) |  | 2022-09-09 01:29:43 +0000 UTC |
+| 1 | [Estudos-Programacao-HTML5](https://github.com/Leosonicx/Estudos-Programacao-HTML5) | Meus estudos de programação de HTML5 | 2022-09-09 00:55:28 +0000 UTC |
+| 1 | [SILENT-DOC-EXPLOIT-CLEAN-io](https://github.com/codingcore2/SILENT-DOC-EXPLOIT-CLEAN-io) |  | 2022-09-09 00:04:45 +0000 UTC |
+| 1 | [tableau_assessment](https://github.com/sedewalt/tableau_assessment) | Tableau assessment utilizing flight data  | 2022-09-09 00:37:50 +0000 UTC |
+| 1 | [WeComOpenSDK](https://github.com/cn-zhucl/WeComOpenSDK) |  | 2022-09-09 00:48:05 +0000 UTC |
+| 1 | [Responsive-Header-With-Navigation-Menu](https://github.com/sejarparvez/Responsive-Header-With-Navigation-Menu) |  | 2022-09-09 00:36:37 +0000 UTC |
+| 1 | [leandro-monzon-cloroya](https://github.com/leandrodm8/leandro-monzon-cloroya) | Actualización | 2022-09-09 00:47:37 +0000 UTC |
+| 1 | [site-bio-sifilis](https://github.com/lean-dro/site-bio-sifilis) | Site desenvolvido para apresentar e explicar mais sobre a Sífilis. Esse site é um projeto interdisciplinar entre as matérias de PW, PAM e BIO. | 2022-09-09 00:25:10 +0000 UTC |
+| 1 | [trabalhos-finais](https://github.com/joaopauloaramuni/trabalhos-finais) |  | 2022-09-09 01:11:27 +0000 UTC |
+| 1 | [lampada-js](https://github.com/GiovannaSDJ/lampada-js) |  | 2022-09-09 01:25:02 +0000 UTC |
+| 1 | [Churn-Test](https://github.com/BhanaramChoudhary/Churn-Test) | library used Pandas, Numpy, sklearn.model_selection(train_test_split), Tree(DecisionTreeClassifier), metrics, RandomForestClassifier, Time, GridSearchCV, RandomizedSearchCV,  | 2022-09-09 01:38:53 +0000 UTC |
+| 0 | [flutter-webview-](https://github.com/ayuariesta/flutter-webview-) | Praktikum Flutter WebView TSA | 2022-09-09 00:09:27 +0000 UTC |
+| 0 | [pedro](https://github.com/Bill2093/pedro) |  | 2022-09-09 00:01:18 +0000 UTC |
+| 0 | [eleventy-blog-mnml](https://github.com/tigsfan/eleventy-blog-mnml) |  | 2022-09-09 00:00:10 +0000 UTC |
+| 0 | [portfolio](https://github.com/jandrev1312/portfolio) | Personal portfolio & blog | 2022-09-09 00:02:53 +0000 UTC |
+| 0 | [dex-daddy-sdk](https://github.com/ninjadev0706/dex-daddy-sdk) | daddy dex sdk | 2022-09-09 00:02:44 +0000 UTC |
+| 0 | [app-journey-journal](https://github.com/jzkime/app-journey-journal) | A single page web application designed using React to act as a personal journal of your journey | 2022-09-09 00:04:42 +0000 UTC |
+| 0 | [MgAndalGatchalian](https://github.com/AaronAndal/MgAndalGatchalian) |  | 2022-09-09 00:08:05 +0000 UTC |
+| 0 | [pjmd](https://github.com/consultant-github/pjmd) |  | 2022-09-09 00:05:34 +0000 UTC |
+| 0 | [test](https://github.com/aryajavidi/test) |  | 2022-09-09 00:08:34 +0000 UTC |
+| 0 | [app-angular](https://github.com/ricardochomicz/app-angular) |  | 2022-09-09 00:09:03 +0000 UTC |
+| 0 | [excelproject](https://github.com/alexvazquez7/excelproject) |  | 2022-09-09 00:07:02 +0000 UTC |
+| 0 | [David-Perfil](https://github.com/DavidRomeroC/David-Perfil) | Sitio personal | 2022-09-09 00:03:43 +0000 UTC |
+| 0 | [portfolio](https://github.com/Byenior/portfolio) |  | 2022-09-09 00:00:03 +0000 UTC |
+| 0 | [online_retail_rfm_analysis](https://github.com/YigitAgalar/online_retail_rfm_analysis) |  | 2022-09-09 00:06:27 +0000 UTC |
+| 0 | [AtividadePI](https://github.com/FJr-Unifil/AtividadePI) | Tarefa atividade PI | 2022-09-09 00:10:18 +0000 UTC |
+| 0 | [auth-react-js](https://github.com/pajardevr/auth-react-js) |  | 2022-09-09 00:07:07 +0000 UTC |
+| 0 | [react-router-dom-v6](https://github.com/guifaxina/react-router-dom-v6) |  | 2022-09-09 00:13:07 +0000 UTC |
+| 0 | [Micromouse](https://github.com/nolo701/Micromouse) | This is the code for my UVM Micromouse Team | 2022-09-09 00:07:58 +0000 UTC |
+| 0 | [jruggles](https://github.com/jruggles/jruggles) | Config files for my GitHub profile. | 2022-09-09 00:12:37 +0000 UTC |
+| 0 | [CS50-](https://github.com/stepham10/CS50-) | CS50 Course Assignments | 2022-09-09 00:04:30 +0000 UTC |
+| 0 | [EleeMu](https://github.com/EleeMu/EleeMu) | Config files for my GitHub profile. | 2022-09-09 00:05:16 +0000 UTC |
+| 0 | [VagnesSilva](https://github.com/VagnesSilva/VagnesSilva) | Criando meu perfil no Github | 2022-09-09 00:03:16 +0000 UTC |
+| 0 | [erro-do-theo](https://github.com/theoligorio/erro-do-theo) |  | 2022-09-09 00:02:15 +0000 UTC |
+| 0 | [front-end-exercises](https://github.com/math180/front-end-exercises) | Aqui estão todos os exercícios desenvolvidos do módulo de Front-End | 2022-09-09 00:06:26 +0000 UTC |
+| 0 | [erm_ub](https://github.com/arfianjoko/erm_ub) |  | 2022-09-09 00:04:03 +0000 UTC |
+| 0 | [ifdk](https://github.com/ifdk/ifdk) | Config files for my GitHub profile. | 2022-09-09 00:08:43 +0000 UTC |
+| 0 | [Prototipo-Heroko](https://github.com/Azul-Hortencia-IJobs/Prototipo-Heroko) |  | 2022-09-09 00:09:18 +0000 UTC |
+| 0 | [Marshall-Assignment](https://github.com/Marshallcode08/Marshall-Assignment) | UNCC Bootcamp submission | 2022-09-09 00:09:34 +0000 UTC |
+| 0 | [Nestjs-Cron-Dai-Transactions-Logger](https://github.com/markpking2/Nestjs-Cron-Dai-Transactions-Logger) | An NX monorepo with a Nest.js REST API and Node Cron service stores latest DAI transactions/balances and logs API requests. | 2022-09-09 00:10:51 +0000 UTC |
+| 0 | [relizc.github.io](https://github.com/Relizc/relizc.github.io) | website pages | 2022-09-09 00:07:19 +0000 UTC |
+| 0 | [belly_button_biodiversity](https://github.com/17keerti/belly_button_biodiversity) |  | 2022-09-09 00:14:48 +0000 UTC |
+| 0 | [Projeto-62](https://github.com/Davicnves/Projeto-62) |  | 2022-09-09 00:13:25 +0000 UTC |
 
