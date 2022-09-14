@@ -1,103 +1,103 @@
 | Stars | Name | Desc | Created | 
 | ----- | ------- | ------------- | ------------- |
-| 7 | [d](https://github.com/BraVera51/d) |  | 2022-09-13 00:01:56 +0000 UTC |
-| 2 | [regulf-react](https://github.com/america-transparente/regulf-react) | 🔍 Remake of Reguleque's front-end, a search engine for government employees. Maintained by the América Transparente foundation. | 2022-09-13 01:00:49 +0000 UTC |
-| 1 | [Ki-HeonLee.github.io](https://github.com/Ki-HeonLee/Ki-HeonLee.github.io) |  | 2022-09-13 00:29:50 +0000 UTC |
-| 1 | [Call-Of-Duty-WZ-Cyo-Cheat](https://github.com/CheaterHUB1/Call-Of-Duty-WZ-Cyo-Cheat) | Call Of Duty WarZone Exclusive Cheat with SoftAim  AimBot  ESP Player  Special Options (cracked paid version) | 2022-09-13 01:35:45 +0000 UTC |
-| 1 | [inmo100](https://github.com/inmo100/inmo100) |  | 2022-09-13 01:08:41 +0000 UTC |
-| 1 | [TopDownMovement](https://github.com/yangmingxian/TopDownMovement) |  | 2022-09-13 01:03:10 +0000 UTC |
-| 1 | [pentesting-toolkit-on-docker](https://github.com/sujayadkesar/pentesting-toolkit-on-docker) | A multi-platform penetration testing toolkit that can be set-up with Docker 🐋 | 2022-09-13 01:25:13 +0000 UTC |
-| 1 | [saeed](https://github.com/Blacksabbath1985/saeed) | S@eed198584 | 2022-09-13 00:47:38 +0000 UTC |
-| 1 | [SouthPoem.githun.io](https://github.com/SouthPoem1918/SouthPoem.githun.io) | Person github | 2022-09-13 00:52:47 +0000 UTC |
-| 1 | [Pruebas_Python_2](https://github.com/juaneliang/Pruebas_Python_2) | , | 2022-09-13 01:20:11 +0000 UTC |
-| 1 | [Rainbow-6-Siege-Cheat-CheaterHub](https://github.com/CheaterHUB1/Rainbow-6-Siege-Cheat-CheaterHub) | Raibow 6 seige cheat coded by CheatHub Cheat include Spoofer aimbot 30 features | 2022-09-13 01:35:45 +0000 UTC |
-| 1 | [Robux-Generator-For-Roblox](https://github.com/CheaterHUB1/Robux-Generator-For-Roblox) | Robux cheat generator for Roblox Coded by Cheathub no limit 99 Undetected | 2022-09-13 01:35:48 +0000 UTC |
-| 1 | [CSGO-cheat-Time2win](https://github.com/CheaterHUB1/CSGO-cheat-Time2win) | CSGO cheat from Time2win Over 50 Features 100% undetected Cheat including spoofer for better protection | 2022-09-13 01:35:47 +0000 UTC |
-| 1 | [cungphuot-ssr](https://github.com/anhthi-ieig/cungphuot-ssr) |  | 2022-09-13 00:24:00 +0000 UTC |
-| 1 | [CS50-PROGRESS](https://github.com/Davidalejandroballensanchez/CS50-PROGRESS) |  | 2022-09-13 00:25:38 +0000 UTC |
-| 1 | [umbrella-girl-man-rain-dove-far-unfinished-letter](https://github.com/imxaander/umbrella-girl-man-rain-dove-far-unfinished-letter) | wow you got it. chat mo q pag nakuha mo | 2022-09-13 00:56:01 +0000 UTC |
-| 1 | [SILENT-EXCEL-XLS-EXPLOIT-CLEAN-er](https://github.com/codingcore2/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-er) |  | 2022-09-13 00:30:06 +0000 UTC |
-| 1 | [Moody-Punks](https://github.com/limdog/Moody-Punks) | Crypto Punk Derivitive who's mood changes based on the Ethereum price | 2022-09-13 01:14:46 +0000 UTC |
-| 1 | [memories-app](https://github.com/bibekbastolaa/memories-app) |  | 2022-09-13 01:30:32 +0000 UTC |
-| 1 | [Sales_analysis_project](https://github.com/FavourOgboi/Sales_analysis_project) | A data analysis project on sales data | 2022-09-13 00:02:06 +0000 UTC |
-| 1 | [REST-API-Express-TypeScript](https://github.com/mxnuchim/REST-API-Express-TypeScript) | REST API built with Node.js, MongoDB, Mongoose & TypeScript. I also dabbled with Docker and Caddy for deployments | 2022-09-13 00:19:29 +0000 UTC |
-| 1 | [clear_the_bench](https://github.com/theloosygoose/clear_the_bench) | Website for NBA Analytics | 2022-09-13 00:25:59 +0000 UTC |
-| 1 | [proxy-profiler](https://github.com/enseitankado/proxy-profiler) | This tool profiles HTTP/SOCKS proxy(s) as multithreaded and find good proxies. | 2022-09-13 00:31:56 +0000 UTC |
-| 1 | [Lunar-Genshin-Impact-Cracked-Cheat](https://github.com/CheaterHUB1/Lunar-Genshin-Impact-Cracked-Cheat) | Lunar Genshin Impact Cheat FEATURES  2D Boxes Snaplines PlayerInfo HealthBar WeaponInfo MouseAimbot SilentAimbot  40 MORE | 2022-09-13 01:35:45 +0000 UTC |
-| 1 | [WarZone-Helper-Cheaterhub](https://github.com/CheaterHUB1/WarZone-Helper-Cheaterhub) | Call Of Duty  WarZone Exclusive Cheat with SoftAim AimBot ESP Player Special Options (cracked paid version) | 2022-09-13 01:35:45 +0000 UTC |
-| 1 | [Minecraft-Private-Cheat-created-by-CheatHub](https://github.com/CheaterHUB1/Minecraft-Private-Cheat-created-by-CheatHub) | Minecraft cheat coded by CheatHub 98 undetected Over 50 FEATURES | 2022-09-13 01:35:45 +0000 UTC |
-| 1 | [angular-template](https://github.com/JasonI136/angular-template) | A template for basic Angular Web Applications, includes navbar, basic routing and material UI/bootstrap elements  | 2022-09-13 01:12:10 +0000 UTC |
-| 1 | [cbt](https://github.com/Cthultist/cbt) |  | 2022-09-13 00:04:49 +0000 UTC |
-| 1 | [rv-laravel-vue-starter](https://github.com/kirillz/rv-laravel-vue-starter) |  | 2022-09-13 00:23:13 +0000 UTC |
-| 1 | [tixing](https://github.com/306147995/tixing) |  | 2022-09-13 01:12:20 +0000 UTC |
-| 1 | [To-Do_DRF_APP](https://github.com/Marrowsed/To-Do_DRF_APP) | To-Do DRF APP Using React | 2022-09-13 01:04:12 +0000 UTC |
-| 1 | [MovieApp_WebDev](https://github.com/lharo/MovieApp_WebDev) |  | 2022-09-13 00:43:08 +0000 UTC |
-| 1 | [CSGO-skin-changer-Cheathub](https://github.com/CheaterHUB1/CSGO-skin-changer-Cheathub) | CSGO Skin Changer Coded by CheaterHub Undetected | 2022-09-13 01:35:45 +0000 UTC |
-| 1 | [BookwormAPI.Solution](https://github.com/ampando/BookwormAPI.Solution) |  | 2022-09-13 01:21:57 +0000 UTC |
-| 1 | [Back-4-Blood-Cheathub](https://github.com/CheaterHUB1/Back-4-Blood-Cheathub) | Cheat for Back 4 Blood Coded by Cheathub Cheat include AIMBOT ESP WALLHACK BUILD IN SPOOFER 20 FEATURES | 2022-09-13 01:35:45 +0000 UTC |
-| 1 | [Time2Win-ApexLegends-PrivateCheat](https://github.com/CheaterHUB1/Time2Win-ApexLegends-PrivateCheat) | Apex Legends Venox cheat cracked  Including AimBot  ESP  Different FOV  50 MORE FEATURES! | 2022-09-13 01:35:45 +0000 UTC |
-| 1 | [Hazel](https://github.com/lisigg1998/Hazel) | Hazel game engine. | 2022-09-13 01:07:26 +0000 UTC |
-| 1 | [myGui-SendingEmail](https://github.com/stevenhornghub/myGui-SendingEmail) | My first develop GUI with intellij and java that can send email. | 2022-09-13 00:57:56 +0000 UTC |
-| 1 | [https-github.com-soyHenry-Prep-Course-B](https://github.com/cachaofpower/https-github.com-soyHenry-Prep-Course-B) |  | 2022-09-13 00:56:17 +0000 UTC |
-| 1 | [Forza-Horizon-5-CheatHub](https://github.com/CheaterHUB1/Forza-Horizon-5-CheatHub) | Forza Horizon 5 cheat coded by CheatHub Cheat Include spoofer  undetected   10 features | 2022-09-13 01:35:44 +0000 UTC |
-| 1 | [RUST-Crecked-Cheat-From-GoldenCheat](https://github.com/CheaterHUB1/RUST-Crecked-Cheat-From-GoldenCheat) | Rust Cheat Cracked from GoldenCheat Cheats include the RUST aimbot spoofer 50 features (Paid version) | 2022-09-13 01:35:45 +0000 UTC |
-| 1 | [Roblox-Aimbot-CheatHub](https://github.com/CheaterHUB1/Roblox-Aimbot-CheatHub) | Roblox Aimbot coded by cheathub 100 Undetected Cheat including spoofer | 2022-09-13 01:35:45 +0000 UTC |
-| 1 | [5_project](https://github.com/wwwljt/5_project) | 一起项目 | 2022-09-13 00:35:07 +0000 UTC |
-| 1 | [Fortnite-Cheathub-with-spoofer](https://github.com/CheaterHUB1/Fortnite-Cheathub-with-spoofer) | CheatHub Fortnite RageCheat V2.0.0  Features  AimBot  PixelBot ESP  Different FOV  SoftAim  ESP | 2022-09-13 01:35:44 +0000 UTC |
-| 1 | [Paladins-L0ks-Cheat-Leaked-By-Wiki](https://github.com/CheaterHUB1/Paladins-L0ks-Cheat-Leaked-By-Wiki) | Paladins L0ks LeakedCheat by Wiki  Including ESPHack  AimBot Hack  NoRecoil  TPP  50 MORE | 2022-09-13 01:35:51 +0000 UTC |
-| 1 | [Fivem-Cheat-Cracked-time2win](https://github.com/CheaterHUB1/Fivem-Cheat-Cracked-time2win) | Time2win FiveM Private Cheat  FEATURES AIMBOT  ESP   StreamProof   Infinity HP  50 MORE FEATURES | 2022-09-13 01:35:46 +0000 UTC |
-| 1 | [ty.github.io](https://github.com/tianyangz/ty.github.io) |  | 2022-09-13 01:04:55 +0000 UTC |
-| 1 | [GavinDewey007.github.io](https://github.com/GavinDewey007/GavinDewey007.github.io) |  | 2022-09-13 00:29:47 +0000 UTC |
-| 1 | [nlw-eSports-frontend](https://github.com/natalia-fs/nlw-eSports-frontend) |  | 2022-09-13 00:19:44 +0000 UTC |
-| 1 | [sitioWeb_Curriculum-](https://github.com/Ricardo-Patino/sitioWeb_Curriculum-) | Curriculum Vitae HTML | 2022-09-13 00:24:23 +0000 UTC |
-| 1 | [Eulen-Cracked-Fivem-Cheat-Lua-Executor](https://github.com/CheaterHUB1/Eulen-Cracked-Fivem-Cheat-Lua-Executor) | Eulen Cheat for FIVEM Craked from Eulencheats Cheat include Lua Executor Dumper SHBypass and Resource Blocker ESP Streamproof | 2022-09-13 01:35:44 +0000 UTC |
-| 1 | [Alejandro-Fierro.github.io](https://github.com/Alejandro-Fierro/Alejandro-Fierro.github.io) |  | 2022-09-13 00:10:20 +0000 UTC |
-| 1 | [drinkUp](https://github.com/MoisesCard/drinkUp) |  | 2022-09-13 00:12:10 +0000 UTC |
-| 1 | [cungphuot-node](https://github.com/anhthi-ieig/cungphuot-node) |  | 2022-09-13 00:27:01 +0000 UTC |
-| 1 | [crud-python](https://github.com/huggosouza/crud-python) | A basic CRUD made with Python, I'm still working on it. | 2022-09-13 00:09:20 +0000 UTC |
-| 1 | [myapex](https://github.com/arturzxc/myapex) |  | 2022-09-13 00:02:46 +0000 UTC |
-| 1 | [Flutter](https://github.com/JeongHyeon2/Flutter) |  | 2022-09-13 00:17:37 +0000 UTC |
-| 1 | [Micro_Reconstruction](https://github.com/nagda95/Micro_Reconstruction) |  | 2022-09-13 00:26:47 +0000 UTC |
-| 1 | [Projweb](https://github.com/matheus-costa/Projweb) |  | 2022-09-13 00:49:23 +0000 UTC |
-| 1 | [hive-social-wellness](https://github.com/anillag/hive-social-wellness) |  | 2022-09-13 00:08:09 +0000 UTC |
-| 1 | [App07YouTube-Flutter-](https://github.com/luislimamn/App07YouTube-Flutter-) | App para mostar videos do Youtube de um Canal usando a API | 2022-09-13 01:21:45 +0000 UTC |
-| 1 | [CPP-Programs](https://github.com/Abhishekkusalkar/CPP-Programs) | This repository contains some of the C++Program. | 2022-09-13 01:08:08 +0000 UTC |
-| 1 | [340CT-BookStore](https://github.com/Darshendran99/340CT-BookStore) |  | 2022-09-13 01:07:32 +0000 UTC |
-| 1 | [direct_visual_lidar_calibration](https://github.com/koide3/direct_visual_lidar_calibration) |  | 2022-09-13 01:06:03 +0000 UTC |
-| 1 | [RDR2-Cheat-Cracked-from-Veterancheat](https://github.com/CheaterHUB1/RDR2-Cheat-Cracked-from-Veterancheat) | Red Dead Redemption 2 PrivateCheat  Including Unlimited Health  Unlimited Energy  Unlimited Deadeye  Unlimited Focus  50 MORE | 2022-09-13 01:35:45 +0000 UTC |
-| 1 | [Imimacie](https://github.com/Imimacie/Imimacie) | Config files for my GitHub profile. | 2022-09-13 00:36:17 +0000 UTC |
-| 1 | [LeoMerc.github.io](https://github.com/LeoMerc/LeoMerc.github.io) |  | 2022-09-13 00:10:38 +0000 UTC |
-| 1 | [COSE-22-2](https://github.com/doodoo1014/COSE-22-2) |  | 2022-09-13 00:43:40 +0000 UTC |
-| 1 | [chompy](https://github.com/seanaye/chompy) | Powerful server fetch primitives for Deno | 2022-09-13 01:12:32 +0000 UTC |
-| 1 | [Overwatch-Cheat-Craked-Bettlelog](https://github.com/CheaterHUB1/Overwatch-Cheat-Craked-Bettlelog) | Overwatch Cheat CRACKED FROM BATTLELOG Cheat Include Aimbot  ESP  UNDETECTED (Paid version) | 2022-09-13 01:35:48 +0000 UTC |
-| 1 | [EduShare](https://github.com/KyleIsaak/EduShare) | A video conferencing app prototype that we created for CMPT 363 (User Interface Design) at Simon Fraser University. It is designed to solve problems that we currently have with today's most popular video conferencing platforms that are used for remote learning. View on Youtube: https://youtu.be/JgF1-B4YaxA | 2022-09-13 00:15:07 +0000 UTC |
-| 1 | [indecision-App](https://github.com/KhaledGharib/indecision-App) | React App | 2022-09-13 00:48:35 +0000 UTC |
-| 1 | [Reviews](https://github.com/SDC-Samwise/Reviews) |  | 2022-09-13 00:25:03 +0000 UTC |
-| 1 | [Atividade-Python-2](https://github.com/isaac-diniz/Atividade-Python-2) | atividade dia 12 de setembro (3 questões) | 2022-09-13 01:25:12 +0000 UTC |
-| 1 | [Stargrafix](https://github.com/Stargrafix/Stargrafix) | Config files for my GitHub profile. | 2022-09-13 01:20:53 +0000 UTC |
-| 1 | [Valorant-Omnis-PrivateCheat-With-50-Features](https://github.com/CheaterHUB1/Valorant-Omnis-PrivateCheat-With-50-Features) | Valorant Omnis Premium Cheat  ESP  AIMBOT  SOFTAIM  80 FEATURES | 2022-09-13 01:35:45 +0000 UTC |
-| 1 | [-](https://github.com/Sohaib2008/-) |  | 2022-09-13 00:55:38 +0000 UTC |
-| 1 | [livrarias-tigre-azul](https://github.com/WedleySilva/livrarias-tigre-azul) |  | 2022-09-13 01:09:21 +0000 UTC |
-| 1 | [aws-lambda-snowflake-query-handler](https://github.com/Hitsu-360/aws-lambda-snowflake-query-handler) | AWS Lambda written in Python that issue queries against Snowflake | 2022-09-13 00:40:14 +0000 UTC |
-| 1 | [random-quotes-machine](https://github.com/RobinWonKenoBY/random-quotes-machine) |  | 2022-09-13 00:03:33 +0000 UTC |
-| 1 | [Vanguard-Cheathub](https://github.com/CheaterHUB1/Vanguard-Cheathub) | Call Of Duty  VanGuard Exclusive Cheat with SoftAim   AimBot   ESP Player   Special Options (cracked paid version) | 2022-09-13 01:35:45 +0000 UTC |
-| 1 | [SILENT-PDF-EXPLOIT-CLEAN-er](https://github.com/codingcore2/SILENT-PDF-EXPLOIT-CLEAN-er) |  | 2022-09-13 00:29:26 +0000 UTC |
-| 1 | [QR-Code-Python](https://github.com/sercanefe/QR-Code-Python) | qr code with python | 2022-09-13 00:03:05 +0000 UTC |
-| 1 | [Anx-ious](https://github.com/Anx-ious/Anx-ious) | Config files for my GitHub profile. | 2022-09-13 00:44:31 +0000 UTC |
-| 1 | [blog-django](https://github.com/StivenB23/blog-django) |  | 2022-09-13 00:37:41 +0000 UTC |
-| 1 | [SP_GHPage](https://github.com/MiguelAdrianHV/SP_GHPage) |  | 2022-09-13 00:36:32 +0000 UTC |
-| 1 | [Coachify](https://github.com/ArshdeepSB/Coachify) | A python OOP project that allows students to book times according to coach's availability, can handle cancellations from coach, manages monthly costs and fees, and lastly notifies coach and students regarding classes and payments.  | 2022-09-13 01:19:08 +0000 UTC |
-| 1 | [exercise](https://github.com/luxebeng/exercise) | exercise code | 2022-09-13 00:21:59 +0000 UTC |
-| 0 | [Cryptocurrencies](https://github.com/topeadeolatunji/Cryptocurrencies) | Supervised machine learning | 2022-09-13 00:15:32 +0000 UTC |
-| 0 | [flutter-doc-build-ozer-test](https://github.com/renabriseno68/flutter-doc-build-ozer-test) |  | 2022-09-13 00:15:14 +0000 UTC |
-| 0 | [landing_cdb_2023](https://github.com/santiag0CJ/landing_cdb_2023) |  | 2022-09-13 00:16:51 +0000 UTC |
-| 0 | [link-shortener-front-end](https://github.com/jeffersonmatheusdev/link-shortener-front-end) | A simple front-end to consume the API provided by the beck-end link shortener. | 2022-09-13 00:10:19 +0000 UTC |
-| 0 | [3A_RijalAmmar_Mobile01](https://github.com/rijalammar1/3A_RijalAmmar_Mobile01) |  | 2022-09-13 00:16:07 +0000 UTC |
-| 0 | [DataPrism](https://github.com/sainyam/DataPrism) |  | 2022-09-13 00:15:30 +0000 UTC |
-| 0 | [Practica-09-09](https://github.com/carlos0651/Practica-09-09) |  | 2022-09-13 00:16:33 +0000 UTC |
-| 0 | [NLW-Esports](https://github.com/DurvalCavalcante/NLW-Esports) |  | 2022-09-13 00:18:01 +0000 UTC |
-| 0 | [NLW-Esports](https://github.com/ulrichsantos/NLW-Esports) |  | 2022-09-13 00:17:30 +0000 UTC |
-| 0 | [608-mod4](https://github.com/declayton/608-mod4) |  | 2022-09-13 00:12:45 +0000 UTC |
-| 0 | [algorithm](https://github.com/mooncode610/algorithm) |  | 2022-09-13 00:17:39 +0000 UTC |
-| 0 | [test](https://github.com/minggg1125/test) | project | 2022-09-13 00:13:32 +0000 UTC |
+| 2 | [PetRental](https://github.com/Codesmith-reinforcment-project/PetRental) | PawPass(?) | 2022-09-14 01:04:47 +0000 UTC |
+| 2 | [AndroidAdbWifiUtils](https://github.com/AweiLoveAndroid/AndroidAdbWifiUtils) | This is an IDEA plugin that allows you to connect Android devices via WiFi for debugging your codes. | 2022-09-14 00:10:13 +0000 UTC |
+| 2 | [DreamBook_FE](https://github.com/pdthomson/DreamBook_FE) |  | 2022-09-14 00:06:24 +0000 UTC |
+| 2 | [DnD-Project](https://github.com/aalissy/DnD-Project) |  | 2022-09-14 00:05:19 +0000 UTC |
+| 1 | [Sierpinskitriangle](https://github.com/yosis2003/Sierpinskitriangle) |  | 2022-09-14 00:29:43 +0000 UTC |
+| 1 | [HeartRing](https://github.com/SakuraKoi/HeartRing) |  | 2022-09-14 00:24:02 +0000 UTC |
+| 1 | [selection-sort](https://github.com/Veidz/selection-sort) |  | 2022-09-14 01:33:12 +0000 UTC |
+| 1 | [QandA](https://github.com/sno-sdc4-legolas/QandA) |  | 2022-09-14 01:03:02 +0000 UTC |
+| 1 | [Bypass-AV](https://github.com/kinda29487h/Bypass-AV) | Bypass all antivirus and windows defender 11 | 2022-09-14 00:48:11 +0000 UTC |
+| 1 | [Reinforcement-Learning](https://github.com/princeklat03/Reinforcement-Learning) |  | 2022-09-14 00:55:47 +0000 UTC |
+| 1 | [BSC_CUSTOM_TOKEN_CONTRACT](https://github.com/HP-Monster-0315/BSC_CUSTOM_TOKEN_CONTRACT) |  | 2022-09-14 00:35:56 +0000 UTC |
+| 1 | [IPC2_EJE_2](https://github.com/Teitan67/IPC2_EJE_2) | Este es el segundo ejemplo de POO en Python | 2022-09-14 00:33:43 +0000 UTC |
+| 1 | [Lu4N-M0ur4](https://github.com/Lu4n-M0ur4/Lu4N-M0ur4) |  | 2022-09-14 00:17:46 +0000 UTC |
+| 1 | [que-encrypt.github.io](https://github.com/que-encrypt/que-encrypt.github.io) | This is my personal blog! Now it has comments and is better than before! | 2022-09-14 01:21:50 +0000 UTC |
+| 1 | [JavaScriptExercises2.0](https://github.com/HenryDemetrio/JavaScriptExercises2.0) | Now only using a .js file, w/o html | 2022-09-14 00:03:41 +0000 UTC |
+| 1 | [CosmicMod](https://github.com/ConstantDust/CosmicMod) | a vanilla plus mod to generally improve the game and add content | 2022-09-14 01:11:07 +0000 UTC |
+| 1 | [mi349fs22-3](https://github.com/jsiarto/mi349fs22-3) |  | 2022-09-14 00:25:39 +0000 UTC |
+| 1 | [RocioArdanaz](https://github.com/RocioArdanaz/RocioArdanaz) | Config files for my GitHub profile. | 2022-09-14 00:58:48 +0000 UTC |
+| 1 | [walmart](https://github.com/softBelle/walmart) |  | 2022-09-14 00:07:04 +0000 UTC |
+| 1 | [zoom-directory-project](https://github.com/sweetfreak/zoom-directory-project) |  | 2022-09-14 00:33:11 +0000 UTC |
+| 1 | [relmscorp](https://github.com/suppressant/relmscorp) |  | 2022-09-14 00:14:50 +0000 UTC |
+| 1 | [wacz-uploader](https://github.com/webrecorder/wacz-uploader) | A straightforward single page application for uploading your WACZ archives to IPFS | 2022-09-14 00:56:04 +0000 UTC |
+| 1 | [testes-automatizados](https://github.com/jorgeelucas/testes-automatizados) | testes-automatizados | 2022-09-14 01:00:54 +0000 UTC |
+| 1 | [DreamBook_BE](https://github.com/pdthomson/DreamBook_BE) |  | 2022-09-14 00:05:00 +0000 UTC |
+| 1 | [umarche](https://github.com/Asahi-Kimura/umarche) |  | 2022-09-14 00:08:27 +0000 UTC |
+| 1 | [Faculdade](https://github.com/Brennoao/Faculdade) | Repositório de arquivos feitos da Faculdade | 2022-09-14 00:30:47 +0000 UTC |
+| 1 | [JavaScript-Variaveis-Tipos-Operadores](https://github.com/Maxnegrao33/JavaScript-Variaveis-Tipos-Operadores) | Algumas funções do JavaScript | 2022-09-14 00:06:49 +0000 UTC |
+| 1 | [pocket-vanitygen](https://github.com/okdas/pocket-vanitygen) | Generates beautiful pocket network addresses - as you'd like them to look like! | 2022-09-14 00:56:05 +0000 UTC |
+| 1 | [EltawilWEB](https://github.com/Adham-ELtawil/EltawilWEB) |  | 2022-09-14 00:14:03 +0000 UTC |
+| 1 | [hotel-booking](https://github.com/risto0301/hotel-booking) |  | 2022-09-14 00:15:33 +0000 UTC |
+| 1 | [comision34780maju](https://github.com/sebazio/comision34780maju) |  | 2022-09-14 00:01:35 +0000 UTC |
+| 1 | [scene-loader](https://github.com/myunitytools/scene-loader) | A package that standardizes the scene loading process among many different possibilities, including support for Coroutines, C# Tasks, UniTask and Addressables. | 2022-09-14 00:59:44 +0000 UTC |
+| 1 | [AndryuLuna.github.io](https://github.com/AndryuLuna/AndryuLuna.github.io) | Para mi muje | 2022-09-14 01:12:16 +0000 UTC |
+| 1 | [nand-2-tetris](https://github.com/HenryDemetrio/nand-2-tetris) | Projetos de Gates Lógicos para Lógica Booleana e Aritimética  | 2022-09-14 00:31:35 +0000 UTC |
+| 1 | [Projeto-final-Hubfarma](https://github.com/squad15-recodepro/Projeto-final-Hubfarma) | Visite o site aqui: https://squad15-recodepro.github.io/Projeto-final-Hubfarma/Hubfarma-website/ | 2022-09-14 00:00:47 +0000 UTC |
+| 1 | [bitcoin_wallet](https://github.com/andrew8609/bitcoin_wallet) | This repo is a bitcoin wallet demo.  | 2022-09-14 00:08:17 +0000 UTC |
+| 1 | [Desafio7](https://github.com/Luxcrift/Desafio7) |  | 2022-09-14 00:12:23 +0000 UTC |
+| 1 | [angular13](https://github.com/sunbin001/angular13) |  | 2022-09-14 01:05:58 +0000 UTC |
+| 1 | [tribute-page](https://github.com/shukiah/tribute-page) | project using HTML5 e CSS3 | 2022-09-14 01:02:49 +0000 UTC |
+| 1 | [Z5-0](https://github.com/Z5-0/Z5-0) | Config files for my GitHub profile. | 2022-09-14 00:06:40 +0000 UTC |
+| 1 | [FREQS-Mainnet-Token](https://github.com/graceful-coder/FREQS-Mainnet-Token) | My code to deploy a fungible token on Solana mainnet with metadata using Metaplex :P | 2022-09-14 00:18:14 +0000 UTC |
+| 1 | [CinemaTopy-front](https://github.com/gabao55/CinemaTopy-front) |  | 2022-09-14 00:25:41 +0000 UTC |
+| 1 | [instalacao-virtualbox-estrutura-computacional](https://github.com/alexjuniorr/instalacao-virtualbox-estrutura-computacional) | Tutorial de instalação do Virtualbox e da distribuição Ubuntu | 2022-09-14 00:09:36 +0000 UTC |
+| 1 | [EANExtractor](https://github.com/kamil-korczak/EANExtractor) |  | 2022-09-14 01:05:51 +0000 UTC |
+| 1 | [mvc-crud](https://github.com/Nuriddin321/mvc-crud) |  | 2022-09-14 00:24:51 +0000 UTC |
+| 1 | [FelipeREposi](https://github.com/tonbr4ga/FelipeREposi) |  | 2022-09-14 00:48:26 +0000 UTC |
+| 1 | [laravel-rest-api](https://github.com/Kimbarona/laravel-rest-api) |  | 2022-09-14 01:02:50 +0000 UTC |
+| 1 | [huddler](https://github.com/rafaelAugust0/huddler) | huddler collective project from FrontEndMentor | 2022-09-14 01:18:19 +0000 UTC |
+| 1 | [MyPythonBasic-Advance](https://github.com/amandeepchaudhary/MyPythonBasic-Advance) |  | 2022-09-14 00:54:37 +0000 UTC |
+| 1 | [script-template](https://github.com/myunitytools/script-template) | A simple tool to create and manage your script templates. | 2022-09-14 00:14:59 +0000 UTC |
+| 1 | [PythonExercises](https://github.com/HenryDemetrio/PythonExercises) | Exercícios feitos em um curso de python, para a familiarização da linguagem. | 2022-09-14 00:44:44 +0000 UTC |
+| 1 | [Ghosts](https://github.com/Subwayyyy/Ghosts) | Only you | 2022-09-14 00:44:31 +0000 UTC |
+| 1 | [DjiDji95Cle](https://github.com/DjiDji95Cle/DjiDji95Cle) | Config files for my GitHub profile. | 2022-09-14 00:42:26 +0000 UTC |
+| 1 | [Proyecto-FullStack](https://github.com/gonzaloijuarez/Proyecto-FullStack) | Repositorio para el proyecto final de full stack  | 2022-09-14 01:38:40 +0000 UTC |
+| 1 | [MTVS2022](https://github.com/metachloe/MTVS2022) | 이게 진짜(메타버스아카데미) | 2022-09-14 00:25:49 +0000 UTC |
+| 1 | [Livraria](https://github.com/LuizTozato/Livraria) |  | 2022-09-14 00:23:05 +0000 UTC |
+| 1 | [fps-counter](https://github.com/myunitytools/fps-counter) | A lightweight FPS Counter for Games and Apps made with Unity. | 2022-09-14 00:44:50 +0000 UTC |
+| 1 | [file-parse](https://github.com/lucia-kennedy/file-parse) |  | 2022-09-14 00:39:36 +0000 UTC |
+| 1 | [anaboulsi.github.io](https://github.com/hacktoberfestt/anaboulsi.github.io) |  | 2022-09-14 00:42:56 +0000 UTC |
+| 1 | [Portifolio-desafio](https://github.com/DaviFigueiredo95/Portifolio-desafio) | Treinar conceitos de Html e Css | 2022-09-14 00:19:06 +0000 UTC |
+| 1 | [cklim27](https://github.com/cklim27/cklim27) | Config files for my GitHub profile. | 2022-09-14 01:18:04 +0000 UTC |
+| 1 | [Node](https://github.com/G0nz4g4/Node) |  | 2022-09-14 00:08:37 +0000 UTC |
+| 1 | [ERC1155V](https://github.com/kalidao/ERC1155V) | Voting extension for ERC-1155 multi-token standard | 2022-09-14 00:51:28 +0000 UTC |
+| 1 | [product-preview-card](https://github.com/Lucas4lves/product-preview-card) | [Front End Mentor] Product Preview Card | 2022-09-14 01:13:21 +0000 UTC |
+| 1 | [Simple-Steam-Present-Hook](https://github.com/traumschmuser/Simple-Steam-Present-Hook) | Simple Steam Present Hook \| x64 \| dx12 | 2022-09-14 01:10:44 +0000 UTC |
+| 1 | [fluffy-code](https://github.com/chriskuehl/fluffy-code) | A developer-friendly code rendering library for Python web applications | 2022-09-14 01:11:19 +0000 UTC |
+| 0 | [CSE4550-Game](https://github.com/Jooooocx/CSE4550-Game) | 2D gaming project | 2022-09-14 00:04:49 +0000 UTC |
+| 0 | [linear_regression_Stock-price-prediciton](https://github.com/michaelho11/linear_regression_Stock-price-prediciton) |  | 2022-09-14 00:40:18 +0000 UTC |
+| 0 | [My-portfolioNYU](https://github.com/JAMES-CERO/My-portfolioNYU) |  | 2022-09-14 00:11:46 +0000 UTC |
+| 0 | [dictation](https://github.com/vanderh0ff/dictation) | generate spoken words from spelling lists for homeschool spelling tests | 2022-09-14 00:42:26 +0000 UTC |
+| 0 | [grupo30](https://github.com/interblink/grupo30) | grupo 30 desarrollo del software web | 2022-09-14 00:22:45 +0000 UTC |
+| 0 | [challenge-2-sobrien-banyan](https://github.com/Justice-Through-Code/challenge-2-sobrien-banyan) | challenge-2-sobrien-banyan created by GitHub Classroom | 2022-09-14 00:42:54 +0000 UTC |
+| 0 | [rails-yelp-mvp](https://github.com/danielacalle08/rails-yelp-mvp) |  | 2022-09-14 00:41:45 +0000 UTC |
+| 0 | [Thread-Calculo-e-Transa-es](https://github.com/rebecaSena19/Thread-Calculo-e-Transa-es) | 1) Um servidor com multiprocessamento recebe requisições que envolve realizar cálculos e fazer transações com bancos de dados. Por ter uma quantidade grande de núcleos de processamentos e threads, além de um bom algoritmo de escalonamento de threads, enquanto as threads fazem cálculos, estes podem ocorrer simultaneamente, mas quando se faz a transação no banco de dados, esta deve ser apenas uma thread por vez. Considere um conjunto de threads com IDs definidas na própria aplicação com números iniciando em 1 e incrementando de um em um. As threads tem comportamento como segue: a) Threads com ID dividido por 3 resultando em resto igual a um fazem as transações: - Cálculos de 0,2 a 1,0 segundos - Transação de BD por 1 segundo - Cálculos de 0,2 a 1,0 segundos - Transação de BD por 1 segundo b) Threads com ID dividido por 3 resultando em resto igual a dois fazem as transações: - Cálculos de 0,5 a 1,5 segundos - Transação de BD por 1,5 segundo - Cálculos de 0,5 a 1,5 segundos - Transação de BD por 1,5 segundo - Cálculos de 0,5 a 1,5 segundos - Transação de BD por 1,5 segundo c) Threads com ID dividido por 3 resultando em resto igual a zero fazem as transações: - Cálculos de 1 a 2 segundos - Transação de BD por 1,5 segundo - Cálculos de 1 a 2 segundos - Transação de BD por 1,5 segundo - Cálculos de 1 a 2 segundos - Transação de BD por 1,5 segundo Faça uma aplicação em Java que simule a situação de 21 Threads simultâneas, com exibição em console de cada passo que a Thread está realizando. | 2022-09-14 00:41:16 +0000 UTC |
+| 0 | [Ecommerce-suplement-front](https://github.com/DuarteProg/Ecommerce-suplement-front) |  | 2022-09-14 00:39:30 +0000 UTC |
+| 0 | [dsm-ies20222](https://github.com/allanwdr/dsm-ies20222) | Projeto destinado ao trabalho integrador da FATEC Cotia | 2022-09-14 00:33:36 +0000 UTC |
+| 0 | [wow](https://github.com/stevecube/wow) |  | 2022-09-14 00:43:14 +0000 UTC |
+| 0 | [projeto14-store-front](https://github.com/wallysom2/projeto14-store-front) |  | 2022-09-14 00:43:14 +0000 UTC |
+| 0 | [posgradomna-equipo89](https://github.com/joeduardoav/posgradomna-equipo89) | Proyecto 89. José Eduardo y Diego Fernando | 2022-09-14 00:42:18 +0000 UTC |
+| 0 | [devops-bootcamp](https://github.com/LucasLivrone/devops-bootcamp) |  | 2022-09-14 00:15:04 +0000 UTC |
+| 0 | [mern-auth](https://github.com/7sering/mern-auth) |  | 2022-09-14 00:43:39 +0000 UTC |
+| 0 | [Rotary-Dialer](https://github.com/Ricardo-Alday/Rotary-Dialer) | Rotary Dialer | 2022-09-14 00:14:26 +0000 UTC |
+| 0 | [Actividades-de-aprendizaje_Samara-Garc-a-Gonz-lez](https://github.com/Samara332/Actividades-de-aprendizaje_Samara-Garc-a-Gonz-lez) |  | 2022-09-14 00:45:45 +0000 UTC |
+| 0 | [packety](https://github.com/sug4rsec/packety) |  | 2022-09-14 00:45:54 +0000 UTC |
+| 0 | [GameModMidterm2022](https://github.com/xiaolongboss/GameModMidterm2022) | Quake 4 | 2022-09-14 00:22:09 +0000 UTC |
+| 0 | [Proyecto_Pastillero_2022](https://github.com/GianFaggi/Proyecto_Pastillero_2022) |  | 2022-09-14 00:31:17 +0000 UTC |
+| 0 | [my_api](https://github.com/florlema222/my_api) |  | 2022-09-14 00:34:40 +0000 UTC |
+| 0 | [220914_java](https://github.com/uucc17/220914_java) |  | 2022-09-14 00:43:09 +0000 UTC |
+| 0 | [blogs](https://github.com/jamesbaroi/blogs) | Where I write about anything and everything. | 2022-09-14 00:43:10 +0000 UTC |
+| 0 | [EthanShuler.github.io](https://github.com/EthanShuler/EthanShuler.github.io) |  | 2022-09-14 00:39:43 +0000 UTC |
+| 0 | [DigitalSE-BackEnd](https://github.com/pHBasic/DigitalSE-BackEnd) |  | 2022-09-14 00:35:56 +0000 UTC |
+| 0 | [test11](https://github.com/AlexMahDev/test11) |  | 2022-09-14 00:46:03 +0000 UTC |
+| 0 | [Azkar-App](https://github.com/MN2255/Azkar-App) |  | 2022-09-14 00:48:49 +0000 UTC |
+| 0 | [rails-yelp-mvp](https://github.com/JohnTreeland/rails-yelp-mvp) |  | 2022-09-14 00:47:57 +0000 UTC |
+| 0 | [tp2_backend](https://github.com/florenciatomassetti/tp2_backend) |  | 2022-09-14 00:46:05 +0000 UTC |
+| 0 | [First-P5-project](https://github.com/Coder-Svayam/First-P5-project) |  | 2022-09-14 00:48:41 +0000 UTC |
+| 0 | [practica](https://github.com/mateo002/practica) | Practica angular, . net , sql | 2022-09-14 00:49:36 +0000 UTC |
+| 0 | [spring-practice](https://github.com/abdykanyeva/spring-practice) |  | 2022-09-14 00:49:01 +0000 UTC |
+| 0 | [pages](https://github.com/ignacioaristo/pages) |  | 2022-09-14 00:49:23 +0000 UTC |
+| 0 | [pokemon-collector](https://github.com/0xnimbus/pokemon-collector) |  | 2022-09-14 00:49:37 +0000 UTC |
 
