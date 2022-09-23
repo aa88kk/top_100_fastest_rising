@@ -10,6 +10,7 @@
 | 0 | [Poogie](https://github.com/HunterPie/Poogie) |  | 2022-09-23 00:51:58 +0000 UTC |
 | 0 | [go-studies](https://github.com/matheus1103/go-studies) |  | 2022-09-23 01:35:51 +0000 UTC |
 | 0 | [goplayground](https://github.com/ZakyHermawan/goplayground) |  | 2022-09-23 01:25:14 +0000 UTC |
+| 0 | [nutcracker](https://github.com/DenrianWeiss/nutcracker) | Profanity PoC | 2022-09-23 01:40:07 +0000 UTC |
 | 0 | [create-a-module-go](https://github.com/Nkon-522/create-a-module-go) |  | 2022-09-23 00:15:51 +0000 UTC |
 | 0 | [go-studies](https://github.com/wallysoncarvalho/go-studies) | Go lang study project | 2022-09-23 00:52:35 +0000 UTC |
 | 0 | [GolangProject](https://github.com/BrianZhang2018/GolangProject) |  | 2022-09-23 00:25:42 +0000 UTC |
