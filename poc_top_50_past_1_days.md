@@ -1,103 +1,103 @@
 | Stars | Name | Desc | Created | 
 | ----- | ------- | ------------- | ------------- |
-| 3 | [poo-uem](https://github.com/nelsontenorio/poo-uem) |  | 2022-09-29 01:07:47 +0000 UTC |
-| 2 | [needroleshere](https://github.com/sorah/needroleshere) | Yet Another AWS IAM Roles Anywhere helper | 2022-09-29 00:28:27 +0000 UTC |
-| 2 | [menu](https://github.com/luizasalgado/menu) | Colocando em prática aprendizagem em HTML e CSS criando um menu em 3D com componentes básicos e fundo dinâmico, com gradiente mudando de cor. | 2022-09-29 00:45:41 +0000 UTC |
-| 2 | [GeleBot](https://github.com/rbm20/GeleBot) | Open-Source Discord bot for Celtic Heroes | 2022-09-29 01:26:30 +0000 UTC |
-| 1 | [react-app](https://github.com/ezeamaka2/react-app) |  | 2022-09-29 00:40:30 +0000 UTC |
-| 1 | [1_entregaReact](https://github.com/Emigroso2022/1_entregaReact) |  | 2022-09-29 00:51:35 +0000 UTC |
-| 1 | [PythonEx](https://github.com/vijayprasad23/PythonEx) |  | 2022-09-29 00:44:53 +0000 UTC |
-| 1 | [Examen1](https://github.com/ROBERTOSANCHEZ541/Examen1) | DASHBOARD POWER BI | 2022-09-29 00:43:54 +0000 UTC |
-| 1 | [pmv-ads-2022-2-e1-proj-web-t9-bares-restaurantes](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t9-bares-restaurantes) | pmv-ads-2022-2-e1-proj-web-t9-bares-restaurantes created by GitHub Classroom | 2022-09-29 00:06:03 +0000 UTC |
-| 1 | [SaHanD-S.D](https://github.com/iamsahandam/SaHanD-S.D) | GitHuB | 2022-09-29 00:03:45 +0000 UTC |
-| 1 | [not-my-story-1](https://github.com/HERMOINEHARRYPOTTER/not-my-story-1) | idk | 2022-09-29 00:02:15 +0000 UTC |
-| 1 | [TexyJoeSource](https://github.com/TexyJoe/TexyJoeSource) |  | 2022-09-29 00:24:24 +0000 UTC |
-| 1 | [Pokemon-PI](https://github.com/gastonvalles/Pokemon-PI) | Proyecto Individual de SoyHenry llevado a cabo con Sequelize como ORM de PostgresSQL, Express para Node.js en el backend y React/Redux para el frontend | 2022-09-29 00:52:59 +0000 UTC |
-| 1 | [CidaoLanches2](https://github.com/YureiOni/CidaoLanches2) | Projeto Integrador Ti37 | 2022-09-29 01:04:09 +0000 UTC |
-| 1 | [transaction_engine](https://github.com/TakudzwaMakoni/transaction_engine) | A toy engine for transactions | 2022-09-29 01:17:43 +0000 UTC |
-| 1 | [Hadiso](https://github.com/Hadison1/Hadiso) |  | 2022-09-29 01:22:59 +0000 UTC |
-| 1 | [Arduino-](https://github.com/Mp-keyner/Arduino-) | todo los básico que se de Arduino y sus derivados  | 2022-09-29 01:09:41 +0000 UTC |
-| 1 | [Diff-SVC](https://github.com/MaxMax2016/Diff-SVC) | use diff-vc for singing voice vonversion | 2022-09-29 01:37:20 +0000 UTC |
-| 1 | [gameing-anti-cheat](https://github.com/impumpy123/gameing-anti-cheat) | gaming anti cheat is the best anti cheat out their | 2022-09-29 00:07:56 +0000 UTC |
-| 1 | [LearnWeb3DAO-NFT-collection](https://github.com/Martonyx/LearnWeb3DAO-NFT-collection) |  | 2022-09-29 00:17:36 +0000 UTC |
-| 1 | [Customer-Churn-Prediction-Bank-](https://github.com/DavidNart90/Customer-Churn-Prediction-Bank-) | As we know, it is much more expensive to sign in a new client than keeping an existing one. It is advantageous for banks to know what leads a client towards the decision to leave the company. Churn prevention allows companies to develop loyalty programs and retention campaigns to keep as many customers as possible. | 2022-09-29 00:06:41 +0000 UTC |
-| 1 | [react-giphy-search-engine](https://github.com/ekanshuj/react-giphy-search-engine) |  | 2022-09-29 00:01:59 +0000 UTC |
-| 1 | [Country-city](https://github.com/ashishprusty24/Country-city) | Country - City - Web - App | 2022-09-29 00:10:42 +0000 UTC |
-| 1 | [php-dataSiswa](https://github.com/zumarRamadhan/php-dataSiswa) |  | 2022-09-29 01:18:24 +0000 UTC |
-| 1 | [Script-Generator](https://github.com/MatthewMariani/Script-Generator) | Uses Markov Models and text and configuration info provided by the user to generate new text | 2022-09-29 00:13:13 +0000 UTC |
-| 1 | [captura-posts](https://github.com/AndreaRamirez187/captura-posts) |  | 2022-09-29 00:24:30 +0000 UTC |
-| 1 | [goofy-ahh-randomware](https://github.com/w-d-u-a-n/goofy-ahh-randomware) |  | 2022-09-29 01:00:26 +0000 UTC |
-| 1 | [Funny-projects](https://github.com/DeetSteve00/Funny-projects) | Small projects I make that don't deserve their own repo | 2022-09-29 01:02:59 +0000 UTC |
-| 1 | [SILENT-EXCEL-XLS-EXPLOIT-CLEAN-1](https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-1) |  | 2022-09-29 00:37:22 +0000 UTC |
-| 1 | [clima.github.io](https://github.com/FernandaBustamante/clima.github.io) |  | 2022-09-29 00:29:23 +0000 UTC |
-| 1 | [Bowers_Johnathon_Nested_Dictionaries_Loops](https://github.com/JohnathonBowers/Bowers_Johnathon_Nested_Dictionaries_Loops) |  | 2022-09-29 01:38:42 +0000 UTC |
-| 1 | [mysql-practice-by-gorm](https://github.com/googs1025/mysql-practice-by-gorm) | golang利用gorm进行mysql操作练习，并且加入pipeline框架提升并发性能。 | 2022-09-29 01:03:16 +0000 UTC |
-| 1 | [bigmarb-re](https://github.com/HamadaLachhab/bigmarb-re) |  | 2022-09-29 00:12:34 +0000 UTC |
-| 1 | [Tienda_MAscota](https://github.com/AlvaroEnrique8564/Tienda_MAscota) | Practica C# | 2022-09-29 00:35:01 +0000 UTC |
-| 1 | [remember](https://github.com/glamboyosa/remember) | Remember – Queue DS use case, remembering the order in which elements are selected.  | 2022-09-29 00:12:53 +0000 UTC |
-| 1 | [ItemJoin](https://github.com/Henry12960/ItemJoin) | An advanced plugin to give items to the player when entering worlds and more! | 2022-09-29 00:30:40 +0000 UTC |
-| 1 | [DH-Atividade-24](https://github.com/fernando44santos/DH-Atividade-24) |  | 2022-09-29 00:28:10 +0000 UTC |
-| 1 | [pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) | Apache pulsar | 2022-09-29 01:10:49 +0000 UTC |
-| 1 | [DevClub](https://github.com/Th0921/DevClub) |  | 2022-09-29 01:23:14 +0000 UTC |
-| 1 | [SILENT-DOC-EXPLOIT-CLEAN-1](https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-1) |  | 2022-09-29 00:38:26 +0000 UTC |
-| 1 | [dontgetconfused_template](https://github.com/kpkpkpkpkpkpkpkp/dontgetconfused_template) |  | 2022-09-29 00:17:22 +0000 UTC |
-| 1 | [archtype_react_spring](https://github.com/bobdeng/archtype_react_spring) |  | 2022-09-29 01:30:30 +0000 UTC |
-| 1 | [airtable-nextjs-blog](https://github.com/Uvacoder/airtable-nextjs-blog) |  | 2022-09-29 00:02:56 +0000 UTC |
-| 1 | [SILENT-PDF-EXPLOIT-CLEAN-1](https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-1) |  | 2022-09-29 00:39:41 +0000 UTC |
-| 1 | [sglombicki.com](https://github.com/SGlombicki/sglombicki.com) | Landing Page for sglombicki.com | 2022-09-29 01:16:22 +0000 UTC |
-| 1 | [ITStep_06_Java_Classe_Calendar](https://github.com/Cezarj59/ITStep_06_Java_Classe_Calendar) | About Atividade ITStep Aula_06 módulo Java -  Trabalhando com a classe abstrata Calendar. | 2022-09-29 01:07:40 +0000 UTC |
-| 1 | [MinimalMinecraftClient](https://github.com/OfficialDonut/MinimalMinecraftClient) | A minimal client implementation for Minecraft | 2022-09-29 00:17:37 +0000 UTC |
-| 1 | [expenses-chart](https://github.com/AsumVictor/expenses-chart) | This project is an Expenses chart component; It represent monthly expenses in a chart form. It allows user to view the bar chart and hover over the individual bars to see the correct amounts for each day  | 2022-09-29 00:37:01 +0000 UTC |
-| 1 | [happy_adventure](https://github.com/kpkpkpkpkpkpkpkp/happy_adventure) |  | 2022-09-29 00:23:01 +0000 UTC |
-| 1 | [ideal](https://github.com/MikeIntellect/ideal) |  | 2022-09-29 01:00:18 +0000 UTC |
-| 1 | [Discord_AutoRole-Py](https://github.com/KageRyo/Discord_AutoRole-Py) | [DiscordBot] by Python \| KageRyo Dev | 2022-09-29 01:16:07 +0000 UTC |
-| 1 | [astronote](https://github.com/rohid2d/astronote) |  | 2022-09-29 00:54:21 +0000 UTC |
-| 1 | [pulsar-client-python](https://github.com/apache/pulsar-client-python) | Apache pulsar | 2022-09-29 01:10:23 +0000 UTC |
-| 1 | [anjian_C_practice](https://github.com/Jaylmen/anjian_C_practice) | C_practice | 2022-09-29 00:46:38 +0000 UTC |
-| 1 | [Autonomous_Robot](https://github.com/rpande1996/Autonomous_Robot) |  | 2022-09-29 00:24:57 +0000 UTC |
-| 1 | [GitFinalProgeckB14](https://github.com/anastasiiagit/GitFinalProgeckB14) |  | 2022-09-29 00:13:24 +0000 UTC |
-| 1 | [Ayhamslyman](https://github.com/ayhmslyman55/Ayhamslyman) | كأفتراضي | 2022-09-29 00:21:15 +0000 UTC |
-| 1 | [My-RpBook](https://github.com/Dmays17/My-RpBook) |  | 2022-09-29 00:37:55 +0000 UTC |
-| 1 | [isOdd](https://github.com/SomeAspy/isOdd) | A pypi package I totally didnt make to get the 2 free titan keys promotion | 2022-09-29 01:16:19 +0000 UTC |
-| 1 | [docs](https://github.com/CursedAscent/docs) | Cursed Ascent documentation for MathboxDAO hackathon #2 | 2022-09-29 00:20:44 +0000 UTC |
-| 1 | [corduroy](https://github.com/giga-biitre/corduroy) | pearl jam | 2022-09-29 00:35:45 +0000 UTC |
-| 1 | [Proyecto-final](https://github.com/Natalia-Figueroa/Proyecto-final) |  | 2022-09-29 00:36:24 +0000 UTC |
-| 1 | [desafio12](https://github.com/Alissoncp/desafio12) |  | 2022-09-29 00:10:38 +0000 UTC |
-| 1 | [adel](https://github.com/Adelbadel777/adel) | Adel | 2022-09-29 00:11:06 +0000 UTC |
-| 1 | [polish](https://github.com/samuelleao/polish) | Generic project in order to demonstrate the current capability of vanilla javascript | 2022-09-29 00:41:40 +0000 UTC |
-| 1 | [Coffeeroasters-v1.0.2](https://github.com/ravshan-web/Coffeeroasters-v1.0.2) |  | 2022-09-29 01:25:13 +0000 UTC |
-| 1 | [CMTT](https://github.com/MR-CRX/CMTT) |  | 2022-09-29 01:05:31 +0000 UTC |
-| 1 | [kundten88](https://github.com/kundten88/kundten88) | Config files for my GitHub profile. | 2022-09-29 01:21:05 +0000 UTC |
-| 1 | [Proyecto-De-Computadores](https://github.com/Alejandra-Lopez17/Proyecto-De-Computadores) | Desarrollar una aplicación de herramientas web para la gestión de la comercialización en pequeñas empresas, sobre la venta de portátiles y repuestos para las marcas Dell y Lenovo. Llevar el control de los productos que se comercializan en las pequeñas empresas y negocios locales, dado que siempre resulta muy dispendioso, pues muy comúnmente estas empresas pequeñas se crean desde el empirismo. Es por ello que se requiere crear una aplicación sencilla, la cual permita a pequeños empresarios sin experiencia, llevar el control de los productos que comercializa de una forma simple y eficaz. | 2022-09-29 00:31:29 +0000 UTC |
-| 1 | [Ulises-Maghenzani](https://github.com/Uli-mgh/Ulises-Maghenzani) |  | 2022-09-29 01:01:37 +0000 UTC |
-| 1 | [ProjetoUni](https://github.com/BielStrolego/ProjetoUni) |  | 2022-09-29 00:00:12 +0000 UTC |
-| 1 | [ngocyencibi-](https://github.com/ngocyencibi/ngocyencibi-) |  | 2022-09-29 01:15:55 +0000 UTC |
-| 1 | [wp-graphql-stubs](https://github.com/AxeWP/wp-graphql-stubs) | Provides stub declarations for WPGraphQL core functions, classes and interfaces. | 2022-09-29 00:26:24 +0000 UTC |
-| 1 | [grupo2_ProyectoFinal](https://github.com/bboteo/grupo2_ProyectoFinal) |  | 2022-09-29 00:12:34 +0000 UTC |
-| 1 | [Todos-Projetos](https://github.com/Deyvid4900/Todos-Projetos) | Um repositorio feito com a intenção de facilitar a visualização dos projetos | 2022-09-29 01:12:53 +0000 UTC |
-| 1 | [-](https://github.com/Adelbadel777/-) | ندارد | 2022-09-29 00:15:49 +0000 UTC |
-| 1 | [Sistema-de-Descontos](https://github.com/PatriickDe-v/Sistema-de-Descontos) | Sistema que calcula a quantidade de desconto se uma pessoa é mecânica ou não. | 2022-09-29 00:18:20 +0000 UTC |
-| 1 | [flutter-mvvm](https://github.com/MahanaElbana/flutter-mvvm) | Model–view–viewModel architectural pattern | 2022-09-29 00:38:19 +0000 UTC |
-| 1 | [FOLHA_PAGAMENTO-API](https://github.com/phlima3/FOLHA_PAGAMENTO-API) |  | 2022-09-29 00:15:33 +0000 UTC |
-| 1 | [TexyJoe](https://github.com/TexyJoe/TexyJoe) |  | 2022-09-29 00:22:42 +0000 UTC |
-| 0 | [Leetcode_Solutions](https://github.com/Dominik-Ilja-Content/Leetcode_Solutions) |  | 2022-09-29 00:05:57 +0000 UTC |
-| 0 | [shadyNeon.github.io](https://github.com/shadyNeon/shadyNeon.github.io) | Website | 2022-09-29 00:08:01 +0000 UTC |
-| 0 | [51_21542](https://github.com/qq1935046755s/51_21542) | B站最新手动搬砖项目，随便上传一个30秒视频就行，简单操作日入50-200 | 2022-09-29 00:13:51 +0000 UTC |
-| 0 | [DPbp7cWmyE](https://github.com/meslot88/DPbp7cWmyE) |  | 2022-09-29 00:15:02 +0000 UTC |
-| 0 | [dwordle](https://github.com/theimberger/dwordle) |  | 2022-09-29 00:12:13 +0000 UTC |
-| 0 | [Block-chain](https://github.com/SaiShashank12/Block-chain) | There are the block assignments in this repository   | 2022-09-29 00:14:13 +0000 UTC |
-| 0 | [demo-netlify-blog](https://github.com/vdloc/demo-netlify-blog) |  | 2022-09-29 00:15:33 +0000 UTC |
-| 0 | [alx-pre_course](https://github.com/ray1913/alx-pre_course) | I'm now a ALX student, this is my first repository as a full-stack engineer  | 2022-09-29 00:15:53 +0000 UTC |
-| 0 | [teste-curso-dio-java-intellij](https://github.com/ayancosmo/teste-curso-dio-java-intellij) | teste intellijiv  | 2022-09-29 00:16:04 +0000 UTC |
-| 0 | [62_11274](https://github.com/qq1935046755p/62_11274) | H5手游【百战沙城H5】一键即玩服务端+GM工具+详细图文教程 | 2022-09-29 00:15:52 +0000 UTC |
-| 0 | [html-css](https://github.com/mecmath/html-css) |  | 2022-09-29 00:11:34 +0000 UTC |
-| 0 | [auth-api](https://github.com/brandomoki/auth-api) |  | 2022-09-29 00:16:11 +0000 UTC |
-| 0 | [design-patterns](https://github.com/alexgeis/design-patterns) |  | 2022-09-29 00:16:57 +0000 UTC |
-| 0 | [FunnyCoding](https://github.com/Bum9/FunnyCoding) |  | 2022-09-29 00:16:50 +0000 UTC |
-| 0 | [Challenge5-coding](https://github.com/bleachevil/Challenge5-coding) |  | 2022-09-29 00:18:36 +0000 UTC |
-| 0 | [LocationElevation](https://github.com/mjwSolver/LocationElevation) | App designed for 2nd Category of the NPLC Competition | 2022-09-29 00:15:12 +0000 UTC |
-| 0 | [todo-list](https://github.com/vribeiro48/todo-list) | Front end for an application where the user creates tasks, and mark them as completed.  | 2022-09-29 00:03:59 +0000 UTC |
-| 0 | [python_password_manager](https://github.com/darkstar-holdings-edu/python_password_manager) | 100 Days of Code; Day 29 Project | 2022-09-29 00:15:45 +0000 UTC |
-| 0 | [aLcraSKkGm](https://github.com/meslot88/aLcraSKkGm) |  | 2022-09-29 00:28:07 +0000 UTC |
-| 0 | [64_21570](https://github.com/qq1935046755s/64_21570) | 禾兴社直播起号训练营-全新玩法，抖音直播起号算法逻辑，精准设计起号爆品 | 2022-09-29 00:28:01 +0000 UTC |
+| 2 | [cse210-02](https://github.com/Smith-Brandon/cse210-02) |  | 2022-09-30 00:05:10 +0000 UTC |
+| 2 | [porto_management101](https://github.com/tiassap/porto_management101) | Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem | 2022-09-30 00:07:39 +0000 UTC |
+| 1 | [LuizFelipe992](https://github.com/LuizFelipe992/LuizFelipe992) | Config files for my GitHub profile. | 2022-09-30 00:18:33 +0000 UTC |
+| 1 | [NewPythonyss](https://github.com/NewPythonyss/NewPythonyss) | Config files for my GitHub profile. | 2022-09-30 01:28:10 +0000 UTC |
+| 1 | [Ahorcado_eze_Y_sole](https://github.com/SoledadTaborda/Ahorcado_eze_Y_sole) |  | 2022-09-30 01:00:34 +0000 UTC |
+| 1 | [SelfieStar](https://github.com/eamonwong/SelfieStar) |  | 2022-09-30 00:18:08 +0000 UTC |
+| 1 | [C-struct-monster](https://github.com/biomesu/C-struct-monster) | Defines a struct that represents information about a monster attack, including the attack id number, the name of the monster, the location of the attack, and the number of victims. Uses a separate function (not main) to take user input for the array of attacks. Ask the user for the number of attacks first, then create the array of that length on the heap using malloc() and use a loop to take input for each attack. It is OK in this lab if the program can not correctly handle a monster name or location that includes whitespace (eg, "Jersey Devil"). However, when you take the input, use a length parameter for each string to ensure that you do not take more input than the string (which is an array of chars in memory) can hold. Use array subscripts here, and set the id number to the array subscript plus 1 (eg, the first attack is attack #1.) This function may take a pointer as a parameter and return the length of the array, but you may also use some other way to track the size of the array, Uses a separate function to print out information for each attack. This function should take a pointer to the array and the length of the array as parameters. Use a loop that uses pointer arithmetic, rather than array subscripts, to step through the array. Uses a separate function that takes the same parameters as the print function and calculates and prints the total number of victims for all attacks. | 2022-09-30 00:34:35 +0000 UTC |
+| 1 | [hospital-management-system](https://github.com/mohamedshehabeldean/hospital-management-system) | system analysis | 2022-09-30 00:50:18 +0000 UTC |
+| 1 | [rime](https://github.com/aakropotkin/rime) | Nix CLI Frontend Generators | 2022-09-30 00:45:47 +0000 UTC |
+| 1 | [Pokedex](https://github.com/Cleiton-Almeida/Pokedex) | Pokédex desenvolvida na aula de DW II | 2022-09-30 01:04:45 +0000 UTC |
+| 1 | [gero-veiculos](https://github.com/GinathanReis/gero-veiculos) | vendas de carros | 2022-09-30 01:28:25 +0000 UTC |
+| 1 | [roletadepremios](https://github.com/lucasmoraeslrm/roletadepremios) | Roleta de Prêmios | 2022-09-30 00:48:29 +0000 UTC |
+| 1 | [Kotlin_SignIn_Firebase](https://github.com/BinaryLeo/Kotlin_SignIn_Firebase) | A simple login using firebase  | 2022-09-30 00:52:22 +0000 UTC |
+| 1 | [ProgramC-_TLS22](https://github.com/awosomsu/ProgramC-_TLS22) | Andre Wongso_Kirchoff | 2022-09-30 00:05:59 +0000 UTC |
+| 1 | [Master-thesis](https://github.com/sebastianromano/Master-thesis) | IT-University of Copenhagen (ITU) Master thesis | 2022-09-30 00:35:21 +0000 UTC |
+| 1 | [Calendar-Wizard](https://github.com/Aaron-Cohen/Calendar-Wizard) |  | 2022-09-30 00:18:43 +0000 UTC |
+| 1 | [my-web](https://github.com/Pinpe/my-web) |  | 2022-09-30 01:03:07 +0000 UTC |
+| 1 | [shrimp-beamer](https://github.com/lytexh/shrimp-beamer) | auto hitter for roblox | 2022-09-30 00:23:44 +0000 UTC |
+| 1 | [mcq-quiz-app](https://github.com/Owusu-Desmond/mcq-quiz-app) | Multiple choice question(mcq) quiz app a program that will ask a user all pre-defined questions and will give the user a score at the end of the quiz.  | 2022-09-30 00:33:23 +0000 UTC |
+| 1 | [PatGoesFishing](https://github.com/FilipRusiecki/PatGoesFishing) |  | 2022-09-30 00:46:57 +0000 UTC |
+| 1 | [Swarmies](https://github.com/MadDogGod/Swarmies) | video game project with family | 2022-09-30 00:26:35 +0000 UTC |
+| 1 | [supermarket](https://github.com/mohamedshehabeldean/supermarket) | supermarket using python | 2022-09-30 00:36:16 +0000 UTC |
+| 1 | [laochuanzhangL.github.io](https://github.com/laochuanzhangL/laochuanzhangL.github.io) |  | 2022-09-30 00:58:02 +0000 UTC |
+| 1 | [BBqm-hardware](https://github.com/mohamedshehabeldean/BBqm-hardware) | using c++ and assembly and machine code | 2022-09-30 00:07:16 +0000 UTC |
+| 1 | [smanve.github.io](https://github.com/smanve/smanve.github.io) |  | 2022-09-30 00:05:32 +0000 UTC |
+| 1 | [Form_flask](https://github.com/AlexandreSilvestrin/Form_flask) | Formulario | 2022-09-30 00:26:34 +0000 UTC |
+| 1 | [image_border_optimizer](https://github.com/artisanbox/image_border_optimizer) |  | 2022-09-30 01:26:47 +0000 UTC |
+| 1 | [JAVA-0930](https://github.com/nac1775/JAVA-0930) |  | 2022-09-30 01:07:07 +0000 UTC |
+| 1 | [SILENT-PDF-EXPLOIT-CLEAN-0](https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-0) |  | 2022-09-30 00:43:59 +0000 UTC |
+| 1 | [Introduction-to-Database-Systems](https://github.com/sebastianromano/Introduction-to-Database-Systems) | IT-University of Copenhagen (ITU) course in Introduction to Database Systems | 2022-09-30 00:36:40 +0000 UTC |
+| 1 | [Ana-Morales](https://github.com/anamorales-02/Ana-Morales) |  | 2022-09-30 00:38:43 +0000 UTC |
+| 1 | [Funciones](https://github.com/FabianAriasmm/Funciones) |  | 2022-09-30 01:02:01 +0000 UTC |
+| 1 | [NOTEPAD-29-09-22](https://github.com/Hallanzinho/NOTEPAD-29-09-22) |  | 2022-09-30 01:18:25 +0000 UTC |
+| 1 | [SILENT-DOC-EXPLOIT-CLEAN-0](https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-0) |  | 2022-09-30 00:42:17 +0000 UTC |
+| 1 | [api-graphql](https://github.com/felipe-rodrigues-s/api-graphql) |  | 2022-09-30 01:02:47 +0000 UTC |
+| 1 | [DigitRecognition](https://github.com/luanne967/DigitRecognition) |  | 2022-09-30 01:12:57 +0000 UTC |
+| 1 | [witmotion_visualizer](https://github.com/Keio-CSG/witmotion_visualizer) | realtime IMU visualizer for WT901BLECL | 2022-09-30 00:51:16 +0000 UTC |
+| 1 | [utils](https://github.com/hemjs/utils) | Utilities for arrays, objects, strings, and more | 2022-09-30 01:10:49 +0000 UTC |
+| 1 | [social_app](https://github.com/MoShehata7920/social_app) |  | 2022-09-30 01:34:15 +0000 UTC |
+| 1 | [tiktok-challenge](https://github.com/DevPrecious/tiktok-challenge) |  | 2022-09-30 00:19:52 +0000 UTC |
+| 1 | [AndroidU1_Calculadora](https://github.com/SebasRamz-Murillo/AndroidU1_Calculadora) | Calculadora | 2022-09-30 00:15:48 +0000 UTC |
+| 1 | [Dinosaur](https://github.com/orik42/Dinosaur) |  | 2022-09-30 00:20:49 +0000 UTC |
+| 1 | [cryptofanz-lp](https://github.com/canokaue/cryptofanz-lp) | Landing Page for CryptoFanz, the Web3-enabled OnlyFans/Patreon society is begging for. | 2022-09-30 00:48:46 +0000 UTC |
+| 1 | [TikTok-ViewBot](https://github.com/wh0n1xx/TikTok-ViewBot) | ViewBot using requests \| Fast, no selenium shit \| Custom Views count and clean Design \| | 2022-09-30 00:23:44 +0000 UTC |
+| 1 | [best-philly-cuisine](https://github.com/Maelsse/best-philly-cuisine) |  | 2022-09-30 01:00:18 +0000 UTC |
+| 1 | [msnicochan](https://github.com/msnicochan/msnicochan) | Config files for my GitHub profile. | 2022-09-30 00:58:11 +0000 UTC |
+| 1 | [WhyWebCorsNotWork](https://github.com/ragnakuei/WhyWebCorsNotWork) |  | 2022-09-30 01:00:15 +0000 UTC |
+| 1 | [Denys66666](https://github.com/Denys66666/Denys66666) | Config files for my GitHub profile. | 2022-09-30 00:50:33 +0000 UTC |
+| 1 | [hd](https://github.com/Webklex/hd) | Check a single or many targets how they behave if an altered host header is supplied. | 2022-09-30 01:22:20 +0000 UTC |
+| 1 | [netfarmui](https://github.com/Trungsqrt/netfarmui) | UI of NetFarm website | 2022-09-30 00:59:48 +0000 UTC |
+| 1 | [pz](https://github.com/hhh140/pz) |  | 2022-09-30 01:06:41 +0000 UTC |
+| 1 | [ONE-Challenge-2-Lost-Medieval-Gallow](https://github.com/jhonncamarg0/ONE-Challenge-2-Lost-Medieval-Gallow) | Software Web que simula um jogo da forca funcional e robusto desenvolvido no Challenge 2 do programa de educação e empregabilidade ONE 🎓 | 2022-09-30 00:12:55 +0000 UTC |
+| 1 | [Software-Engineering](https://github.com/sebastianromano/Software-Engineering) | IT-University of Copenhagen (ITU) course in Software Engineering | 2022-09-30 00:36:00 +0000 UTC |
+| 1 | [LD2022](https://github.com/nshooter3/LD2022) |  | 2022-09-30 00:25:04 +0000 UTC |
+| 1 | [TeachableMachine](https://github.com/kig2929kig/TeachableMachine) |  | 2022-09-30 01:15:29 +0000 UTC |
+| 1 | [amazon-web3-marketplace](https://github.com/johnchristotle/amazon-web3-marketplace) | Amazon (Digital Store) Web 3.0 Blockchain App with Solidity \| Moralis \| Next.js \| Ethers.js \| Tailwind CSS | 2022-09-30 01:34:24 +0000 UTC |
+| 1 | [MERN_school-management-system](https://github.com/neel130/MERN_school-management-system) | A basic mern School students data entry project | 2022-09-30 01:18:37 +0000 UTC |
+| 1 | [MassZeroLogon](https://github.com/guglia001/MassZeroLogon) | Tool for mass testing ZeroLogon vulnerability CVE-2020-1472 | 2022-09-30 00:03:12 +0000 UTC |
+| 1 | [projects](https://github.com/mightyalt6306/projects) |  | 2022-09-30 00:26:44 +0000 UTC |
+| 1 | [mi-repositorio](https://github.com/tomi1727/mi-repositorio) |  | 2022-09-30 00:26:41 +0000 UTC |
+| 1 | [digital-clock](https://github.com/mohamedshehabeldean/digital-clock) |  | 2022-09-30 00:32:44 +0000 UTC |
+| 1 | [instituto_educativo_db](https://github.com/dds-frd-utn/instituto_educativo_db) |  | 2022-09-30 00:56:15 +0000 UTC |
+| 1 | [How-to-make-almost-anything](https://github.com/sebastianromano/How-to-make-almost-anything) | IT-University of Copenhagen (ITU) course in How to make (almost) anything | 2022-09-30 00:34:28 +0000 UTC |
+| 1 | [ProjetoTllr1.0](https://github.com/TiagoMCFreitas/ProjetoTllr1.0) |  | 2022-09-30 00:13:02 +0000 UTC |
+| 1 | [poc-flutter](https://github.com/viniciusromani/poc-flutter) |  | 2022-09-30 00:06:39 +0000 UTC |
+| 1 | [SpheroidCompaction](https://github.com/NilouJ/SpheroidCompaction) | hypothesis testing aspheroid compaction and composition | 2022-09-30 00:04:10 +0000 UTC |
+| 1 | [MERN_movie_app](https://github.com/neel130/MERN_movie_app) | It is a movie app like netflix,amazon prime and hotstar e.t.c | 2022-09-30 00:15:01 +0000 UTC |
+| 1 | [Galaxy-Invaders](https://github.com/ZestyChip/Galaxy-Invaders) | Ever wanted to play a game of Space Invaders but you just don't know where to go? Galaxy Invaders is the next best thing! | 2022-09-30 00:23:08 +0000 UTC |
+| 1 | [SILENT-EXCEL-XLS-EXPLOIT-CLEAN-0](https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-0) |  | 2022-09-30 00:40:53 +0000 UTC |
+| 1 | [xssg](https://github.com/westenfalke/xssg) | xsh SSG, a static site generator  | 2022-09-30 00:58:24 +0000 UTC |
+| 1 | [Battlerocket](https://github.com/MagnusChase03/Battlerocket) | 3D battleship in rust | 2022-09-30 00:57:13 +0000 UTC |
+| 1 | [crud-profile-manager](https://github.com/onlyiqbal/crud-profile-manager) | Aplikasi CRUD Profile Manager | 2022-09-30 01:00:09 +0000 UTC |
+| 1 | [forum](https://github.com/jo17-dev/forum) |  | 2022-09-30 00:49:44 +0000 UTC |
+| 1 | [Cute-Catboy](https://github.com/dirt710/Cute-Catboy) |  | 2022-09-30 01:30:48 +0000 UTC |
+| 1 | [valle-de-uco](https://github.com/cristianoiluminatti/valle-de-uco) | web de fotos  | 2022-09-30 00:14:14 +0000 UTC |
+| 1 | [grpc-stream-lab](https://github.com/diegofsousa/grpc-stream-lab) |  | 2022-09-30 00:20:26 +0000 UTC |
+| 1 | [JAVA20220930](https://github.com/nac1775/JAVA20220930) |  | 2022-09-30 00:24:10 +0000 UTC |
+| 1 | [Boostrap](https://github.com/316-627/Boostrap) |  | 2022-09-30 00:01:27 +0000 UTC |
+| 1 | [Functional-Programming](https://github.com/sebastianromano/Functional-Programming) | IT-University of Copenhagen (ITU) course in Technical Interaction Design | 2022-09-30 00:04:38 +0000 UTC |
+| 1 | [trabalhoBack](https://github.com/Renato556/trabalhoBack) |  | 2022-09-30 00:33:29 +0000 UTC |
+| 1 | [BUAA-Hirain](https://github.com/jike5/BUAA-Hirain) |  | 2022-09-30 01:27:42 +0000 UTC |
+| 1 | [templates](https://github.com/raphaelrrl/templates) | Templates para zabbix | 2022-09-30 00:27:44 +0000 UTC |
+| 1 | [draw_with_commands](https://github.com/Nazareno36/draw_with_commands) |  | 2022-09-30 00:08:11 +0000 UTC |
+| 1 | [Explorer](https://github.com/kyochi7/Explorer) | Projeto desenvolvido no programa Explorer da Rocketseat 2022 | 2022-09-30 00:40:58 +0000 UTC |
+| 1 | [Vinovest](https://github.com/CrazyCoding330/Vinovest) | Hassle-freeHit pause on building that wine cellar. Vinovest takes care of authenticating, storing, and securing your wine. | 2022-09-30 00:51:08 +0000 UTC |
+| 1 | [Research-project](https://github.com/sebastianromano/Research-project) | IT-University of Copenhagen (ITU) Research project | 2022-09-30 00:37:20 +0000 UTC |
+| 1 | [md2site](https://github.com/cronblocks/md2site) | Easily converting Markdown to HTML pages while applying templates and themes | 2022-09-30 01:20:02 +0000 UTC |
+| 0 | [sgpack](https://github.com/SGMSteeL1/sgpack) |  | 2022-09-30 00:34:30 +0000 UTC |
+| 0 | [Tik-Tock-Pro-43](https://github.com/GabrielGrgich/Tik-Tock-Pro-43) |  | 2022-09-30 00:34:38 +0000 UTC |
+| 0 | [python-note-test-6](https://github.com/hwayeon-choi/python-note-test-6) |  | 2022-09-30 00:34:10 +0000 UTC |
+| 0 | [Dobby-iOS](https://github.com/WeEscape/Dobby-iOS) | 공동생활을 하는 사람들을 위한 가사분담 어플리케이션 | 2022-09-30 00:34:28 +0000 UTC |
+| 0 | [whatsapp-api](https://github.com/IndahSkr/whatsapp-api) | belajar wa api gateway | 2022-09-30 00:34:55 +0000 UTC |
+| 0 | [Shaders](https://github.com/GabrielKepecs/Shaders) | Trabalho do shaders | 2022-09-30 00:35:53 +0000 UTC |
+| 0 | [cnpm-git-example](https://github.com/tinchanh2002/cnpm-git-example) | example | 2022-09-30 00:36:22 +0000 UTC |
+| 0 | [go-repository-sample](https://github.com/exaream/go-repository-sample) |  | 2022-09-30 00:36:35 +0000 UTC |
+| 0 | [com.mobiliz.case](https://github.com/EmreCerrah/com.mobiliz.case) |  | 2022-09-30 00:36:23 +0000 UTC |
+| 0 | [madLibs](https://github.com/jaydonley/madLibs) | madLibsProject | 2022-09-30 00:16:02 +0000 UTC |
+| 0 | [web-tikomdik](https://github.com/fikrmhaq/web-tikomdik) |  | 2022-09-30 00:35:40 +0000 UTC |
+| 0 | [ht-ai-commen](https://github.com/youngFuns6/ht-ai-commen) | 海图 ai 通用web端 | 2022-09-30 00:33:02 +0000 UTC |
+| 0 | [xz](https://github.com/patry123321/xz) |  | 2022-09-30 00:37:51 +0000 UTC |
 
