@@ -1,100 +1,100 @@
-7653, pocketbase, https://github.com/pocketbase/pocketbase, "Open Source realtime backend in 1 file", "authentication,backend,golang,realtime", 2022-07-05 06:06:21 +0000 UTC
-496, pretender, https://github.com/RedTeamPentesting/pretender, "Your MitM sidekick for relaying attacks featuring DHCPv6 DNS takeover as well as mDNS, LLMNR and NetBIOS-NS spoofing.", "dhcpv6,dns,go,llmnr,mdns,netbios,pentesting,pretender,relaying,security,spoofer", 2022-07-11 13:23:23 +0000 UTC
-357, permify, https://github.com/Permify/permify, "Permify is an open-source authorization service & policy engine based on Google Zanzibar.", "access-control,access-control-lists,authorization,cdc-pattern,rbac,rebac,zanzibar", 2022-07-14 11:16:57 +0000 UTC
-338, socks5lb, https://github.com/mingcheng/socks5lb, "A simple socks5 proxy load balance and transparent proxy", "", 2022-07-08 03:49:17 +0000 UTC
-329, kubezoo, https://github.com/kubewharf/kubezoo, "a lightweight kubernetes multi-tenancy gateway", "kubernetes,multi-tenancy,serverless", 2022-07-22 03:58:08 +0000 UTC
-253, kubebrain, https://github.com/kubewharf/kubebrain, "A High Performance Metadata System for Kubernetes", "etcd,kubernetes,kv-store,metadata,scalability", 2022-07-14 03:15:53 +0000 UTC
-229, wa, https://github.com/wa-lang/wa, "🇨🇳 凹语言™ The Wa Programming Language", "compiler,language,programming-language,wa,wa-lang", 2022-07-20 03:22:58 +0000 UTC
-181, exifLooter, https://github.com/aydinnyunus/exifLooter, "ExifLooter finds geolocation on all image urls and directories also integrates with OpenStreetMap", "bug-bounty,bugbounty,cyber-security,exif,exif-metadata,exiftool,golang,hack,hacking,image,metadata,metadata-extraction,osint,redteam,security", 2022-07-30 12:51:43 +0000 UTC
-167, AniYa, https://github.com/piiperxyz/AniYa, "免杀框架", "bypass,gui,redteam", 2022-07-13 10:07:41 +0000 UTC
-127, goby-poc, https://github.com/MY0723/goby-poc, "439个goby poc，可能会有重复自行判断，来源于网络收集的Goby&POC，实时更新。 ", "", 2022-07-17 05:35:25 +0000 UTC
-125, bluetuith, https://github.com/darkhz/bluetuith, "", "", 2022-07-08 11:15:48 +0000 UTC
-123, golang_snake, https://github.com/TheOnlines/golang_snake, "Golang version snake game", "", 2022-07-14 14:23:10 +0000 UTC
-97, azure-dev, https://github.com/Azure/azure-dev, "A developer CLI that accelerates the time it takes for you to get started on Azure. The Azure Developer CLI (azd) provides a set of developer-friendly commands that map to key stages in your workflow - code, build, deploy, monitor, repeat.", "azure,microsoft", 2022-07-05 20:47:01 +0000 UTC
-92, bubblezone, https://github.com/lrstanley/bubblezone, "helper utility for BubbleTea, allowing easy mouse event tracking", "bubbletea,cli,go,golang,lipgloss,terminal,tui", 2022-07-09 22:52:07 +0000 UTC
-85, kago, https://github.com/kamalshkeir/kago, "KaGo", "admin,eventbus,generics,go,golang,interactive,middlewares,mux,orm,router,shell,sse,websockets", 2022-07-11 02:07:39 +0000 UTC
-81, GoBP, https://github.com/awsaaaq/GoBP, "Bypass Antivirus by Golang", "", 2022-07-07 16:33:24 +0000 UTC
-80, gofetch, https://github.com/tr3ss/gofetch, "This could have been a bash one-liner but guess what. It's a small Go tool that lists the trending CVEs from cvetrends.com", "", 2022-07-26 11:11:38 +0000 UTC
-78, kubegateway, https://github.com/kubewharf/kubegateway, "Specific Layer7 Gateway for kube-apiserver", "apiserver,gateway,kubernetes,load-balancer", 2022-07-14 09:00:16 +0000 UTC
-76, slp, https://github.com/tkuchiki/slp, "(MySQL) SlowLog Profiler", "", 2022-07-16 05:55:48 +0000 UTC
-76, ide-honeypot, https://github.com/wendell1224/ide-honeypot, "一款针对于IDE的反制蜜罐 IDE-honeypot", "", 2022-07-11 13:57:55 +0000 UTC
-72, shc_bypass, https://github.com/passer-W/shc_bypass, "内存加载shellcode绕过waf", "", 2022-07-25 03:36:58 +0000 UTC
-70, Lastenzug, https://github.com/codewhitesec/Lastenzug, "Socks4a proxy leveraging PIC, Websockets and static obfuscation on assembly level", "", 2022-07-21 12:57:52 +0000 UTC
-65, SqueethRebalaner, https://github.com/0xcacti/SqueethRebalaner, "Rebalance Squeeth", "", 2022-07-17 00:32:36 +0000 UTC
-58, XrayR, https://github.com/newxrayr/XrayR, "", "", 2022-07-06 08:40:29 +0000 UTC
-57, websocket_tunnel, https://github.com/yu1745/websocket_tunnel, "将tcp连接转为websocket连接使其可以通过cdn传输 支持域前置技术以隐藏域名", "", 2022-07-12 17:01:34 +0000 UTC
-56, amt, https://github.com/wdamron/amt, "Hash Array Mapped Trie (HAMT) implemented in Go (1.18+ generics)", "data-structures,go,hamt,hash-map,hash-set,unsafe", 2022-07-23 15:22:09 +0000 UTC
-55, go-clean-arch, https://github.com/chatbotgang/go-clean-arch, "Go Clean Architecture in Crescendo Lab ", "clean-architecture,ddd,go,golang,software-architecture", 2022-07-18 02:50:12 +0000 UTC
-52, ZentaoSqli, https://github.com/z92g/ZentaoSqli, "Zentao v16.5 SQL Injection POC", "", 2022-07-26 06:26:00 +0000 UTC
-50, openrolesanywhere, https://github.com/aidansteele/openrolesanywhere, "Open-source proof-of-concept client for AWS IAM Roles Anywhere", "", 2022-07-14 05:05:26 +0000 UTC
-48, 115drive-webdav, https://github.com/gaoyb7/115drive-webdav, "115 网盘 WebDAV 服务", "115,webdav", 2022-07-08 02:57:10 +0000 UTC
-45, ku-bbs, https://github.com/hhandhuan/ku-bbs, "酷社区", "bbs,gin,gin-bbs,go,gobbs", 2022-07-19 12:51:48 +0000 UTC
-43, legitify, https://github.com/Legit-Labs/legitify, "Detect and remediate misconfigurations and security risks across all your GitHub assets", "devops,devsecops,sdlc-security,security,security-scanner,supply-chain-security", 2022-07-14 15:10:54 +0000 UTC
-41, dnsc2, https://github.com/burpheart/dnsc2, "一个基于DNS隧道的简单C2", "c2,dns", 2022-07-17 11:10:03 +0000 UTC
-40, peridot, https://github.com/rocky-linux/peridot, "Cloud-native build and release tools tailored to building, releasing and maintaining Linux distributions and forks", "", 2022-07-07 15:35:21 +0000 UTC
-39, go-cache, https://github.com/sethvargo/go-cache, "Cache implementations in Go, with support for generics.", "", 2022-07-05 19:55:42 +0000 UTC
-37, roulette, https://github.com/dlvhdr/roulette, ":slot_machine: Making life decisions easier", "", 2022-07-05 17:46:59 +0000 UTC
-35, iftree, https://github.com/t1anz0ng/iftree, "iftree visualize network interfaces( veth bridge lo ) relation, output in text, table, images and dot language.", "bridge,cli,cni,go,graphviz-dot,netlink,netns,veth", 2022-07-27 14:17:26 +0000 UTC
-35, Weaver-Eoffice-getshell, https://github.com/west9b/Weaver-Eoffice-getshell, "泛微 eoffice10 前台 getshell", "", 2022-07-29 23:49:26 +0000 UTC
-35, chromeRequests, https://github.com/miromiro11/chromeRequests, "", "", 2022-07-24 04:28:07 +0000 UTC
-34, package-tracking-app, https://github.com/Abdulsametileri/package-tracking-app, "🚗 Real time package tracking implementation with RabbitMQ", "docker,docker-compose,golang,rabbitmq,websocket", 2022-07-12 08:27:19 +0000 UTC
-34, wirestat, https://github.com/ssddanbrown/wirestat, "", "", 2022-07-19 10:38:24 +0000 UTC
-34, array, https://github.com/butoften/array, "develop golang，similar to javascript es6+", "", 2022-07-29 16:07:01 +0000 UTC
-33, anti-av, https://github.com/b1gcat/anti-av, "", "", 2022-07-09 08:10:37 +0000 UTC
-31, kkdyBenchmark, https://github.com/suulnnka/kkdyBenchmark, "", "", 2022-07-14 16:00:58 +0000 UTC
-30, chris, https://github.com/woojiahao/chris, "Pratt parser implementation in Go", "go,golang,lexer,lexer-parser,parser,pratt-parser", 2022-07-20 15:00:48 +0000 UTC
-30, netipx, https://github.com/go4org/netipx, "extra stuff from inet.af/netaddr that didn't make it into Go's net/netip", "", 2022-07-25 03:51:18 +0000 UTC
-30, CVE-2022-2185, https://github.com/ESUAdmin/CVE-2022-2185, "wo ee cve-2022-2185 gitlab authenticated rce", "", 2022-07-29 11:14:03 +0000 UTC
-28, rfront, https://github.com/tidwall/rfront, "An HTTP protocol frontend for Redis-compatible services.", "", 2022-07-26 17:39:58 +0000 UTC
-28, kubean, https://github.com/kubean-io/kubean, "", "", 2022-07-05 07:46:29 +0000 UTC
-27, dynaQ, https://github.com/syke99/dynaQ, "An extension for Go's sql package in the standard library to support dynamic queries directly from the database, as well as on individual database connections", "database,dynamic-queries,go,golang,no-orm,orm-less,sql", 2022-07-08 00:05:08 +0000 UTC
-27, fztea, https://github.com/jon4hz/fztea, "🐬🧋  Connect to your Flipper's UI over serial or make it accessible via SSH", "bubbletea,flipper,flipper-zero,flipperzero,ssh,tui", 2022-07-27 20:14:18 +0000 UTC
-26, gls, https://github.com/ozansz/gls, "minimal file manager with terminal UI #Go", "cli,file-manager,filesystem,go,golang,gui,terminal,tooling,tools", 2022-07-06 18:15:18 +0000 UTC
-26, gorepro, https://github.com/capnspacehook/gorepro, "Easily reproduce Go binaries", "golang,reproducibility,security", 2022-07-26 21:33:59 +0000 UTC
-26, fiyatine, https://github.com/aligoren/fiyatine, "E-Ticaret Sitelerinden Ürün Arayarak Fiyat Bilgisi ile Listeletme İşlemi Yapan Bir CLI Projesi", "", 2022-07-13 13:26:29 +0000 UTC
-26, otelgen, https://github.com/krzko/otelgen, "🤖 A tool to generate synthetic OpenTelemetry logs, metrics and traces", "generator,logs,metrics,monitoring,observability,opentelemetry,otlp,synthetics,traces", 2022-07-19 04:11:06 +0000 UTC
-26, kwok, https://github.com/kubernetes-sigs/kwok, "Simulate thousands of fake kubelets, on a laptop with minimum resource footprint.", "k8s-sig-scheduling", 2022-07-28 05:09:06 +0000 UTC
-25, dnsv2, https://github.com/miekg/dnsv2, "", "", 2022-07-21 09:08:40 +0000 UTC
-25, atox, https://github.com/josharian/atox, "Generic wrapper around strconv.Parse*", "", 2022-07-18 20:10:02 +0000 UTC
-25, go-domain-suffix-trie, https://github.com/CC11001100/go-domain-suffix-trie, "域名后缀树（Golang）", "golang,suffix-tree", 2022-07-07 15:10:51 +0000 UTC
-23, GIGA, https://github.com/GigaUserbot/GIGA, "A powerful telegram userbot written in Golang.", "", 2022-07-30 11:14:43 +0000 UTC
-23, Bolt, https://github.com/oriser/Bolt, "Slack bot for Wolt group orders", "", 2022-07-10 18:05:09 +0000 UTC
-23, autograf, https://github.com/FUSAKLA/autograf, "Dynamically generate Grafana dashboard based on Prometheus metrics", "automation,command-line-tool,dashboard,grafana,monitoring,observability,prometheus", 2022-07-11 00:12:02 +0000 UTC
-23, superbasic, https://github.com/wroge/superbasic, "The superbasic SQL-Builder", "no-orm,query,sql,sql-builder,template", 2022-07-23 15:32:43 +0000 UTC
-22, meowfetch, https://github.com/Itsnexn/meowfetch, "minimal, fast and customizable system information program written in go.", "cli,fetch,golang,linux,linux-app,system-information", 2022-07-30 09:37:54 +0000 UTC
-22, go-infer, https://github.com/jack139/go-infer, "Go framework for DL model inference and API deployment", "", 2022-07-21 07:56:06 +0000 UTC
-22, grpc-restful, https://github.com/kevwan/grpc-restful, "gRPC gateway example.", "", 2022-07-18 14:47:24 +0000 UTC
-22, tsuki-go, https://github.com/Devansh3712/tsuki-go, "Minimal open-sourced social media platform", "", 2022-07-28 04:27:55 +0000 UTC
-21, lucky, https://github.com/gdy666/lucky, "替代socat,IPv6 tcp/udp 转发内网IPv4,动态域名服务,未完待续...", "", 2022-07-13 23:39:50 +0000 UTC
-21, go-whatsapp-bot, https://github.com/fckvania/go-whatsapp-bot, "projects under development", "botwa,botwhatsapp,go-whatsapp-bot,selfbot,whatsapp-bot,whatsapp-web", 2022-07-10 01:24:25 +0000 UTC
-20, wintoken, https://github.com/FourCoreLabs/wintoken, "Mainpulate, Steal and Modify Windows Tokens in Go", "golang,privileges,windows", 2022-07-28 11:57:48 +0000 UTC
-20, aj-captcha-go, https://github.com/TestsLing/aj-captcha-go, "AJ-Captcha行为验证码的Go实现包", "", 2022-07-12 01:12:43 +0000 UTC
-20, tobeg, https://github.com/asksowhat/tobeg, "叫花子要饭新姿势，简洁优雅，使用 gin 做为后端框架，前端使用 vue + element-ui 构建。", "beg,go,vue", 2022-07-20 10:40:29 +0000 UTC
-20, imdb-api, https://github.com/Scrip7/imdb-api, "[🚧 WIP] Cross-platform microservice to scrape the IMDb website.", "api,fiber,golang,golang-application,imdb,imdb-api,imdb-rating,movie,movies,poster,rest-api,restful,restful-api,scraper,scraping,series,swagger,trailers,videos,web-scraping", 2022-07-16 21:45:24 +0000 UTC
-28, 3pScan, https://github.com/tangxiaofeng7/3pScan, "一款终端扫描工具", "", 2022-07-14 10:19:40 +0000 UTC
-18, srv.us, https://github.com/pcarrier/srv.us, "ssh to expose local HTTP services online", "", 2022-07-05 04:57:18 +0000 UTC
-17, concurrent-booking, https://github.com/imrenagi/concurrent-booking, "Sample project to showcase how opentelemetry can be used to enable monitoring in various platform", "", 2022-07-15 00:10:25 +0000 UTC
-17, winlog, https://github.com/i11us0ry/winlog, "一款基于go的windows信息收集工具，主要收集目标机器rdp端口、mstsc远程连接记录、mstsc密码和安全事件中4624、4625登录事件记录", "", 2022-07-09 10:29:46 +0000 UTC
-16, rand, https://github.com/flyingmutant/rand, "Fast, high quality alternative to math/rand and golang.org/x/exp/rand", "golang,prng,prng-algorithms,random,random-generation", 2022-07-13 22:15:56 +0000 UTC
-15, gohp, https://github.com/tangfeiepng/gohp, "一个基于ioc容器和服务提供者概念的web框架设计思想来源于laravel框架借鉴了《goal》框架的思路", "", 2022-07-06 08:44:56 +0000 UTC
-15, CVE-2022-0543, https://github.com/z92g/CVE-2022-0543, "Redis 沙盒逃逸（CVE-2022-0543）POC&EXP", "", 2022-07-06 04:35:59 +0000 UTC
-15, migu_music_downloader, https://github.com/lenmx/migu_music_downloader, "migu music downloader", "", 2022-07-08 04:15:39 +0000 UTC
-15, tls-client, https://github.com/bogdanfinn/tls-client, "net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests. ", "", 2022-07-09 20:21:20 +0000 UTC
-14, icp-planner, https://github.com/jackthepanda96/icp-planner, "Repository untuk ICP Alterra Academy.", "", 2022-07-23 15:46:50 +0000 UTC
-13, crud, https://github.com/cdfmlr/crud, "A package helps writing CRUD servers. All you need is this package and models.", "api,crud,golang,low-code,restful", 2022-07-20 06:20:18 +0000 UTC
-13, Reusable-File-Upload-Service, https://github.com/Brymes/Reusable-File-Upload-Service, "A Reusable File upload service featuring Popular file upload services S3 & Cloudinary, Designed to be plug and play for most scenarios", "", 2022-07-17 18:50:57 +0000 UTC
-13, Time.Now, https://github.com/ijasmoopan/Time.Now, "", "", 2022-07-05 04:52:58 +0000 UTC
-13, Mudis, https://github.com/jujunwang/Mudis, "这是一个用go语言重写的Redis服务端程序，区别于Redis的单线程存储引擎，Mudis的存储引擎是并行的，并且在多线程的前提下，能够保证提供的各种操作是线程安全的，且支持了可回滚事务的特性。", "", 2022-07-27 07:34:24 +0000 UTC
-13, flapioca, https://github.com/kbrgl/flapioca, "A Flappy Bird-inspired terminal game written in Go.", "", 2022-07-17 18:50:06 +0000 UTC
-13, btree, https://github.com/VictorLowther/btree, "AVL balanced generic binary trees in Go", "", 2022-07-15 16:53:34 +0000 UTC
-12, isucon12q, https://github.com/henchiyb/isucon12q, "", "", 2022-07-22 12:00:11 +0000 UTC
-12, go-graceful-shutdown, https://github.com/quii/go-graceful-shutdown, "", "", 2022-07-27 13:54:57 +0000 UTC
-12, starman, https://github.com/elliot40404/starman, "A simple yet intuitive cli app for managing startup applications on windows.", "", 2022-07-10 21:04:30 +0000 UTC
-12, today, https://github.com/jdockerty/today, "View your commit history across multiple directories, ideal for daily standup.", "cli,git,git-commit,go,golang,golang-cli,productivity,standup", 2022-07-10 14:15:48 +0000 UTC
-12, siyuan-publish, https://github.com/Zuoqiu-Yingyi/siyuan-publish, "思源笔记在线发布工具 | Siyuan Notes online publishing tool.", "gin,go,golang,gorm,publish,siyuan,siyuan-note,sqlite", 2022-07-10 13:55:52 +0000 UTC
-12, bun-promptx, https://github.com/wobsoriano/bun-promptx, "Terminal prompt library for the Bun runtime", "bun,bunjs,cli,go,prompt,tui", 2022-07-19 21:57:45 +0000 UTC
-11, rest-template-go, https://github.com/speakeasy-api/rest-template-go, "Template go lang service to showcase REST best practices.", "api-documentation,api-server,apiops,best-practices,golang,mux,rest,rest-api", 2022-07-08 11:31:21 +0000 UTC
-11, CVE-2022-21661, https://github.com/z92g/CVE-2022-21661, "WordPress WP_Query SQL Injection POC", "", 2022-07-28 13:12:51 +0000 UTC
-11, Go-MediatR, https://github.com/mehdihadeli/Go-MediatR, "Mediator pattern implementation in Golang and helpful in creating CQRS based applications.", "cqrs,go,golang,golang-package,mediator,mediator-pattern", 2022-07-12 08:40:01 +0000 UTC
-11, gravity, https://github.com/BeryJu/gravity, "Fully-replicated DNS and DHCP Server using etcd", "api,dhcp,dhcp-server,dns-server,etcd,replicated,webui", 2022-07-06 09:36:40 +0000 UTC
-10, nanodep, https://github.com/micromdm/nanodep, "NanoDEP is a set of tools and a Go library powering them for communicating with Apple's Device Enrollment Program (DEP) API servers.", "", 2022-07-12 15:45:20 +0000 UTC
+14325, pocketbase, https://github.com/pocketbase/pocketbase, "Open Source realtime backend in 1 file", "authentication,backend,golang,realtime", 2022-07-05 06:06:21 +0000 UTC
+3869, devbox, https://github.com/jetpack-io/devbox, "Instant, easy, predictable shells and containers.", "build-system,build-tool,buildpack,containers,dev-environment,devbox,development-environment,nix,venv,virtual-environment,virtualization", 2022-08-18 20:27:16 +0000 UTC
+1326, jqp, https://github.com/noahgorstein/jqp, "A TUI playground to experiment with jq", "go,jq,tui", 2022-08-28 05:52:21 +0000 UTC
+1281, coroot, https://github.com/coroot/coroot, "A monitoring and troubleshooting tool for microservice architectures.", "dashboard,database-monitoring,ebpf,kubernetes,log-analysis,metrics,microservice,monitoring,network-monitoring,observability,postgresql-monitoring,prometheus,service-map", 2022-08-22 14:59:07 +0000 UTC
+834, virtual-fido, https://github.com/bulwarkid/virtual-fido, "A Virtual FIDO2 USB Device", "", 2022-09-15 22:47:15 +0000 UTC
+802, fgtrace, https://github.com/felixge/fgtrace, "fgtrace is an experimental profiler/tracer that is capturing wallclock timelines for each goroutine. It's very similar to the Chrome profiler.", "", 2022-09-17 20:31:13 +0000 UTC
+793, cloudfox, https://github.com/BishopFox/cloudfox, "Automating situational awareness for cloud penetration tests.", "aws,cloud,cloud-security,golang,penetration-testing-tools", 2022-09-08 02:39:15 +0000 UTC
+720, Havoc, https://github.com/HavocFramework/Havoc, "The Havoc Framework", "", 2022-09-11 13:21:16 +0000 UTC
+682, pdf-diff, https://github.com/serhack/pdf-diff, "A tool for visualizing differences between two pdf files.", "editor-tools,pdf,pdf-diff,pdf-difference,typesetter", 2022-08-04 19:54:17 +0000 UTC
+604, permify, https://github.com/Permify/permify, "Permify is an open-source authorization service & policy engine based on Google Zanzibar.", "access-control,access-control-lists,acl,authorization,fine-grained-authorization,golang,permissions,rbac,rebac,security,zanzibar", 2022-07-14 11:16:57 +0000 UTC
+602, GoBypassAV, https://github.com/TideSec/GoBypassAV, "整理了基于Go的16种API免杀测试、8种加密测试、反沙盒测试、编译混淆、加壳、资源修改等免杀技术，并搜集汇总了一些资料和工具。", "", 2022-08-05 02:47:29 +0000 UTC
+601, haxmap, https://github.com/alphadose/haxmap, "Fastest and most memory efficient golang concurrent hashmap", "concurrent,fast,go,golang,hashmap,lock-free,map,memory-efficient,thread-safe", 2022-08-08 02:36:05 +0000 UTC
+598, yamlfmt, https://github.com/google/yamlfmt, "An extensible command line tool or library to format yaml files.", "", 2022-08-10 17:04:01 +0000 UTC
+567, pretender, https://github.com/RedTeamPentesting/pretender, "Your MitM sidekick for relaying attacks featuring DHCPv6 DNS takeover as well as mDNS, LLMNR and NetBIOS-NS spoofing.", "dhcpv6,dns,go,llmnr,mdns,netbios,pentesting,pretender,relaying,security,spoofer", 2022-07-11 13:23:23 +0000 UTC
+560, Freeze, https://github.com/optiv/Freeze, "Freeze is a payload toolkit for bypassing EDRs using suspended processes, direct syscalls, and alternative execution methods", "", 2022-09-21 14:40:59 +0000 UTC
+559, evilgophish, https://github.com/fin3ss3g0d/evilgophish, "evilginx2 + gophish", "", 2022-09-07 02:47:43 +0000 UTC
+521, ldapnomnom, https://github.com/lkarlslund/ldapnomnom, "Anonymously bruteforce Active Directory usernames from Domain Controllers by abusing LDAP Ping requests (cLDAP)", "active-directory,bruteforce,bruteforcer,cldap,ldap", 2022-09-18 10:35:09 +0000 UTC
+464, FxMinerProxyV3, https://github.com/FxPool/FxMinerProxyV3, "100%原创GO+VUE开发,手机APP支持，ETCminerproxy,ETHWminerproxy,ETFminerproxy,BTCminerproxy,LTCminerproxy,ERGminerproxy,KASminerproxy,BTGminerproxy,XMRminerproxy,RVNminerproxy,CFXminerproxy....", "2miner,btc,etc,eth,ethermine,f2pool,fxminerproxy,miner,miner-proxy,minerproxy,pool,proxy,rvn,ssl", 2022-08-13 12:38:39 +0000 UTC
+443, kubezoo, https://github.com/kubewharf/kubezoo, "a lightweight kubernetes multi-tenancy gateway", "kubernetes,multi-tenancy,serverless", 2022-07-22 03:58:08 +0000 UTC
+429, goby-poc, https://github.com/MY0723/goby-poc, "447个goby poc，是否后门及重复自行判断，来源于网络收集的Goby&POC，实时更新。 ", "", 2022-07-17 05:35:25 +0000 UTC
+424, marmot, https://github.com/maxpert/marmot, "A distributed SQLite replicator built on top of NATS", "", 2022-08-27 06:35:02 +0000 UTC
+420, FastjsonScan, https://github.com/a1phaboy/FastjsonScan, "Fastjson扫描器，可识别版本、依赖库、autoType状态等。A tool to distinguish fastjson ,version and dependency", "deserialization-vulnerability,fastjson,fastjson-rce,scanner-web", 2022-09-05 19:14:17 +0000 UTC
+419, tdl, https://github.com/iyear/tdl, "📥 Telegram Downloader, but more than a downloader 🚀", "download,downloader,telegram,telegram-api", 2022-09-01 01:02:37 +0000 UTC
+377, constellation, https://github.com/edgelesssys/constellation, "Constellation is the first Confidential Kubernetes. Constellation shields entire Kubernetes clusters from the (cloud) infrastructure using confidential computing.", "cloud-security,confidential-computing,data-encryption,hacktoberfest,kubernetes,kubernetes-security", 2022-08-28 15:08:34 +0000 UTC
+355, mixctl, https://github.com/inlets/mixctl, "A tiny TCP load balancer 🍸", "", 2022-09-08 17:49:47 +0000 UTC
+354, ylgy, https://github.com/zc2638/ylgy, "羊了个羊 通关程序，支持自动通关", "", 2022-09-15 05:31:35 +0000 UTC
+352, socks5lb, https://github.com/mingcheng/socks5lb, "A simple socks5 proxy load balance and transparent proxy", "", 2022-07-08 03:49:17 +0000 UTC
+348, WatchYourLAN, https://github.com/aceberg/WatchYourLAN, "Lightweight network IP scanner with web GUI", "arp-scan,docker,golang,gui", 2022-08-15 04:58:22 +0000 UTC
+334, wunderbase, https://github.com/wundergraph/wunderbase, "Serverless GraphQL Database built on top of Firecracker, SQLite and Prisma", "database,db,firecracker,firecracker-containerd,firecracker-microvms,firecracker-vm,go,golang,golang-application,golang-package,graphql,prisma,prisma2,serverless,sqlite,sqlite-database,sqlite3,sqlite3-database,wundergraph", 2022-09-13 06:10:58 +0000 UTC
+318, wa, https://github.com/wa-lang/wa, "凹语言™ 专注于 WASM 平台的简单、可维护的编译型通用语言 Simple, maintainability, compiled language for developing WebAssembly software", "compiler,language,programming-language,wa,wa-lang,wasm,webassembly", 2022-07-20 03:22:58 +0000 UTC
+306, kubebrain, https://github.com/kubewharf/kubebrain, "A High Performance Metadata System for Kubernetes", "etcd,kubernetes,kv-store,metadata,scalability", 2022-07-14 03:15:53 +0000 UTC
+290, kahroba, https://github.com/kahroba-lang/kahroba, "Kahroba is a programming language with educational purposes written in Go", "", 2022-08-27 19:15:37 +0000 UTC
+276, frpc-go, https://github.com/loopholelabs/frpc-go, "fRPC-go is a lightweight, fast, and secure RPC framework implemented for Go that uses Frisbee under the hood", "frisbee,frpc,go,golang,grpc,messaging,networking,performance,rpc,streaming,tcp", 2022-07-20 18:44:44 +0000 UTC
+261, exifLooter, https://github.com/aydinnyunus/exifLooter, "ExifLooter finds geolocation on all image urls and directories also integrates with OpenStreetMap", "bug-bounty,bugbounty,cyber-security,exif,exif-metadata,exiftool,golang,hack,hacking,image,metadata,metadata-extraction,osint,redteam,security", 2022-07-30 12:51:43 +0000 UTC
+261, go-plugin, https://github.com/knqyf263/go-plugin, "Go Plugin System over WebAssembly", "go,golang,plugin,plugins,protobuf3,protocol-buffers", 2022-08-19 06:58:57 +0000 UTC
+254, 2022-HW-POC, https://github.com/Phuong39/2022-HW-POC, "2022 护网行动 POC 整理", "", 2022-08-03 06:28:17 +0000 UTC
+237, AniYa, https://github.com/piiperxyz/AniYa, "免杀框架", "bypass,gui,redteam", 2022-07-13 10:07:41 +0000 UTC
+237, infinite, https://github.com/fzdwx/infinite, "A component library for developing interactive CLI(tui,terminal) programs. ", "autocomplete,cli,command-line-tool,confirm,golang,multi-process-bar,processbar,prompt,select,terminals,tui", 2022-08-02 12:10:59 +0000 UTC
+223, 115drive-webdav, https://github.com/gaoyb7/115drive-webdav, "115 网盘 WebDAV 服务", "115,webdav", 2022-07-08 02:57:10 +0000 UTC
+222, tsk, https://github.com/kakengloh/tsk, "Lightweight terminal task app written in Go (Golang)", "boltdb,cli,go,golang,simple,todo", 2022-08-16 07:36:29 +0000 UTC
+213, Adinfo, https://github.com/lzzbb/Adinfo, "域信息收集工具", "", 2022-09-10 03:09:36 +0000 UTC
+201, consulta-operadora, https://github.com/unkperson/consulta-operadora, "📞: consult the operator of a telephone in Brazil 🇧🇷", "", 2022-08-17 23:57:40 +0000 UTC
+197, classes.wtf, https://github.com/ekzhang/classes.wtf, "A course catalog with extremely fast full-text search", "catalog,course,full-text-search,go,harvard,redis,svelte,university", 2022-08-07 07:27:22 +0000 UTC
+185, bluetuith, https://github.com/darkhz/bluetuith, "", "", 2022-07-08 11:15:48 +0000 UTC
+183, soci-snapshotter, https://github.com/awslabs/soci-snapshotter, "", "", 2022-08-10 14:18:43 +0000 UTC
+182, dfserver, https://github.com/huo-ju/dfserver, "A distributed backend AI pipeline server", "ai-art,ai-pipeline,diffusers,pipeline,stable-diffusion", 2022-09-12 00:59:22 +0000 UTC
+172, stl4go, https://github.com/chen3feng/stl4go, "Generic Container and Algorithm Library for Go", "go,golang,stl", 2022-07-24 09:23:37 +0000 UTC
+172, go2rtc, https://github.com/AlexxIT/go2rtc, "Ultimate camera streaming application with support RTSP, RTMP, WebRTC, MSE, MJPEG, HomeKit, FFmpeg, etc.", "ffmpeg,h264,h265,hassio,hls,home-assistant,homekit,mjpeg,ngrok,rtmp,rtp,rtsp,streaming,webcam-streaming,webrtc", 2022-08-18 06:16:48 +0000 UTC
+169, jett, https://github.com/saurabh0719/jett, "Jett is a lightweight micro-framework for building Go HTTP services. Built on top of HttpRouter, enables subrouting and flexible addition of middleware at any level  :rocket: ", "micro-framework,microservice,rest-api,router", 2022-09-18 05:31:03 +0000 UTC
+166, winlog, https://github.com/i11us0ry/winlog, "一款基于go的windows信息收集工具，主要收集目标机器rdp端口、mstsc远程连接记录、mstsc密码和安全事件中4624、4625登录事件记录", "", 2022-07-09 10:29:46 +0000 UTC
+164, microwaveo, https://github.com/Ciyfly/microwaveo, "将dll exe 等转成shellcode 最后输出exe 可定制加载器模板 支持白文件的捆绑 shellcode 加密", "dll,golang,shellcode-loader", 2022-09-08 06:59:10 +0000 UTC
+164, diskusage, https://github.com/chenquan/diskusage, "A tool for showing disk usage. (Linux, macOS and Windows)", "cli,command-line,disk-space,diskusage,golang,linux,macos,tool,windows", 2022-08-04 00:30:29 +0000 UTC
+159, gopixiu, https://github.com/caoyingjunz/gopixiu, "Gopixiu 基于 kubernetes 的容器管理平台", "cicd,devops,kubernetes,kubez-ansible,pixiu,pixiu-dashboard", 2022-08-05 13:06:46 +0000 UTC
+158, kubean, https://github.com/kubean-io/kubean, "Kubernetes lifecycle management operator based on kubespray.", "kubernetes,kubespray", 2022-07-05 07:46:29 +0000 UTC
+156, lazytrivy, https://github.com/owenrumney/lazytrivy, "Vulnerability scanning just got lazier", "aws-scanning,aws-security,golang,golang-cli,misconfigurations,scanner,security-auditing-tool,security-tools,staticanalysis,trivy,tui,vulnerability-scanners", 2022-08-13 15:13:16 +0000 UTC
+155, kago, https://github.com/kamalshkeir/kago, "KaGo", "admin,eventbus,generics,go,golang,interactive,middlewares,mux,orm,router,shell,sse,websockets", 2022-07-11 02:07:39 +0000 UTC
+150, git-remote-aws, https://github.com/nathants/git-remote-aws, "encrypted git hosting should be easy", "", 2022-08-31 23:02:45 +0000 UTC
+146, rest-template-go, https://github.com/speakeasy-api/rest-template-go, "Template go lang service to showcase REST best practices. Built by the Speakeasy team.", "api-documentation,api-server,apiops,best-practices,go-api,go-http-middleware,go-rest-api,go-restful,golang,mux,rest,rest-api,restful,restful-api", 2022-07-08 11:31:21 +0000 UTC
+137, azure-dev, https://github.com/Azure/azure-dev, "A developer CLI that accelerates the time it takes for you to get started on Azure. The Azure Developer CLI (azd) provides a set of developer-friendly commands that map to key stages in your workflow - code, build, deploy, monitor, repeat.", "azure,microsoft", 2022-07-05 20:47:01 +0000 UTC
+137, bomber, https://github.com/devops-kung-fu/bomber, "Scans Software Bill of Materials (SBOMs) for security vulnerabilities", "cyclonedx,gomodule,oss,sbom,spdx,supply-chain,supplychain,syft,vulnerability-scanners", 2022-07-08 15:05:44 +0000 UTC
+136, k8s-pod-restart-info-collector, https://github.com/airwallex/k8s-pod-restart-info-collector, "Automated troubleshooting of Kubernetes Pods issues. Collect K8s pod restart reasons, logs, and events automatically.", "automation,collector,golang,k8s,kubernetes,kubernetes-controller,monitoring,pods,restart,troubleshooting", 2022-08-29 07:57:12 +0000 UTC
+135, golang_snake, https://github.com/TheOnlines/golang_snake, "Golang version snake game", "", 2022-07-14 14:23:10 +0000 UTC
+133, GoBP, https://github.com/awsaaaq/GoBP, "Bypass Antivirus by Golang", "", 2022-07-07 16:33:24 +0000 UTC
+132, comqtt, https://github.com/wind-c/comqtt, "A lightweight, high-performance go mqtt server(v3.0|v3.1.1|v5.0) supporting distributed cluster", "cluster,distributed,golang,golang-library,gossip,iot,mqtt,mqtt-broker,mqtt-server,mqtt-smarthome,mqttv5,msgpack,raft", 2022-09-04 02:37:02 +0000 UTC
+130, run-job, https://github.com/alexellis/run-job, "Run a Kubernetes Job and get the logs when it's done 🏃\u200d♂️", "", 2022-09-05 14:10:29 +0000 UTC
+124, gotoexec, https://github.com/newbe3three/gotoexec, "通过Go语言实现的一款基于gRPC的远控木马。", "", 2022-07-26 19:44:16 +0000 UTC
+123, Lastenzug, https://github.com/codewhitesec/Lastenzug, "Socks4a proxy leveraging PIC, Websockets and static obfuscation on assembly level", "", 2022-07-21 12:57:52 +0000 UTC
+122, Forest, https://github.com/seventeenman/Forest, "基于frp(0.44.0)二次开发，删除不必要功能，加密配置文件，修改流量以及文件特征", "", 2022-07-16 04:50:51 +0000 UTC
+120, bubblezone, https://github.com/lrstanley/bubblezone, "helper utility for BubbleTea, allowing easy mouse event tracking", "bubbletea,cli,go,golang,lipgloss,terminal,tui", 2022-07-09 22:52:07 +0000 UTC
+117, allero, https://github.com/allero-io/allero, "By scanning CI/CD misconfigurations, Allero helps reduce production issues, harden your security posture and shift-left CI/CD from DevOps to developers.", "cicd,compliance,developer-tools,devops,devops-pipeline,devsecops,devsecops-tools,github-actions,governance-operations,jfrog,pipelines-developer-platform,pipelines-incidents,security,security-tools", 2022-08-25 14:20:50 +0000 UTC
+116, lsf, https://github.com/AkihiroSuda/lsf, "Linux Subsystem for FreeBSD (😈 on\u00a0🐧)", "elf,freebsd,ptrace,syscalls", 2022-08-29 09:17:29 +0000 UTC
+114, ldapper, https://github.com/Synzack/ldapper, "", "", 2022-07-09 01:05:14 +0000 UTC
+113, bucketeer, https://github.com/bucketeer-io/bucketeer, "Feature Flag Management and A/B Testing platform", "", 2022-09-28 06:17:37 +0000 UTC
+107, httplog, https://github.com/MadAppGang/httplog, "Golang HTTP logger middleware with color console output and structured logs", "", 2022-08-13 01:42:51 +0000 UTC
+104, fingerprintx, https://github.com/praetorian-inc/fingerprintx, "Standalone utility for service discovery on open ports! ", "", 2022-09-21 16:57:21 +0000 UTC
+102, gofetch, https://github.com/tr3ss/gofetch, "This could have been a bash one-liner but guess what. It's a small Go tool that lists the trending CVEs from cvetrends.com", "", 2022-07-26 11:11:38 +0000 UTC
+95, shc_bypass, https://github.com/passer-W/shc_bypass, "内存加载shellcode绕过waf", "", 2022-07-25 03:36:58 +0000 UTC
+94, kwok, https://github.com/kubernetes-sigs/kwok, "Simulate thousands of fake kubelets, on a laptop with minimum resource footprint.", "k8s-sig-scheduling", 2022-07-28 05:09:06 +0000 UTC
+93, aptos-go-sdk, https://github.com/portto/aptos-go-sdk, "Aptos (@aptos-labs) Golang SDK", "aptos,golang,sdk", 2022-08-03 06:19:57 +0000 UTC
+90, hashr, https://github.com/google/hashr, "", "", 2022-07-20 08:18:03 +0000 UTC
+86, kubegateway, https://github.com/kubewharf/kubegateway, "Specific Layer7 Gateway for kube-apiserver", "apiserver,gateway,kubernetes,load-balancer", 2022-07-14 09:00:16 +0000 UTC
+84, go-clean-arch, https://github.com/chatbotgang/go-clean-arch, "Go Clean Architecture in Crescendo Lab ", "clean-architecture,ddd,go,golang,software-architecture", 2022-07-18 02:50:12 +0000 UTC
+83, whalewall, https://github.com/capnspacehook/whalewall, "Easily mange firewall rules for docker containers", "docker,firewall,golang,security", 2022-08-24 17:10:00 +0000 UTC
+82, slp, https://github.com/tkuchiki/slp, "(MySQL) SlowLog Profiler", "", 2022-07-16 05:55:48 +0000 UTC
+82, asnmap, https://github.com/projectdiscovery/asnmap, "Go CLI and Library for quickly mapping organization network ranges using ASN information.", "asn,asn-lookup,cidr-range,osint,recon", 2022-09-29 01:19:40 +0000 UTC
+81, vault-plugin-secrets-wireguard, https://github.com/candiddev/vault-plugin-secrets-wireguard, "Wireguard secrets engine for Vault", "plugin,vault,wireguard", 2022-08-13 00:42:12 +0000 UTC
+78, zpscan, https://github.com/niudaii/zpscan, "一个有点好用的信息收集工具。A somewhat useful information gathering tool.", "golang", 2022-09-16 03:03:20 +0000 UTC
+78, lure, https://github.com/Arsen6331/lure, "Linux User REpository", "bash,build-system,git,go,golang,linux,linux-app,package-management,package-manager,packaging", 2022-09-26 05:30:33 +0000 UTC
+78, ide-honeypot, https://github.com/wendell1224/ide-honeypot, "一款针对于IDE的反制蜜罐 IDE-honeypot", "", 2022-07-11 13:57:55 +0000 UTC
+77, Chrono, https://github.com/hazyuun/Chrono, "A git time machine", "", 2022-08-20 19:01:30 +0000 UTC
+77, nq, https://github.com/DumbMachine/nq, "Cancellable, Efficient and Reliable  Distributed Task Queue in Go", "asynchronous-tasks,background-jobs,go,golang,nats,task-queue,worker-queue", 2022-08-06 08:57:49 +0000 UTC
+76, iftree, https://github.com/t1anz0ng/iftree, "iftree help understand container networks by visualizing network interfaces( veth bridge lo ) relation , output in text, table, images and dot language.", "bridge,cli,cni,go,graphviz-dot,netlink,netns,veth", 2022-07-27 14:17:26 +0000 UTC
+76, fztea, https://github.com/jon4hz/fztea, "🐬🧋  Connect to your Flipper's UI over serial or make it accessible via SSH", "bubbletea,flipper,flipper-zero,flipperzero,ssh,tui", 2022-07-27 20:14:18 +0000 UTC
+74, rdme, https://github.com/stateful/rdme, "Execute commands directly from a README.", "", 2022-07-18 07:58:54 +0000 UTC
+72, ku-bbs, https://github.com/hhandhuan/ku-bbs, "酷社区", "bbs,gin,gin-bbs,go,gobbs", 2022-07-19 12:51:48 +0000 UTC
+72, YATAS, https://github.com/StanGirard/YATAS, ":owl::mag_right: A simple tool to audit your AWS infrastructure for misconfiguration or potential security issues with plugins integration", "account,assessment,audit,aws,best-practices,cli,cloud,configuration,devsecops,hardening,security", 2022-08-05 08:02:37 +0000 UTC
+69, mqziti, https://github.com/ekoby/mqziti, "", "", 2022-07-06 18:42:23 +0000 UTC
+69, SqueethRebalaner, https://github.com/0xcacti/SqueethRebalaner, "Rebalance Squeeth", "", 2022-07-17 00:32:36 +0000 UTC
+69, tagpr, https://github.com/Songmu/tagpr, "automatically creates and updates a pull request for unreleased items, tag them when they are merged, and create releases.", "github-actions,go", 2022-08-14 07:35:48 +0000 UTC
+67, dreamboat, https://github.com/blocknative/dreamboat, "alpha mev-boost relay", "", 2022-09-12 23:59:05 +0000 UTC
