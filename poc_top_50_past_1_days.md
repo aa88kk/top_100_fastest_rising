@@ -1,103 +1,102 @@
 | Stars | Name | Desc | Created | 
 | ----- | ------- | ------------- | ------------- |
-| 2 | [aulas-ed-2022.2](https://github.com/antssousa/aulas-ed-2022.2) | Repositório da disciplina de estrutura de dados do curso técnico do IFPI - Campus Parnaíba turma 2022.2. | 2022-10-06 00:06:54 +0000 UTC |
-| 2 | [DocScanner](https://github.com/fh2019ustc/DocScanner) | The official repo for “DocScanner: Robust Document Image Rectification with Progressive Learning”. | 2022-10-06 00:36:59 +0000 UTC |
-| 1 | [SILENT-PDF-EXPLOIT-CLEAN-u](https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-u) |  | 2022-10-06 00:12:23 +0000 UTC |
-| 1 | [Solana-SPL-token-bulk-distributor-directly-to-wallet](https://github.com/Jantaroshi/Solana-SPL-token-bulk-distributor-directly-to-wallet) | Airdrop tool for Solana SPL token distribution directly to list of wallets. | 2022-10-06 00:38:31 +0000 UTC |
-| 1 | [HangmanGameJS](https://github.com/Iker-hub/HangmanGameJS) |  | 2022-10-06 01:17:45 +0000 UTC |
-| 1 | [handlebarTest](https://github.com/hhealing123/handlebarTest) |  | 2022-10-06 00:23:46 +0000 UTC |
-| 1 | [rSetGroup](https://github.com/ReFlexoo/rSetGroup) |  | 2022-10-06 00:00:35 +0000 UTC |
-| 1 | [xiao-xinyi](https://github.com/xne1t9ljqh/xiao-xinyi) |  | 2022-10-06 00:14:59 +0000 UTC |
-| 1 | [SnowboardUnity2d](https://github.com/josesanchez45/SnowboardUnity2d) |  | 2022-10-06 01:00:07 +0000 UTC |
-| 1 | [crispy-octo-robot](https://github.com/Vaxa8787vaxa/crispy-octo-robot) | Ky | 2022-10-06 01:24:53 +0000 UTC |
-| 1 | [AFFE-Arquitetura_CSS](https://github.com/Joads0n/AFFE-Arquitetura_CSS) | Projeto feito do @alura na formação de Front-End no curso Arquitetura CSS:  com @mahenrique94, que se trata de um site simples usando em seu código o padrão de Atomic Design e do BEM nas classes.  | 2022-10-06 00:49:56 +0000 UTC |
-| 1 | [CalebsWebsite](https://github.com/Cable208/CalebsWebsite) |  | 2022-10-06 01:24:46 +0000 UTC |
-| 1 | [BarVolumeF55121009](https://github.com/wali21009/BarVolumeF55121009) | tugas | 2022-10-06 01:35:30 +0000 UTC |
-| 1 | [teros-api](https://github.com/hackathon-teros/teros-api) |  | 2022-10-06 00:12:57 +0000 UTC |
-| 1 | [SeeMeet-iOS-public](https://github.com/TeamSeeMeet/SeeMeet-iOS-public) | SeeMeet-iOS-public | 2022-10-06 00:23:05 +0000 UTC |
-| 1 | [Newbrok](https://github.com/ShanqingLuo/Newbrok) |  | 2022-10-06 01:23:18 +0000 UTC |
-| 1 | [Simple_book_management_system](https://github.com/ibrahzizo360/Simple_book_management_system) | This is a project composed mainly of fastapi and HTMX using postgres as the database. The purpose of this project is to illustrate how I create a simple website plus CRUD functionalities with no JavaScript, using only HTML, CSS, and Python. HTMX is a plugin that allows this to be possible | 2022-10-06 00:01:11 +0000 UTC |
-| 1 | [wine-commerce](https://github.com/rafaelmakaha/wine-commerce) |  | 2022-10-06 00:21:59 +0000 UTC |
-| 1 | [android_builder](https://github.com/mymine/android_builder) |  | 2022-10-06 01:19:33 +0000 UTC |
-| 1 | [Bhinneka-AccountChecker](https://github.com/rhdyar/Bhinneka-AccountChecker) |  | 2022-10-06 01:17:58 +0000 UTC |
-| 1 | [AFFE-Layouts_resp](https://github.com/Joads0n/AFFE-Layouts_resp) |  | 2022-10-06 01:21:13 +0000 UTC |
-| 1 | [Sweeper-Bridge](https://github.com/SweeperTR/Sweeper-Bridge) |  | 2022-10-06 00:05:01 +0000 UTC |
-| 1 | [vehicle-store](https://github.com/kaell5206/vehicle-store) |  | 2022-10-06 00:47:23 +0000 UTC |
-| 1 | [QR](https://github.com/hossamyosri/QR) | QR code | 2022-10-06 00:46:02 +0000 UTC |
-| 1 | [MichGM.github.io](https://github.com/MichGM/MichGM.github.io) | My Personal Web Page | 2022-10-06 00:41:39 +0000 UTC |
-| 1 | [jhonataniury](https://github.com/jhonataniury/jhonataniury) | Config files for my GitHub profile. | 2022-10-06 01:38:40 +0000 UTC |
-| 1 | [descomplica-html](https://github.com/marcela-simoes/descomplica-html) | atividades práticas com html | 2022-10-06 00:52:52 +0000 UTC |
-| 1 | [week-one-practice](https://github.com/galabren07/week-one-practice) | first attempt  | 2022-10-06 01:00:54 +0000 UTC |
-| 1 | [exagear-binary](https://github.com/ZhymabekRoman/exagear-binary) | Binry files used for Exagear-For-Termux | 2022-10-06 00:11:21 +0000 UTC |
-| 1 | [UAT](https://github.com/tylerison/UAT) |  | 2022-10-06 00:58:04 +0000 UTC |
-| 1 | [repo3](https://github.com/Strarrygithub/repo3) |  | 2022-10-06 00:35:22 +0000 UTC |
-| 1 | [GREENFOOT](https://github.com/zidan2808/GREENFOOT) |  | 2022-10-06 01:33:07 +0000 UTC |
-| 1 | [film_wei](https://github.com/wildanwigenta/film_wei) |  | 2022-10-06 00:48:59 +0000 UTC |
-| 1 | [SILENT-DOC-EXPLOIT-CLEAN-u](https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-u) |  | 2022-10-06 00:13:12 +0000 UTC |
-| 1 | [pmv-ads-2022-2-e1-proj-web-t6-grupo_1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t6-grupo_1) | pmv-ads-2022-2-e1-proj-web-t6-grupo_1 created by GitHub Classroom | 2022-10-06 00:07:04 +0000 UTC |
-| 1 | [Portifolio-individual](https://github.com/VictoriaQuintana/Portifolio-individual) | Esse projeto é sobre mim. | 2022-10-06 01:03:45 +0000 UTC |
-| 1 | [FinancialBudgeting](https://github.com/shawnbandy/FinancialBudgeting) |  | 2022-10-06 01:21:47 +0000 UTC |
-| 1 | [simple-message-center](https://github.com/suyuan32/simple-message-center) | 消息中心，负责邮件和短信服务 | 2022-10-06 00:12:53 +0000 UTC |
-| 1 | [Happy_Birthday](https://github.com/Jh3re/Happy_Birthday) | Tarjeta de cumpleaños | 2022-10-06 01:18:49 +0000 UTC |
-| 1 | [executionbackup-rust](https://github.com/TennisBowling/executionbackup-rust) |  | 2022-10-06 01:20:24 +0000 UTC |
-| 1 | [Doina-ciobanu-](https://github.com/12121989/Doina-ciobanu-) |  | 2022-10-06 00:32:21 +0000 UTC |
-| 1 | [decodificador-alura](https://github.com/roieski/decodificador-alura) | Desafio Codificador de Textos - Sprint 1 Programa ONE - Turma 3 | 2022-10-06 00:39:41 +0000 UTC |
-| 1 | [Stocktrading-App](https://github.com/SylvaB/Stocktrading-App) |  | 2022-10-06 00:04:40 +0000 UTC |
-| 1 | [GABY](https://github.com/Franprof/GABY) | Receita | 2022-10-06 01:28:31 +0000 UTC |
-| 1 | [proyecto_desarrollo](https://github.com/vidaleishon/proyecto_desarrollo) | moy boeno | 2022-10-06 00:45:57 +0000 UTC |
-| 1 | [Desafio-2](https://github.com/Renan-Neves/Desafio-2) | desafio 2 web | 2022-10-06 00:45:06 +0000 UTC |
-| 1 | [Bowers_Johnathon_Store_and_Products](https://github.com/JohnathonBowers/Bowers_Johnathon_Store_and_Products) |  | 2022-10-06 01:21:50 +0000 UTC |
-| 1 | [Project-1---Flight-Tracking-Weather-Enthusiasts](https://github.com/ajconnally93/Project-1---Flight-Tracking-Weather-Enthusiasts) | Project 1 | 2022-10-06 00:28:39 +0000 UTC |
-| 1 | [LiuFake](https://github.com/LiuFake/LiuFake) | Config files for my GitHub profile. | 2022-10-06 00:56:48 +0000 UTC |
-| 1 | [project-emgo](https://github.com/lczago/project-emgo) |  | 2022-10-06 00:12:14 +0000 UTC |
-| 1 | [Start-Angular-Theme](https://github.com/ManarAntar/Start-Angular-Theme) | Angular Application | 2022-10-06 00:35:02 +0000 UTC |
-| 1 | [Eric](https://github.com/Franprof/Eric) | Receita | 2022-10-06 01:21:39 +0000 UTC |
-| 1 | [untangle-me-app](https://github.com/tridinhbui/untangle-me-app) |  | 2022-10-06 01:14:30 +0000 UTC |
-| 1 | [scotsman12](https://github.com/scotsman12/scotsman12) | Config files for my GitHub profile. | 2022-10-06 00:10:51 +0000 UTC |
-| 1 | [Frutas-Frutos](https://github.com/Thiagobezerrabarbosa/Frutas-Frutos) |  | 2022-10-06 00:15:18 +0000 UTC |
-| 1 | [oybekde](https://github.com/oybekde/oybekde) | Config files for my GitHub profile. | 2022-10-06 00:57:53 +0000 UTC |
-| 1 | [Tinder-clone](https://github.com/leopold-van-der-elst/Tinder-clone) |  | 2022-10-06 01:08:05 +0000 UTC |
-| 1 | [REQ1006](https://github.com/DongJoonHan/REQ1006) |  | 2022-10-06 00:10:19 +0000 UTC |
-| 1 | [Projeto-03---StarDevs](https://github.com/Akayy0/Projeto-03---StarDevs) |  | 2022-10-06 01:09:36 +0000 UTC |
-| 1 | [RAD_em_Python_Trabalho](https://github.com/PereiraLegend/RAD_em_Python_Trabalho) | Aqui consta o trabalho final da matéria de RAD em Python para a AV1 | 2022-10-06 00:43:03 +0000 UTC |
-| 1 | [SILENT-EXCEL-XLS-EXPLOIT-CLEAN-u](https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-u) |  | 2022-10-06 00:14:03 +0000 UTC |
-| 1 | [Genetic-Algorithm](https://github.com/GuilhermePeinador/Genetic-Algorithm) |  | 2022-10-06 00:00:13 +0000 UTC |
-| 1 | [Deep_learning](https://github.com/pascale25/Deep_learning) |  | 2022-10-06 00:43:15 +0000 UTC |
-| 1 | [rijalghodi.github.io](https://github.com/rijalghodi/rijalghodi.github.io) | My Official Portfolio Homepage | 2022-10-06 01:08:09 +0000 UTC |
-| 1 | [uwu](https://github.com/Its-me-a-guy/uwu) |  | 2022-10-06 01:20:46 +0000 UTC |
-| 0 | [vIm23boslT](https://github.com/pgonline123/vIm23boslT) |  | 2022-10-06 00:00:40 +0000 UTC |
-| 0 | [cleanNodeApi](https://github.com/Manelitu/cleanNodeApi) |  | 2022-10-06 00:01:12 +0000 UTC |
-| 0 | [e9ORpVzFTu](https://github.com/meslot88/e9ORpVzFTu) |  | 2022-10-06 00:01:49 +0000 UTC |
-| 0 | [GraphDeepLearning](https://github.com/IamJiangBo/GraphDeepLearning) | about graph deep learning ... | 2022-10-06 00:03:53 +0000 UTC |
-| 0 | [jonat](https://github.com/mourajj/jonat) |  | 2022-10-06 00:02:54 +0000 UTC |
-| 0 | [sample](https://github.com/dapings/sample) |  | 2022-10-06 00:04:24 +0000 UTC |
-| 0 | [VisualCodeS](https://github.com/CrisTheOne/VisualCodeS) | Intentando Usar Git | 2022-10-06 00:01:13 +0000 UTC |
-| 0 | [projeto-robo](https://github.com/BrunaSouzaProgramer/projeto-robo) |  | 2022-10-06 00:01:53 +0000 UTC |
-| 0 | [f2CxivrMNG](https://github.com/meslot88/f2CxivrMNG) |  | 2022-10-06 00:03:24 +0000 UTC |
-| 0 | [gh-runner-devops-team-2](https://github.com/devops-bc-01/gh-runner-devops-team-2) |  | 2022-10-06 00:04:04 +0000 UTC |
-| 0 | [Trabalho-LFTC](https://github.com/brunaanselmo/Trabalho-LFTC) |  | 2022-10-06 00:05:07 +0000 UTC |
-| 0 | [prova-seminario](https://github.com/AlyLee2002/prova-seminario) |  | 2022-10-06 00:04:59 +0000 UTC |
-| 0 | [Rocketseat](https://github.com/Mateus-santos67/Rocketseat) | Curso rocketseat | 2022-10-06 00:05:27 +0000 UTC |
-| 0 | [datarobot-bp-workshop-feedstock](https://github.com/conda-forge/datarobot-bp-workshop-feedstock) | A conda-smithy repository for datarobot-bp-workshop. | 2022-10-06 00:02:28 +0000 UTC |
-| 0 | [QTS](https://github.com/Joaogsl/QTS) |  | 2022-10-06 00:00:34 +0000 UTC |
-| 0 | [PR_GMC](https://github.com/Djoryuk/PR_GMC) |  | 2022-10-06 00:02:18 +0000 UTC |
-| 0 | [welcome-back](https://github.com/Stephen-Heff/welcome-back) |  | 2022-10-06 00:08:03 +0000 UTC |
-| 0 | [react-counter](https://github.com/MaxBouricius/react-counter) |  | 2022-10-06 00:08:04 +0000 UTC |
-| 0 | [5IV10MartinSainosDemian.github.io](https://github.com/5IV10MartinSainosDemianDes/5IV10MartinSainosDemian.github.io) |  | 2022-10-06 00:09:51 +0000 UTC |
-| 0 | [Java_1005](https://github.com/young-ha713/Java_1005) |  | 2022-10-06 00:07:36 +0000 UTC |
-| 0 | [my-portfolio](https://github.com/ferbdev/my-portfolio) |  | 2022-10-06 00:09:00 +0000 UTC |
-| 0 | [Handbook_Python_DS](https://github.com/rdzjr1997/Handbook_Python_DS) |  | 2022-10-06 00:01:13 +0000 UTC |
-| 0 | [DrakeEquation](https://github.com/MitchellSmithDotInfo/DrakeEquation) |  | 2022-10-06 00:03:04 +0000 UTC |
-| 0 | [test](https://github.com/al-chang-2/test) |  | 2022-10-06 00:05:54 +0000 UTC |
-| 0 | [meimeide](https://github.com/olihhr/meimeide) |  | 2022-10-06 00:09:28 +0000 UTC |
-| 0 | [p8105_hw2_wz2631](https://github.com/PAPhub/p8105_hw2_wz2631) |  | 2022-10-06 00:07:11 +0000 UTC |
-| 0 | [reactic](https://github.com/felipe7281/reactic) | react with no server  | 2022-10-06 00:10:13 +0000 UTC |
-| 0 | [PBD](https://github.com/deinov/PBD) | tugas mata kuliah | 2022-10-06 00:11:21 +0000 UTC |
-| 0 | [alx-system_engineering-devops](https://github.com/ali007-depug/alx-system_engineering-devops) | shell | 2022-10-06 00:10:58 +0000 UTC |
-| 0 | [alx-system_engineering-devops](https://github.com/KOGLOIN/alx-system_engineering-devops) |  | 2022-10-06 00:11:18 +0000 UTC |
-| 0 | [Story](https://github.com/EstherAken/Story) | My masterpiece. | 2022-10-06 00:02:44 +0000 UTC |
-| 0 | [iamdeane](https://github.com/iamdeane/iamdeane) | Config files for my GitHub profile. | 2022-10-06 00:11:28 +0000 UTC |
-| 0 | [rafidalwan](https://github.com/rafidalwan/rafidalwan) | Config files for my GitHub profile. | 2022-10-06 00:13:27 +0000 UTC |
-| 0 | [lambda-node-basic-test](https://github.com/barcellos-pedro/lambda-node-basic-test) |  | 2022-10-06 00:08:35 +0000 UTC |
-| 0 | [Projeto1](https://github.com/Lucas-Fgtti/Projeto1) | Tutorial de como usar o git | 2022-10-06 00:14:50 +0000 UTC |
+| 3 | [DB-GUI-TEAM-1](https://github.com/drew-harris/DB-GUI-TEAM-1) |  | 2022-10-07 00:45:40 +0000 UTC |
+| 2 | [Project-2-Fetch-a-Pet](https://github.com/juicyjerrry/Project-2-Fetch-a-Pet) | Passion project with Liben Warsame, Charitha Alwis, and Sergio De La Torre. | 2022-10-07 00:09:33 +0000 UTC |
+| 2 | [TechDawgsTurtleWorkshop](https://github.com/ren-nay/TechDawgsTurtleWorkshop) | Learn how to program, but with a creative twist! Using the Python programming language and a graphics library, we will cover the basics of programming from variables to loops. Automate the drawing process by writing code that moves your pen across a digital canvas. | 2022-10-07 00:01:52 +0000 UTC |
+| 2 | [EnfUroped-Docs](https://github.com/FCR-group/EnfUroped-Docs) | Documentos relacionados ao projeto do EnfUroped V2 | 2022-10-07 01:11:38 +0000 UTC |
+| 2 | [SurgeJOB](https://github.com/degenpig/SurgeJOB) |  | 2022-10-07 01:03:29 +0000 UTC |
+| 1 | [correlation_coefficient_calculator](https://github.com/Nathan-FrontMan/correlation_coefficient_calculator) |  | 2022-10-07 00:37:39 +0000 UTC |
+| 1 | [brand-logo-svg](https://github.com/nimoxdesign/brand-logo-svg) |  | 2022-10-07 00:39:46 +0000 UTC |
+| 1 | [Mama](https://github.com/BlackHawk700/Mama) |  | 2022-10-07 01:10:30 +0000 UTC |
+| 1 | [treinamento-git](https://github.com/MarcusVinicius25/treinamento-git) |  | 2022-10-07 00:39:51 +0000 UTC |
+| 1 | [kaitoyamazaki](https://github.com/kaitoyamazaki/kaitoyamazaki) | Config files for my GitHub profile. | 2022-10-07 01:38:24 +0000 UTC |
+| 1 | [net-ninja-vite-reactjs](https://github.com/DanielSaldivarSalas/net-ninja-vite-reactjs) |  | 2022-10-07 00:16:24 +0000 UTC |
+| 1 | [portfolio](https://github.com/SoaresLeonardo/portfolio) |  | 2022-10-07 00:26:41 +0000 UTC |
+| 1 | [algorithm_study](https://github.com/bibiana1202/algorithm_study) |  | 2022-10-07 00:48:29 +0000 UTC |
+| 1 | [cssBasics](https://github.com/samambea/cssBasics) |  | 2022-10-07 00:39:01 +0000 UTC |
+| 1 | [projeto_flashcard_Av1](https://github.com/theleozinho0o/projeto_flashcard_Av1) |  | 2022-10-07 01:20:40 +0000 UTC |
+| 1 | [PORTFOLIO-FULL-STACK-WEB-DEVELOPER-FREE-TEMPLATE-FOR-ALL](https://github.com/INAYAT552000/PORTFOLIO-FULL-STACK-WEB-DEVELOPER-FREE-TEMPLATE-FOR-ALL) | PORTFOLIO FULL STACK WEB DEVELOPER FREE TEMPLATE FOR ALL | 2022-10-07 01:17:34 +0000 UTC |
+| 1 | [runtime](https://github.com/opencui/runtime) | Runtime for OpenCUI, a frontend framework for chatbots. | 2022-10-07 00:16:44 +0000 UTC |
+| 1 | [ImeStudy](https://github.com/katahiromz/ImeStudy) | Windows IME/IMM Study by katahiromz | 2022-10-07 00:02:20 +0000 UTC |
+| 1 | [barreleye-insights](https://github.com/barreleye/barreleye-insights) | Privacy-friendly blockchain analytics for businesses dealing with digital assets. | 2022-10-07 00:46:51 +0000 UTC |
+| 1 | [Unity3DMobile-AsteroidAvoider](https://github.com/OnlyRevolutions/Unity3DMobile-AsteroidAvoider) |  | 2022-10-07 01:00:05 +0000 UTC |
+| 1 | [grupo4_entrega5](https://github.com/luxavi93/grupo4_entrega5) |  | 2022-10-07 00:14:08 +0000 UTC |
+| 1 | [NamaeAPP](https://github.com/andress29/NamaeAPP) | Proyect | 2022-10-07 00:16:32 +0000 UTC |
+| 1 | [SenacUc06](https://github.com/vinisaggioratto/SenacUc06) | Repositório com os exercícios e códigos de exemplo da Unidade 06 - JAVA - do curso TDS do SENAC. | 2022-10-07 00:50:21 +0000 UTC |
+| 1 | [Amazon-Giftcard](https://github.com/wtfHell/Amazon-Giftcard) |  | 2022-10-07 01:27:14 +0000 UTC |
+| 1 | [ejer2guia11](https://github.com/BEMP1/ejer2guia11) |  | 2022-10-07 00:22:32 +0000 UTC |
+| 1 | [marvelinfoapp](https://github.com/feliciogs/marvelinfoapp) | App para consumo da API da Marvel Comics, utilizando tecnologias como Kotlin, MVVM, Kotlin Flow,Hilt, entre outros. | 2022-10-07 01:05:08 +0000 UTC |
+| 1 | [clase-instituto](https://github.com/Cistian-Herrera/clase-instituto) | esto es un proyecto de practica | 2022-10-07 00:09:37 +0000 UTC |
+| 1 | [estudos-dev-web](https://github.com/viniciuslemos93/estudos-dev-web) | Repositório dedicado aos projetos desenvolvidos durante o curso de Desenvolvimento Web. | 2022-10-07 01:19:48 +0000 UTC |
+| 1 | [my-gallery](https://github.com/vanebit/my-gallery) | DevChallege Challenge. It was requested to design a static page. I made it responsive, Mobile first. In the gallery I used Grid and added states to the footer. | 2022-10-07 00:36:37 +0000 UTC |
+| 1 | [assisment03](https://github.com/locnguyenddbrvt/assisment03) |  | 2022-10-07 00:50:07 +0000 UTC |
+| 1 | [Jogo-da-Velha](https://github.com/DevGnomox/Jogo-da-Velha) |  | 2022-10-07 01:20:52 +0000 UTC |
+| 1 | [SILENT-DOC-EXPLOIT-CLEAN-e](https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-e) |  | 2022-10-07 00:02:14 +0000 UTC |
+| 1 | [ip-lookup](https://github.com/wtfHell/ip-lookup) |  | 2022-10-07 00:09:16 +0000 UTC |
+| 1 | [ejer3guia11](https://github.com/BEMP1/ejer3guia11) |  | 2022-10-07 00:51:04 +0000 UTC |
+| 1 | [projeto-social](https://github.com/artemiihs/projeto-social) | Projeto de redes sociais do desafio 13 do módulo 4 do curso de HTML5 e CSS3 do Curso em Vídeo | 2022-10-07 01:12:30 +0000 UTC |
+| 1 | [tic_tac_toe](https://github.com/Nathan-FrontMan/tic_tac_toe) |  | 2022-10-07 00:58:57 +0000 UTC |
+| 1 | [Aplicacao-JavaWeb-Servlets-JavaEE](https://github.com/Joaocarlosk/Aplicacao-JavaWeb-Servlets-JavaEE) | Projeto simples para praticar JavaEE | 2022-10-07 01:28:20 +0000 UTC |
+| 1 | [Cracking](https://github.com/hirvhee/Cracking) |  | 2022-10-07 01:31:45 +0000 UTC |
+| 1 | [Pyae7112002](https://github.com/Pyae7112002/Pyae7112002) | Config files for my GitHub profile. | 2022-10-07 00:02:46 +0000 UTC |
+| 1 | [prayerbook](https://github.com/Tetehuitl/prayerbook) |  | 2022-10-07 00:08:57 +0000 UTC |
+| 1 | [GitAndGithub_by_yourName](https://github.com/smujiba1/GitAndGithub_by_yourName) |  | 2022-10-07 00:17:30 +0000 UTC |
+| 1 | [Stroke_Risk_Prediction](https://github.com/Zixing3791/Stroke_Risk_Prediction) |  | 2022-10-07 00:49:37 +0000 UTC |
+| 1 | [Email-This](https://github.com/wonste/Email-This) |  | 2022-10-07 00:27:48 +0000 UTC |
+| 1 | [Bookstore-Database](https://github.com/danithang/Bookstore-Database) | A mock database I made in school for a local bookstore  | 2022-10-07 01:04:15 +0000 UTC |
+| 1 | [REDEngine](https://github.com/WistfulHopes/REDEngine) | A decompilation project for the battle engine used by ArcSystemWorks' Team Red. | 2022-10-07 00:47:41 +0000 UTC |
+| 1 | [Algorithm](https://github.com/totangs/Algorithm) | 알고리즘 풀이 | 2022-10-07 01:21:50 +0000 UTC |
+| 1 | [Midterm](https://github.com/pl0wox/Midterm) |  | 2022-10-07 01:01:39 +0000 UTC |
+| 1 | [sistema-smart-tv](https://github.com/maxgabrieldev/sistema-smart-tv) |  | 2022-10-07 01:31:44 +0000 UTC |
+| 1 | [Sistema-de-control-de-Gastos-Bancario](https://github.com/Kriling-jarid75/Sistema-de-control-de-Gastos-Bancario) | Este sofware se desarrollo con la finalidad de llevar un control al gasto bancario que se hace internamente dentro de la empresa Cocinas Integrales Mónica. Este proyecto fue creado en el lenguaje de Java 8.1  conectado a una Base de datos en MySQL workbench | 2022-10-07 00:51:06 +0000 UTC |
+| 1 | [weatherapp](https://github.com/Kvnq-Poza/weatherapp) | Python code which gives weather status of regions across the world in real-time pulling requests from the Open Weather API | 2022-10-07 00:13:02 +0000 UTC |
+| 1 | [rulelogic-grpc-web](https://github.com/srintellikgh/rulelogic-grpc-web) | Web application built with NextJS \| MUI \| gRPC \| TypeScript | 2022-10-07 00:32:44 +0000 UTC |
+| 1 | [ProyectoFlask](https://github.com/nicolasromerod/ProyectoFlask) | Proyecto Final curso de Sistemas Distribuidos y Creación de Bases de datos | 2022-10-07 00:37:01 +0000 UTC |
+| 1 | [ExPreventCapture](https://github.com/JK0369/ExPreventCapture) |  | 2022-10-07 00:38:55 +0000 UTC |
+| 1 | [proyectoFinalAda](https://github.com/LuAMedina/proyectoFinalAda) | Proyecto final del curso de front end de Ada | 2022-10-07 00:38:48 +0000 UTC |
+| 1 | [Refrigerator](https://github.com/rrowland15/Refrigerator) | Front end for Application | 2022-10-07 00:45:36 +0000 UTC |
+| 1 | [python_game_algorithm_01](https://github.com/tossy0130/python_game_algorithm_01) |  | 2022-10-07 01:30:17 +0000 UTC |
+| 1 | [Landing-Page](https://github.com/JvKulka/Landing-Page) |  | 2022-10-07 00:11:03 +0000 UTC |
+| 1 | [Landing-Page-2](https://github.com/JvKulka/Landing-Page-2) |  | 2022-10-07 00:16:07 +0000 UTC |
+| 1 | [SILENT-PDF-EXPLOIT-CLEAN-e](https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-e) |  | 2022-10-07 00:01:09 +0000 UTC |
+| 1 | [AudioDatasetConverter](https://github.com/nileshkhetrapal/AudioDatasetConverter) | Convert large amounts of audio files for Data Science/DJ/Producer tings. | 2022-10-07 00:57:09 +0000 UTC |
+| 1 | [sistema_desconto](https://github.com/marcosdelima26/sistema_desconto) |  | 2022-10-07 00:51:45 +0000 UTC |
+| 1 | [CsharpSorting](https://github.com/AmmonMa/CsharpSorting) |  | 2022-10-07 00:08:01 +0000 UTC |
+| 1 | [Project](https://github.com/Lucas5k/Project) |  | 2022-10-07 00:47:34 +0000 UTC |
+| 1 | [SRN_Letters](https://github.com/Tayloraki/SRN_Letters) | This project uses a simple recurrent network (SRN) to learn and predict sequences. It was built for my Neural Network Models of Social and Cognitive Processes course and forks off a template provided to me by Professor Stephen J. Read. The purpose of this program is (for example) given the input 'ABCB', the system would output 'D'. This requires the system to discern between the 'context' of A-B->C and C-B->D. This program takes this simple premise and extends into second order dependencies. | 2022-10-07 00:45:08 +0000 UTC |
+| 1 | [desafio-1](https://github.com/astorpablo15/desafio-1) |  | 2022-10-07 00:17:42 +0000 UTC |
+| 1 | [Unity3DMobile-SimpleDriving](https://github.com/OnlyRevolutions/Unity3DMobile-SimpleDriving) |  | 2022-10-07 01:01:37 +0000 UTC |
+| 1 | [Unity2DMobile-BallLauncher](https://github.com/OnlyRevolutions/Unity2DMobile-BallLauncher) |  | 2022-10-07 00:58:17 +0000 UTC |
+| 1 | [JvKulka](https://github.com/JvKulka/JvKulka) |  | 2022-10-07 00:24:09 +0000 UTC |
+| 1 | [mirlecture](https://github.com/wlzhao22/mirlecture) |  | 2022-10-07 01:10:32 +0000 UTC |
+| 1 | [SILENT-EXCEL-XLS-EXPLOIT-CLEAN-e](https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-e) |  | 2022-10-07 00:03:11 +0000 UTC |
+| 1 | [React.js-Calculator](https://github.com/night780/React.js-Calculator) |  | 2022-10-07 01:17:26 +0000 UTC |
+| 1 | [SNOW-Page](https://github.com/To-NYk/SNOW-Page) | Простая страничка с анимированным снегом... | 2022-10-07 00:49:57 +0000 UTC |
+| 1 | [NotNations](https://github.com/Drusketh/NotNations) | A place for the select few to help me with ideas and record plans for (Not) Nations | 2022-10-07 00:28:25 +0000 UTC |
+| 1 | [Employee-REST-API---Spring-boot-JPA-MySQL](https://github.com/PedroSabas/Employee-REST-API---Spring-boot-JPA-MySQL) |  | 2022-10-07 00:56:43 +0000 UTC |
+| 1 | [AlphabetInByte-java](https://github.com/Halqq/AlphabetInByte-java) |  | 2022-10-07 00:06:40 +0000 UTC |
+| 1 | [fdw_2022_2_api_crud_produtos_categorias](https://github.com/profries/fdw_2022_2_api_crud_produtos_categorias) |  | 2022-10-07 00:23:19 +0000 UTC |
+| 1 | [project-2-BackStock](https://github.com/PDKetchum/project-2-BackStock) |  | 2022-10-07 00:47:31 +0000 UTC |
+| 1 | [Comp-Neuro-SpikingNN](https://github.com/qhansen628/Comp-Neuro-SpikingNN) |  | 2022-10-07 01:35:13 +0000 UTC |
+| 1 | [sig-window-nvim](https://github.com/erhickey/sig-window-nvim) | Neovim plugin allowing automatic display of LSP signature help in a floating window | 2022-10-07 00:04:45 +0000 UTC |
+| 1 | [YouTube-Video-Recommendation](https://github.com/Zixing3791/YouTube-Video-Recommendation) |  | 2022-10-07 01:16:46 +0000 UTC |
+| 1 | [Ryder](https://github.com/killerclaws12/Ryder) | A single-guild, multi-function Discord bot created with Discord.js V14. | 2022-10-07 01:37:17 +0000 UTC |
+| 1 | [FMRI-Decoding-Notebook](https://github.com/qhansen628/FMRI-Decoding-Notebook) |  | 2022-10-07 01:09:32 +0000 UTC |
+| 0 | [App-Republicas](https://github.com/pajeeh/App-Republicas) | Repositório criado para o desenvolvimento do aplicativo Repúblicas, que possui como objetivo, auxiliar estudantes a encontrar moradias próximas à faculdade | 2022-10-07 00:00:58 +0000 UTC |
+| 0 | [Chat-Widget](https://github.com/DeFragedGaming/Chat-Widget) |  | 2022-10-07 00:00:21 +0000 UTC |
+| 0 | [index.html](https://github.com/goofball69/index.html) | g | 2022-10-07 00:00:30 +0000 UTC |
+| 0 | [DesafioSpamEconomy](https://github.com/Alejandra10013/DesafioSpamEconomy) | Protocolo SMTP \| Paquete Nodemailer \| Enviando correos a partir de una consulta HTTP \| Envío de correos electrónicos masivos | 2022-10-07 00:01:55 +0000 UTC |
+| 0 | [examenc1](https://github.com/Kirbyret/examenc1) |  | 2022-10-07 00:03:51 +0000 UTC |
+| 0 | [-pharmaceutical-challenge](https://github.com/DanielGao25/-pharmaceutical-challenge) |  | 2022-10-07 00:03:24 +0000 UTC |
+| 0 | [stablediffusionmodel](https://github.com/PopaRares/stablediffusionmodel) |  | 2022-10-07 00:04:04 +0000 UTC |
+| 0 | [application](https://github.com/siva-960/application) |  | 2022-10-07 00:01:50 +0000 UTC |
+| 0 | [Reactp](https://github.com/RenzoLacovara/Reactp) |  | 2022-10-07 00:03:27 +0000 UTC |
+| 0 | [desafio5](https://github.com/cristel97/desafio5) |  | 2022-10-07 00:04:49 +0000 UTC |
+| 0 | [udemy-node-with-react](https://github.com/ViktorGasko/udemy-node-with-react) | https://www.udemy.com/course/node-with-react-fullstack-web-development/ | 2022-10-07 00:04:26 +0000 UTC |
+| 0 | [Jivens98](https://github.com/Jivens98/Jivens98) | Config files for my GitHub profile. | 2022-10-07 00:05:19 +0000 UTC |
+| 0 | [kSGOOETbGB](https://github.com/meslot88/kSGOOETbGB) |  | 2022-10-07 00:06:18 +0000 UTC |
+| 0 | [FCA](https://github.com/diegodomingostbl/FCA) |  | 2022-10-07 00:03:33 +0000 UTC |
+| 0 | [appcoder](https://github.com/martinbarrera8/appcoder) |  | 2022-10-07 00:06:04 +0000 UTC |
+| 0 | [scheduler](https://github.com/Nguyen-Hoa/scheduler) |  | 2022-10-07 00:07:22 +0000 UTC |
+| 0 | [rails-intro](https://github.com/raachelssss/rails-intro) |  | 2022-10-07 00:08:18 +0000 UTC |
 
