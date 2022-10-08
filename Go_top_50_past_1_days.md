@@ -1,23 +1,16 @@
 | Stars | Name | Desc | Created | 
 | ----- | ------- | ------------- | ------------- |
-| 1 | [SRN_Letters](https://github.com/Tayloraki/SRN_Letters) | This project uses a simple recurrent network (SRN) to learn and predict sequences. It was built for my Neural Network Models of Social and Cognitive Processes course and forks off a template provided to me by Professor Stephen J. Read. The purpose of this program is (for example) given the input 'ABCB', the system would output 'D'. This requires the system to discern between the 'context' of A-B->C and C-B->D. This program takes this simple premise and extends into second order dependencies. | 2022-10-07 00:45:08 +0000 UTC |
-| 0 | [scheduler](https://github.com/Nguyen-Hoa/scheduler) |  | 2022-10-07 00:07:22 +0000 UTC |
-| 0 | [fc-ci-go](https://github.com/brunohmg89/fc-ci-go) |  | 2022-10-07 01:12:53 +0000 UTC |
-| 0 | [queue](https://github.com/simplylib/queue) | A Go (golang) library for queues | 2022-10-07 00:41:06 +0000 UTC |
-| 0 | [alphanumericletters](https://github.com/Blaze90809/alphanumericletters) |  | 2022-10-07 01:32:25 +0000 UTC |
-| 0 | [curso-golang](https://github.com/Isaque-Chaves/curso-golang) |  | 2022-10-07 00:40:12 +0000 UTC |
-| 0 | [todo-GO-Demo](https://github.com/funkyenough/todo-GO-Demo) |  | 2022-10-07 01:14:34 +0000 UTC |
-| 0 | [e-paper-inflaxdb](https://github.com/karosuwindam/e-paper-inflaxdb) |  | 2022-10-07 01:27:25 +0000 UTC |
-| 0 | [algo-datastructures-golang](https://github.com/ruanpelissoli/algo-datastructures-golang) |  | 2022-10-07 00:49:04 +0000 UTC |
-| 0 | [todo_app_go](https://github.com/Antonio-Gabriel/todo_app_go) | A simple project using Go and native resources for build this application and explore a little over data structure in Go. | 2022-10-07 00:10:42 +0000 UTC |
-| 0 | [protocol_buffers_golang_instruction](https://github.com/minhtran241/protocol_buffers_golang_instruction) | Instruction for Go support for Google's protocol buffers | 2022-10-07 00:10:07 +0000 UTC |
-| 0 | [terraform-provider-test](https://github.com/thanner/terraform-provider-test) |  | 2022-10-07 01:12:09 +0000 UTC |
-| 0 | [discusspedia](https://github.com/althafariq/discusspedia) |  | 2022-10-07 00:58:30 +0000 UTC |
-| 0 | [account](https://github.com/auditreport/account) |  | 2022-10-07 00:49:52 +0000 UTC |
-| 0 | [opps](https://github.com/blcksec/opps) |  | 2022-10-07 00:14:11 +0000 UTC |
-| 0 | [my-words-app](https://github.com/johnnychang25678/my-words-app) | For OSU 2022 Fall Hackathon | 2022-10-07 00:22:04 +0000 UTC |
-| 0 | [demos](https://github.com/ShawnLabo/demos) |  | 2022-10-07 00:56:11 +0000 UTC |
-| 0 | [GO_miniProject2022](https://github.com/janetmazouzi/GO_miniProject2022) | Go and REST API micro-service project (in spanish) | 2022-10-07 00:58:16 +0000 UTC |
-| 0 | [proton-store](https://github.com/ArcheMcDonnell/proton-store) | A library written allowing for easier access to Proton made prefix's | 2022-10-07 00:36:33 +0000 UTC |
-| 0 | [slack-status-go](https://github.com/haimgel/slack-status-go) | Set Slack status to predefined values from a command line, for multiple accounts at once. | 2022-10-07 01:13:02 +0000 UTC |
+| 0 | [recursion_practice](https://github.com/Atsu77/recursion_practice) |  | 2022-10-08 00:43:45 +0000 UTC |
+| 0 | [pokemoves-data-builder](https://github.com/tweekes0/pokemoves-data-builder) | Small client to interract with PokeAPI and create database for PokeMoves application | 2022-10-08 01:06:27 +0000 UTC |
+| 0 | [go-tests](https://github.com/JailtonJunior94/go-tests) |  | 2022-10-08 00:00:12 +0000 UTC |
+| 0 | [epsilon](https://github.com/mxplusb/epsilon) |  | 2022-10-08 01:19:17 +0000 UTC |
+| 0 | [pruebadedeploys](https://github.com/cheveuxdelin/pruebadedeploys) |  | 2022-10-08 01:31:56 +0000 UTC |
+| 0 | [ice](https://github.com/tomygin/ice) |  | 2022-10-08 00:43:15 +0000 UTC |
+| 0 | [windowsock](https://github.com/tingsk/windowsock) |  | 2022-10-08 01:39:27 +0000 UTC |
+| 0 | [wtws-win-server](https://github.com/FengXiaoFan/wtws-win-server) | 维特沃斯win后端业务 | 2022-10-08 00:54:37 +0000 UTC |
+| 0 | [MicrosoftSamBot](https://github.com/IoIxD/MicrosoftSamBot) | simple discord bot for some friends that lets you do tts stuff as microsoft sam | 2022-10-08 00:53:23 +0000 UTC |
+| 0 | [kaka](https://github.com/zjtjkj/kaka) | kaka is a media server. | 2022-10-08 01:36:10 +0000 UTC |
+| 0 | [contacts-crud](https://github.com/4strodev/contacts-crud) |  | 2022-10-08 00:19:46 +0000 UTC |
+| 0 | [websocket](https://github.com/tashi21/websocket) | Websocket implementation in Golang, supports subscribing to a topic | 2022-10-08 01:01:29 +0000 UTC |
+| 0 | [chat_with_bear_client](https://github.com/mikito39/chat_with_bear_client) |  | 2022-10-08 00:57:09 +0000 UTC |
 
