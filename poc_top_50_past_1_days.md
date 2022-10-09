@@ -1,103 +1,103 @@
 | Stars | Name | Desc | Created | 
 | ----- | ------- | ------------- | ------------- |
-| 2 | [cixastra.github.io](https://github.com/cixastra/cixastra.github.io) |  | 2022-10-08 00:08:05 +0000 UTC |
-| 2 | [FLUID](https://github.com/not888/FLUID) | Foolish Language Used by Idiotic Developers (soon™️) | 2022-10-08 00:42:46 +0000 UTC |
-| 1 | [lista1Montanha-projetos-java-ProgSoluComput](https://github.com/lucasmasternoob/lista1Montanha-projetos-java-ProgSoluComput) | Entrega dos projetos da lista 1 de Estrutura Sequencial | 2022-10-08 00:10:11 +0000 UTC |
-| 1 | [Valorant-Account-Generator](https://github.com/oversid/Valorant-Account-Generator) | valorant account generator | 2022-10-08 01:03:46 +0000 UTC |
-| 1 | [discord-messagem-delete](https://github.com/oversid/discord-messagem-delete) | discord messagem delete | 2022-10-08 01:07:50 +0000 UTC |
-| 1 | [Mensajeria](https://github.com/esarabiacabrera/Mensajeria) | Mensajería instantánea | 2022-10-08 01:23:47 +0000 UTC |
-| 1 | [Algorithmen-und-Datenstrukturen](https://github.com/AkifAydin/Algorithmen-und-Datenstrukturen) | Algorithmen und Datenstrukturen Praktikum | 2022-10-08 01:28:56 +0000 UTC |
-| 1 | [Talabat_Java_Project](https://github.com/OmmrGAZAR315/Talabat_Java_Project) |  | 2022-10-08 01:38:41 +0000 UTC |
-| 1 | [Formulario](https://github.com/jonier1993/Formulario) |  | 2022-10-08 00:02:49 +0000 UTC |
-| 1 | [Valorant-Account-Generator](https://github.com/sazesz/Valorant-Account-Generator) | valorant account generator in python | 2022-10-08 00:42:54 +0000 UTC |
-| 1 | [IT-Security](https://github.com/AkifAydin/IT-Security) | IT-Security-Praktikum | 2022-10-08 00:43:06 +0000 UTC |
-| 1 | [Pagina](https://github.com/CatherineMoncayo/Pagina) | paginaweb Catherine Moncayo | 2022-10-08 00:55:33 +0000 UTC |
-| 1 | [SchoolPhoneMonitor](https://github.com/LIKEileen/SchoolPhoneMonitor) |  | 2022-10-08 01:16:47 +0000 UTC |
-| 1 | [java_exer03L2](https://github.com/Gabriel-Paes/java_exer03L2) |  | 2022-10-08 00:22:48 +0000 UTC |
-| 1 | [excBOT](https://github.com/oversid/excBOT) | bitcoin bot in python | 2022-10-08 01:04:49 +0000 UTC |
-| 1 | [hhhhhh](https://github.com/qq454033/hhhhhh) |  | 2022-10-08 00:48:52 +0000 UTC |
-| 1 | [React-cms-mange](https://github.com/tslyyds/React-cms-mange) | react框架创建的后台管理项目，还未完善 | 2022-10-08 00:10:43 +0000 UTC |
-| 1 | [discord-nitro-buyer](https://github.com/sazesz/discord-nitro-buyer) | discord nitro buyer | 2022-10-08 00:38:14 +0000 UTC |
-| 1 | [Dice-Exp.-Prob.-Calculator](https://github.com/Khazadin/Dice-Exp.-Prob.-Calculator) | Basically calculates the experimental probability of every number that *came last*. | 2022-10-08 00:36:54 +0000 UTC |
-| 1 | [codigo-em-c-lanchonete](https://github.com/Brunnofas/codigo-em-c-lanchonete) | lanchonete | 2022-10-08 01:07:25 +0000 UTC |
-| 1 | [Weather-Site](https://github.com/clemchret/Weather-Site) | (Live url available) Weather website inspired by Google weather and Samsung's weather app.  | 2022-10-08 01:11:39 +0000 UTC |
-| 1 | [web_farm](https://github.com/santiagoangel04/web_farm) | web_farm | 2022-10-08 01:02:24 +0000 UTC |
-| 1 | [real-world](https://github.com/tslyyds/real-world) | 利用后台数据，在服务端渲染页面 | 2022-10-08 00:20:27 +0000 UTC |
-| 1 | [minerium-rn-app](https://github.com/Vaysi/minerium-rn-app) | Minerium Application, it's like the Minerium Web App but with some differences , uses techs like rn-navigation , rn-elements , lottie, charts , websockets and etc ...  | 2022-10-08 00:14:02 +0000 UTC |
-| 1 | [TunisieTelecom-personnel-complaint-management-backend](https://github.com/Anouar-Dhahri/TunisieTelecom-personnel-complaint-management-backend) |  | 2022-10-08 00:09:54 +0000 UTC |
-| 1 | [minerium-webapp](https://github.com/Vaysi/minerium-webapp) | Minerium WebApp Co , This Web App Works With Rest Api of Minerium and uses techs like nextjs / mui / websockets and etc , Users Can Setup & Manage Miners , List Of Miners With Useful tools to monitor mining , Charts ... | 2022-10-08 00:02:12 +0000 UTC |
-| 1 | [Minor--static-web-site-](https://github.com/ishinihathurusinghe/Minor--static-web-site-) |  | 2022-10-08 00:46:00 +0000 UTC |
-| 1 | [Valorant-Checker-Account](https://github.com/Daroem/Valorant-Checker-Account) | valorant checker account  | 2022-10-08 01:33:23 +0000 UTC |
-| 1 | [Tonemac1](https://github.com/Tonemac1/Tonemac1) | Config files for my GitHub profile. | 2022-10-08 01:32:10 +0000 UTC |
-| 1 | [learning-php-OscarUh-100722](https://github.com/LilyMilano/learning-php-OscarUh-100722) | Aprender php con 39 ejercicios prácticos y un proyecto final. | 2022-10-08 00:15:34 +0000 UTC |
-| 1 | [NintendoSwitch](https://github.com/sevkls/NintendoSwitch) | This is my first real CSS project | 2022-10-08 00:17:47 +0000 UTC |
-| 1 | [Discord-Mass-Report-Bot](https://github.com/Daroem/Discord-Mass-Report-Bot) | discord mass report bot | 2022-10-08 01:18:31 +0000 UTC |
-| 1 | [suap-api-python](https://github.com/Jackson-Vieira/suap-api-python) |  | 2022-10-08 00:16:30 +0000 UTC |
-| 1 | [customer-segmentation](https://github.com/thisishusseinali/customer-segmentation) |  | 2022-10-08 01:07:33 +0000 UTC |
-| 1 | [BonkTools](https://github.com/OBlackBL/BonkTools) | Repositório oficial da extensão BonkTools | 2022-10-08 00:48:24 +0000 UTC |
-| 1 | [discord-token-generator](https://github.com/oversid/discord-token-generator) | discord token generator in python | 2022-10-08 01:05:33 +0000 UTC |
-| 1 | [Graphentheorie](https://github.com/AkifAydin/Graphentheorie) | GKA Praktikum | 2022-10-08 01:16:29 +0000 UTC |
-| 1 | [Refuge](https://github.com/colelewis/Refuge) | CSCE552 3D Game Project | 2022-10-08 01:21:32 +0000 UTC |
-| 1 | [Trox_backend](https://github.com/saurabh688/Trox_backend) |  | 2022-10-08 00:31:32 +0000 UTC |
-| 1 | [basicTTS](https://github.com/xmxstudio/basicTTS) | basic ass tts barebones | 2022-10-08 00:52:04 +0000 UTC |
-| 1 | [Valorant-Checker-Account](https://github.com/oversid/Valorant-Checker-Account) | valorant checker account  | 2022-10-08 01:02:50 +0000 UTC |
-| 1 | [Responsive-Plants-Website](https://github.com/Anik-15/Responsive-Plants-Website) |  | 2022-10-08 01:06:54 +0000 UTC |
-| 1 | [clone-restricted-chats](https://github.com/Drrivao/clone-restricted-chats) |  | 2022-10-08 00:43:42 +0000 UTC |
-| 1 | [JRI-STP](https://github.com/JRI-STP/JRI-STP) | Config files for my GitHub profile. | 2022-10-08 00:04:37 +0000 UTC |
-| 1 | [simple-web-crawler-python](https://github.com/Xukay101/simple-web-crawler-python) | Simple web crawler programmed in python. \| Simple web crawler o rastreador web programado en Python. | 2022-10-08 00:22:58 +0000 UTC |
-| 1 | [SIMULATOR](https://github.com/VILHALVA/SIMULATOR) | SIMULADORES DE CONSOLE | 2022-10-08 01:13:04 +0000 UTC |
-| 1 | [OscarSL3000.github.io](https://github.com/OscarSL3000/OscarSL3000.github.io) | My website | 2022-10-08 01:14:09 +0000 UTC |
-| 1 | [Java-e-JDBC-trabalhando-com-um-banco-de-dados-ALURA](https://github.com/TiagoMerc/Java-e-JDBC-trabalhando-com-um-banco-de-dados-ALURA) | Faça esse curso de Java e persistência e: Comunique-se com um banco de dados relacional Indo além do Statement e do ResultSet Encapsule o acesso em um DAO Connection pool, datasources e outros recursos importantes | 2022-10-08 00:21:27 +0000 UTC |
-| 1 | [OOProgramming](https://github.com/dfloaizab/OOProgramming) |  | 2022-10-08 01:31:02 +0000 UTC |
-| 1 | [instafood](https://github.com/joaosenadev/instafood) |  | 2022-10-08 00:11:39 +0000 UTC |
-| 1 | [discord-nitro-buyer](https://github.com/Daroem/discord-nitro-buyer) | discord nitro automatic buyer in python open source | 2022-10-08 01:24:06 +0000 UTC |
-| 1 | [temp](https://github.com/StillWork/temp) |  | 2022-10-08 00:07:38 +0000 UTC |
-| 1 | [primeiroProjetoMaven](https://github.com/lschlestein/primeiroProjetoMaven) |  | 2022-10-08 00:41:03 +0000 UTC |
-| 1 | [SILENT-EXCEL-XLS-EXPLOIT-CLEAN-r](https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-r) |  | 2022-10-08 00:58:12 +0000 UTC |
-| 1 | [SILENT-DOC-EXPLOIT-CLEAN-r](https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-r) |  | 2022-10-08 00:59:14 +0000 UTC |
-| 1 | [JacketStash](https://github.com/2020ayao/JacketStash) |  | 2022-10-08 00:49:25 +0000 UTC |
-| 1 | [discord-nitro-buyer](https://github.com/oversid/discord-nitro-buyer) | discord nitro buyer | 2022-10-08 01:06:30 +0000 UTC |
-| 1 | [entrefios_react](https://github.com/saulotarsobc/entrefios_react) | Site da entrefios stm feito com react | 2022-10-08 00:44:02 +0000 UTC |
-| 1 | [discord-messagem-delete](https://github.com/Daroem/discord-messagem-delete) | discord messagem delete in python. | 2022-10-08 01:16:22 +0000 UTC |
-| 1 | [real-world-api-express](https://github.com/tslyyds/real-world-api-express) | 基于node环境的express创建的后台服务器数据 | 2022-10-08 00:16:47 +0000 UTC |
-| 1 | [Trox-frontend](https://github.com/saurabh688/Trox-frontend) | Trox | 2022-10-08 00:21:53 +0000 UTC |
-| 1 | [capstone-design_1-](https://github.com/siyeon2/capstone-design_1-) |  | 2022-10-08 00:40:44 +0000 UTC |
-| 1 | [DiscordDelete](https://github.com/sazesz/DiscordDelete) | discord delete messagem | 2022-10-08 00:30:48 +0000 UTC |
-| 1 | [UASSETS-Scraper](https://github.com/MYounesStudio/UASSETS-Scraper) | A script to scrap website called uassets | 2022-10-08 00:22:14 +0000 UTC |
-| 1 | [patka00](https://github.com/patka00/patka00) | Config files for my GitHub profile. | 2022-10-08 01:31:14 +0000 UTC |
-| 1 | [Valorant-Account-Generator](https://github.com/Daroem/Valorant-Account-Generator) | valorant account generator in python | 2022-10-08 01:31:49 +0000 UTC |
-| 1 | [discord-token-generator](https://github.com/Daroem/discord-token-generator) | discord token generator in python | 2022-10-08 01:27:28 +0000 UTC |
-| 1 | [Laundry](https://github.com/Makechi02/Laundry) |  | 2022-10-08 00:03:36 +0000 UTC |
-| 1 | [Discord-Mass-Report-Bot](https://github.com/sazesz/Discord-Mass-Report-Bot) | discord mass report in bot | 2022-10-08 00:33:00 +0000 UTC |
-| 1 | [NoteHero-Frontend](https://github.com/Gsurica/NoteHero-Frontend) |  | 2022-10-08 00:56:59 +0000 UTC |
-| 1 | [dieece-game](https://github.com/Otygold/dieece-game) |  | 2022-10-08 00:43:18 +0000 UTC |
-| 1 | [Stream-API_Part1](https://github.com/MihranGalstyan/Stream-API_Part1) | Lambda expression, Functional interface, interface Predicate | 2022-10-08 01:38:19 +0000 UTC |
-| 0 | [Riad-Booking-](https://github.com/yamenbh/Riad-Booking-) | HTML/CSS/JS/AJAX/PHP/BOOTSTRAP5 | 2022-10-08 00:01:01 +0000 UTC |
-| 0 | [32_11008](https://github.com/qq1935046755k/32_11008) | 露娜online服务端 | 2022-10-08 00:00:47 +0000 UTC |
-| 0 | [webServices](https://github.com/andersonyepes1998/webServices) | REPETIDA | 2022-10-08 00:00:14 +0000 UTC |
-| 0 | [d3js-course](https://github.com/alexsumoski/d3js-course) |  | 2022-10-08 00:01:44 +0000 UTC |
-| 0 | [lottolnw88](https://github.com/masterseojapan/lottolnw88) |  | 2022-10-08 00:02:35 +0000 UTC |
-| 0 | [nbufe_final_online_exam](https://github.com/tongjames0923/nbufe_final_online_exam) |  | 2022-10-08 00:03:02 +0000 UTC |
-| 0 | [animationland](https://github.com/AARH777/animationland) | Alicia quiere atrapar los conejos de animationland | 2022-10-08 00:02:23 +0000 UTC |
-| 0 | [VwQcfWLRUq](https://github.com/pgonline123/VwQcfWLRUq) |  | 2022-10-08 00:02:31 +0000 UTC |
-| 0 | [ak808](https://github.com/masterseojapan/ak808) |  | 2022-10-08 00:03:11 +0000 UTC |
-| 0 | [emocionalcomfama](https://github.com/Andreslosada7/emocionalcomfama) |  | 2022-10-08 00:02:36 +0000 UTC |
-| 0 | [pcziz29](https://github.com/seeneepul/pcziz29) | iav7.xyz.com_iav7.xyz.com免费在线完整版片 | 2022-10-08 00:04:22 +0000 UTC |
-| 0 | [jrbrennan.github.io](https://github.com/jrbrennan/jrbrennan.github.io) | My GitHub pages user page | 2022-10-08 00:04:52 +0000 UTC |
-| 0 | [Ahmeddrsnoffcl](https://github.com/Ahmeddrsnoffcl/Ahmeddrsnoffcl) | Config files for my GitHub profile. | 2022-10-08 00:02:27 +0000 UTC |
-| 0 | [KryptoDeFi-new](https://github.com/WittyAngel/KryptoDeFi-new) |  | 2022-10-08 00:05:04 +0000 UTC |
-| 0 | [asana](https://github.com/chiragvaniya/asana) |  | 2022-10-08 00:06:17 +0000 UTC |
-| 0 | [singularity-metrics](https://github.com/tech-greedy/singularity-metrics) |  | 2022-10-08 00:06:33 +0000 UTC |
-| 0 | [OpenXava](https://github.com/Angel28055/OpenXava) |  | 2022-10-08 00:06:37 +0000 UTC |
-| 0 | [android_project](https://github.com/saurabhhhv/android_project) |  | 2022-10-08 00:02:21 +0000 UTC |
-| 0 | [73_16376](https://github.com/qq1935046755z/73_16376) | 炫酷的闯关游戏 忍者片 | 2022-10-08 00:07:32 +0000 UTC |
-| 0 | [clientes-laravel](https://github.com/BrenoBD/clientes-laravel) |  | 2022-10-08 00:06:12 +0000 UTC |
-| 0 | [admin](https://github.com/SchmellApp/admin) |  | 2022-10-08 00:06:41 +0000 UTC |
-| 0 | [lkmnf877](https://github.com/seeneepul/lkmnf877) | b站未满十八岁不可以直播吗_b站未满十八岁不可以直播吗完整版免费播放 | 2022-10-08 00:08:55 +0000 UTC |
-| 0 | [sumitas](https://github.com/leouu12/sumitas) |  | 2022-10-08 00:08:53 +0000 UTC |
-| 0 | [gt](https://github.com/okseorb/gt) |  | 2022-10-08 00:05:54 +0000 UTC |
-| 0 | [barrett-sharpe](https://github.com/barrett-sharpe/barrett-sharpe) | Config files for my GitHub profile. | 2022-10-08 00:02:45 +0000 UTC |
-| 0 | [93_16381](https://github.com/qq1935046755z/93_16381) | 闯关射击游戏 猎鹿2：狩猎季节 | 2022-10-08 00:09:42 +0000 UTC |
-| 0 | [project-29](https://github.com/Arnav66692/project-29) |  | 2022-10-08 00:11:24 +0000 UTC |
-| 0 | [tan](https://github.com/tanzh1125/tan) |  | 2022-10-08 00:12:24 +0000 UTC |
+| 8 | [novelai-sample](https://github.com/nidbCN/novelai-sample) | vue.js 的 Novel AI leak 前端，简易简洁简陋 | 2022-10-09 00:02:20 +0000 UTC |
+| 1 | [Daniele-Vit-ria-](https://github.com/Danielevitoria/Daniele-Vit-ria-) |  | 2022-10-09 00:34:30 +0000 UTC |
+| 1 | [ATM-Machine-System](https://github.com/SameetAsadullah/ATM-Machine-System) | An ATM Machine System in Java using IntelliJ. User can withdraw money and check balance after logging in using his Account Number and Password | 2022-10-09 00:00:03 +0000 UTC |
+| 1 | [Text_Preprocessing](https://github.com/devincapriola/Text_Preprocessing) |  | 2022-10-09 01:12:55 +0000 UTC |
+| 1 | [02_TiposDeDatos_POO](https://github.com/JhonRS1800/02_TiposDeDatos_POO) | Video 2. En esta clase se muestra como usar el cout, así como los operadores aritméticos mas básicos de la Programación. | 2022-10-09 00:00:19 +0000 UTC |
+| 1 | [twalk](https://github.com/jostgrant/twalk) | Novelty Twitch Bot With Integrated TTS & And Perms White / Blacklist. | 2022-10-09 00:03:40 +0000 UTC |
+| 1 | [codecorps_hw_repo](https://github.com/codyfeldhaus/codecorps_hw_repo) |  | 2022-10-09 00:46:49 +0000 UTC |
+| 1 | [awesome-background-papers](https://github.com/beloncode/awesome-background-papers) | Awesome collection of background wallpapers | 2022-10-09 01:09:51 +0000 UTC |
+| 1 | [Darraj-mohamed-amine](https://github.com/mohamed12amine/Darraj-mohamed-amine) |  | 2022-10-09 00:58:51 +0000 UTC |
+| 1 | [course-prework-study-guide](https://github.com/Cjmoney1234/course-prework-study-guide) | A study guide for course pre-work | 2022-10-09 01:01:37 +0000 UTC |
+| 1 | [CleanMobileTemplate](https://github.com/jongan69/CleanMobileTemplate) | A template mobile app  | 2022-10-09 00:09:04 +0000 UTC |
+| 1 | [Hacktoberfest2022](https://github.com/LogintoTech/Hacktoberfest2022) | Upcoming Project | 2022-10-09 00:47:15 +0000 UTC |
+| 1 | [Ninja](https://github.com/Chris-code240/Ninja) |  | 2022-10-09 00:19:53 +0000 UTC |
+| 1 | [JogoDoMario](https://github.com/Alexiafern/JogoDoMario) | Projeto teste | 2022-10-09 00:59:36 +0000 UTC |
+| 1 | [weinong.github.io](https://github.com/weinong/weinong.github.io) |  | 2022-10-09 00:39:43 +0000 UTC |
+| 1 | [Principal-Component-Analysis-MACHINE-LEARNING](https://github.com/matiasadell/Principal-Component-Analysis-MACHINE-LEARNING) |  | 2022-10-09 01:15:34 +0000 UTC |
+| 1 | [only_pink_sheeps](https://github.com/emmods/only_pink_sheeps) | Never encounter any other sheep colour in nature, ever again. | 2022-10-09 01:22:49 +0000 UTC |
+| 1 | [Natural-Language-Processing-MACHINE-LEARNING](https://github.com/matiasadell/Natural-Language-Processing-MACHINE-LEARNING) |  | 2022-10-09 01:04:28 +0000 UTC |
+| 1 | [awelib](https://github.com/jostgrant/awelib) | Bunch Of Decoupled Libraries I Wrote (Or Rejiggered) For My Awesome Config; Including A General Restructuring Of The AwesomeLibs. | 2022-10-09 00:05:06 +0000 UTC |
+| 1 | [JulianQ19.github.io](https://github.com/JulianQ19/JulianQ19.github.io) |  | 2022-10-09 00:00:54 +0000 UTC |
+| 1 | [MPI-Ring-Communication-Using-Non-Blocking-Functions](https://github.com/SameetAsadullah/MPI-Ring-Communication-Using-Non-Blocking-Functions) | A MPI ring communication program in C++ using non-blocking function calls | 2022-10-09 00:51:40 +0000 UTC |
+| 1 | [awesun](https://github.com/jostgrant/awesun) | My Personal AwesomeWM Config; "It's Fire" But More Like Because It's A Burning Pile Of Trash. | 2022-10-09 00:04:45 +0000 UTC |
+| 1 | [learning](https://github.com/FavolveW/learning) | 学习 | 2022-10-09 00:30:28 +0000 UTC |
+| 1 | [Kernel-Principal-Component-Analysis-MACHINE-LEARNING](https://github.com/matiasadell/Kernel-Principal-Component-Analysis-MACHINE-LEARNING) |  | 2022-10-09 01:16:37 +0000 UTC |
+| 1 | [XGBoost-MACHINE-LEARNING](https://github.com/matiasadell/XGBoost-MACHINE-LEARNING) |  | 2022-10-09 01:23:55 +0000 UTC |
+| 1 | [spring-roomesacpe-reservation](https://github.com/next-step/spring-roomesacpe-reservation) |  | 2022-10-09 00:36:14 +0000 UTC |
+| 1 | [HypeSquad-Changer](https://github.com/Pandaxyz-xd/HypeSquad-Changer) | 😆 HypeSquad Chhanger is a simple and little script from Discord \| JavaScript | 2022-10-09 00:19:26 +0000 UTC |
+| 1 | [JavaScript_Note_1_Introducton](https://github.com/mahbublalam500/JavaScript_Note_1_Introducton) |  | 2022-10-09 00:17:49 +0000 UTC |
+| 1 | [exercicios-java](https://github.com/miquiles01/exercicios-java) |  | 2022-10-09 01:27:29 +0000 UTC |
+| 1 | [exerc2](https://github.com/alexrrosa/exerc2) |  | 2022-10-09 01:27:22 +0000 UTC |
+| 1 | [Inteligencia-Artifical-](https://github.com/EvelinErica/Inteligencia-Artifical-) | practicas, tareas, laboratorios  | 2022-10-09 00:17:09 +0000 UTC |
+| 1 | [prototype-java-microsoft-type-script](https://github.com/Stepease1/prototype-java-microsoft-type-script) |  | 2022-10-09 01:20:56 +0000 UTC |
+| 1 | [SILENT-PDF-EXPLOIT-CLEAN-3](https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-3) |  | 2022-10-09 00:48:22 +0000 UTC |
+| 1 | [zzh4141](https://github.com/zsanf/zzh4141) |  | 2022-10-09 00:54:17 +0000 UTC |
+| 1 | [Niteshkumar67](https://github.com/Niteshkumar67/Niteshkumar67) | Config files for my GitHub profile. | 2022-10-09 01:05:45 +0000 UTC |
+| 1 | [Sigam-motor.github.io](https://github.com/Sigam-motor/Sigam-motor.github.io) |  | 2022-10-09 00:57:08 +0000 UTC |
+| 1 | [grunt](https://github.com/jostgrant/grunt) | Personal Discord & Matrix Bot. | 2022-10-09 00:01:00 +0000 UTC |
+| 1 | [Blahajy](https://github.com/thebadlorax/Blahajy) | A Zork-esk text based python engine for making Zork type games, with a bit of turn based combat mixed in there as well. | 2022-10-09 01:30:34 +0000 UTC |
+| 1 | [myWeb](https://github.com/adniiieee/myWeb) | My Portofolio | 2022-10-09 01:28:41 +0000 UTC |
+| 1 | [ITStep_09_Java_POO-Programacao_Orientada_a_Objetos](https://github.com/Cezarj59/ITStep_09_Java_POO-Programacao_Orientada_a_Objetos) | Introdução a  Programação Orientada à Objetos em JAVA. | 2022-10-09 00:09:37 +0000 UTC |
+| 1 | [angular-authentication](https://github.com/FeMotta/angular-authentication) |  | 2022-10-09 00:52:18 +0000 UTC |
+| 1 | [service-registry-buildpack](https://github.com/nuruzzaman/service-registry-buildpack) | A Heroku buildpack that downloads a precompiled version of the Service Registry Server. | 2022-10-09 00:58:44 +0000 UTC |
+| 1 | [booru-tag-copy](https://github.com/FrobtheBuilder/booru-tag-copy) | Userscript for copying tags from booru pages | 2022-10-09 00:07:03 +0000 UTC |
+| 1 | [SILENT-DOC-EXPLOIT-CLEAN-3](https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-3) |  | 2022-10-09 00:47:13 +0000 UTC |
+| 1 | [flutter_animated_counter](https://github.com/diegoveloper/flutter_animated_counter) |  | 2022-10-09 00:06:10 +0000 UTC |
+| 1 | [BreakerZoe1](https://github.com/BreakerZoeBurma/BreakerZoe1) |  | 2022-10-09 00:50:55 +0000 UTC |
+| 1 | [MPI-Ring-Communication-Using-Blocking-Functions](https://github.com/SameetAsadullah/MPI-Ring-Communication-Using-Blocking-Functions) | A MPI ring communication program in C++ using blocking function calls | 2022-10-09 00:47:35 +0000 UTC |
+| 1 | [IV18-clock-stm32](https://github.com/Catium2006/IV18-clock-stm32) |  | 2022-10-09 00:29:35 +0000 UTC |
+| 1 | [Beginning-of-Distortion-](https://github.com/hiroki05222/Beginning-of-Distortion-) |  | 2022-10-09 00:53:21 +0000 UTC |
+| 1 | [Linear-Discriminant-Analysis-MACHINE-LEARNING](https://github.com/matiasadell/Linear-Discriminant-Analysis-MACHINE-LEARNING) |  | 2022-10-09 01:15:56 +0000 UTC |
+| 1 | [flakes](https://github.com/jostgrant/flakes) | Jost Grant's Nix/NixOS Flakes. | 2022-10-09 00:00:17 +0000 UTC |
+| 1 | [eclipsa](https://github.com/jostgrant/eclipsa) | A Hard-Fork Of The Great Shirotelin Theme; Aimed At A Few High-Contrast Elements. | 2022-10-09 00:04:09 +0000 UTC |
+| 1 | [CucumberFrameWorkForJob](https://github.com/Gevorg31/CucumberFrameWorkForJob) |  | 2022-10-09 00:11:06 +0000 UTC |
+| 1 | [PublicRobloxScripts](https://github.com/TheAlmightyChipZ/PublicRobloxScripts) |  | 2022-10-09 01:21:37 +0000 UTC |
+| 1 | [openwrt-2](https://github.com/xpyob/openwrt-2) |  | 2022-10-09 00:31:23 +0000 UTC |
+| 1 | [JavaScript_Note_2_Variables](https://github.com/mahbublalam500/JavaScript_Note_2_Variables) | JavaScript Variables Note | 2022-10-09 00:30:16 +0000 UTC |
+| 1 | [jorts](https://github.com/jostgrant/jorts) | Josh's Ports / Pkg Definitions.  | 2022-10-09 00:00:39 +0000 UTC |
+| 1 | [MDIPweb](https://github.com/Ron4-kw0rk3r/MDIPweb) | market digital  Innovate Professional | 2022-10-09 00:31:42 +0000 UTC |
+| 1 | [HEGduino_V0](https://github.com/joshbrew/HEGduino_V0) | Dirt cheap, easy to assemble, quality DIY NIR-HEG | 2022-10-09 00:17:17 +0000 UTC |
+| 1 | [03_P1_OperadoresAritmeticosV1](https://github.com/JhonRS1800/03_P1_OperadoresAritmeticosV1) | Primera versión de la practica 1 del curso de programación orientada a objetos. | 2022-10-09 00:15:02 +0000 UTC |
+| 1 | [ultrasecure-mnemonic](https://github.com/DavidValin/ultrasecure-mnemonic) | Ultrasecure mnemonic random words generation using dices, a pencil and a paper. | 2022-10-09 01:10:01 +0000 UTC |
+| 1 | [api](https://github.com/minimouli/api) | The API that runs the Minimouli platform | 2022-10-09 01:08:55 +0000 UTC |
+| 1 | [Model-Selection-MACHINE-LEARNING](https://github.com/matiasadell/Model-Selection-MACHINE-LEARNING) |  | 2022-10-09 01:23:33 +0000 UTC |
+| 1 | [Amran-cc](https://github.com/hameed2010/Amran-cc) |  | 2022-10-09 01:01:06 +0000 UTC |
+| 1 | [Desafio-DIO](https://github.com/JosueJMuniz/Desafio-DIO) | Meu projeto do BootCamp NTT DATA Diversidade em Tech. | 2022-10-09 01:21:13 +0000 UTC |
+| 1 | [Catium2006](https://github.com/Catium2006/Catium2006) |  | 2022-10-09 00:18:40 +0000 UTC |
+| 1 | [SILENT-EXCEL-XLS-EXPLOIT-CLEAN-3](https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-3) |  | 2022-10-09 00:45:04 +0000 UTC |
+| 0 | [football](https://github.com/LOLking123456/football) |  | 2022-10-09 00:30:22 +0000 UTC |
+| 0 | [ZQqzownHID](https://github.com/pgonline123/ZQqzownHID) |  | 2022-10-09 00:31:20 +0000 UTC |
+| 0 | [Bernardo-Utsch](https://github.com/BehUtsch/Bernardo-Utsch) |  | 2022-10-09 00:32:27 +0000 UTC |
+| 0 | [Projetogit](https://github.com/Edsonsilva19/Projetogit) | primeiro comandos no git | 2022-10-09 00:32:39 +0000 UTC |
+| 0 | [counter](https://github.com/tthayza/counter) | O desafio do 7º dia é o desenvolvimento de um contador, proposto nos 21 dias de código pela RocketSeat.  | 2022-10-09 00:29:36 +0000 UTC |
+| 0 | [autentificacion](https://github.com/FatiMejia/autentificacion) |  | 2022-10-09 00:32:32 +0000 UTC |
+| 0 | [Advanced-CSS](https://github.com/escapingyouth/Advanced-CSS) |  | 2022-10-09 00:14:06 +0000 UTC |
+| 0 | [Membuat-Soal-Android](https://github.com/IcH-05/Membuat-Soal-Android) |  | 2022-10-09 00:33:29 +0000 UTC |
+| 0 | [minecraft-bootstrapper](https://github.com/yakclient/minecraft-bootstrapper) |  | 2022-10-09 00:07:46 +0000 UTC |
+| 0 | [image](https://github.com/Ubuntufanboy/image) |  | 2022-10-09 00:33:42 +0000 UTC |
+| 0 | [04-assorted-topics-in-java-AVLTG](https://github.com/CSC207-2022F-UofT/04-assorted-topics-in-java-AVLTG) | 04-assorted-topics-in-java-AVLTG created by GitHub Classroom | 2022-10-09 00:33:47 +0000 UTC |
+| 0 | [ZPEH_reports](https://github.com/jbabek/ZPEH_reports) |  | 2022-10-09 00:31:15 +0000 UTC |
+| 0 | [Portfolio-Website](https://github.com/valen1965/Portfolio-Website) | Practical Portfolio Website | 2022-10-09 00:30:39 +0000 UTC |
+| 0 | [mbeerifeldman](https://github.com/mbeerifeldman/mbeerifeldman) | Config files for my GitHub profile. | 2022-10-09 00:31:30 +0000 UTC |
+| 0 | [EmergeForest](https://github.com/RetronEletron/EmergeForest) | A personal project to easily make precompiled gentoo installs. | 2022-10-09 00:31:30 +0000 UTC |
+| 0 | [CTCS-2-The-station-simulation](https://github.com/JOjoker-world/CTCS-2-The-station-simulation) |  | 2022-10-09 00:34:08 +0000 UTC |
+| 0 | [api-controle-de-gastos](https://github.com/Suvenancio/api-controle-de-gastos) | Api em nest para gestão de despesas financeiras | 2022-10-09 00:34:52 +0000 UTC |
+| 0 | [College-Web-Programming](https://github.com/StevanusO/College-Web-Programming) |  | 2022-10-09 00:31:44 +0000 UTC |
+| 0 | [datascience](https://github.com/reynanbagsic/datascience) |  | 2022-10-09 00:37:56 +0000 UTC |
+| 0 | [anchorage-data](https://github.com/bendnorman/anchorage-data) | Pipeline for cleaning, publishing and analyzing data about Anchorage, Alaska | 2022-10-09 00:37:58 +0000 UTC |
+| 0 | [Jellyfin-Plugin-Repository](https://github.com/bennystarfighter/Jellyfin-Plugin-Repository) | A repository for my jellyfin plugins. | 2022-10-09 00:02:05 +0000 UTC |
+| 0 | [hello](https://github.com/weedyyyy/hello) | first test on git | 2022-10-09 00:35:58 +0000 UTC |
+| 0 | [Java](https://github.com/tepuk/Java) |  | 2022-10-09 00:24:20 +0000 UTC |
+| 0 | [web3-twitter-accounts-analytics](https://github.com/romanrakhlin/web3-twitter-accounts-analytics) |  | 2022-10-09 00:35:59 +0000 UTC |
+| 0 | [COGS108_Repo](https://github.com/mbeerifeldman/COGS108_Repo) |  | 2022-10-09 00:29:43 +0000 UTC |
+| 0 | [ADT-Template](https://github.com/Mohamed-AN/ADT-Template) |  | 2022-10-09 00:31:41 +0000 UTC |
+| 0 | [souidiyassine.github.io](https://github.com/souidiyassine/souidiyassine.github.io) |  | 2022-10-09 00:06:33 +0000 UTC |
+| 0 | [Elhijo4](https://github.com/seducao/Elhijo4) |  | 2022-10-09 00:34:11 +0000 UTC |
+| 0 | [Kattis](https://github.com/buckles3636/Kattis) | Attempts and solutions to kattis programming challenges | 2022-10-09 00:12:57 +0000 UTC |
+| 0 | [alerttmee-api](https://github.com/GitSahib/alerttmee-api) | Alertt Mee Api for Mobile apps backend | 2022-10-09 00:19:16 +0000 UTC |
+| 0 | [rn-fullstack](https://github.com/Jrcity/rn-fullstack) | Fullstack react-native app for food ordering/delivery | 2022-10-09 00:31:33 +0000 UTC |
+| 0 | [carrito](https://github.com/LMNTRIXH/carrito) | proyectoNucleoMoviles | 2022-10-09 00:18:56 +0000 UTC |
+| 0 | [hksgKJrkX8](https://github.com/pgonline123/hksgKJrkX8) |  | 2022-10-09 00:17:50 +0000 UTC |
 
