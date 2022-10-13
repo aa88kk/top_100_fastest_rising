@@ -1,100 +1,100 @@
-10, bsc-hack-analysis-2022-10-06, https://github.com/emilianobonassi/bsc-hack-analysis-2022-10-06, "", "", 2022-10-08 11:03:19 +0000 UTC
-4, telmon, https://github.com/jackkweyunga/telmon, "Monitor a telnet connection and report any failed connections via email.", "", 2022-10-07 04:53:47 +0000 UTC
-4, mmsync, https://github.com/isacikgoz/mmsync, "", "", 2022-10-07 16:32:35 +0000 UTC
-4, forker, https://github.com/Ja7ad/forker, "Get high performance http requests with fork process", "collaborate", 2022-10-07 05:10:32 +0000 UTC
-3, list, https://github.com/atomicgo/list, "📝 A generic list implementation in Go for easy functional programming", "array,atomicgo,generic,go,golang,golang-library,list", 2022-10-08 21:42:00 +0000 UTC
-3, syncopy, https://github.com/fy0/syncopy, "Sync files from directory src to directory dest, skip same files and preserve all timestamps.", "", 2022-10-07 06:33:26 +0000 UTC
-3, geacon_plus, https://github.com/Z3ratu1/geacon_plus, "CobaltStrike beacon written in golang", "", 2022-10-08 08:42:50 +0000 UTC
-3, stack, https://github.com/atomicgo/stack, "📚 A simple stack implementation in Go", "atomicgo,go,golang,golang-library,hacktoberfest,stack", 2022-10-08 19:47:07 +0000 UTC
-2, replnet, https://github.com/leon332157/replnet, "", "", 2022-10-07 20:14:40 +0000 UTC
-2, go-middleware, https://github.com/ChristoWolf/go-middleware, "A collection of simple Go middleware based on `net/http`.", "go,golang,golang-module,golang-package,http,middleware,middlewares,net", 2022-10-08 15:54:11 +0000 UTC
-2, discord-mass-DM-GO, https://github.com/Kiwinyyy/discord-mass-DM-GO, "The most powerful Discord selfbot written in GO allowing users to automate their campaigns & send low-cost mass messages to Discord users! ", "bot,discord,dm,pm,spam,spammer,tool", 2022-10-08 22:57:30 +0000 UTC
-2, weatherApp, https://github.com/jashfeer/weatherApp, "", "", 2022-10-07 06:23:35 +0000 UTC
-2, gocolor, https://github.com/lithDevv/gocolor, "Go color is a simple golang library for adding color to terminal output.", "", 2022-10-08 02:30:30 +0000 UTC
-2, LockWorkStation, https://github.com/timwhitez/LockWorkStation, "", "", 2022-10-08 11:16:24 +0000 UTC
-2, ql-router, https://github.com/AkaAny/ql-router, "A much more easy and friendly way to make a GraphQL http service", "binding,golang,graphql,graphql-server,http", 2022-10-07 14:42:07 +0000 UTC
-1, DNSControl-AzurePipeline, https://github.com/JaiDwivedi/DNSControl-AzurePipeline, "", "", 2022-10-08 04:53:34 +0000 UTC
-1, venus-market-lite, https://github.com/saika2k/venus-market-lite, "a lite impl of the venus market, add the support for the file increment to save in the filecoin network", "", 2022-10-07 02:00:52 +0000 UTC
-1, chimp3, https://github.com/langwan/chimp3, "mp3 visualizer player ", "", 2022-10-08 11:18:45 +0000 UTC
-1, CVE-2021-29156, https://github.com/5amu/CVE-2021-29156, "Exploit for CVE-2021-29156", "", 2022-10-07 10:18:44 +0000 UTC
-1, 6.824, https://github.com/mawangdan/6.824, "", "", 2022-10-07 06:25:02 +0000 UTC
-1, Url_scan, https://github.com/paidaxingzhashuimu/Url_scan, "", "", 2022-10-07 02:31:40 +0000 UTC
-1, authentication-service, https://github.com/TheLoGgI/authentication-service, "", "", 2022-10-07 23:30:04 +0000 UTC
-1, go-anytime, https://github.com/ijt/go-anytime, "Parse natural and standardized dates/times and ranges in Go without knowing the format in advance", "", 2022-10-07 03:02:09 +0000 UTC
-1, urlscan, https://github.com/existentiality/urlscan, "urlscan.io API library for Go", "api,go,hacktoberfest,urlscan", 2022-10-08 01:29:07 +0000 UTC
-1, s3web, https://github.com/long2ice/s3web, "Serve static files from any S3 compatible object storage endpoints", "", 2022-10-07 06:44:00 +0000 UTC
-1, Golang, https://github.com/alexGprofi/Golang, "", "", 2022-10-08 16:07:55 +0000 UTC
-1, fameview_fmtcp_golang_plugin, https://github.com/uk0/fameview_fmtcp_golang_plugin, "北京杰控科技 FameView FMtcp 插件 ", "", 2022-10-08 12:06:18 +0000 UTC
-1, go2make, https://github.com/thockin/go2make, "A tool which generates Makefile logic to mimic what Go does internally", "", 2022-10-08 20:38:54 +0000 UTC
-1, bookings, https://github.com/Professor833/bookings, "", "", 2022-10-08 18:35:19 +0000 UTC
-1, xk6-substrate, https://github.com/distribworks/xk6-substrate, "K6 extension for substrate protocols", "", 2022-10-08 19:42:34 +0000 UTC
-1, Go-Multi-Microservices-Simulation, https://github.com/mustafakraizim98/Go-Multi-Microservices-Simulation, "", "", 2022-10-08 19:53:23 +0000 UTC
-1, grapher, https://github.com/reaganiwadha/grapher, "Neat extra tooling for graphql-go/graphql", "golang,graphql,graphql-go,graphql-golang", 2022-10-08 04:32:36 +0000 UTC
-1, mindswapme, https://github.com/Kwynto/mindswapme, "mindswapme", "", 2022-10-08 18:17:04 +0000 UTC
-1, nsc, https://github.com/Igo-Cigo/nsc, "A converter useful for all developers messing with Memory", "binary,cli,go,golang", 2022-10-08 18:18:29 +0000 UTC
-1, kuma-engine, https://github.com/devproje/kuma-engine, "Personal discordgo extend library", "", 2022-10-07 03:11:57 +0000 UTC
-1, botkube-plugins-playground, https://github.com/huseyinbabal/botkube-plugins-playground, "Botkube Plugin System Showcase", "", 2022-10-07 13:41:18 +0000 UTC
-1, IM-Server, https://github.com/JuneQQQ/IM-Server, "", "", 2022-10-08 03:40:24 +0000 UTC
-1, golly-bot, https://github.com/ACM-VIT/golly-bot, "A general purpose discord bot, written in GO!", "discord-bot,go,golang,hacktoberfest,hacktoberfest2022", 2022-10-07 13:44:08 +0000 UTC
-1, go-learn, https://github.com/20gu00/go-learn, "", "", 2022-10-08 15:15:05 +0000 UTC
-1, gophercon-2022, https://github.com/inconshreveable/gophercon-2022, "examples for gophercon 2022 lightning talk", "", 2022-10-08 16:21:31 +0000 UTC
-1, golang_rest_api, https://github.com/johngualteros/golang_rest_api, "rest api in go", "go", 2022-10-08 21:41:57 +0000 UTC
-1, lazycore, https://github.com/jesseduffield/lazycore, "Shared functionality for lazygit, lazydocker, etc", "", 2022-10-08 20:28:32 +0000 UTC
-1, BTK_Akademi_GO_ile_Programlamaya_Giris, https://github.com/huso51/BTK_Akademi_GO_ile_Programlamaya_Giris, "Engin Demiroğ GO ile Programlamaya Giriş", "", 2022-10-08 14:08:52 +0000 UTC
-1, nomad-falco-plugin, https://github.com/hashicorp-dev-advocates/nomad-falco-plugin, "A HashiCorp Nomad plugin for Falco", "", 2022-10-07 13:50:43 +0000 UTC
-1, GoGmailnator, https://github.com/ox-y/GoGmailnator, "Simple emailnator.com wrapper made in Go.", "", 2022-10-07 09:43:31 +0000 UTC
-1, SRN_Letters, https://github.com/Tayloraki/SRN_Letters, "This project uses a simple recurrent network (SRN) to learn and predict sequences. It was built for my Neural Network Models of Social and Cognitive Processes course and forks off a template provided to me by Professor Stephen J. Read. The purpose of this program is (for example) given the input 'ABCB', the system would output 'D'. This requires the system to discern between the 'context' of A-B->C and C-B->D. This program takes this simple premise and extends into second order dependencies.", "", 2022-10-07 00:45:08 +0000 UTC
-1, ACAutomatic, https://github.com/diskcat/ACAutomatic, "基于AC自动机的敏感词替换", "ac,automatic,go", 2022-10-08 08:46:17 +0000 UTC
-1, go-scales, https://github.com/Richelieu42/go-scales, "Golang工具类", "", 2022-10-07 10:40:42 +0000 UTC
-1, libs, https://github.com/skerkour/libs, "Go libraries that I reuse across my projects. NOT SAFE FOR PUBLIC USE ☢️", "auth,cli,crypto,cryptography,go,golang,libraries,library,qrcode", 2022-10-07 04:19:29 +0000 UTC
-1, GoLang-patners-App, https://github.com/Yorvoration/GoLang-patners-App, "", "", 2022-10-07 20:24:11 +0000 UTC
-1, go-tfe-bulk, https://github.com/danie1sullivan/go-tfe-bulk, "Bulk operations on Terraform Cloud", "", 2022-10-07 11:03:06 +0000 UTC
-1, go-seeker, https://github.com/xmh19936688/go-seeker, "go-seeker用于逐行处理字符串", "", 2022-10-08 07:29:13 +0000 UTC
-1, Golang-Ticket-Application, https://github.com/FurkanSamaraz/Golang-Ticket-Application, "", "", 2022-10-07 13:38:02 +0000 UTC
-1, sync, https://github.com/adg/sync, "", "", 2022-10-07 22:59:22 +0000 UTC
-1, validate_nudity, https://github.com/ANDERSON1808/validate_nudity, "library to validate nudes from any image", "", 2022-10-07 21:42:51 +0000 UTC
-1, slack-status-go, https://github.com/haimgel/slack-status-go, "Set Slack status to predefined values from a command line, for multiple accounts at once.", "", 2022-10-07 01:13:02 +0000 UTC
-1, old-swedish-dictionary-builder, https://github.com/stscoundrel/old-swedish-dictionary-builder, "Build \"Old Swedish Dictionary\" into easier-to-use data formats", "builder,dictionary,fornsvenska,golang,json,old-norse,old-swedish,swedish-language", 2022-10-08 09:18:18 +0000 UTC
-1, pudding, https://github.com/beihai0xff/pudding, "", "", 2022-10-07 11:13:15 +0000 UTC
-0, json5b, https://github.com/kokizzu/json5b, "", "", 2022-10-07 10:27:50 +0000 UTC
-0, go-simple-projects, https://github.com/shaiuwen0310/go-simple-projects, "go的小專案", "", 2022-10-07 09:24:22 +0000 UTC
-0, gating-controller, https://github.com/kyfk/gating-controller, "", "", 2022-10-07 09:34:17 +0000 UTC
-0, golab4, https://github.com/OwenBoisse/golab4, "", "", 2022-10-07 10:56:48 +0000 UTC
-0, alphanumericletters, https://github.com/Blaze90809/alphanumericletters, "", "", 2022-10-07 01:32:25 +0000 UTC
-0, goland-study, https://github.com/milkcoffeezhu/goland-study, "", "", 2022-10-07 09:37:49 +0000 UTC
-0, -, https://github.com/admin-dong/-, "", "", 2022-10-07 13:14:34 +0000 UTC
-0, go-clean-arch, https://github.com/faza13/go-clean-arch, "", "", 2022-10-07 14:59:27 +0000 UTC
-0, ExFile, https://github.com/Colaboyyy/ExFile, "局域网文件分享工具", "", 2022-10-07 15:03:25 +0000 UTC
-0, design-patterns, https://github.com/hosea3000/design-patterns, "Golang 设计模式的实现", "", 2022-10-07 15:10:29 +0000 UTC
-0, crud_Bookstore_without_db_V2.0, https://github.com/gic-vikash/crud_Bookstore_without_db_V2.0, "", "", 2022-10-07 15:51:47 +0000 UTC
-0, queue, https://github.com/simplylib/queue, "A Go (golang) library for queues", "", 2022-10-07 00:41:06 +0000 UTC
-0, linenoise-cli, https://github.com/markcornick/linenoise-cli, "Password generator CLI tool", "", 2022-10-07 02:48:47 +0000 UTC
-0, logs-go, https://github.com/rtkym/logs-go, "logs-go is a logging library wrapped around zerolog.", "golang,logging,zerolog", 2022-10-07 05:03:33 +0000 UTC
-0, GoNat, https://github.com/mr-od/GoNat, "", "", 2022-10-07 06:42:30 +0000 UTC
-0, tool-inoreader-github-actions-trigger, https://github.com/charlieegan3/tool-inoreader-github-actions-trigger, "Tool to catch webhooks from inoreader and forward them in the correct format to trigger GH actions jobs", "", 2022-10-07 07:53:14 +0000 UTC
-0, test_email_server, https://github.com/Yaric117/test_email_server, "test_email_server", "", 2022-10-07 08:11:19 +0000 UTC
-0, testes-go, https://github.com/giovanifranz/testes-go, "", "", 2022-10-07 03:46:17 +0000 UTC
-0, GO-lang, https://github.com/ilhamadi77/GO-lang, "learning go lang zero to hero", "", 2022-10-07 04:04:07 +0000 UTC
-0, go-bookstore-app, https://github.com/Belyklarry/go-bookstore-app, "go-bookstore-app", "", 2022-10-07 08:10:11 +0000 UTC
-0, invoice-pdf-generator, https://github.com/marvinhosea/invoice-pdf-generator, "", "", 2022-10-07 05:45:24 +0000 UTC
-0, be-go-codebase, https://github.com/0xThomas3000/be-go-codebase, "A project as standard Codebase using Go, Gin, Gorm", "", 2022-10-07 01:01:32 +0000 UTC
-0, tmp-homework-sk, https://github.com/anynines/tmp-homework-sk, "", "", 2022-10-07 07:38:37 +0000 UTC
-0, aws-sdk-go-v2-s3-sample, https://github.com/shuto-ebisol/aws-sdk-go-v2-s3-sample, "", "", 2022-10-07 05:58:13 +0000 UTC
-0, Distributed-lab-1, https://github.com/Yichenzhaouob/Distributed-lab-1, "It is for the week 2 Friday lab2", "", 2022-10-07 14:16:46 +0000 UTC
-0, fc-ci-go, https://github.com/brunohmg89/fc-ci-go, "", "", 2022-10-07 01:12:53 +0000 UTC
-0, snippetbox, https://github.com/freekobie/snippetbox, "text snippet database", "", 2022-10-07 12:23:01 +0000 UTC
-0, groupie-tracker, https://github.com/ZakirAvrora/groupie-tracker, "", "", 2022-10-07 13:52:39 +0000 UTC
-0, Go_questions, https://github.com/deepali0203/Go_questions, "basic questions in Go", "", 2022-10-07 10:28:33 +0000 UTC
-0, go-lab-4, https://github.com/a6-webm/go-lab-4, "", "", 2022-10-07 14:14:15 +0000 UTC
-0, assignment-2-fga-golang-004, https://github.com/suryaasaputra/assignment-2-fga-golang-004, "Simple RESTful API in golang with gin,gorm,and postgres", "", 2022-10-07 16:59:24 +0000 UTC
-0, pgadmin-operator, https://github.com/dhope-nagesh/pgadmin-operator, "", "", 2022-10-07 17:27:12 +0000 UTC
-0, scheduler, https://github.com/Nguyen-Hoa/scheduler, "", "", 2022-10-07 00:07:22 +0000 UTC
-0, belajar-golang, https://github.com/zendzo/belajar-golang, "Journey to mastering golang from zero to hero", "", 2022-10-07 23:34:07 +0000 UTC
-0, job, https://github.com/Nguyen-Hoa/job, "", "", 2022-10-07 17:28:21 +0000 UTC
-0, grpc_balance, https://github.com/dongrv/grpc_balance, "", "", 2022-10-07 09:04:06 +0000 UTC
-0, BISHE, https://github.com/Linksman-sg553/BISHE, "论文评价系统", "", 2022-10-08 04:52:09 +0000 UTC
-0, grpc_example_server, https://github.com/zmzhang8/grpc_example_server, "", "", 2022-10-08 06:19:11 +0000 UTC
-0, ECE518, https://github.com/Akshaykumar-S/ECE518, "", "", 2022-10-08 02:13:48 +0000 UTC
-0, asigments, https://github.com/charlestakang/asigments, "", "", 2022-10-07 23:06:16 +0000 UTC
-0, contextdemo, https://github.com/davidtrse/contextdemo, "", "", 2022-10-08 03:17:09 +0000 UTC
-0, GoSecurity, https://github.com/AIRed0xs/GoSecurity, "", "", 2022-10-08 04:04:25 +0000 UTC
+453, agreper, https://github.com/Demindiro/agreper, "Minimal, no-JS web forum software", "forum,minimal,no-javascript,no-js,self-hosted", 2022-10-09 16:18:34 +0000 UTC
+438, linvo-scraper, https://github.com/linvo-io/linvo-scraper, "Linkedin Automation Bot with every possible scraping! Valid for 2022 used by Linvo.io", "automation,hacktoberfest,hactoberfest-accepted,linkedin,puppeteer,scraper", 2022-10-07 14:58:23 +0000 UTC
+408, nArchitecture.RentACarProject, https://github.com/kodlamaio-projects/nArchitecture.RentACarProject, "", "", 2022-10-10 12:33:29 +0000 UTC
+378, AndroidIndex, https://github.com/getActivity/AndroidIndex, "Android 资源大汇总", "", 2022-10-07 14:40:39 +0000 UTC
+191, AtomPePacker, https://github.com/ORCx41/AtomPePacker, "A Highly capable Pe Packer", "edr-bypass,packer,pe", 2022-10-12 04:01:02 +0000 UTC
+183, awesome-ai-painting, https://github.com/hua1995116/awesome-ai-painting, "AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等）", "ai-painting,dd5,disco-diffusion,stable-diffusion", 2022-10-08 07:03:22 +0000 UTC
+180, ShadowSpray, https://github.com/Dec0ne/ShadowSpray, "A tool to spray Shadow Credentials across an entire domain in hopes of abusing long forgotten GenericWrite/GenericAll DACLs over other objects in the domain.", "", 2022-10-10 08:34:07 +0000 UTC
+147, CVE-2022-2992, https://github.com/CsEnox/CVE-2022-2992, "Authenticated Remote Command Execution in Gitlab via GitHub import", "", 2022-10-08 11:42:49 +0000 UTC
+146, canvas_ity, https://github.com/a-e-k/canvas_ity, "A tiny, single-header <canvas>-like 2D rasterizer for C++", "2d,2d-graphics,c-plus-plus,canvas,cpp,drawing,graphics,graphics-library,header-only,library,rasterizer,renderer,rendering,vector-graphics", 2022-10-10 06:15:30 +0000 UTC
+143, kde_controlcentre, https://github.com/Prayag2/kde_controlcentre, "A control centre for KDE inspired by MacOS!", "", 2022-10-07 07:58:47 +0000 UTC
+135, concurrency-programming-via-rust, https://github.com/smallnest/concurrency-programming-via-rust, "", "", 2022-10-07 06:44:00 +0000 UTC
+105, satori-html, https://github.com/natemoo-re/satori-html, "An HTML adapter for Vercel's Satori", "", 2022-10-11 10:00:15 +0000 UTC
+103, pulp, https://github.com/sarah-ek/pulp, "", "", 2022-10-07 05:08:09 +0000 UTC
+101, ICE_TEA_BIOS, https://github.com/neineit/ICE_TEA_BIOS, "The BIOS Code from project C970", "", 2022-10-08 03:41:16 +0000 UTC
+97, vba2clr, https://github.com/med0x2e/vba2clr, "Running .NET from VBA", "", 2022-10-07 13:42:04 +0000 UTC
+96, FluentFlyouts3, https://github.com/FireCubeStudios/FluentFlyouts3, "Fluent Flyouts 3 WinUI 3 Edition", "fluent-design,hacktoberfest,hacktoberfest-accepted,hacktoberfest2022,windows,windows-10,windows-11", 2022-10-09 17:27:56 +0000 UTC
+96, DSA-Help, https://github.com/nishant-ai/DSA-Help, "This is a respository for helping students learn DSA in different Programming Languages.", "hacktoberfest,hacktoberfest-accepted,hacktoberfest2022", 2022-10-09 12:59:36 +0000 UTC
+84, maskromtool, https://github.com/travisgoodspeed/maskromtool, "A tool for extracting bits from Mask ROM photographs.", "maskrom,reverse-engineering,rom", 2022-10-08 17:37:27 +0000 UTC
+84, EfficientAudit, https://github.com/Salusec/EfficientAudit, "About how you should cooperate with the audit company to complete project audit with high quality and efficiency.", "", 2022-10-09 14:39:01 +0000 UTC
+82, jsonpath.nvim, https://github.com/phelipetls/jsonpath.nvim, "A Neovim plugin to help you access JSON values, powered by treesitter", "", 2022-10-09 10:43:35 +0000 UTC
+75, EVA3D, https://github.com/hongfz16/EVA3D, "EVA3D: Compositional 3D Human Generation from 2D Image Collections", "", 2022-10-10 09:51:19 +0000 UTC
+74, awesome-ios-dev-tools, https://github.com/ios-dev-tools/awesome-ios-dev-tools, "A list of the best tools for iOS developers", "", 2022-10-07 11:50:54 +0000 UTC
+73, novelai-colab-ver, https://github.com/JingShing/novelai-colab-ver, "", "colab,colab-notebook,ipynb,ipython-notebook,novelai,stable-diffusion,tutorial,webui", 2022-10-09 13:30:19 +0000 UTC
+71, edm, https://github.com/NVlabs/edm, "Elucidating the Design Space of Diffusion-Based Generative Models (EDM)", "", 2022-10-10 07:42:37 +0000 UTC
+68, three-good-godrays, https://github.com/Ameobea/three-good-godrays, "Screen-space raymarched godrays for three.js using the pmndrs postprocessing library", "godrays,graphics,postprocessing,raymarching,three-js,threejs", 2022-10-07 05:17:24 +0000 UTC
+65, nplate, https://github.com/whitenois3/nplate, "A template for noir.", "", 2022-10-09 18:26:56 +0000 UTC
+65, swift4noobs, https://github.com/giovannamoeller/swift4noobs, "", "", 2022-10-11 03:30:01 +0000 UTC
+64, VIMA, https://github.com/vimalabs/VIMA, "Official Algorithm Implementation of Paper \"VIMA: General Robot Manipulation with Multimodal Prompts\"", "", 2022-10-07 05:19:07 +0000 UTC
+63, cute, https://github.com/zakaria-chahboun/cute, "a minimalist beautiful Go print (fmt alternative)", "fmt,go,golang,print", 2022-10-10 00:08:07 +0000 UTC
+62, aka, https://github.com/microsoft/aka, "Doc page listing all public aka.ms links for Microsoft admin portals", "", 2022-10-07 22:34:57 +0000 UTC
+62, core, https://github.com/fp-ts/core, "", "", 2022-10-10 09:43:36 +0000 UTC
+61, czeditor, https://github.com/relt-1/czeditor, "", "", 2022-10-07 10:47:12 +0000 UTC
+56, NimShellcodeFluctuation, https://github.com/S3cur3Th1sSh1t/NimShellcodeFluctuation, "ShellcodeFluctuation PoC ported to Nim", "", 2022-10-09 12:18:09 +0000 UTC
+54, twitch-token-gen, https://github.com/DiscordF6cker/twitch-token-gen, "Twitch Token Generator", "python,twitch,twitch-acc-creator,twitch-acc-gen,twitch-api,twitch-bot,twitch-botting,twitch-captcha,twitch-captchasolver,twitch-follow,twitch-follow-bot,twitch-followers,twitch-solver,twitch-token-creator,twitch-token-gen", 2022-10-08 15:47:52 +0000 UTC
+53, smartyank.nvim, https://github.com/ibhagwan/smartyank.nvim, "", "", 2022-10-08 01:39:36 +0000 UTC
+53, scalable-pytorch-sinkhorn, https://github.com/fwilliams/scalable-pytorch-sinkhorn, "", "", 2022-10-07 18:41:38 +0000 UTC
+51, MC-JS-BootCamp-09OCT2022, https://github.com/scaleracademy/MC-JS-BootCamp-09OCT2022, "", "", 2022-10-09 11:50:26 +0000 UTC
+50, Discord-Plugins, https://github.com/BGP0/Discord-Plugins, "My discord plugins, currently just for the developer experiments plugin", "betterdiscord,discord,experiments,plugin", 2022-10-08 14:16:34 +0000 UTC
+50, RustHound, https://github.com/OPENCYBER-FR/RustHound, "Active Directory data collector for BloodHound written in rust. 🦀", "", 2022-10-12 05:54:35 +0000 UTC
+48, SharpNTLMRawUnHide, https://github.com/X-C3LL/SharpNTLMRawUnHide, "C# version of NTLMRawUnHide", "", 2022-10-08 00:50:58 +0000 UTC
+48, xen-witch-frontend, https://github.com/nishuzumi/xen-witch-frontend, "Created with CodeSandbox", "", 2022-10-09 11:48:42 +0000 UTC
+47, ppolar0, https://github.com/ppolar0/ppolar0, "🔨 LofyGang", "discord-selfbot,discord-webhook,lofy,lofy-gang,lofygang", 2022-10-11 12:15:21 +0000 UTC
+47, novelai-sample, https://github.com/nidbCN/novelai-sample, "vue.js 的 Novel AI leak 前端，简易简洁简陋", "", 2022-10-09 00:02:20 +0000 UTC
+47, Nimbo-C2, https://github.com/itaymigdal/Nimbo-C2, "Nimbo-C2 is yet another (simple and lightweight) C2 framework", "", 2022-10-08 19:02:58 +0000 UTC
+46, openFPGA-NES, https://github.com/spiritualized1997/openFPGA-NES, "NES core for openFPGA on Analogue Pocket", "", 2022-10-10 15:20:10 +0000 UTC
+45, BookCase, https://github.com/vishaaal/BookCase, "This is a small webpage that allows user to add and showcase their favorite Books! ", "good-first-pr,hacktoberfest,hacktoberfest-accepted,hacktoberfest2022,html-css-javascript", 2022-10-09 18:51:48 +0000 UTC
+44, stable-diffusion-studio, https://github.com/amotile/stable-diffusion-studio, " An animation focused workflow frontend for Stable Diffusion", "", 2022-10-08 12:16:25 +0000 UTC
+44, iTV, https://github.com/strengthen/iTV, "更好用的直播源播放器", "itelevision,television,tv", 2022-10-07 09:10:13 +0000 UTC
+43, GenerateNoHard, https://github.com/xiaopan233/GenerateNoHard, "本工具的定位是快速生成Java安全相关的Payload，如内存马、反序列化链、JNDI url、Fastjson等，动态生成相关Payload，并附带相应的文档。", "", 2022-10-09 04:41:16 +0000 UTC
+41, thats-what-C-said-about-my-PyPy, https://github.com/ACM-Amrita-Amritapuri/thats-what-C-said-about-my-PyPy, "ACM Club's Repository to handle and maintain Codes and Datas for the Different SIGS", "acm,acm-icpc,hacktoberfest", 2022-10-11 11:09:38 +0000 UTC
+41, Rust-Keras-Like, https://github.com/AhmedBoin/Rust-Keras-Like, "pure rust implementaion for deep learning library like keras", "", 2022-10-09 21:05:55 +0000 UTC
+41, humanize, https://github.com/gakonst/humanize, "Human readable descriptions for your Ethereum transactions", "", 2022-10-11 17:50:51 +0000 UTC
+40, tutoriales-arduino-luisllamas_es, https://github.com/luisllamasbinaburo/tutoriales-arduino-luisllamas_es, "", "", 2022-10-09 16:58:25 +0000 UTC
+39, auto-walrus, https://github.com/MarcoGorelli/auto-walrus, "Automatically use the walrus operator where possible", "", 2022-10-07 09:39:49 +0000 UTC
+39, HavocNotion, https://github.com/CodeXTF2/HavocNotion, "A simple ExternalC2 POC for Havoc C2. Communicates over Notion using a custom python agent, handler and extc2 channel.", "c2,havoc,notion,notion-api,redteam,redteaming", 2022-10-10 15:50:45 +0000 UTC
+38, PointTransformerV2, https://github.com/Gofinge/PointTransformerV2, "[NeurIPS 2022] A official PyTorch implementation of PTv2,  also an all-in-one codebase for point cloud recognition. ", "", 2022-10-10 07:29:27 +0000 UTC
+38, cypress-plugin-api, https://github.com/filiphric/cypress-plugin-api, "Cypress plugin to show your API information in the Cypress UI runner", "api,cypress,cypress-io,testing", 2022-10-07 19:05:18 +0000 UTC
+37, cobweb, https://github.com/r00tSe7en/cobweb, "cobweb 蛛网 - 子域名和解析IP对应关系数据可视化", "python3,shell", 2022-10-09 09:43:30 +0000 UTC
+37, SyncKit, https://github.com/hi-dhl/SyncKit, "SyncKit 主要将本地的项目同步到远程设备，在远程设备上进行编译，然后将编译的结果拉回本地", "", 2022-10-07 06:19:14 +0000 UTC
+36, qstock, https://github.com/tkfy920/qstock, "qstock由“Python金融量化”公众号开发，试图打造成个人量化投研分析包，目前包括数据获取（data）、可视化(plot)、选股(stock)和量化回测（策略backtest）模块。 qstock将为用户提供简洁的数据接口和规整化后的金融市场数据。可视化模块为用户提供基于web的交互图形的简单接口；  选股模块提供了同花顺的选股数据和自定义选股，包括RPS、MM趋势、财务指标、资金流模型等；  回测模块为大家提供向量化（基于pandas）和基于事件驱动的基本框架和模型。 关注“Python金融量化“微信公众号，获取更多应用信息。  ", "", 2022-10-10 14:34:24 +0000 UTC
+35, flutter_animated_counter, https://github.com/diegoveloper/flutter_animated_counter, "", "", 2022-10-09 00:06:10 +0000 UTC
+35, Coding-Buddies-Community-Contributions, https://github.com/kishanrajput23/Coding-Buddies-Community-Contributions, "Next Step To Code", "hacktoberfest,hacktoberfest-accepted,hacktoberfest2022", 2022-10-08 17:18:28 +0000 UTC
+34, marmitech, https://github.com/jakeliny/marmitech, "Site do quadro marmitech que acontece todos os dias ao 12h no instagram da Rocketseat e na twitch da jakeliny", "hacktoberfest,hacktoberfest2022,javascript", 2022-10-07 21:45:26 +0000 UTC
+34, nuxt-security, https://github.com/Baroshem/nuxt-security, "🛡 Security Module for Nuxt based on OWASP Top 10 and Helmet", "helmet,module,nuxt,owasp,security,vue", 2022-10-08 13:27:30 +0000 UTC
+34, simd-alphatensor-rs, https://github.com/drbh/simd-alphatensor-rs, "alphatensor matrix breakthrough algorithms + simd + rust.", "ai,matrix-multiplication,rust,simd", 2022-10-10 01:10:44 +0000 UTC
+33, waifu_tags, https://github.com/mio2333/waifu_tags, "waifu_diffusion tags and it's translation ", "", 2022-10-08 06:30:05 +0000 UTC
+32, Newrl, https://github.com/ruesandora/Newrl, "", "", 2022-10-07 21:30:23 +0000 UTC
+32, observability_lab, https://github.com/srebrasil/observability_lab, "Observability Lab | Grafana | Prometheus | Jaeger | Opentelemetry Collector", "", 2022-10-07 18:37:48 +0000 UTC
+31, Lsass-Shtinkering, https://github.com/JDArmy/Lsass-Shtinkering, "dump lsass tool", "", 2022-10-10 08:30:49 +0000 UTC
+31, NovelAI-installation-tutorial, https://github.com/JingShing/NovelAI-installation-tutorial, "NovelAI installation tutorial", "notes,novelai,stable-diffusion,tutorial,webui", 2022-10-09 13:43:29 +0000 UTC
+31, SideLoadingDLL, https://github.com/MaorSabag/SideLoadingDLL, "", "", 2022-10-08 17:53:05 +0000 UTC
+30, Janus, https://github.com/echtdefault/Janus, "Janus is a pre-build event that performs string obfuscation during compile time. This project is based off the CIA's Marble Framework", "", 2022-10-12 07:18:40 +0000 UTC
+30, covenant, https://github.com/patriksvensson/covenant, "", "", 2022-10-09 21:53:47 +0000 UTC
+30, fklang, https://github.com/feakin/fklang, "      Fklang 是一个架构设计 DSL，通过显性化软件架构设计，以确保软件系统描述与实现的一致性。并在工作流中，内嵌对于 AI 代码生成软件的支持，以构筑完整的开发者体验。", "dsl,language", 2022-10-07 15:45:06 +0000 UTC
+30, Antlr4Ast, https://github.com/xoofx/Antlr4Ast, "Antlr4Ast is a .NET library that provides a parser and abstract syntax tree (AST) for ANTLR4/g4 files.", "abstract-syntax-tree,antlr,antlr4,ast,csharp,dotnet,parser", 2022-10-08 13:16:22 +0000 UTC
+30, maple-diffusion, https://github.com/madebyollin/maple-diffusion, "Stable Diffusion inference on iOS / macOS using MPSGraph", "", 2022-10-09 17:42:52 +0000 UTC
+30, proxylist, https://github.com/Its-Vichy/proxylist, "Say \"Fuck\" to rate-limit. 🖕 Proxies list updated every 5s", "free,http,https,list,proxy,socks,socks4,socks5", 2022-10-07 08:30:24 +0000 UTC
+30, GameHotFix, https://github.com/zhaojianbo2/GameHotFix, "游戏服务器热修复的两种方式", "", 2022-10-09 03:55:17 +0000 UTC
+29, PromptCombiner, https://github.com/luzamm/PromptCombiner, "novelai相关", "", 2022-10-10 12:42:43 +0000 UTC
+29, the-photo-gallery, https://github.com/Inlustra/the-photo-gallery, "A simple, featureless (By design) full-width photo gallery.", "image-gallery,photo-gallery,photos,react-gallery,react-image-lightbox,react-photo-gallery", 2022-10-09 21:01:11 +0000 UTC
+28, noir-hello-world, https://github.com/gakonst/noir-hello-world, "", "", 2022-10-09 20:38:05 +0000 UTC
+28, reddit-analyzer, https://github.com/lapanquecita/reddit-analyzer, "Scripts for extracting any public subreddit submissions data and analyzing it", "data-analysis,data-visualization,pandas,plotly,psaw,reddit", 2022-10-10 13:41:14 +0000 UTC
+28, UberBookingClone, https://github.com/mutualmobile/UberBookingClone, "Uber Booking Experience Jetpack Compose App", "", 2022-10-07 08:45:17 +0000 UTC
+27, Bot_Netflix, https://github.com/0xfff0800/Bot_Netflix, "watch free netflix ", "", 2022-10-08 20:29:12 +0000 UTC
+27, water-generator, https://github.com/RimoChan/water-generator, "这次是真的发水机！", "", 2022-10-10 12:05:10 +0000 UTC
+26, CVE-2022-41040-POC, https://github.com/kljunowsky/CVE-2022-41040-POC, "CVE-2022-41040 - Server Side Request Forgery (SSRF) in Microsoft Exchange Server", "bug-bounty,bugbounty,cve-2022-41040,exploit,hacking,microsoft,microsoft-exchange,poc,proof-of-concept,security,ssrf", 2022-10-09 15:27:40 +0000 UTC
+26, VIMABench, https://github.com/vimalabs/VIMABench, "Official Task Suite Implementation of Paper \"VIMA: General Robot Manipulation with Multimodal Prompts\"", "", 2022-10-07 05:26:21 +0000 UTC
+26, deno-bridge, https://github.com/manateelazycat/deno-bridge, "Build bridge between Emacs and Deno,  execution of JavaScript and Typescript within Emacs.", "", 2022-10-07 15:50:22 +0000 UTC
+26, penpot-exporter-figma-plugin, https://github.com/penpot/penpot-exporter-figma-plugin, "Penpot exporter Figma plugin", "", 2022-10-11 13:51:16 +0000 UTC
+26, MOMOMIA, https://github.com/RIKI-05/MOMOMIA, "A food ordering website", "food-ordering,hacktoberfest,hacktoberfest-accepted,hacktoberfest2022,html-css,website", 2022-10-09 05:59:06 +0000 UTC
+25, choreographer, https://github.com/QueenOfSquiggles/choreographer, "A New Visual Scripting solution for Godot", "godot,godot-engine", 2022-10-07 15:44:23 +0000 UTC
+24, B-Comment, https://github.com/AdhesionTek/B-Comment, "", "", 2022-10-07 23:41:27 +0000 UTC
+24, cycle-diffusion, https://github.com/ChenWu98/cycle-diffusion, "", "diffusion-models,generative-models,image-synthesis,image-to-image-translation,score-based-generative-models,stable-diffusion,text-to-image,zero-shot-learning", 2022-10-08 15:06:31 +0000 UTC
+24, MSMC-TTS, https://github.com/hhguo/MSMC-TTS, "Official Implement of \"TOWARDS HIGH-QUALITY NEURAL TTS FOR LOW-RESOURCE LANGUAGES BY LEARNING DISCRETE LATENT REPRESENTATIONS\"", "", 2022-10-07 03:21:08 +0000 UTC
+24, CasualPRT, https://github.com/AKGWSB/CasualPRT, "Precomputed Radiance Transfer Global Illumination in Unity URP", "", 2022-10-08 21:41:13 +0000 UTC
+24, steam-repo-manager, https://github.com/CapitaineJSparrow/steam-repo-manager, "GUI interface on top of https://steamdeckrepo.com/ to install boot videos on your steam deck", "flathub,gtk,python3,steam", 2022-10-11 03:07:24 +0000 UTC
+24, open-letter-to-mishustin, https://github.com/ruitunion/open-letter-to-mishustin, "", "", 2022-10-09 17:20:34 +0000 UTC
+23, Java-Programs, https://github.com/Pavan-Kamthane/Java-Programs, "Hello Everyone Thanks For Reading this Description. All you have to do is to add any simple Java  program.", "hacktoberfest,hacktoberfest-accepted,hacktoberfest2022,java,jdk", 2022-10-10 15:26:02 +0000 UTC
+23, taurine, https://github.com/Perfect7M/taurine, "Tauri + Node.js stater - electron alternative packed with some goodies", "desktop-app,nodejs,tauri", 2022-10-11 13:43:46 +0000 UTC
+23, ERC5643, https://github.com/cygaar/ERC5643, "", "", 2022-10-11 05:35:52 +0000 UTC

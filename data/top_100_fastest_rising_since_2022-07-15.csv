@@ -1,100 +1,100 @@
-569, pdf-diff, https://github.com/serhack/pdf-diff, "A tool for visualizing differences between two pdf files.", "editor-tools,pdf,pdf-diff,pdf-difference,typesetter", 2022-08-04 19:54:17 +0000 UTC
-412, GoBypassAV, https://github.com/TideSec/GoBypassAV, "整理了基于Go的16种API免杀测试、8种加密测试、反沙盒测试、编译混淆、加壳、资源修改等免杀技术，并搜集汇总了一些资料和工具。", "", 2022-08-05 02:47:29 +0000 UTC
-394, kubezoo, https://github.com/kubewharf/kubezoo, "a lightweight kubernetes multi-tenancy gateway", "kubernetes,multi-tenancy,serverless", 2022-07-22 03:58:08 +0000 UTC
-263, wa, https://github.com/wa-lang/wa, "🇨🇳 凹语言™ The Wa Programming Language", "compiler,language,programming-language,wa,wa-lang", 2022-07-20 03:22:58 +0000 UTC
-240, exifLooter, https://github.com/aydinnyunus/exifLooter, "ExifLooter finds geolocation on all image urls and directories also integrates with OpenStreetMap", "bug-bounty,bugbounty,cyber-security,exif,exif-metadata,exiftool,golang,hack,hacking,image,metadata,metadata-extraction,osint,redteam,security", 2022-07-30 12:51:43 +0000 UTC
-236, goby-poc, https://github.com/MY0723/goby-poc, "439个goby poc，可能会有重复自行判断，来源于网络收集的Goby&POC，实时更新。 ", "", 2022-07-17 05:35:25 +0000 UTC
-193, haxmap, https://github.com/alphadose/haxmap, "Fastest and most memory efficient golang concurrent hashmap", "concurrent,fast,go,golang,hashmap,lock-free,map,memory-efficient,thread-safe", 2022-08-08 02:36:05 +0000 UTC
-128, china-programming-languages, https://github.com/chai2010/china-programming-languages, "🇨🇳 中国人主导的编程语言列表(欢迎PR) ", "china,china-programming-languages,language,programming,programming-languages", 2022-07-22 02:30:44 +0000 UTC
-115, infinite, https://github.com/fzdwx/infinite, "用于开发交互式 CLI(tui,terminal) 程序的组件库,提供一系列开箱即用的组件 | A component library for developing interactive CLI(tui,terminal) programs.", "autocomplete,cli,command-line-tool,confirm,golang,multi-process-bar,processbar,prompt,select,terminals,tui", 2022-08-02 12:10:59 +0000 UTC
-92, gofetch, https://github.com/tr3ss/gofetch, "This could have been a bash one-liner but guess what. It's a small Go tool that lists the trending CVEs from cvetrends.com", "", 2022-07-26 11:11:38 +0000 UTC
-82, shc_bypass, https://github.com/passer-W/shc_bypass, "内存加载shellcode绕过waf", "", 2022-07-25 03:36:58 +0000 UTC
-78, slp, https://github.com/tkuchiki/slp, "(MySQL) SlowLog Profiler", "", 2022-07-16 05:55:48 +0000 UTC
-75, Lastenzug, https://github.com/codewhitesec/Lastenzug, "Socks4a proxy leveraging PIC, Websockets and static obfuscation on assembly level", "", 2022-07-21 12:57:52 +0000 UTC
-70, go-clean-arch, https://github.com/chatbotgang/go-clean-arch, "Go Clean Architecture in Crescendo Lab ", "clean-architecture,ddd,go,golang,software-architecture", 2022-07-18 02:50:12 +0000 UTC
-68, SqueethRebalaner, https://github.com/0xcacti/SqueethRebalaner, "Rebalance Squeeth", "", 2022-07-17 00:32:36 +0000 UTC
-66, pokemongo, https://github.com/zhangyoufu/pokemongo, "Go语言，不允许import，请开始你的表演", "", 2022-08-03 11:08:36 +0000 UTC
-65, 2022-HW-POC, https://github.com/Phuong39/2022-HW-POC, "2022 护网行动 POC 整理", "", 2022-08-03 06:28:17 +0000 UTC
-60, fztea, https://github.com/jon4hz/fztea, "🐬🧋  Connect to your Flipper's UI over serial or make it accessible via SSH", "bubbletea,flipper,flipper-zero,flipperzero,ssh,tui", 2022-07-27 20:14:18 +0000 UTC
-59, ZentaoSqli, https://github.com/z92g/ZentaoSqli, "Zentao v16.5 SQL Injection POC", "", 2022-07-26 06:26:00 +0000 UTC
-57, amt, https://github.com/wdamron/amt, "Hash Array Mapped Trie (HAMT) implemented in Go (1.18+ generics)", "data-structures,go,hamt,hash-map,hash-set,unsafe", 2022-07-23 15:22:09 +0000 UTC
-57, evnet, https://github.com/bruce2233/evnet, "⚡ Evnet is event-driven net framework with high performance deriving from gnet and evio.", "", 2022-07-24 13:21:52 +0000 UTC
-57, classes.wtf, https://github.com/ekzhang/classes.wtf, "A course catalog with extremely fast full-text search", "catalog,course,full-text-search,go,harvard,redis,svelte,university", 2022-08-07 07:27:22 +0000 UTC
-55, iftree, https://github.com/t1anz0ng/iftree, "iftree help understand container networks by visualizing network interfaces( veth bridge lo ) relation , output in text, table, images and dot language.", "bridge,cli,cni,go,graphviz-dot,netlink,netns,veth", 2022-07-27 14:17:26 +0000 UTC
-54, frontend-go, https://github.com/shibukawa/frontend-go, "frontend-go helps development Go web server that uses SPA (Single Page Application) style web frontend.", "", 2022-07-29 16:25:23 +0000 UTC
-52, go, https://github.com/trealla-prolog/go, "Trealla Prolog embedded in Go using WASM", "go,logic-programming,prolog,trealla-prolog,wasm", 2022-08-07 02:42:19 +0000 UTC
-50, ReturnGate, https://github.com/timwhitez/ReturnGate, "ReturnGate, just like HellsGate.", "", 2022-08-08 11:54:52 +0000 UTC
-50, ku-bbs, https://github.com/hhandhuan/ku-bbs, "酷社区", "bbs,gin,gin-bbs,go,gobbs", 2022-07-19 12:51:48 +0000 UTC
-44, CVE-2022-2185, https://github.com/ESUAdmin/CVE-2022-2185, "wo ee cve-2022-2185 gitlab authenticated rce", "", 2022-07-29 11:14:03 +0000 UTC
-43, smolmsg, https://github.com/rsms/smolmsg, "Simple messages", "", 2022-08-11 16:11:55 +0000 UTC
-43, kwok, https://github.com/kubernetes-sigs/kwok, "Simulate thousands of fake kubelets, on a laptop with minimum resource footprint.", "k8s-sig-scheduling", 2022-07-28 05:09:06 +0000 UTC
-41, dnsc2, https://github.com/burpheart/dnsc2, "一个基于DNS隧道的简单C2", "c2,dns", 2022-07-17 11:10:03 +0000 UTC
-40, dnsv2, https://github.com/miekg/dnsv2, "", "", 2022-07-21 09:08:40 +0000 UTC
-38, chris, https://github.com/woojiahao/chris, "Pratt parser implementation in Go", "go,golang,lexer,lexer-parser,parser,pratt-parser", 2022-07-20 15:00:48 +0000 UTC
-36, Weaver, https://github.com/west9b/Weaver, "", "", 2022-07-29 23:49:26 +0000 UTC
-36, netipx, https://github.com/go4org/netipx, "extra stuff from inet.af/netaddr that didn't make it into Go's net/netip", "", 2022-07-25 03:51:18 +0000 UTC
-36, wirestat, https://github.com/ssddanbrown/wirestat, "", "", 2022-07-19 10:38:24 +0000 UTC
-34, array, https://github.com/butoften/array, "develop golang，similar to javascript es6+", "", 2022-07-29 16:07:01 +0000 UTC
-31, GIGA, https://github.com/GigaUserbot/GIGA, "A powerful telegram userbot written in Golang.", "", 2022-07-30 11:14:43 +0000 UTC
-30, gh-stars-backup, https://github.com/DeluxeOwl/gh-stars-backup, "", "", 2022-07-28 08:07:12 +0000 UTC
-29, gorepro, https://github.com/capnspacehook/gorepro, "Easily reproduce Go binaries", "golang,reproducibility,security", 2022-07-26 21:33:59 +0000 UTC
-29, rfront, https://github.com/tidwall/rfront, "An HTTP protocol frontend for Redis-compatible services.", "", 2022-07-26 17:39:58 +0000 UTC
-29, otelgen, https://github.com/krzko/otelgen, "🤖 A tool to generate synthetic OpenTelemetry logs, metrics and traces", "generator,logs,metrics,monitoring,observability,opentelemetry,otlp,synthetics,traces", 2022-07-19 04:11:06 +0000 UTC
-28, wintoken, https://github.com/FourCoreLabs/wintoken, "Mainpulate, Steal and Modify Windows Tokens in Go", "golang,privileges,windows", 2022-07-28 11:57:48 +0000 UTC
-28, hashr, https://github.com/google/hashr, "", "", 2022-07-20 08:18:03 +0000 UTC
-27, atox, https://github.com/josharian/atox, "Generic wrapper around strconv.Parse*", "", 2022-07-18 20:10:02 +0000 UTC
-26, boltcard, https://github.com/boltcard/boltcard, "create and host bolt cards", "", 2022-07-23 20:08:59 +0000 UTC
-25, Mudis, https://github.com/jujunwang/Mudis, "Mudis是一个用go语言实现的类Redis缓存数据库，Mudis的命令请求处理器是并行的，并且在多线程的前提下，能够保证提供的各种操作是线程安全的，因为命令请求阶段是并行的，Mudis能够有效地减少处理大key造成的主线程阻塞时间", "golang,redis", 2022-07-27 07:34:24 +0000 UTC
-25, go-infer, https://github.com/jack139/go-infer, "Go framework for DL model inference and API deployment", "", 2022-07-21 07:56:06 +0000 UTC
-25, superbasic, https://github.com/wroge/superbasic, "The superbasic SQL-Builder", "no-orm,query,sql,sql-builder,template", 2022-07-23 15:32:43 +0000 UTC
-24, gosms, https://github.com/hrygo/gosms, "gosms: 采用Golang与gnet框架实现的高性能短信网关（SMC短信中心模拟）。", "cmpp,gnet,golang,sgip,smgp,smpp,sms,sms-gateway", 2022-07-23 03:59:56 +0000 UTC
-23, tsuki-go, https://github.com/Devansh3712/tsuki-go, "Minimal open-sourced social media platform", "", 2022-07-28 04:27:55 +0000 UTC
-22, rdme, https://github.com/stateful/rdme, "Execute commands directly from a README.", "", 2022-07-18 07:58:54 +0000 UTC
-22, github-telegram-notify, https://github.com/EverythingSuckz/github-telegram-notify, "Actions that sends commit updates of a repository to any chat in Telegram", "github-actions,telegram,telegram-bot-api,telegram-notifier", 2022-07-31 15:53:58 +0000 UTC
-22, meowfetch, https://github.com/Itsnexn/meowfetch, "minimal, fast and customizable system information program written in go.", "cli,fetch,golang,linux,linux-app,system-information", 2022-07-30 09:37:54 +0000 UTC
-22, tobeg, https://github.com/asksowhat/tobeg, "叫花子要饭新姿势，简洁优雅，使用 gin 做为后端框架，前端使用 vue + element-ui 构建。", "beg,go,vue", 2022-07-20 10:40:29 +0000 UTC
-22, grpc-restful, https://github.com/kevwan/grpc-restful, "gRPC gateway example.", "", 2022-07-18 14:47:24 +0000 UTC
-21, mydb, https://github.com/alberliu/mydb, "golang写的存储引擎，基于b+树，mmap", "btree,golang,mmap", 2022-07-30 14:00:52 +0000 UTC
-21, gtrs, https://github.com/dranikpg/gtrs, "Turn Redis streams into typed Go channels in just a few lines", "golang,redis,redis-streams", 2022-07-26 11:51:08 +0000 UTC
-21, imdb-api, https://github.com/Scrip7/imdb-api, "[🚧 WIP] Cross-platform microservice to scrape the IMDb website.", "api,fiber,golang,golang-application,imdb,imdb-api,imdb-rating,movie,movies,poster,rest-api,restful,restful-api,scraper,scraping,series,swagger,trailers,videos,web-scraping", 2022-07-16 21:45:24 +0000 UTC
-20, GoQueue, https://github.com/realTristan/GoQueue, "Flexible Queue System for Go", "easy-to-use,flexible,go,golang,open-source,queue,thread-safe", 2022-08-08 13:46:05 +0000 UTC
-20, cloudflare-cli, https://github.com/epiHATR/cloudflare-cli, "A CLI for Cloudflare API", "bash,cloudflare,cloudflare-api,cobra,golang", 2022-08-01 15:00:59 +0000 UTC
-19, guerrilla, https://github.com/liamg/guerrilla, ":incoming_envelope::bust_in_silhouette: Guerilla Mail CLI + Go module", "cli,disposable-email,guerrillamail,privacy", 2022-08-01 18:47:02 +0000 UTC
-19, rproxy, https://github.com/LubyRuffy/rproxy, "自动化的代理服务器", "", 2022-08-05 01:32:33 +0000 UTC
-18, crud, https://github.com/cdfmlr/crud, "A package helps writing CRUD servers. All you need is this package and models.", "api,crud,golang,low-code,restful", 2022-07-20 06:20:18 +0000 UTC
-17, mailpit, https://github.com/axllent/mailpit, "An email testing tool for developers", "email-testing,go,golang,smtp-server", 2022-07-29 11:22:27 +0000 UTC
-17, miaospeed, https://github.com/miaokobot/miaospeed, "Yet another server for universal connectivity debugging.", "", 2022-07-18 21:47:58 +0000 UTC
-17, zabbix-cleaner-go, https://github.com/limanmys/zabbix-cleaner-go, "Zabbix database cleaner service for postgresql and mysql.", "limanmys,zabbix", 2022-08-03 07:46:03 +0000 UTC
-16, Reusable-File-Upload-Service, https://github.com/Brymes/Reusable-File-Upload-Service, "A Reusable File upload service featuring Popular file upload services S3 & Cloudinary, Designed to be plug and play for most scenarios", "aws,aws-s3,cloud,cloudinary,cloudinary-sdk,devops,upload", 2022-07-17 18:50:57 +0000 UTC
-16, gomi-rename, https://github.com/arrow2nd/gomi-rename, "🗑 ゴミファイル名に自動でリネームするCLIツール", "", 2022-08-03 03:22:18 +0000 UTC
-16, usestdlibvars, https://github.com/sashamelentyev/usestdlibvars, "A linter that detect the possibility to use variables/constants from the Go standard library.", "go,golang,linter", 2022-07-25 07:52:58 +0000 UTC
-15, Forest, https://github.com/seventeenman/Forest, "基于frp(0.44.0)二次开发，删除不必要功能，加密配置文件，修改流量以及文件特征", "", 2022-07-16 04:50:51 +0000 UTC
-15, bun-promptx, https://github.com/wobsoriano/bun-promptx, "Terminal prompt library for the Bun runtime", "bun,bunjs,cli,go,prompt,tui", 2022-07-19 21:57:45 +0000 UTC
-14, icp-planner, https://github.com/jackthepanda96/icp-planner, "Repository untuk ICP Alterra Academy.", "", 2022-07-23 15:46:50 +0000 UTC
-14, capsule, https://github.com/bots-garden/capsule, "", "", 2022-07-22 16:26:25 +0000 UTC
-13, isucon12q, https://github.com/henchiyb/isucon12q, "", "", 2022-07-22 12:00:11 +0000 UTC
-13, flapioca, https://github.com/kbrgl/flapioca, "A Flappy Bird-inspired terminal game written in Go.", "", 2022-07-17 18:50:06 +0000 UTC
-13, go-graceful-shutdown, https://github.com/quii/go-graceful-shutdown, "", "", 2022-07-27 13:54:57 +0000 UTC
-13, logg, https://github.com/bep/logg, "A Fast and Structured logging package for Go.", "golang,log,logging", 2022-08-07 10:44:16 +0000 UTC
-13, nydus-storage-plugin, https://github.com/containers/nydus-storage-plugin, "", "", 2022-08-11 10:16:50 +0000 UTC
-13, CVE-2022-21661, https://github.com/z92g/CVE-2022-21661, "WordPress WP_Query SQL Injection POC", "", 2022-07-28 13:12:51 +0000 UTC
-12, CVE-2022-26138, https://github.com/z92g/CVE-2022-26138, "Confluence Hardcoded Password POC", "", 2022-07-30 07:14:52 +0000 UTC
-11, Anchor, https://github.com/AH-dark/Anchor, "Self-built proxy system for GitHub repositories, NPM packages, and WordPress themes and plugins.", "", 2022-07-26 13:04:08 +0000 UTC
-11, gotoexec, https://github.com/newbe3three/gotoexec, "通过Go语言实现的一款基于gRPC的远控木马。", "", 2022-07-26 19:44:16 +0000 UTC
-11, pool, https://github.com/bean-du/pool, "go connection pool", "", 2022-08-01 09:00:19 +0000 UTC
-10, katch, https://github.com/alash3al/katch, "headless chrome as a service for generating PDF, PNG, JPEG and HTML of any web page", "", 2022-07-18 19:41:36 +0000 UTC
-10, nginx-config-reader, https://github.com/ICU-Coders/nginx-config-reader, " nginx 配置文件读取工具，用于快速预览当前服务下所有nginx配置文件 nginx configuration file reader tool, used to quickly preview all nginx configuration files under the current service", "config,golang,nginx", 2022-08-05 05:58:01 +0000 UTC
-10, uno, https://github.com/psykhi/uno, "Like uniq, but for logs.", "command-line,go,golang,logging,logs,uniqueness", 2022-07-26 05:37:42 +0000 UTC
-10, ebuild, https://github.com/SalHe/ebuild, "易语言高层构建工具", "", 2022-07-24 04:21:03 +0000 UTC
-10, golang-todo-mongodb, https://github.com/dogukanozdemir/golang-todo-mongodb, "", "", 2022-08-05 20:27:15 +0000 UTC
-10, kancli, https://github.com/bashbunni/kancli, "Command line kanban board", "", 2022-07-18 16:43:33 +0000 UTC
-10, CMFM-GO, https://github.com/Adlyq/CMFM-GO, "", "", 2022-07-22 04:21:50 +0000 UTC
-10, examples, https://github.com/authzed/examples, "A collection of examples for SpiceDB users", "authorization,authzed,docker-compose,documentation,example,fine-grained-access-control,fine-grained-authorization,kubernetes,security,security-tools,spicedb,spicedb-client,zanzibar", 2022-07-18 15:22:14 +0000 UTC
-10, protoc-gen-echo, https://github.com/go-woo/protoc-gen-echo, "Generate Echo router and handler stubs.", "automatic-generation,echo,generate,go-generate,low-code,protobuf,protoc-gen-echo,protocol-buffers", 2022-08-05 07:44:01 +0000 UTC
-9, tcppc-go-fuzz, https://github.com/burpheart/tcppc-go-fuzz, "一个可以全端口捕获流量的简易蜜罐 tcppc: A simple honeypot to capture TCP/TLS/UDP payloads on ALL ports.  ", "honeypot,security", 2022-08-03 03:50:25 +0000 UTC
-9, tablewriter, https://github.com/caarlos0/tablewriter, "A very simple table using lipgloss and text/tabwriter.", "", 2022-07-29 14:47:47 +0000 UTC
-9, go-distroyer, https://github.com/zekiahmetbayar/go-distroyer, "Cross Platform OS Information Package", "distro,golang", 2022-08-08 10:45:28 +0000 UTC
-9, vrchat-obs-controller, https://github.com/nerdywoffy/vrchat-obs-controller, "", "", 2022-08-08 16:04:36 +0000 UTC
-9, make-constructor, https://github.com/Bin-Huang/make-constructor, "A cli tool to generate constructor code for a Golang struct.", "constructor,generator,go,golang,struct", 2022-07-22 06:42:32 +0000 UTC
-9, kvDB, https://github.com/And-fish/kvDB, "", "", 2022-07-29 08:58:13 +0000 UTC
-9, grace, https://github.com/msrexe/grace, "A graceful shutdown implementation for Go 🧨", "go,golang", 2022-08-04 18:31:06 +0000 UTC
+29390, stable-diffusion, https://github.com/CompVis/stable-diffusion, "A latent text-to-image diffusion model", "", 2022-08-10 14:36:44 +0000 UTC
+12740, system-design, https://github.com/karanpratapsingh/system-design, "Learn how to design systems at scale and prepare for system design interviews", "architecture,distributed-systems,engineering,interview,interview-preparation,microservices,scalability,system-design,system-design-interview,tech", 2022-08-15 18:59:54 +0000 UTC
+12453, whisper, https://github.com/openai/whisper, "Robust Speech Recognition via Large-Scale Weak Supervision", "", 2022-09-16 20:02:54 +0000 UTC
+11406, stable-diffusion-webui, https://github.com/AUTOMATIC1111/stable-diffusion-webui, "Stable Diffusion web UI", "", 2022-08-22 14:05:26 +0000 UTC
+10408, AFFiNE, https://github.com/toeverything/AFFiNE, "There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ", "affine,block-editor,collaborative,editor,knowledge-base,miro,miro-alternative,notion,notion-alternative,privacy-first,rust,semantic,yjs", 2022-07-31 18:45:21 +0000 UTC
+6535, beginners-typescript-tutorial, https://github.com/total-typescript/beginners-typescript-tutorial, "An interactive TypeScript tutorial for beginners", "beginners,crash-course,tutorial,typescript", 2022-08-24 08:48:04 +0000 UTC
+6520, fauxpilot, https://github.com/moyix/fauxpilot, "FauxPilot - an open-source GitHub Copilot server", "", 2022-08-03 02:14:22 +0000 UTC
+5699, upscayl, https://github.com/upscayl/upscayl, "🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.", "ai,electron,esrgan,gigapixel,gigapixel-images,image,image-upscaling,topaz,upscale,upscalerimage,upscayl", 2022-07-30 17:19:20 +0000 UTC
+5461, diffusionbee-stable-diffusion-ui, https://github.com/divamgupta/diffusionbee-stable-diffusion-ui, "Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.", "electron-app,hactoberfest,macos,stable-diffusion", 2022-09-06 02:11:00 +0000 UTC
+5150, stable-diffusion-webui, https://github.com/sd-webui/stable-diffusion-webui, "Stable Diffusion web UI", "", 2022-08-24 10:43:48 +0000 UTC
+5019, Monocraft, https://github.com/IdreesInc/Monocraft, "A programming font based on the typeface used in Minecraft", "font,ligatures,minecraft", 2022-08-08 00:32:42 +0000 UTC
+4035, HelloWord-Keyboard, https://github.com/peng-zhihui/HelloWord-Keyboard, "", "", 2022-07-30 09:00:25 +0000 UTC
+3939, devbox, https://github.com/jetpack-io/devbox, "Instant, easy, predictable shells and containers.", "build-system,build-tool,buildpack,containers,dev-environment,devbox,development-environment,nix,venv,virtual-environment,virtualization", 2022-08-18 20:27:16 +0000 UTC
+3844, workerd, https://github.com/cloudflare/workerd, "The JavaScript / Wasm runtime that powers Cloudflare Workers", "", 2022-09-15 15:15:16 +0000 UTC
+3318, Cemu, https://github.com/cemu-project/Cemu, "Cemu is a Wii U emulator", "cemu,cemu-emulator,cpp,emulation,emulator,nintendo,wiiu", 2022-08-22 20:19:02 +0000 UTC
+3270, dub, https://github.com/steven-tey/dub, "An open-source link shortener with built-in analytics + free custom domains.", "edge-functions,hacktoberfest,link-shortener,nextjs,redis,upstash,vercel", 2022-08-27 22:15:11 +0000 UTC
+3199, TrollStore, https://github.com/opa334/TrollStore, "Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple", "", 2022-09-02 15:17:20 +0000 UTC
+3111, dream-textures, https://github.com/carson-katri/dream-textures, "Stable Diffusion built-in to the Blender shader editor", "ai,blender,blender-addon,image-generation,stable-diffusion", 2022-09-08 17:53:16 +0000 UTC
+3102, copy-dialog-lunar-lander, https://github.com/Sanakan8472/copy-dialog-lunar-lander, "Play lunar lander in you windows file copy dialog", "", 2022-09-04 15:30:56 +0000 UTC
+2947, nn-zero-to-hero, https://github.com/karpathy/nn-zero-to-hero, "Neural Networks: Zero to Hero", "", 2022-09-08 21:23:25 +0000 UTC
+2487, Dreambooth-Stable-Diffusion, https://github.com/XavierXiao/Dreambooth-Stable-Diffusion, "Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) with Stable Diffusion", "pytorch,pytorch-lightning,stable-diffusion,text-to-image", 2022-09-06 06:57:40 +0000 UTC
+2446, flamethrower, https://github.com/fireship-io/flamethrower, "A blazingly fast router for static sites", "", 2022-08-16 15:52:56 +0000 UTC
+2424, lotion, https://github.com/Dashibase/lotion, "An open-source Notion UI built with Vue 3 ", "editorjs,hacktoberfest,markdown,notion,vue", 2022-07-25 04:47:59 +0000 UTC
+2322, multinerf, https://github.com/google-research/multinerf, "A Code Release for Mip-NeRF 360, Ref-NeRF, and RawNeRF", "nerf,neural-radiance-fields", 2022-07-22 22:47:15 +0000 UTC
+2287, motionity, https://github.com/alyssaxuu/motionity, "The web-based motion graphics editor for everyone 📽", "after-effects,animation,audio,canva,canvas,editor,fabric,fabricjs,filters,javascript,keyframe,keyframes,motion,motion-graphics,timeline", 2022-08-29 21:03:50 +0000 UTC
+2224, helang, https://github.com/kifuan/helang, "何语言，次世代赛博编程语言。", "", 2022-08-16 17:21:44 +0000 UTC
+2116, stable-diffusion-ui, https://github.com/cmdr2/stable-diffusion-ui, "Easiest 1-click way to install and use Stable Diffusion on your own computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image.", "", 2022-08-23 20:27:59 +0000 UTC
+2110, Havoc, https://github.com/HavocFramework/Havoc, "The Havoc Framework", "", 2022-09-11 13:21:16 +0000 UTC
+2103, ruff, https://github.com/charliermarsh/ruff, "An extremely fast Python linter, written in Rust.", "linter,pep8,python,python3,rust,rustpython,static-analysis,static-code-analysis,style-guide,styleguide,stylelint", 2022-08-09 17:17:44 +0000 UTC
+2056, MagiskOnWSALocal, https://github.com/LSPosed/MagiskOnWSALocal, "", "", 2022-08-14 06:56:53 +0000 UTC
+2015, stable-dreamfusion, https://github.com/ashawkey/stable-dreamfusion, "A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.", "dreamfusion,gui,nerf,stable-diffusion,text-to-3d", 2022-10-06 06:18:39 +0000 UTC
+1998, erg, https://github.com/erg-lang/erg, "A statically typed language that can deeply improve the Python ecosystem", "compiler,erg,language,programming-language,python,rust,transpiler", 2022-08-10 13:59:09 +0000 UTC
+1980, googerteller, https://github.com/berthubert/googerteller, "audible feedback on just how much your browsing feeds into google", "", 2022-08-21 19:41:00 +0000 UTC
+1973, EnergyStar, https://github.com/imbushuo/EnergyStar, "A terrible application setting SV2 Efficiency Mode for inactive Windows apps and user background apps", "", 2022-07-29 07:49:22 +0000 UTC
+1971, stablediffusion-infinity, https://github.com/lkwq007/stablediffusion-infinity, "Outpainting with Stable Diffusion on an infinite canvas", "outpainting,stablediffusion", 2022-09-02 05:07:50 +0000 UTC
+1923, GET3D, https://github.com/nv-tlabs/GET3D, "", "", 2022-09-08 19:48:36 +0000 UTC
+1894, awesome-diagramming, https://github.com/shubhamgrg04/awesome-diagramming, "A curated collection of diagramming tools used by leading software engineering teams", "awesome-list,diagram,uml", 2022-09-19 06:02:59 +0000 UTC
+1885, log-viewer, https://github.com/opcodesio/log-viewer, "Fast and beautiful Log Viewer for Laravel", "laravel,laravel-package,laravel8,laravel9,log-viewer,logging,logs", 2022-08-15 07:02:33 +0000 UTC
+1879, flutter-wonderous-app, https://github.com/gskinnerTeam/flutter-wonderous-app, "A showcase app for the Flutter SDK. Wonderous will educate and entertain as you uncover information about some of the most famous structures in the world.", "", 2022-08-29 17:05:01 +0000 UTC
+1848, alphatensor, https://github.com/deepmind/alphatensor, "", "", 2022-09-22 11:09:20 +0000 UTC
+1833, system.css, https://github.com/sakofchit/system.css, "A design system for building retro Apple interfaces", "classic-macos,css,design-system,macos", 2022-08-05 20:11:54 +0000 UTC
+1693, Core, https://github.com/WeAreMahsaAmini/Core, "Woman, life, freedom", "", 2022-09-26 15:49:53 +0000 UTC
+1652, fastapi-best-practices, https://github.com/zhanymkanov/fastapi-best-practices, "FastAPI Best Practices and Conventions we used @ hi.peerlink.me", "best-practices,fastapi", 2022-08-09 06:03:38 +0000 UTC
+1635, How-to-run, https://github.com/lidangzzz/How-to-run, "立党老师的润学（零基础转码/移民/留学/海外创业/永居）笔记", "computer-science,python", 2022-09-21 23:57:37 +0000 UTC
+1626, libsql, https://github.com/libsql/libsql, "libSQL is a fork of SQLite that is both Open Source, and Open Contributions.", "database,embedded-database,rust,sqlite", 2022-09-29 18:56:16 +0000 UTC
+1617, interview-guide, https://github.com/nas5w/interview-guide, "An opinionated, actionable guide for software engineering interviews.", "interview,interview-preparation,leetcode", 2022-09-14 15:43:36 +0000 UTC
+1607, particle-life, https://github.com/hunar4321/particle-life, "A simple program to simulate artificial life using attraction/reuplsion forces between many particles", "artificial-life,cpp,educational,javascript,simulation", 2022-08-10 07:28:09 +0000 UTC
+1606, homepage, https://github.com/benphelps/homepage, "A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.", "docker,homepage,nextjs,node,react,self-hosted,startpage", 2022-08-24 07:29:42 +0000 UTC
+1603, langcc, https://github.com/jzimmerman/langcc, "langcc: A Next-Generation Compiler Compiler", "", 2022-09-20 01:49:33 +0000 UTC
+1588, keyviz, https://github.com/mulaRahul/keyviz, "Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ in real-time.", "flutter,flutter-desktop,keypress,keystroke", 2022-07-22 13:03:59 +0000 UTC
+1575, postgres-wasm, https://github.com/snaplet/postgres-wasm, "A PostgresQL server running in your browser", "playground,postgres,wasm", 2022-08-24 06:07:27 +0000 UTC
+1568, Hello-Python, https://github.com/mouredev/Hello-Python, "Python desde cero", "", 2022-08-03 17:14:53 +0000 UTC
+1552, uFuzzy, https://github.com/leeoniya/uFuzzy, "A tiny, efficient fuzzy search that doesn't suck", "autocomplete,filter-list,fuzzy-matching,fuzzy-search,ranking-algorithm,search,typeahead,typeahead-search", 2022-09-16 04:24:29 +0000 UTC
+1536, refurb, https://github.com/dosisod/refurb, "A tool for refurbishing and modernizing Python codebases", "cli,gplv3,mypy,python,python310,testing", 2022-07-27 04:13:51 +0000 UTC
+1536, awesome-learn-gamedev, https://github.com/notpresident35/awesome-learn-gamedev, "A curated collection of game development learning resources", "awesome,awesome-list,education,game-development,gamedev,learn,learning,list", 2022-08-14 06:50:18 +0000 UTC
+1527, divkit, https://github.com/divkit/divkit, "DivKit is an open source Server-Driven UI (SDUI) framework. SDUI is a an emerging technique that leverage the server to build the user interfaces of their mobile app", "android,backend-driven-ui,divkit,ios,json,kotlin,server-driven-ui,swift,typescript,web", 2022-08-10 20:43:52 +0000 UTC
+1504, yuindex, https://github.com/liyupi/yuindex, "✨ 新项目 - 极客范儿的浏览器主页 💻 Vue 3 + Node.js 全栈项目，自实现 web 终端 + 命令系统", "backend,frontend,javascript,node-js,typescript,vue,web-terminal", 2022-07-16 15:19:31 +0000 UTC
+1490, sakana, https://github.com/itorr/sakana, "🐟「Sakana!」石蒜模拟器", "lycoris,lycoris-recoil,recoil,sakana,sayuri", 2022-08-22 10:42:31 +0000 UTC
+1480, sidekick, https://github.com/runsidekick/sidekick, "Free and open-source live application debugger. Like chrome dev tools but for your backend", "debugging,debugging-tools,logging,monitoring", 2022-08-22 13:46:15 +0000 UTC
+1473, MLE-Flashcards, https://github.com/b7leung/MLE-Flashcards, "200+ detailed flashcards useful for reviewing topics in machine learning, computer vision, and computer science.", "ai,artificial-intelligence,computer-science,computer-vision,flashcards,interview,interview-preparation,machine-learning,review", 2022-07-23 05:05:08 +0000 UTC
+1471, dnsReaper, https://github.com/punk-security/dnsReaper, "dnsReaper - subdomain takeover tool for attackers, bug bounty hunters and the blue team!", "", 2022-07-19 08:17:30 +0000 UTC
+1458, Cybersecurity-Resources, https://github.com/Nickyie/Cybersecurity-Resources, "A Library of various cybersecurity resources", "", 2022-07-28 08:52:04 +0000 UTC
+1446, h-m-m, https://github.com/nadrad/h-m-m, "Hackers Mind Map", "", 2022-08-30 15:51:44 +0000 UTC
+1440, textual_inversion, https://github.com/rinongal/textual_inversion, "", "", 2022-08-02 18:07:08 +0000 UTC
+1431, MicrocodeDecryptor, https://github.com/chip-red-pill/MicrocodeDecryptor, "", "", 2022-07-18 19:07:32 +0000 UTC
+1431, pe-bear, https://github.com/hasherezade/pe-bear, "Portable Executable reversing tool with a friendly GUI ", "bearparser,malware-analysis,multiplatform,pe-analyzer,pe-analyzer-gui,pe-editor,pe-file,pe-format", 2022-09-18 04:10:16 +0000 UTC
+1423, jqp, https://github.com/noahgorstein/jqp, "A TUI playground to experiment with jq", "go,jq,tui", 2022-08-28 05:52:21 +0000 UTC
+1410, coroot, https://github.com/coroot/coroot, "A monitoring and troubleshooting tool for microservice architectures.", "dashboard,database-monitoring,ebpf,kubernetes,log-analysis,metrics,microservice,monitoring,network-monitoring,observability,postgresql-monitoring,prometheus,service-map", 2022-08-22 14:59:07 +0000 UTC
+1369, I-Dont-Care-About-Cookies, https://github.com/OhMyGuus/I-Dont-Care-About-Cookies, "Debloated fork of the extension \"I don't care about cookies\"", "browser-extension,chrome-extension,firefox,firefox-addon,firefox-extension", 2022-09-15 18:55:17 +0000 UTC
+1368, yulegeyu, https://github.com/liyupi/yulegeyu, "羊了个羊纯前端实现版【鱼了个鱼】，自定义关卡+图案+无限道具，可在线玩：https://yulegeyu.cn", "ant-design,frontend,h5,javascript,typescript,vite,vue", 2022-09-16 10:18:36 +0000 UTC
+1355, signals, https://github.com/preactjs/signals, "Manage state with style in every framework", "preact,react,reactivity,signals,state-management", 2022-08-08 21:29:28 +0000 UTC
+1344, magic-regexp, https://github.com/danielroe/magic-regexp, "A compiled-away, type-safe, readable RegExp alternative", "hacktoberfest,regex,regexp,regular-expression,typescript", 2022-07-16 16:22:08 +0000 UTC
+1342, stable-diffusion-videos, https://github.com/nateraw/stable-diffusion-videos, "Create 🔥 videos with Stable Diffusion by exploring the latent space and morphing between text prompts", "ai-art,huggingface,huggingface-diffusers,machine-learning,stable-diffusion", 2022-09-06 18:21:50 +0000 UTC
+1295, swift-book, https://github.com/apple/swift-book, "The Swift Programming Language book", "", 2022-08-02 23:47:33 +0000 UTC
+1265, Dreambooth-Stable-Diffusion, https://github.com/JoePenna/Dreambooth-Stable-Diffusion, "Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) by way of Textual Inversion (https://arxiv.org/abs/2208.01618) for Stable Diffusion (https://arxiv.org/abs/2112.10752). Tweaks focused on training faces, objects, and styles.", "ai,artificial-intelligence,image-generation,img2img,latent-diffusion,machine-learning,model-training,stable-diffusion,txt2img", 2022-09-17 22:05:03 +0000 UTC
+1234, ButtFish, https://github.com/RonSijm/ButtFish, "Effortlessly transmitting Morse Code of chess moves to your butthole 💝", "buttfish,buttplug,chess,csharp,hacktoberfest,hacktoberfest-accepted,meme,morse-code", 2022-09-26 16:45:03 +0000 UTC
+1194, FISSURE, https://github.com/ainfosec/FISSURE, "The RF and reverse engineering framework for everyone", "gnuradio,protocols,reverse-engineering,rf,sdr,signals,tools", 2022-08-08 17:58:12 +0000 UTC
+1158, zelda3, https://github.com/snesrev/zelda3, "", "", 2022-08-11 01:11:41 +0000 UTC
+1157, shadow-tls, https://github.com/ihciah/shadow-tls, "", "", 2022-08-25 11:38:48 +0000 UTC
+1144, rustle, https://github.com/pintariching/rustle, "Svelte compiler rewritten in Rust", "rust,svelte", 2022-08-11 08:58:47 +0000 UTC
+1126, stable-diffusion-tensorflow, https://github.com/divamgupta/stable-diffusion-tensorflow, "Stable Diffusion in TensorFlow / Keras", "", 2022-09-15 04:46:25 +0000 UTC
+1123, ofrak, https://github.com/redballoonsecurity/ofrak, "OFRAK: unpack, modify, and repack binaries.", "ctf,firmware,firmware-tools,hacktoberfest,repacking,reverse-engineering,unpacker", 2022-08-08 17:32:31 +0000 UTC
+1096, catp, https://github.com/rapiz1/catp, "Print the output of a running process", "", 2022-07-23 12:32:06 +0000 UTC
+1091, docquery, https://github.com/impira/docquery, "An easy way to extract information from documents", "", 2022-08-08 20:17:37 +0000 UTC
+1090, react-design-editor, https://github.com/layerhub-io/react-design-editor, "Image, Presentation and Video editor. React design editor using fabric.js. Canva clone", "canva-clone,design-editor,fabricjs,graphic-editor,image-editor,presentation-editor,scenify,video-editor", 2022-07-21 14:31:36 +0000 UTC
+1089, VToonify, https://github.com/williamyang1991/VToonify, "[SIGGRAPH Asia 2022] VToonify: Controllable High-Resolution Portrait Video Style Transfer", "face,siggraph-asia,style-transfer,stylegan2,toonify,video-style-transfer", 2022-09-09 03:15:37 +0000 UTC
+1088, pycom, https://github.com/Omyyyy/pycom, "A Python compiler, down to native code, using C++", "", 2022-07-16 09:26:42 +0000 UTC
+1073, stability-sdk, https://github.com/Stability-AI/stability-sdk, "SDK for interacting with stability.ai APIs (e.g. stable diffusion inference)", "ai-art,generative-art,latent-diffusion,multimodal,stable-diffusion", 2022-08-22 00:21:34 +0000 UTC
+1037, TDungeon, https://github.com/cassiozen/TDungeon, "TDungeon is a small adventure game that runs in the Typescript type system", "", 2022-09-21 19:39:52 +0000 UTC
+1031, chenyuluoyan_thin, https://github.com/Chenyu-otf/chenyuluoyan_thin, "「辰宇落雁體」是我與韋辰在學校的自主學習計畫，由韋辰負責書寫，我進行後製而成。手寫字型就像是我們將字詞複寫於紙上，讓字跡留下，以這種近似雋永的形式封裝，使被複寫的日常沒有保質期，也像是一種永恆的召喚，在任何無法抵達的以後，都能為你書寫成篇。", "fonts,handwriting", 2022-08-08 10:42:41 +0000 UTC
+1030, LAVIS, https://github.com/salesforce/LAVIS, "LAVIS - A One-stop Library for Language-Vision Intelligence", "deep-learning,deep-learning-library,image-captioning,multimodal-datasets,multimodal-deep-learning,salesforce,vision-and-language,vision-framework,vision-language-pretraining,vision-language-transformer,visual-question-anwsering", 2022-08-24 02:36:01 +0000 UTC
+1022, stable_diffusion.openvino, https://github.com/bes-dev/stable_diffusion.openvino, "", "", 2022-08-23 21:25:51 +0000 UTC
+1021, PurC, https://github.com/HVML/PurC, "The prime HVML interpreter for C Language.", "", 2022-07-26 02:22:46 +0000 UTC
+1009, noice.nvim, https://github.com/folke/noice.nvim, "💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.", "neovim-lua-plugin,neovim-plugin,neovim-ui", 2022-09-21 19:32:33 +0000 UTC
+1006, typescript-generics-workshop, https://github.com/total-typescript/typescript-generics-workshop, "Interactive tutorial on using generics in TypeScript", "tutorial,typescript", 2022-08-30 10:39:10 +0000 UTC
+994, sharing, https://github.com/parvardegr/sharing, "Sharing is a command-line tool to share directories and files from the CLI to iOS and Android devices without the need of an extra client app", "android,browser,clipboard-share,command-line-tool,filesharing,filesharing-on-network,filetransfer,ios,linux,nodejs,qrcode,receive-files,serving-directory", 2022-10-05 11:05:12 +0000 UTC
+984, sd-akashic, https://github.com/Maks-s/sd-akashic, "A compendium of informations regarding Stable Diffusion (SD)", "diffusion,guide,stable-diffusion", 2022-08-09 10:04:17 +0000 UTC
+972, stable-diffusion-webui-docker, https://github.com/AbdBarho/stable-diffusion-webui-docker, "Easy Docker setup for Stable Diffusion with user-friendly UI", "docker,docker-compse,gradio,pytorch,stable-diffusion", 2022-08-27 11:05:15 +0000 UTC
+957, kaolin-wisp, https://github.com/NVIDIAGameWorks/kaolin-wisp, "NVIDIA Kaolin Wisp is a PyTorch library powered by NVIDIA Kaolin Core to work with neural fields (including NeRFs, NGLOD, instant-ngp and VQAD).", "", 2022-07-26 13:03:29 +0000 UTC
+956, yoloair, https://github.com/iscyy/yoloair, "🔥🔥🔥YOLOv5, YOLOv6, YOLOv7, PPYOLOE, YOLOX, YOLOR, YOLOv4, YOLOv3, PPYOLO, PPYOLOv2, Transformer, Attention, TOOD and Improved-YOLOv5-YOLOv7... Support to improve backbone, neck, head, loss, IoU, NMS and other modules🚀", "anchor-based,anchor-free,attention,backbone,deep-learning,ppyolo,ppyoloe,pytorch,scaledyolov4,tood,transformer,yolo,yoloair,yolor,yolov3,yolov4,yolov5,yolov6,yolov7,yolox", 2022-08-05 09:37:53 +0000 UTC
