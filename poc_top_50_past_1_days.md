@@ -1,103 +1,103 @@
 | Stars | Name | Desc | Created | 
 | ----- | ------- | ------------- | ------------- |
-| 3 | [treehash](https://github.com/socketsupply/treehash) | hash a large file into a tree | 2022-10-24 00:21:34 +0000 UTC |
-| 2 | [Hogar_Colombia](https://github.com/FADEDevs/Hogar_Colombia) |  | 2022-10-24 01:16:06 +0000 UTC |
-| 1 | [config_notes](https://github.com/Krish-sysadmin/config_notes) |  | 2022-10-24 00:31:03 +0000 UTC |
-| 1 | [scala-for-kotlin-developers](https://github.com/FromSyntax/scala-for-kotlin-developers) | An introduction to Scala for Kotlin developers | 2022-10-24 00:44:44 +0000 UTC |
-| 1 | [daffyy0x](https://github.com/daffy0x/daffyy0x) |  | 2022-10-24 01:24:03 +0000 UTC |
-| 1 | [sudunonabot](https://github.com/Sayuriniwarthana5/sudunonabot) |  | 2022-10-24 01:07:23 +0000 UTC |
-| 1 | [plegma](https://github.com/AlexandrosKap/plegma) | A 2D grid data structure for Nim. | 2022-10-24 01:17:35 +0000 UTC |
-| 1 | [T2i](https://github.com/FJAILDO/T2i) | Cesar School's Notebooks - Technology, Innovation, Intelligence | 2022-10-24 01:30:47 +0000 UTC |
-| 1 | [SNU_2D_ProgrammingTools_IDE_BlitzBasic](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_BlitzBasic) | The BlitzBasic Programming language IDE submodule for SNU Programming Tools (2D Mode) | 2022-10-24 00:55:17 +0000 UTC |
-| 1 | [IMC](https://github.com/freire45/IMC) | Programa que calcula o IMC de uma pessoa | 2022-10-24 00:41:15 +0000 UTC |
-| 1 | [dafffy0x](https://github.com/daffy0x/dafffy0x) |  | 2022-10-24 01:23:43 +0000 UTC |
-| 1 | [pythings](https://github.com/leoarayav/pythings) | A zero-depedencies and most-used python resources library. | 2022-10-24 00:08:19 +0000 UTC |
-| 1 | [HW5_TipCalcVertHorizV1](https://github.com/maxarnold1006/HW5_TipCalcVertHorizV1) | Exercise #2 HW 5 | 2022-10-24 00:01:26 +0000 UTC |
-| 1 | [NotesApp](https://github.com/Avismaingi/NotesApp) | App made using Android Studio(Java). Add note using option in context menu. Delete note by long pressing element on list. Local storage created using Shared Preference. | 2022-10-24 00:34:46 +0000 UTC |
-| 1 | [EcomerceProject](https://github.com/Ferchoall/EcomerceProject) |  | 2022-10-24 00:44:03 +0000 UTC |
-| 1 | [Learn-Amulet](https://github.com/seanpm2001/Learn-Amulet) | A repository for showcasing my knowledge of the Amulet programming language, and continuing to learn the language. | 2022-10-24 01:04:11 +0000 UTC |
-| 1 | [takata-yuta](https://github.com/takata-yuta/takata-yuta) |  | 2022-10-24 01:13:20 +0000 UTC |
-| 1 | [Progetto-finale-htmll-css](https://github.com/Alessandro-boop/Progetto-finale-htmll-css) |  | 2022-10-24 00:27:05 +0000 UTC |
-| 1 | [Learn-VisualLogic](https://github.com/seanpm2001/Learn-VisualLogic) | A repository for showcasing my knowledge of the Visual Logic programming language, and continuing to learn the language. | 2022-10-24 01:01:39 +0000 UTC |
-| 1 | [Code_SQL](https://github.com/T1015030/Code_SQL) | Repositório dedicado a criação e desenvolvimento ou mesmo consulta no SQL com SGBD OracleXE21C | 2022-10-24 00:13:14 +0000 UTC |
-| 1 | [Mort1sl](https://github.com/MOrT1REM/Mort1sl) |  | 2022-10-24 00:01:19 +0000 UTC |
-| 1 | [study-workes](https://github.com/JonatasOFF/study-workes) |  | 2022-10-24 00:07:10 +0000 UTC |
-| 1 | [retroforth-list](https://github.com/RickCarlino/retroforth-list) | A cons and linked list snippet for RetroForth. Not complete. | 2022-10-24 00:00:07 +0000 UTC |
-| 1 | [SNU_2D_ProgrammingTools_IDE_Amulet](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Amulet) | The Amulet Programming language IDE submodule for SNU Programming Tools (2D Mode) | 2022-10-24 01:05:23 +0000 UTC |
-| 1 | [daffy0x](https://github.com/daffy0x/daffy0x) |  | 2022-10-24 01:23:08 +0000 UTC |
-| 1 | [questionsManager](https://github.com/engRenanTorres/questionsManager) | Web app com SpringMVC em Java para gerenciado de questões do app simula concurso. | 2022-10-24 01:26:26 +0000 UTC |
-| 1 | [clases-java](https://github.com/dazxon/clases-java) | Aca voy subiendo lo que veo en clase, ejercicios y cositas varias | 2022-10-24 01:32:16 +0000 UTC |
-| 1 | [gmod-languages](https://github.com/rooneyviz/gmod-languages) | adds spanish(mexico) and english(united states) to gmod | 2022-10-24 00:05:22 +0000 UTC |
-| 1 | [Bowers_Johnathon_Dojos_and_Ninjas_CR](https://github.com/JohnathonBowers/Bowers_Johnathon_Dojos_and_Ninjas_CR) |  | 2022-10-24 01:06:18 +0000 UTC |
-| 1 | [intrapegasus.github.io](https://github.com/intrapegasus/intrapegasus.github.io) |  | 2022-10-24 01:21:32 +0000 UTC |
-| 1 | [Gerador_de_Codigo_Python](https://github.com/Walcygleicson/Gerador_de_Codigo_Python) | Gerador de sequencia de codigos aleatórios com letras e numeros | 2022-10-24 00:11:19 +0000 UTC |
-| 1 | [fover-library](https://github.com/guiNunesFover/fover-library) |  | 2022-10-24 01:19:16 +0000 UTC |
-| 1 | [-](https://github.com/Alnsim69/-) | عام | 2022-10-24 01:29:07 +0000 UTC |
-| 1 | [FZJD](https://github.com/JianingWu911/FZJD) |  | 2022-10-24 01:07:04 +0000 UTC |
-| 1 | [Learn-McFunction](https://github.com/seanpm2001/Learn-McFunction) | A repository for showcasing my knowledge of the McFunction programming language, and continuing to learn the language. | 2022-10-24 00:56:44 +0000 UTC |
-| 1 | [Map_Animation](https://github.com/CamilaNieto-Centennial/Map_Animation) | MIT's Professional Certificate in Coding: Full Stack Development with MERN - July 2022. Module 9 (Map Animation) | 2022-10-24 00:01:51 +0000 UTC |
-| 1 | [maruo](https://github.com/Mariostahel/maruo) | Slovensko  | 2022-10-24 00:48:02 +0000 UTC |
-| 1 | [eslint-plugin-native](https://github.com/Simoon-F/eslint-plugin-native) | 👨‍💻 ESLint presets for react native | 2022-10-24 01:01:06 +0000 UTC |
-| 1 | [nftapp](https://github.com/DevPrecious/nftapp) |  | 2022-10-24 01:33:53 +0000 UTC |
-| 1 | [Ejder132](https://github.com/Sezer132/Ejder132) | Ejder132 | 2022-10-24 01:22:16 +0000 UTC |
-| 1 | [ad9850-dds-signal-generator-with-320x240_TILI9341-GUI](https://github.com/mabrio2016/ad9850-dds-signal-generator-with-320x240_TILI9341-GUI) |  | 2022-10-24 01:32:44 +0000 UTC |
-| 1 | [SNU_2D_ProgrammingTools_IDE_McFunction](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_McFunction) | The McFunction Programming language IDE submodule for SNU Programming Tools (2D Mode) | 2022-10-24 00:58:04 +0000 UTC |
-| 1 | [plants](https://github.com/CBeansK/plants) | plant stuff | 2022-10-24 00:12:48 +0000 UTC |
-| 1 | [flutter_todo_list_app](https://github.com/Gustavo-Zeloni/flutter_todo_list_app) | App under development! You can test by making a build of it. | 2022-10-24 00:12:54 +0000 UTC |
-| 1 | [qml](https://github.com/ASxa86/qml) |  | 2022-10-24 00:14:36 +0000 UTC |
-| 1 | [encurtador](https://github.com/gwpstecnologia/encurtador) | Encurtador de URL desenvolvido em PHP/Laravel | 2022-10-24 00:13:36 +0000 UTC |
-| 1 | [Learn-SASL](https://github.com/seanpm2001/Learn-SASL) | A repository for showcasing my knowledge of the SASL programming language, and continuing to learn the language. | 2022-10-24 00:59:15 +0000 UTC |
-| 1 | [PF_Altion_App](https://github.com/nando-dotjs/PF_Altion_App) | Proyecto Final de Titulación 2022 (App), LTI UTEC. Equipo Altion. | 2022-10-24 00:43:10 +0000 UTC |
-| 1 | [FullStackDesktopApp](https://github.com/vanja032/FullStackDesktopApp) | Full Stack Desktop App written in Java programming language with MySql Database | 2022-10-24 00:28:27 +0000 UTC |
-| 1 | [RabbitMqReceiver](https://github.com/gabrieldep/RabbitMqReceiver) |  | 2022-10-24 00:32:20 +0000 UTC |
-| 1 | [Rcalculatorpro](https://github.com/orceleu/Rcalculatorpro) | appDemoResistorCalculator | 2022-10-24 00:13:10 +0000 UTC |
-| 1 | [triangulate](https://github.com/kelsny/triangulate) |  | 2022-10-24 00:37:57 +0000 UTC |
-| 1 | [CSC325-Term_Project](https://github.com/josh-reed-QU/CSC325-Term_Project) |  | 2022-10-24 00:04:09 +0000 UTC |
-| 1 | [SNU_2D_ProgrammingTools_IDE_SASL](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_SASL) | The SASL Programming language IDE submodule for SNU Programming Tools (2D Mode) | 2022-10-24 01:00:20 +0000 UTC |
-| 1 | [daffy0-x](https://github.com/daffy0x/daffy0-x) |  | 2022-10-24 01:23:31 +0000 UTC |
-| 1 | [API_Golang](https://github.com/WistuAryW/API_Golang) |  | 2022-10-24 00:24:45 +0000 UTC |
-| 1 | [node-bun](https://github.com/jhmaster2000/node-bun) | Node.js Compatibility Layer & Polyfills for Bun APIs | 2022-10-24 00:44:49 +0000 UTC |
-| 1 | [brasilapi-rs](https://github.com/pedrinfx/brasilapi-rs) | Uma lib para a API do Brasil API (para o Rust) | 2022-10-24 00:25:23 +0000 UTC |
-| 1 | [Game-not-finished](https://github.com/Lynxxzin/Game-not-finished) | This is game that i not finished | 2022-10-24 01:20:19 +0000 UTC |
-| 1 | [TecBlog](https://github.com/mistersmimss/TecBlog) | Um site sobre tecnologia | 2022-10-24 01:30:54 +0000 UTC |
-| 1 | [duchuy200](https://github.com/duchuy200/duchuy200) | Config files for my GitHub profile. | 2022-10-24 01:26:07 +0000 UTC |
-| 1 | [TicTacToeOrientation](https://github.com/maxarnold1006/TicTacToeOrientation) | Exercise #3 HW 5 | 2022-10-24 00:02:40 +0000 UTC |
-| 1 | [Sainthadi](https://github.com/Sainthadi/Sainthadi) | Config files for my GitHub profile. | 2022-10-24 00:24:10 +0000 UTC |
-| 1 | [pos-app](https://github.com/belocanna/pos-app) |  | 2022-10-24 01:18:33 +0000 UTC |
-| 1 | [SNU_2D_ProgrammingTools_IDE_VisualLogic](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_VisualLogic) | The Visual Logic Programming language IDE submodule for SNU Programming Tools (2D Mode) | 2022-10-24 01:03:04 +0000 UTC |
-| 1 | [House-for-sale-web](https://github.com/awesomexiao123/House-for-sale-web) | CS499 Class Project | 2022-10-24 01:08:01 +0000 UTC |
-| 1 | [Learn-BlitzBasic](https://github.com/seanpm2001/Learn-BlitzBasic) | A repository for showcasing my knowledge of the BlitzBasic programming language, and continuing to learn the language. | 2022-10-24 00:54:09 +0000 UTC |
-| 1 | [iammeter-simulator](https://github.com/lewei50/iammeter-simulator) |  | 2022-10-24 01:30:49 +0000 UTC |
-| 1 | [studious-tribble](https://github.com/www-githup/studious-tribble) |  | 2022-10-24 00:39:14 +0000 UTC |
-| 1 | [newtest4](https://github.com/DemoNewCorpOrganization/newtest4) | newtest4 | 2022-10-24 00:07:24 +0000 UTC |
-| 1 | [danideoliv](https://github.com/danideoliv/danideoliv) | Config files for my GitHub profile. | 2022-10-24 00:58:49 +0000 UTC |
-| 1 | [daaffy0x](https://github.com/daffy0x/daaffy0x) |  | 2022-10-24 01:23:53 +0000 UTC |
-| 1 | [Ecommerce-EuQuefiz](https://github.com/imdebora/Ecommerce-EuQuefiz) |  | 2022-10-24 00:59:03 +0000 UTC |
-| 1 | [verank90](https://github.com/Veronikaniekam/verank90) |  | 2022-10-24 01:19:39 +0000 UTC |
-| 1 | [monkarmtprg-Anabuki22](https://github.com/monkarmtprg-Anabuki22/monkarmtprg-Anabuki22) | Config files for my GitHub profile. | 2022-10-24 00:50:53 +0000 UTC |
-| 1 | [fuyu](https://github.com/fuyu-lang/fuyu) | The Fuyu programming language | 2022-10-24 01:28:21 +0000 UTC |
-| 0 | [CodePrograma-o---Faculdade](https://github.com/Lucas000222/CodePrograma-o---Faculdade) |  | 2022-10-24 00:11:09 +0000 UTC |
-| 0 | [pet-shop](https://github.com/lehhzinha/pet-shop) |  | 2022-10-24 00:12:00 +0000 UTC |
-| 0 | [my_api](https://github.com/JosueAnd/my_api) | Learning to work with FastAPI | 2022-10-24 00:11:25 +0000 UTC |
-| 0 | [Banking](https://github.com/nmiller268/Banking) |  | 2022-10-24 00:11:34 +0000 UTC |
-| 0 | [pro](https://github.com/Hacenelarabi/pro) |  | 2022-10-24 00:10:30 +0000 UTC |
-| 0 | [DeepLearning](https://github.com/eeyeji/DeepLearning) |  | 2022-10-24 00:09:38 +0000 UTC |
-| 0 | [Cynthia](https://github.com/cynthia21r0/Cynthia) |  | 2022-10-24 00:15:30 +0000 UTC |
-| 0 | [WilsterApp](https://github.com/gsaavedra96/WilsterApp) |  | 2022-10-24 00:15:21 +0000 UTC |
-| 0 | [Jobsheet19](https://github.com/mayaindahh/Jobsheet19) |  | 2022-10-24 00:12:24 +0000 UTC |
-| 0 | [lcb7yvWxOI](https://github.com/pgonline123/lcb7yvWxOI) |  | 2022-10-24 00:14:45 +0000 UTC |
-| 0 | [mmbugua04](https://github.com/mmbugua04/mmbugua04) | Config files for my GitHub profile. | 2022-10-24 00:14:12 +0000 UTC |
-| 0 | [lara-api](https://github.com/Alnaggar94/lara-api) |  | 2022-10-24 00:14:10 +0000 UTC |
-| 0 | [PrimerClasCSS](https://github.com/criszela/PrimerClasCSS) |  | 2022-10-24 00:14:22 +0000 UTC |
-| 0 | [TravelBuddy](https://github.com/Clintjeez/TravelBuddy) |  | 2022-10-24 00:14:14 +0000 UTC |
-| 0 | [XIANGELIX](https://github.com/XIANGELIX/XIANGELIX) | Config files for my GitHub profile. | 2022-10-24 00:16:11 +0000 UTC |
-| 0 | [blog1](https://github.com/JT-817/blog1) |  | 2022-10-24 00:16:00 +0000 UTC |
-| 0 | [app_nest](https://github.com/vinnikam/app_nest) |  | 2022-10-24 00:16:57 +0000 UTC |
-| 0 | [SNA](https://github.com/wooniew/SNA) |  | 2022-10-24 00:16:46 +0000 UTC |
-| 0 | [atividade4_de_java](https://github.com/Brscabral/atividade4_de_java) |  | 2022-10-24 00:14:34 +0000 UTC |
-| 0 | [training-odoo16](https://github.com/zanello1234/training-odoo16) |  | 2022-10-24 00:19:15 +0000 UTC |
-| 0 | [fakerestAPI](https://github.com/mayagee/fakerestAPI) |  | 2022-10-24 00:18:03 +0000 UTC |
-| 0 | [c125p](https://github.com/dhivyameena/c125p) |  | 2022-10-24 00:19:45 +0000 UTC |
-| 0 | [skeleton_server](https://github.com/Marxelo2022/skeleton_server) |  | 2022-10-24 00:17:12 +0000 UTC |
-| 0 | [sococo_clone](https://github.com/ZaidRazaKhan/sococo_clone) | Trying to make a clone of sococo | 2022-10-24 00:20:10 +0000 UTC |
+| 11 | [jwd-007](https://github.com/GenUSA-Learners/jwd-007) |  | 2022-10-25 00:45:46 +0000 UTC |
+| 2 | [Nutritional-Yeet](https://github.com/ehalimi/Nutritional-Yeet) |  | 2022-10-25 01:05:56 +0000 UTC |
+| 2 | [Doomstom](https://github.com/Peter-Crawley/Doomstom) | Some hacky code to get the Java DOOM port "Mochadoom" running under Minestom | 2022-10-25 00:03:17 +0000 UTC |
+| 1 | [mi_primer_proyecto](https://github.com/teocastano98/mi_primer_proyecto) | Este es mi primer proyecto, surso desarrollo web coderhause | 2022-10-25 00:27:52 +0000 UTC |
+| 1 | [Deep-Rock-Galactic-Cheat-Cracked-from-CheatHub](https://github.com/LaQuartz/Deep-Rock-Galactic-Cheat-Cracked-from-CheatHub) | Deep Rock Galactic Including  Spoofer and 40 more Features Undetected version | 2022-10-25 01:05:22 +0000 UTC |
+| 1 | [The-Witcher-3-Cheat-Cracked-from-CheatHub](https://github.com/LaQuartz/The-Witcher-3-Cheat-Cracked-from-CheatHub) | The Witcher 3 cracked  Including  Spoofer and 40 more Features Undetected version | 2022-10-25 01:05:22 +0000 UTC |
+| 1 | [blogolicious](https://github.com/tobisupreme/blogolicious) | AltSchool Backend NodeJS Second Semester Examination Project | 2022-10-25 00:48:14 +0000 UTC |
+| 1 | [Crossout-Undetected-cheat-with-Spoofer](https://github.com/EviLZ666/Crossout-Undetected-cheat-with-Spoofer) | Crossout private cheat with built-in spoofer. Cracked by VenoX (Aimbot, Wallhack, ESP, and so much more) | 2022-10-25 00:49:48 +0000 UTC |
+| 1 | [go-distribued-services](https://github.com/mbmcmullen27/go-distribued-services) | Book notes: "Distribued Services with Go" by Travis Jeffery | 2022-10-25 00:23:49 +0000 UTC |
+| 1 | [Paladins-L0ks-Cheat-Leaked-By-Wiki](https://github.com/LaQuartz/Paladins-L0ks-Cheat-Leaked-By-Wiki) | Paladins L0ks LeakedCheat by Wiki  Including ESPHack  AimBot Hack  NoRecoil  TPP  50 MORE | 2022-10-25 01:09:15 +0000 UTC |
+| 1 | [CSCE-306-CCTV-Project](https://github.com/JacobSteen777/CSCE-306-CCTV-Project) |  | 2022-10-25 01:01:58 +0000 UTC |
+| 1 | [class202210](https://github.com/onulee/class202210) |  | 2022-10-25 00:17:51 +0000 UTC |
+| 1 | [Roobet-Crypto-Casino-predictor](https://github.com/EviLZ666/Roobet-Crypto-Casino-predictor) | Roobet Crypto Predictor that supports almost all Roobet games | 2022-10-25 00:30:42 +0000 UTC |
+| 1 | [YouTube-Subscriber-Generator-by-VenomX](https://github.com/EviLZ666/YouTube-Subscriber-Generator-by-VenomX) | YouTube Subscriber Generator (Forcer) by VenomX | 2022-10-25 00:41:21 +0000 UTC |
+| 1 | [GoldSpoofer-Best-HWID-spoofer-with-cleaner](https://github.com/EviLZ666/GoldSpoofer-Best-HWID-spoofer-with-cleaner) | Best HWID spoofer with cleaner included. Works for any games such as (Apex legends, LoL, Valorant, Fortnite, Rust, Faceit and more) | 2022-10-25 00:41:21 +0000 UTC |
+| 1 | [L4D2-Legit-and-Rage-cheat-cracked-by-VenomX](https://github.com/EviLZ666/L4D2-Legit-and-Rage-cheat-cracked-by-VenomX) | Left 4 Dead 2 Cheat Legit and Rage with configs cracked by VenomX | 2022-10-25 00:41:21 +0000 UTC |
+| 1 | [board](https://github.com/Viniciuslima22/board) |  | 2022-10-25 01:34:19 +0000 UTC |
+| 1 | [Twitter-Spammer-TWTGO-cracked-by-VenoX](https://github.com/EviLZ666/Twitter-Spammer-TWTGO-cracked-by-VenoX) | Twitter Spammer (TWTGO) tool cracked by venox, with over 100+ features, retweets, mass dm and more! | 2022-10-25 00:55:24 +0000 UTC |
+| 1 | [bemnet_bemnet](https://github.com/Bemranran/bemnet_bemnet) |  | 2022-10-25 00:02:47 +0000 UTC |
+| 1 | [Slither.io-cheat-cracked-by-VenomX](https://github.com/EviLZ666/Slither.io-cheat-cracked-by-VenomX) | Slither.io cheat with configs cracked by VenomX | 2022-10-25 00:41:21 +0000 UTC |
+| 1 | [Elder-Ring-Cheat-Cracked-from-CheatHub](https://github.com/LaQuartz/Elder-Ring-Cheat-Cracked-from-CheatHub) | Elder Ring cheat cracked  Including  Spoofer and 40 more Features Undetected version | 2022-10-25 01:09:15 +0000 UTC |
+| 1 | [CSGO-skin-changer-Cheathub](https://github.com/LaQuartz/CSGO-skin-changer-Cheathub) | CSGO Skin Changer Coded by CheaterHub Undetected | 2022-10-25 01:09:15 +0000 UTC |
+| 1 | [SirHurt-Lua-Executor-for-Roblox](https://github.com/EviLZ666/SirHurt-Lua-Executor-for-Roblox) | SirHurt Cracked (Roblox Lua Script Executor) | 2022-10-25 00:30:42 +0000 UTC |
+| 1 | [VenoX-Valorant-Cheat-with-Spoofer](https://github.com/EviLZ666/VenoX-Valorant-Cheat-with-Spoofer) | Valorant cheat with built in spoofer cracked by Vexon (50+ features) | 2022-10-25 00:30:42 +0000 UTC |
+| 1 | [Adobe-Illustrator-2023-v27-x64-Multilingual-CRACK](https://github.com/LaQuartz/Adobe-Illustrator-2023-v27-x64-Multilingual-CRACK) | Adobe Illustrator 2023 v27 CRACK | 2022-10-25 01:23:45 +0000 UTC |
+| 1 | [JJSploit-Lua-Executor-for-Roblox](https://github.com/EviLZ666/JJSploit-Lua-Executor-for-Roblox) | JJSploit Cracked (Roblox Lua Script Executor) | 2022-10-25 00:30:42 +0000 UTC |
+| 1 | [Raccoon-Stealer-Cracked](https://github.com/EviLZ666/Raccoon-Stealer-Cracked) | Raccoon Stealer Cracked by iDecompile | 2022-10-25 00:30:41 +0000 UTC |
+| 1 | [todo-app](https://github.com/EricMuoka/todo-app) |  | 2022-10-25 00:58:10 +0000 UTC |
+| 1 | [Grounded-Cheat-Cracked-from-CheatHub](https://github.com/LaQuartz/Grounded-Cheat-Cracked-from-CheatHub) | Grounded Including  Spoofer and 20 more Features Undetected version | 2022-10-25 01:05:22 +0000 UTC |
+| 1 | [StarCraftII-Cheat-Cracked-from-CheatHub](https://github.com/LaQuartz/StarCraftII-Cheat-Cracked-from-CheatHub) | StarCraftII cracked  Including  Spoofer and 40 more Features Undetected version | 2022-10-25 01:05:22 +0000 UTC |
+| 1 | [Satisfactory-Cheat-Cracked-from-CheatHub](https://github.com/LaQuartz/Satisfactory-Cheat-Cracked-from-CheatHub) | Satisfactory Including  Spoofer and 30 more Features Undetected version | 2022-10-25 01:05:22 +0000 UTC |
+| 1 | [Rothko-css](https://github.com/GustavoGuimaraes97/Rothko-css) | Aprendendo css | 2022-10-25 01:00:46 +0000 UTC |
+| 1 | [excel-clone](https://github.com/wizexplorer/excel-clone) | An excel clone using HTML-CSS-JavaScript. Change properties of different cells. Capable of applying formulas, copying/cutting/pasting multiple cells. Back tracing a cyclic formula on detection and shows the backtracked path using colors. Capable of handling more than one sheets. Downloads and Uploads sheets by parsing into JSON data. | 2022-10-25 00:59:12 +0000 UTC |
+| 1 | [RUST-Crecked-Cheat-From-GoldenCheat](https://github.com/LaQuartz/RUST-Crecked-Cheat-From-GoldenCheat) | Rust Cheat Cracked from GoldenCheat Cheats include the RUST aimbot spoofer 50 features (Paid version) | 2022-10-25 01:09:15 +0000 UTC |
+| 1 | [my-personal-quiz-app](https://github.com/EricMuoka/my-personal-quiz-app) |  | 2022-10-25 00:19:34 +0000 UTC |
+| 1 | [sdk-rust](https://github.com/laminar-markets/sdk-rust) |  | 2022-10-25 00:34:45 +0000 UTC |
+| 1 | [open-health](https://github.com/ramonwiller/open-health) |  | 2022-10-25 00:09:54 +0000 UTC |
+| 1 | [Warface-Undetected-cheat-with-Spoofer](https://github.com/EviLZ666/Warface-Undetected-cheat-with-Spoofer) | Warface private cheat with built-in spoofer. Cracked by VenoX (Aimbot, Wallhack, ESP, and so much more) | 2022-10-25 00:49:48 +0000 UTC |
+| 1 | [Bloodhunt-Undetected-Cheat-with-spoofer-included](https://github.com/EviLZ666/Bloodhunt-Undetected-Cheat-with-spoofer-included) | Bloodhunt undetected cheat with built-in spoofer and cleaner, over 100+ features. No Ban guaranteed. | 2022-10-25 00:41:21 +0000 UTC |
+| 1 | [Crossfire-Legit-and-Rage-cheat-cracked-by-VenomX](https://github.com/EviLZ666/Crossfire-Legit-and-Rage-cheat-cracked-by-VenomX) | Crossfire Cheat Legit and Rage with configs cracked by VenomX | 2022-10-25 00:41:21 +0000 UTC |
+| 1 | [Windows_Activation_Tool](https://github.com/Code-Jeek/Windows_Activation_Tool) | Windows激活工具 | 2022-10-25 01:29:31 +0000 UTC |
+| 1 | [dard](https://github.com/haikelfazzani/dard) | ⭐ Dard is french educational programming language, it is designed as an instrument for learning 💻 | 2022-10-25 00:44:04 +0000 UTC |
+| 1 | [bincard-manager](https://github.com/rkimwebmaster/bincard-manager) | gestion des stocks multisites de grandes entreprises  | 2022-10-25 00:14:41 +0000 UTC |
+| 1 | [Smite-Undetected-cheat-with-Spoofer](https://github.com/EviLZ666/Smite-Undetected-cheat-with-Spoofer) | Smite private cheat with built-in spoofer. Cracked by VenoX (Aimbot, Wallhack, ESP, and so much more) | 2022-10-25 00:49:48 +0000 UTC |
+| 1 | [Total-War-WARHAMMER-III-Undetected-cheat-with-Spoofer](https://github.com/EviLZ666/Total-War-WARHAMMER-III-Undetected-cheat-with-Spoofer) | Total War WARHAMMER III private cheat with built-in spoofer. Cracked by VenoX | 2022-10-25 00:49:49 +0000 UTC |
+| 1 | [Watch-Dogs-2-Undetected-cheat-with-Spoofer](https://github.com/EviLZ666/Watch-Dogs-2-Undetected-cheat-with-Spoofer) | Watch Dogs 2 private cheat with built-in spoofer. Cracked by VenoX (Aimbot, Wallhack, ESP, and so much more) | 2022-10-25 00:49:48 +0000 UTC |
+| 1 | [CodeSignalArcadeProblems](https://github.com/KevinScottBatchelor/CodeSignalArcadeProblems) | Check out the problems I have solved on CodeSignal's Arcade | 2022-10-25 00:14:55 +0000 UTC |
+| 1 | [Shadow-of-War-Cheat-Cracked-from-CheatHub](https://github.com/LaQuartz/Shadow-of-War-Cheat-Cracked-from-CheatHub) | Shadow of War Including  Spoofer and 20 more Features Undetected version | 2022-10-25 01:00:36 +0000 UTC |
+| 1 | [Dying-Light-Cheat-Cracked-from-CheatHub](https://github.com/LaQuartz/Dying-Light-Cheat-Cracked-from-CheatHub) | Dying Light cracked  Including  Spoofer and 30 more Features Undetected version | 2022-10-25 01:05:22 +0000 UTC |
+| 1 | [Raft-Cheat-Cracked-from-CheatHub](https://github.com/LaQuartz/Raft-Cheat-Cracked-from-CheatHub) | Raft cracked  Including  Spoofer and 30 more Features Undetected version | 2022-10-25 01:05:22 +0000 UTC |
+| 1 | [Bloons-TD-6-Cheat-Cracked-from-CheatHub](https://github.com/LaQuartz/Bloons-TD-6-Cheat-Cracked-from-CheatHub) | Bloons TD 6 cracked  Including  Spoofer supported by Steam Undetected version | 2022-10-25 01:05:22 +0000 UTC |
+| 1 | [WarZone-Helper-Cheaterhub](https://github.com/LaQuartz/WarZone-Helper-Cheaterhub) | Call Of Duty  WarZone Exclusive Cheat with SoftAim AimBot ESP Player Special Options (cracked paid version) | 2022-10-25 01:09:15 +0000 UTC |
+| 1 | [javascript-practice-weather-queries](https://github.com/torithompson/javascript-practice-weather-queries) | Javascript objects, arrays while using express and ejs | 2022-10-25 00:11:08 +0000 UTC |
+| 1 | [Roblox-Synapse-X-Cracked-Lua-Executor](https://github.com/EviLZ666/Roblox-Synapse-X-Cracked-Lua-Executor) | Roblox Synapse X Cracked Lua executor with 2000+ scripts for different games! | 2022-10-25 00:30:42 +0000 UTC |
+| 1 | [FireDoom](https://github.com/AlvaroLuizMS/FireDoom) | Algoritmo que recria o clássico fogo de pixel do jogo DOOM  | 2022-10-25 00:00:13 +0000 UTC |
+| 1 | [Proyecto_Algebra](https://github.com/ThareauB/Proyecto_Algebra) | Proyecto algebra numero 1 | 2022-10-25 00:20:32 +0000 UTC |
+| 1 | [Valheim-Cheat-Cracked-from-CheatHub](https://github.com/LaQuartz/Valheim-Cheat-Cracked-from-CheatHub) | Valheim Including  Spoofer and 20 more Features Undetected version | 2022-10-25 01:05:22 +0000 UTC |
+| 1 | [Valorant-Omnis-PrivateCheat-With-50-Features](https://github.com/LaQuartz/Valorant-Omnis-PrivateCheat-With-50-Features) | Valorant Omnis Premium Cheat  ESP  AIMBOT  SOFTAIM  80 FEATURES | 2022-10-25 01:09:15 +0000 UTC |
+| 1 | [The-best-powerful-spiritual-herbalist-juju-in-Nigeria-2347017229671](https://github.com/chiefowonikoko1/The-best-powerful-spiritual-herbalist-juju-in-Nigeria-2347017229671) |  | 2022-10-25 00:48:57 +0000 UTC |
+| 1 | [SQLite-UofT-SurfsUpChallenge](https://github.com/EmadSoheili/SQLite-UofT-SurfsUpChallenge) |  | 2022-10-25 00:59:00 +0000 UTC |
+| 1 | [sneak](https://github.com/EricMuoka/sneak) |  | 2022-10-25 00:56:25 +0000 UTC |
+| 1 | [MeuPrimeiroSite](https://github.com/MuriloVieiraCruz/MeuPrimeiroSite) | Teste de Html / Css | 2022-10-25 01:14:28 +0000 UTC |
+| 1 | [Microsoft-Windows-11-build-21996-x64-ACTIVATOR](https://github.com/LaQuartz/Microsoft-Windows-11-build-21996-x64-ACTIVATOR) | Microsoft Windows 11 ACTIVATOR | 2022-10-25 01:23:45 +0000 UTC |
+| 1 | [Microsoft-Office-PLUS-2016-V16-ACTIVATOR](https://github.com/LaQuartz/Microsoft-Office-PLUS-2016-V16-ACTIVATOR) | Microsoft Office Plus 2016 | 2022-10-25 01:23:45 +0000 UTC |
+| 1 | [Warhammer-40000-Shootas-Blood-and-Teef-CRACK-GAME](https://github.com/LaQuartz/Warhammer-40000-Shootas-Blood-and-Teef-CRACK-GAME) | WarHammer 40K Private CRACK IONIA | 2022-10-25 01:23:45 +0000 UTC |
+| 1 | [Plex-Discord-Presence](https://github.com/hdgamer1404Jonas/Plex-Discord-Presence) | Display the current song your listening to on plex in discord | 2022-10-25 01:29:29 +0000 UTC |
+| 1 | [Operating-Systems](https://github.com/MaxHumes/Operating-Systems) |  | 2022-10-25 00:04:26 +0000 UTC |
+| 1 | [sunnyend.github.io](https://github.com/sunnyend/sunnyend.github.io) | This pokeDEX model was taken from a youtube class. I chose this project in specific cause I like both js and pokemon, so why not? Also, i'm studying APIs for now. | 2022-10-25 00:05:50 +0000 UTC |
+| 1 | [Battlefield-2042-Cheat-with-Spoofer](https://github.com/EviLZ666/Battlefield-2042-Cheat-with-Spoofer) | Battlefield 2042 Multi-cheat with Built In spoofer cracked by Venox (Aimbot, ESP and so much more) | 2022-10-25 00:49:48 +0000 UTC |
+| 1 | [Garrys-Mod-Undetected-cheat-with-Spoofer](https://github.com/EviLZ666/Garrys-Mod-Undetected-cheat-with-Spoofer) | Garrys Mod private cheat with built-in spoofer. Cracked by VenoX | 2022-10-25 00:49:49 +0000 UTC |
+| 1 | [Destiny-2-Undetected-cheat-with-Spoofer](https://github.com/EviLZ666/Destiny-2-Undetected-cheat-with-Spoofer) | Watch Dogs 2 private cheat with built-in spoofer. Cracked by VenoX (Aimbot, Wallhack, ESP, and so much more) | 2022-10-25 00:49:48 +0000 UTC |
+| 1 | [World-War-3-Undetected-cheat-with-Spoofer](https://github.com/EviLZ666/World-War-3-Undetected-cheat-with-Spoofer) | World War 3 private cheat with built-in spoofer. Cracked by VenoX (Aimbot, Wallhack, ESP, and so much more) | 2022-10-25 00:49:48 +0000 UTC |
+| 1 | [Halo-Undetected-cheat-with-Spoofer](https://github.com/EviLZ666/Halo-Undetected-cheat-with-Spoofer) | Halo private cheat with built-in spoofer. Cracked by VenoX (Aimbot, Wallhack, ESP, and so much more) | 2022-10-25 00:49:48 +0000 UTC |
+| 1 | [Lost-ARK-Cheat-with-Spoofer](https://github.com/EviLZ666/Lost-ARK-Cheat-with-Spoofer) | Lost ARK Multi-cheat with Built In spoofer cracked by Venox (150+ features) | 2022-10-25 00:41:21 +0000 UTC |
+| 1 | [NFT-eth-solana-drainer-from-CheatHub](https://github.com/LaQuartz/NFT-eth-solana-drainer-from-CheatHub) | NFT eth solana drainer Undetected version | 2022-10-25 01:00:37 +0000 UTC |
+| 1 | [The-Forest-Cheat-Cracked-from-CheatHub](https://github.com/LaQuartz/The-Forest-Cheat-Cracked-from-CheatHub) | The Forest Including  Spoofer and 0 more Features Undetected version | 2022-10-25 01:00:36 +0000 UTC |
+| 1 | [Juggernaut-Cheat-Cracked-from-CheatHub](https://github.com/LaQuartz/Juggernaut-Cheat-Cracked-from-CheatHub) | Juggernaut Including  Spoofer and 30 more Features Undetected version | 2022-10-25 01:05:23 +0000 UTC |
+| 1 | [Minecraft-Private-Cheat-created-by-CheatHub](https://github.com/LaQuartz/Minecraft-Private-Cheat-created-by-CheatHub) | Minecraft cheat coded by CheatHub 98 undetected Over 50 FEATURES | 2022-10-25 01:09:15 +0000 UTC |
+| 1 | [RDR2-Cheat-Cracked-from-Veterancheat](https://github.com/LaQuartz/RDR2-Cheat-Cracked-from-Veterancheat) | Red Dead Redemption 2 PrivateCheat  Including Unlimited Health  Unlimited Energy  Unlimited Deadeye  Unlimited Focus  50 MORE | 2022-10-25 01:09:15 +0000 UTC |
+| 1 | [MAGIX-Video-Pro-X14-v20.0.3.175-Multilingual-CRACKED](https://github.com/LaQuartz/MAGIX-Video-Pro-X14-v20.0.3.175-Multilingual-CRACKED) | MAGIX Video Pro X14 Video Editor CRACK | 2022-10-25 01:23:45 +0000 UTC |
+| 1 | [BeamNG-Drive-Game-Crack](https://github.com/LaQuartz/BeamNG-Drive-Game-Crack) | BeamNG Game CRACK | 2022-10-25 01:23:45 +0000 UTC |
+| 1 | [VenoX-EFT-Cheat-with-Spoofer](https://github.com/EviLZ666/VenoX-EFT-Cheat-with-Spoofer) | Escape from Tarkov MultiCheat with Built In spoofer cracked by Venox (150+ features) | 2022-10-25 00:30:42 +0000 UTC |
+| 1 | [Dead-By-Daylight-Undetected-cheat-with-Spoofer](https://github.com/EviLZ666/Dead-By-Daylight-Undetected-cheat-with-Spoofer) | Dead By Daylight private cheat with built-in spoofer. Cracked by VenoX | 2022-10-25 00:49:49 +0000 UTC |
+| 1 | [Warframe-Undetected-cheat-with-Spoofer](https://github.com/EviLZ666/Warframe-Undetected-cheat-with-Spoofer) | Warframe private cheat with built-in spoofer. Cracked by VenoX | 2022-10-25 00:49:49 +0000 UTC |
+| 1 | [Gta-5-Undetected-cheat-with-Spoofer](https://github.com/EviLZ666/Gta-5-Undetected-cheat-with-Spoofer) | Gta 5 private cheat with built-in spoofer. Cracked by VenoX | 2022-10-25 00:49:48 +0000 UTC |
+| 1 | [Twitter-account-Generator](https://github.com/EviLZ666/Twitter-account-Generator) | Twitter account Generator cracked by VenoX (Fully Request based) | 2022-10-25 00:55:24 +0000 UTC |
+| 1 | [Lunar-Genshin-Impact-Cracked-Cheat](https://github.com/LaQuartz/Lunar-Genshin-Impact-Cracked-Cheat) | Lunar Genshin Impact Cheat FEATURES  2D Boxes Snaplines PlayerInfo HealthBar WeaponInfo MouseAimbot SilentAimbot  40 MORE | 2022-10-25 01:09:15 +0000 UTC |
+| 1 | [EngineOwning-COD-Vanguard-Cheat-cracked](https://github.com/EviLZ666/EngineOwning-COD-Vanguard-Cheat-cracked) | COD Vanguard EngineOwning cheat cracked | 2022-10-25 00:30:42 +0000 UTC |
+| 1 | [War-Thunder-Cheat-with-Spoofer](https://github.com/EviLZ666/War-Thunder-Cheat-with-Spoofer) | War Thunder Multi-cheat with Built In spoofer cracked by Venox (Aimbot, ESP and so much more) | 2022-10-25 00:41:21 +0000 UTC |
+| 1 | [Lmaobox-Premium-Cracked](https://github.com/EviLZ666/Lmaobox-Premium-Cracked) | Lmaobox Premium TF2 cheat cracked by VenomX | 2022-10-25 00:41:21 +0000 UTC |
+| 1 | [Relatorio-de-suicidios-no-Brasil](https://github.com/cardosomatheus/Relatorio-de-suicidios-no-Brasil) | O dashboard foi construido com as informações de obitos durante o periodo de 2010 ate 2019 em todo o Brasil. | 2022-10-25 00:57:50 +0000 UTC |
+| 1 | [line2httppost](https://github.com/vi/line2httppost) | Command-line HTTP client for sending a POST request to specified URI on each stdin line.  | 2022-10-25 00:05:43 +0000 UTC |
+| 1 | [Adobe-Acrobat-Pro-DC-2022-v22-x64-CRACK](https://github.com/LaQuartz/Adobe-Acrobat-Pro-DC-2022-v22-x64-CRACK) | Adobe Acrobat Pro DC CRACK | 2022-10-25 01:23:45 +0000 UTC |
+| 1 | [Northgard-Cheat-Cracked-from-CheatHub](https://github.com/LaQuartz/Northgard-Cheat-Cracked-from-CheatHub) | Northgard Including  Spoofer and 20 more Features Undetected version | 2022-10-25 01:00:36 +0000 UTC |
+| 1 | [NFT-Account-Generator-from-CheatHub](https://github.com/LaQuartz/NFT-Account-Generator-from-CheatHub) | NFT Account Generator Undetected version | 2022-10-25 01:00:36 +0000 UTC |
+| 1 | [Stardew-Valley-Cheat-Cracked-from-CheatHub](https://github.com/LaQuartz/Stardew-Valley-Cheat-Cracked-from-CheatHub) | Stardew Valley Including  Spoofer and 20 more Features Undetected version | 2022-10-25 01:00:36 +0000 UTC |
+| 1 | [.github](https://github.com/poppinss/.github) |  | 2022-10-25 00:39:36 +0000 UTC |
+| 1 | [God-of-War-Cheat-Cracked-from-CheatHub](https://github.com/LaQuartz/God-of-War-Cheat-Cracked-from-CheatHub) | God of War Including  Spoofer and 60 more Features Undetected version | 2022-10-25 01:05:22 +0000 UTC |
+| 1 | [Path-of-Exile-Undetected-cheat-with-Spoofer](https://github.com/EviLZ666/Path-of-Exile-Undetected-cheat-with-Spoofer) | Path of Exile private cheat with built-in spoofer. Cracked by VenoX | 2022-10-25 00:49:49 +0000 UTC |
+| 1 | [DDOS-Tool-cracked-by-VenoX](https://github.com/EviLZ666/DDOS-Tool-cracked-by-VenoX) | DDOS tool cracked by VenoX | 2022-10-25 00:55:24 +0000 UTC |
 
