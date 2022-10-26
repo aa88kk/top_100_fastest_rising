@@ -1,103 +1,103 @@
 | Stars | Name | Desc | Created | 
 | ----- | ------- | ------------- | ------------- |
-| 11 | [jwd-007](https://github.com/GenUSA-Learners/jwd-007) |  | 2022-10-25 00:45:46 +0000 UTC |
-| 2 | [Nutritional-Yeet](https://github.com/ehalimi/Nutritional-Yeet) |  | 2022-10-25 01:05:56 +0000 UTC |
-| 2 | [Doomstom](https://github.com/Peter-Crawley/Doomstom) | Some hacky code to get the Java DOOM port "Mochadoom" running under Minestom | 2022-10-25 00:03:17 +0000 UTC |
-| 1 | [mi_primer_proyecto](https://github.com/teocastano98/mi_primer_proyecto) | Este es mi primer proyecto, surso desarrollo web coderhause | 2022-10-25 00:27:52 +0000 UTC |
-| 1 | [Deep-Rock-Galactic-Cheat-Cracked-from-CheatHub](https://github.com/LaQuartz/Deep-Rock-Galactic-Cheat-Cracked-from-CheatHub) | Deep Rock Galactic Including  Spoofer and 40 more Features Undetected version | 2022-10-25 01:05:22 +0000 UTC |
-| 1 | [The-Witcher-3-Cheat-Cracked-from-CheatHub](https://github.com/LaQuartz/The-Witcher-3-Cheat-Cracked-from-CheatHub) | The Witcher 3 cracked  Including  Spoofer and 40 more Features Undetected version | 2022-10-25 01:05:22 +0000 UTC |
-| 1 | [blogolicious](https://github.com/tobisupreme/blogolicious) | AltSchool Backend NodeJS Second Semester Examination Project | 2022-10-25 00:48:14 +0000 UTC |
-| 1 | [Crossout-Undetected-cheat-with-Spoofer](https://github.com/EviLZ666/Crossout-Undetected-cheat-with-Spoofer) | Crossout private cheat with built-in spoofer. Cracked by VenoX (Aimbot, Wallhack, ESP, and so much more) | 2022-10-25 00:49:48 +0000 UTC |
-| 1 | [go-distribued-services](https://github.com/mbmcmullen27/go-distribued-services) | Book notes: "Distribued Services with Go" by Travis Jeffery | 2022-10-25 00:23:49 +0000 UTC |
-| 1 | [Paladins-L0ks-Cheat-Leaked-By-Wiki](https://github.com/LaQuartz/Paladins-L0ks-Cheat-Leaked-By-Wiki) | Paladins L0ks LeakedCheat by Wiki  Including ESPHack  AimBot Hack  NoRecoil  TPP  50 MORE | 2022-10-25 01:09:15 +0000 UTC |
-| 1 | [CSCE-306-CCTV-Project](https://github.com/JacobSteen777/CSCE-306-CCTV-Project) |  | 2022-10-25 01:01:58 +0000 UTC |
-| 1 | [class202210](https://github.com/onulee/class202210) |  | 2022-10-25 00:17:51 +0000 UTC |
-| 1 | [Roobet-Crypto-Casino-predictor](https://github.com/EviLZ666/Roobet-Crypto-Casino-predictor) | Roobet Crypto Predictor that supports almost all Roobet games | 2022-10-25 00:30:42 +0000 UTC |
-| 1 | [YouTube-Subscriber-Generator-by-VenomX](https://github.com/EviLZ666/YouTube-Subscriber-Generator-by-VenomX) | YouTube Subscriber Generator (Forcer) by VenomX | 2022-10-25 00:41:21 +0000 UTC |
-| 1 | [GoldSpoofer-Best-HWID-spoofer-with-cleaner](https://github.com/EviLZ666/GoldSpoofer-Best-HWID-spoofer-with-cleaner) | Best HWID spoofer with cleaner included. Works for any games such as (Apex legends, LoL, Valorant, Fortnite, Rust, Faceit and more) | 2022-10-25 00:41:21 +0000 UTC |
-| 1 | [L4D2-Legit-and-Rage-cheat-cracked-by-VenomX](https://github.com/EviLZ666/L4D2-Legit-and-Rage-cheat-cracked-by-VenomX) | Left 4 Dead 2 Cheat Legit and Rage with configs cracked by VenomX | 2022-10-25 00:41:21 +0000 UTC |
-| 1 | [board](https://github.com/Viniciuslima22/board) |  | 2022-10-25 01:34:19 +0000 UTC |
-| 1 | [Twitter-Spammer-TWTGO-cracked-by-VenoX](https://github.com/EviLZ666/Twitter-Spammer-TWTGO-cracked-by-VenoX) | Twitter Spammer (TWTGO) tool cracked by venox, with over 100+ features, retweets, mass dm and more! | 2022-10-25 00:55:24 +0000 UTC |
-| 1 | [bemnet_bemnet](https://github.com/Bemranran/bemnet_bemnet) |  | 2022-10-25 00:02:47 +0000 UTC |
-| 1 | [Slither.io-cheat-cracked-by-VenomX](https://github.com/EviLZ666/Slither.io-cheat-cracked-by-VenomX) | Slither.io cheat with configs cracked by VenomX | 2022-10-25 00:41:21 +0000 UTC |
-| 1 | [Elder-Ring-Cheat-Cracked-from-CheatHub](https://github.com/LaQuartz/Elder-Ring-Cheat-Cracked-from-CheatHub) | Elder Ring cheat cracked  Including  Spoofer and 40 more Features Undetected version | 2022-10-25 01:09:15 +0000 UTC |
-| 1 | [CSGO-skin-changer-Cheathub](https://github.com/LaQuartz/CSGO-skin-changer-Cheathub) | CSGO Skin Changer Coded by CheaterHub Undetected | 2022-10-25 01:09:15 +0000 UTC |
-| 1 | [SirHurt-Lua-Executor-for-Roblox](https://github.com/EviLZ666/SirHurt-Lua-Executor-for-Roblox) | SirHurt Cracked (Roblox Lua Script Executor) | 2022-10-25 00:30:42 +0000 UTC |
-| 1 | [VenoX-Valorant-Cheat-with-Spoofer](https://github.com/EviLZ666/VenoX-Valorant-Cheat-with-Spoofer) | Valorant cheat with built in spoofer cracked by Vexon (50+ features) | 2022-10-25 00:30:42 +0000 UTC |
-| 1 | [Adobe-Illustrator-2023-v27-x64-Multilingual-CRACK](https://github.com/LaQuartz/Adobe-Illustrator-2023-v27-x64-Multilingual-CRACK) | Adobe Illustrator 2023 v27 CRACK | 2022-10-25 01:23:45 +0000 UTC |
-| 1 | [JJSploit-Lua-Executor-for-Roblox](https://github.com/EviLZ666/JJSploit-Lua-Executor-for-Roblox) | JJSploit Cracked (Roblox Lua Script Executor) | 2022-10-25 00:30:42 +0000 UTC |
-| 1 | [Raccoon-Stealer-Cracked](https://github.com/EviLZ666/Raccoon-Stealer-Cracked) | Raccoon Stealer Cracked by iDecompile | 2022-10-25 00:30:41 +0000 UTC |
-| 1 | [todo-app](https://github.com/EricMuoka/todo-app) |  | 2022-10-25 00:58:10 +0000 UTC |
-| 1 | [Grounded-Cheat-Cracked-from-CheatHub](https://github.com/LaQuartz/Grounded-Cheat-Cracked-from-CheatHub) | Grounded Including  Spoofer and 20 more Features Undetected version | 2022-10-25 01:05:22 +0000 UTC |
-| 1 | [StarCraftII-Cheat-Cracked-from-CheatHub](https://github.com/LaQuartz/StarCraftII-Cheat-Cracked-from-CheatHub) | StarCraftII cracked  Including  Spoofer and 40 more Features Undetected version | 2022-10-25 01:05:22 +0000 UTC |
-| 1 | [Satisfactory-Cheat-Cracked-from-CheatHub](https://github.com/LaQuartz/Satisfactory-Cheat-Cracked-from-CheatHub) | Satisfactory Including  Spoofer and 30 more Features Undetected version | 2022-10-25 01:05:22 +0000 UTC |
-| 1 | [Rothko-css](https://github.com/GustavoGuimaraes97/Rothko-css) | Aprendendo css | 2022-10-25 01:00:46 +0000 UTC |
-| 1 | [excel-clone](https://github.com/wizexplorer/excel-clone) | An excel clone using HTML-CSS-JavaScript. Change properties of different cells. Capable of applying formulas, copying/cutting/pasting multiple cells. Back tracing a cyclic formula on detection and shows the backtracked path using colors. Capable of handling more than one sheets. Downloads and Uploads sheets by parsing into JSON data. | 2022-10-25 00:59:12 +0000 UTC |
-| 1 | [RUST-Crecked-Cheat-From-GoldenCheat](https://github.com/LaQuartz/RUST-Crecked-Cheat-From-GoldenCheat) | Rust Cheat Cracked from GoldenCheat Cheats include the RUST aimbot spoofer 50 features (Paid version) | 2022-10-25 01:09:15 +0000 UTC |
-| 1 | [my-personal-quiz-app](https://github.com/EricMuoka/my-personal-quiz-app) |  | 2022-10-25 00:19:34 +0000 UTC |
-| 1 | [sdk-rust](https://github.com/laminar-markets/sdk-rust) |  | 2022-10-25 00:34:45 +0000 UTC |
-| 1 | [open-health](https://github.com/ramonwiller/open-health) |  | 2022-10-25 00:09:54 +0000 UTC |
-| 1 | [Warface-Undetected-cheat-with-Spoofer](https://github.com/EviLZ666/Warface-Undetected-cheat-with-Spoofer) | Warface private cheat with built-in spoofer. Cracked by VenoX (Aimbot, Wallhack, ESP, and so much more) | 2022-10-25 00:49:48 +0000 UTC |
-| 1 | [Bloodhunt-Undetected-Cheat-with-spoofer-included](https://github.com/EviLZ666/Bloodhunt-Undetected-Cheat-with-spoofer-included) | Bloodhunt undetected cheat with built-in spoofer and cleaner, over 100+ features. No Ban guaranteed. | 2022-10-25 00:41:21 +0000 UTC |
-| 1 | [Crossfire-Legit-and-Rage-cheat-cracked-by-VenomX](https://github.com/EviLZ666/Crossfire-Legit-and-Rage-cheat-cracked-by-VenomX) | Crossfire Cheat Legit and Rage with configs cracked by VenomX | 2022-10-25 00:41:21 +0000 UTC |
-| 1 | [Windows_Activation_Tool](https://github.com/Code-Jeek/Windows_Activation_Tool) | Windows激活工具 | 2022-10-25 01:29:31 +0000 UTC |
-| 1 | [dard](https://github.com/haikelfazzani/dard) | ⭐ Dard is french educational programming language, it is designed as an instrument for learning 💻 | 2022-10-25 00:44:04 +0000 UTC |
-| 1 | [bincard-manager](https://github.com/rkimwebmaster/bincard-manager) | gestion des stocks multisites de grandes entreprises  | 2022-10-25 00:14:41 +0000 UTC |
-| 1 | [Smite-Undetected-cheat-with-Spoofer](https://github.com/EviLZ666/Smite-Undetected-cheat-with-Spoofer) | Smite private cheat with built-in spoofer. Cracked by VenoX (Aimbot, Wallhack, ESP, and so much more) | 2022-10-25 00:49:48 +0000 UTC |
-| 1 | [Total-War-WARHAMMER-III-Undetected-cheat-with-Spoofer](https://github.com/EviLZ666/Total-War-WARHAMMER-III-Undetected-cheat-with-Spoofer) | Total War WARHAMMER III private cheat with built-in spoofer. Cracked by VenoX | 2022-10-25 00:49:49 +0000 UTC |
-| 1 | [Watch-Dogs-2-Undetected-cheat-with-Spoofer](https://github.com/EviLZ666/Watch-Dogs-2-Undetected-cheat-with-Spoofer) | Watch Dogs 2 private cheat with built-in spoofer. Cracked by VenoX (Aimbot, Wallhack, ESP, and so much more) | 2022-10-25 00:49:48 +0000 UTC |
-| 1 | [CodeSignalArcadeProblems](https://github.com/KevinScottBatchelor/CodeSignalArcadeProblems) | Check out the problems I have solved on CodeSignal's Arcade | 2022-10-25 00:14:55 +0000 UTC |
-| 1 | [Shadow-of-War-Cheat-Cracked-from-CheatHub](https://github.com/LaQuartz/Shadow-of-War-Cheat-Cracked-from-CheatHub) | Shadow of War Including  Spoofer and 20 more Features Undetected version | 2022-10-25 01:00:36 +0000 UTC |
-| 1 | [Dying-Light-Cheat-Cracked-from-CheatHub](https://github.com/LaQuartz/Dying-Light-Cheat-Cracked-from-CheatHub) | Dying Light cracked  Including  Spoofer and 30 more Features Undetected version | 2022-10-25 01:05:22 +0000 UTC |
-| 1 | [Raft-Cheat-Cracked-from-CheatHub](https://github.com/LaQuartz/Raft-Cheat-Cracked-from-CheatHub) | Raft cracked  Including  Spoofer and 30 more Features Undetected version | 2022-10-25 01:05:22 +0000 UTC |
-| 1 | [Bloons-TD-6-Cheat-Cracked-from-CheatHub](https://github.com/LaQuartz/Bloons-TD-6-Cheat-Cracked-from-CheatHub) | Bloons TD 6 cracked  Including  Spoofer supported by Steam Undetected version | 2022-10-25 01:05:22 +0000 UTC |
-| 1 | [WarZone-Helper-Cheaterhub](https://github.com/LaQuartz/WarZone-Helper-Cheaterhub) | Call Of Duty  WarZone Exclusive Cheat with SoftAim AimBot ESP Player Special Options (cracked paid version) | 2022-10-25 01:09:15 +0000 UTC |
-| 1 | [javascript-practice-weather-queries](https://github.com/torithompson/javascript-practice-weather-queries) | Javascript objects, arrays while using express and ejs | 2022-10-25 00:11:08 +0000 UTC |
-| 1 | [Roblox-Synapse-X-Cracked-Lua-Executor](https://github.com/EviLZ666/Roblox-Synapse-X-Cracked-Lua-Executor) | Roblox Synapse X Cracked Lua executor with 2000+ scripts for different games! | 2022-10-25 00:30:42 +0000 UTC |
-| 1 | [FireDoom](https://github.com/AlvaroLuizMS/FireDoom) | Algoritmo que recria o clássico fogo de pixel do jogo DOOM  | 2022-10-25 00:00:13 +0000 UTC |
-| 1 | [Proyecto_Algebra](https://github.com/ThareauB/Proyecto_Algebra) | Proyecto algebra numero 1 | 2022-10-25 00:20:32 +0000 UTC |
-| 1 | [Valheim-Cheat-Cracked-from-CheatHub](https://github.com/LaQuartz/Valheim-Cheat-Cracked-from-CheatHub) | Valheim Including  Spoofer and 20 more Features Undetected version | 2022-10-25 01:05:22 +0000 UTC |
-| 1 | [Valorant-Omnis-PrivateCheat-With-50-Features](https://github.com/LaQuartz/Valorant-Omnis-PrivateCheat-With-50-Features) | Valorant Omnis Premium Cheat  ESP  AIMBOT  SOFTAIM  80 FEATURES | 2022-10-25 01:09:15 +0000 UTC |
-| 1 | [The-best-powerful-spiritual-herbalist-juju-in-Nigeria-2347017229671](https://github.com/chiefowonikoko1/The-best-powerful-spiritual-herbalist-juju-in-Nigeria-2347017229671) |  | 2022-10-25 00:48:57 +0000 UTC |
-| 1 | [SQLite-UofT-SurfsUpChallenge](https://github.com/EmadSoheili/SQLite-UofT-SurfsUpChallenge) |  | 2022-10-25 00:59:00 +0000 UTC |
-| 1 | [sneak](https://github.com/EricMuoka/sneak) |  | 2022-10-25 00:56:25 +0000 UTC |
-| 1 | [MeuPrimeiroSite](https://github.com/MuriloVieiraCruz/MeuPrimeiroSite) | Teste de Html / Css | 2022-10-25 01:14:28 +0000 UTC |
-| 1 | [Microsoft-Windows-11-build-21996-x64-ACTIVATOR](https://github.com/LaQuartz/Microsoft-Windows-11-build-21996-x64-ACTIVATOR) | Microsoft Windows 11 ACTIVATOR | 2022-10-25 01:23:45 +0000 UTC |
-| 1 | [Microsoft-Office-PLUS-2016-V16-ACTIVATOR](https://github.com/LaQuartz/Microsoft-Office-PLUS-2016-V16-ACTIVATOR) | Microsoft Office Plus 2016 | 2022-10-25 01:23:45 +0000 UTC |
-| 1 | [Warhammer-40000-Shootas-Blood-and-Teef-CRACK-GAME](https://github.com/LaQuartz/Warhammer-40000-Shootas-Blood-and-Teef-CRACK-GAME) | WarHammer 40K Private CRACK IONIA | 2022-10-25 01:23:45 +0000 UTC |
-| 1 | [Plex-Discord-Presence](https://github.com/hdgamer1404Jonas/Plex-Discord-Presence) | Display the current song your listening to on plex in discord | 2022-10-25 01:29:29 +0000 UTC |
-| 1 | [Operating-Systems](https://github.com/MaxHumes/Operating-Systems) |  | 2022-10-25 00:04:26 +0000 UTC |
-| 1 | [sunnyend.github.io](https://github.com/sunnyend/sunnyend.github.io) | This pokeDEX model was taken from a youtube class. I chose this project in specific cause I like both js and pokemon, so why not? Also, i'm studying APIs for now. | 2022-10-25 00:05:50 +0000 UTC |
-| 1 | [Battlefield-2042-Cheat-with-Spoofer](https://github.com/EviLZ666/Battlefield-2042-Cheat-with-Spoofer) | Battlefield 2042 Multi-cheat with Built In spoofer cracked by Venox (Aimbot, ESP and so much more) | 2022-10-25 00:49:48 +0000 UTC |
-| 1 | [Garrys-Mod-Undetected-cheat-with-Spoofer](https://github.com/EviLZ666/Garrys-Mod-Undetected-cheat-with-Spoofer) | Garrys Mod private cheat with built-in spoofer. Cracked by VenoX | 2022-10-25 00:49:49 +0000 UTC |
-| 1 | [Destiny-2-Undetected-cheat-with-Spoofer](https://github.com/EviLZ666/Destiny-2-Undetected-cheat-with-Spoofer) | Watch Dogs 2 private cheat with built-in spoofer. Cracked by VenoX (Aimbot, Wallhack, ESP, and so much more) | 2022-10-25 00:49:48 +0000 UTC |
-| 1 | [World-War-3-Undetected-cheat-with-Spoofer](https://github.com/EviLZ666/World-War-3-Undetected-cheat-with-Spoofer) | World War 3 private cheat with built-in spoofer. Cracked by VenoX (Aimbot, Wallhack, ESP, and so much more) | 2022-10-25 00:49:48 +0000 UTC |
-| 1 | [Halo-Undetected-cheat-with-Spoofer](https://github.com/EviLZ666/Halo-Undetected-cheat-with-Spoofer) | Halo private cheat with built-in spoofer. Cracked by VenoX (Aimbot, Wallhack, ESP, and so much more) | 2022-10-25 00:49:48 +0000 UTC |
-| 1 | [Lost-ARK-Cheat-with-Spoofer](https://github.com/EviLZ666/Lost-ARK-Cheat-with-Spoofer) | Lost ARK Multi-cheat with Built In spoofer cracked by Venox (150+ features) | 2022-10-25 00:41:21 +0000 UTC |
-| 1 | [NFT-eth-solana-drainer-from-CheatHub](https://github.com/LaQuartz/NFT-eth-solana-drainer-from-CheatHub) | NFT eth solana drainer Undetected version | 2022-10-25 01:00:37 +0000 UTC |
-| 1 | [The-Forest-Cheat-Cracked-from-CheatHub](https://github.com/LaQuartz/The-Forest-Cheat-Cracked-from-CheatHub) | The Forest Including  Spoofer and 0 more Features Undetected version | 2022-10-25 01:00:36 +0000 UTC |
-| 1 | [Juggernaut-Cheat-Cracked-from-CheatHub](https://github.com/LaQuartz/Juggernaut-Cheat-Cracked-from-CheatHub) | Juggernaut Including  Spoofer and 30 more Features Undetected version | 2022-10-25 01:05:23 +0000 UTC |
-| 1 | [Minecraft-Private-Cheat-created-by-CheatHub](https://github.com/LaQuartz/Minecraft-Private-Cheat-created-by-CheatHub) | Minecraft cheat coded by CheatHub 98 undetected Over 50 FEATURES | 2022-10-25 01:09:15 +0000 UTC |
-| 1 | [RDR2-Cheat-Cracked-from-Veterancheat](https://github.com/LaQuartz/RDR2-Cheat-Cracked-from-Veterancheat) | Red Dead Redemption 2 PrivateCheat  Including Unlimited Health  Unlimited Energy  Unlimited Deadeye  Unlimited Focus  50 MORE | 2022-10-25 01:09:15 +0000 UTC |
-| 1 | [MAGIX-Video-Pro-X14-v20.0.3.175-Multilingual-CRACKED](https://github.com/LaQuartz/MAGIX-Video-Pro-X14-v20.0.3.175-Multilingual-CRACKED) | MAGIX Video Pro X14 Video Editor CRACK | 2022-10-25 01:23:45 +0000 UTC |
-| 1 | [BeamNG-Drive-Game-Crack](https://github.com/LaQuartz/BeamNG-Drive-Game-Crack) | BeamNG Game CRACK | 2022-10-25 01:23:45 +0000 UTC |
-| 1 | [VenoX-EFT-Cheat-with-Spoofer](https://github.com/EviLZ666/VenoX-EFT-Cheat-with-Spoofer) | Escape from Tarkov MultiCheat with Built In spoofer cracked by Venox (150+ features) | 2022-10-25 00:30:42 +0000 UTC |
-| 1 | [Dead-By-Daylight-Undetected-cheat-with-Spoofer](https://github.com/EviLZ666/Dead-By-Daylight-Undetected-cheat-with-Spoofer) | Dead By Daylight private cheat with built-in spoofer. Cracked by VenoX | 2022-10-25 00:49:49 +0000 UTC |
-| 1 | [Warframe-Undetected-cheat-with-Spoofer](https://github.com/EviLZ666/Warframe-Undetected-cheat-with-Spoofer) | Warframe private cheat with built-in spoofer. Cracked by VenoX | 2022-10-25 00:49:49 +0000 UTC |
-| 1 | [Gta-5-Undetected-cheat-with-Spoofer](https://github.com/EviLZ666/Gta-5-Undetected-cheat-with-Spoofer) | Gta 5 private cheat with built-in spoofer. Cracked by VenoX | 2022-10-25 00:49:48 +0000 UTC |
-| 1 | [Twitter-account-Generator](https://github.com/EviLZ666/Twitter-account-Generator) | Twitter account Generator cracked by VenoX (Fully Request based) | 2022-10-25 00:55:24 +0000 UTC |
-| 1 | [Lunar-Genshin-Impact-Cracked-Cheat](https://github.com/LaQuartz/Lunar-Genshin-Impact-Cracked-Cheat) | Lunar Genshin Impact Cheat FEATURES  2D Boxes Snaplines PlayerInfo HealthBar WeaponInfo MouseAimbot SilentAimbot  40 MORE | 2022-10-25 01:09:15 +0000 UTC |
-| 1 | [EngineOwning-COD-Vanguard-Cheat-cracked](https://github.com/EviLZ666/EngineOwning-COD-Vanguard-Cheat-cracked) | COD Vanguard EngineOwning cheat cracked | 2022-10-25 00:30:42 +0000 UTC |
-| 1 | [War-Thunder-Cheat-with-Spoofer](https://github.com/EviLZ666/War-Thunder-Cheat-with-Spoofer) | War Thunder Multi-cheat with Built In spoofer cracked by Venox (Aimbot, ESP and so much more) | 2022-10-25 00:41:21 +0000 UTC |
-| 1 | [Lmaobox-Premium-Cracked](https://github.com/EviLZ666/Lmaobox-Premium-Cracked) | Lmaobox Premium TF2 cheat cracked by VenomX | 2022-10-25 00:41:21 +0000 UTC |
-| 1 | [Relatorio-de-suicidios-no-Brasil](https://github.com/cardosomatheus/Relatorio-de-suicidios-no-Brasil) | O dashboard foi construido com as informações de obitos durante o periodo de 2010 ate 2019 em todo o Brasil. | 2022-10-25 00:57:50 +0000 UTC |
-| 1 | [line2httppost](https://github.com/vi/line2httppost) | Command-line HTTP client for sending a POST request to specified URI on each stdin line.  | 2022-10-25 00:05:43 +0000 UTC |
-| 1 | [Adobe-Acrobat-Pro-DC-2022-v22-x64-CRACK](https://github.com/LaQuartz/Adobe-Acrobat-Pro-DC-2022-v22-x64-CRACK) | Adobe Acrobat Pro DC CRACK | 2022-10-25 01:23:45 +0000 UTC |
-| 1 | [Northgard-Cheat-Cracked-from-CheatHub](https://github.com/LaQuartz/Northgard-Cheat-Cracked-from-CheatHub) | Northgard Including  Spoofer and 20 more Features Undetected version | 2022-10-25 01:00:36 +0000 UTC |
-| 1 | [NFT-Account-Generator-from-CheatHub](https://github.com/LaQuartz/NFT-Account-Generator-from-CheatHub) | NFT Account Generator Undetected version | 2022-10-25 01:00:36 +0000 UTC |
-| 1 | [Stardew-Valley-Cheat-Cracked-from-CheatHub](https://github.com/LaQuartz/Stardew-Valley-Cheat-Cracked-from-CheatHub) | Stardew Valley Including  Spoofer and 20 more Features Undetected version | 2022-10-25 01:00:36 +0000 UTC |
-| 1 | [.github](https://github.com/poppinss/.github) |  | 2022-10-25 00:39:36 +0000 UTC |
-| 1 | [God-of-War-Cheat-Cracked-from-CheatHub](https://github.com/LaQuartz/God-of-War-Cheat-Cracked-from-CheatHub) | God of War Including  Spoofer and 60 more Features Undetected version | 2022-10-25 01:05:22 +0000 UTC |
-| 1 | [Path-of-Exile-Undetected-cheat-with-Spoofer](https://github.com/EviLZ666/Path-of-Exile-Undetected-cheat-with-Spoofer) | Path of Exile private cheat with built-in spoofer. Cracked by VenoX | 2022-10-25 00:49:49 +0000 UTC |
-| 1 | [DDOS-Tool-cracked-by-VenoX](https://github.com/EviLZ666/DDOS-Tool-cracked-by-VenoX) | DDOS tool cracked by VenoX | 2022-10-25 00:55:24 +0000 UTC |
+| 26 | [Emperor-Cheat-Cracked-from-CheatHub](https://github.com/ChavvW/Emperor-Cheat-Cracked-from-CheatHub) | Emperor Including  Spoofer and 20 more Features Undetected version | 2022-10-26 00:02:39 +0000 UTC |
+| 26 | [Adobe-Dreamweaver-2021-x64-CRACK](https://github.com/ChavvW/Adobe-Dreamweaver-2021-x64-CRACK) | Adobe Dreamweaver 2021 | 2022-10-26 00:54:47 +0000 UTC |
+| 26 | [FIVEM-cheat-with-Lua-Executor-and-dumper](https://github.com/ChavvW/FIVEM-cheat-with-Lua-Executor-and-dumper) | FIVEM Undetected cheat with Lua Executor & Dumper cracked by VenoX | 2022-10-26 00:05:58 +0000 UTC |
+| 26 | [Adobe-Lightroom-Classic-2023-v12-x64-CRACKED](https://github.com/ChavvW/Adobe-Lightroom-Classic-2023-v12-x64-CRACKED) | MAGIX Video Pro X14 Video Editor CRACK | 2022-10-26 00:54:48 +0000 UTC |
+| 26 | [Juggernaut-Cheat-Cracked-from-CheatHub](https://github.com/ChavvW/Juggernaut-Cheat-Cracked-from-CheatHub) | Juggernaut Including  Spoofer and 30 more Features Undetected version | 2022-10-26 00:02:39 +0000 UTC |
+| 26 | [Adobe-Premiere-Pro-2022-v22-x64-CRACK](https://github.com/ChavvW/Adobe-Premiere-Pro-2022-v22-x64-CRACK) | Adobe Premiere Pro 2022 | 2022-10-26 00:54:47 +0000 UTC |
+| 26 | [Left-4-Dead-2-Cheat-Cracked-from-CheatHub](https://github.com/ChavvW/Left-4-Dead-2-Cheat-Cracked-from-CheatHub) | Left 4 Dead 2 Including  Spoofer and 40 more Features Undetected version | 2022-10-26 00:02:39 +0000 UTC |
+| 26 | [Atlas-Fortnite-Spoofer](https://github.com/ChavvW/Atlas-Fortnite-Spoofer) | Atlas Fortnite Spoofer – End Your HWID Ban made by me | 2022-10-26 00:53:13 +0000 UTC |
+| 26 | [Adobe-After-Effects-2023-v23-CRACK-BY-K3M0N](https://github.com/ChavvW/Adobe-After-Effects-2023-v23-CRACK-BY-K3M0N) | Adobe After Effects 2023 v23 CRACK | 2022-10-26 00:54:48 +0000 UTC |
+| 26 | [Adobe-Lightroom-Classic-2023-v12-x64-CRACK](https://github.com/ChavvW/Adobe-Lightroom-Classic-2023-v12-x64-CRACK) | Adobe Lightroom Classic 2023 CRACK | 2022-10-26 00:54:47 +0000 UTC |
+| 26 | [BeamNG-Drive-Game-Crack](https://github.com/ChavvW/BeamNG-Drive-Game-Crack) | BeamNG Game CRACK | 2022-10-26 00:54:47 +0000 UTC |
+| 26 | [Adobe-Photoshop-2023-v24-CRACK-BY-K3M0N](https://github.com/ChavvW/Adobe-Photoshop-2023-v24-CRACK-BY-K3M0N) | Adobe Photoshop 2023 V24 PRIVATE CRACKED BY K4M0N | 2022-10-26 00:54:47 +0000 UTC |
+| 26 | [Bloodhunt-Undetected-Cheat-with-spoofer-included](https://github.com/ChavvW/Bloodhunt-Undetected-Cheat-with-spoofer-included) | Bloodhunt undetected cheat with built-in spoofer and cleaner, over 100+ features. No Ban guaranteed. | 2022-10-26 00:44:41 +0000 UTC |
+| 26 | [God-of-War-Cheat-Cracked-from-CheatHub](https://github.com/ChavvW/God-of-War-Cheat-Cracked-from-CheatHub) | God of War Including  Spoofer and 60 more Features Undetected version | 2022-10-26 00:02:39 +0000 UTC |
+| 26 | [Cod-Warzone-cheat-cracked-by-VenoX-with-built-in-spoofer](https://github.com/ChavvW/Cod-Warzone-cheat-cracked-by-VenoX-with-built-in-spoofer) | COD Warzone cheat with built in spoofer cracked by Vexon (100+ features) | 2022-10-26 00:05:58 +0000 UTC |
+| 26 | [Company-of-Heroes-2-Cheat-Cracked-from-CheatHub](https://github.com/ChavvW/Company-of-Heroes-2-Cheat-Cracked-from-CheatHub) | Company of Heroes 2 Including  Spoofer and 30 more Features Undetected version | 2022-10-26 00:02:39 +0000 UTC |
+| 26 | [Bandicam-2022-x64-Multilingual-CRACK](https://github.com/ChavvW/Bandicam-2022-x64-Multilingual-CRACK) | Bandicam CRACK | 2022-10-26 00:54:47 +0000 UTC |
+| 26 | [Age-of-Empires-IV-Cheat-Cracked-from-CheatHub](https://github.com/ChavvW/Age-of-Empires-IV-Cheat-Cracked-from-CheatHub) | Age of Empires IV Including  Spoofer and 30 more Features Undetected version | 2022-10-26 00:02:39 +0000 UTC |
+| 26 | [Adobe-Illustrator-2023-v27-x64-Multilingual-CRACK](https://github.com/ChavvW/Adobe-Illustrator-2023-v27-x64-Multilingual-CRACK) | Adobe Illustrator 2023 v27 CRACK | 2022-10-26 00:54:48 +0000 UTC |
+| 26 | [Krnl-Lua-Executor-for-Roblox](https://github.com/ChavvW/Krnl-Lua-Executor-for-Roblox) | Krnl Cracked (Roblox Lua Script Executor) | 2022-10-26 00:05:57 +0000 UTC |
+| 26 | [Apex-Legends-undetected-cheat-with-spoofer-by-VenoX](https://github.com/ChavvW/Apex-Legends-undetected-cheat-with-spoofer-by-VenoX) | Apex Legends cheat with built in spoofer cracked by Vexon (100+ features) | 2022-10-26 00:05:58 +0000 UTC |
+| 26 | [Battlefield-2042-Cheat-with-Spoofer](https://github.com/ChavvW/Battlefield-2042-Cheat-with-Spoofer) | Battlefield 2042 Multi-cheat with Built In spoofer cracked by Venox (Aimbot, ESP and so much more) | 2022-10-26 00:50:02 +0000 UTC |
+| 26 | [Arsenal-Cookie-Hub-Script](https://github.com/ChavvW/Arsenal-Cookie-Hub-Script) | Arsenal Cookie Hub Script KillAll Cheat , Esp, SilentAim | 2022-10-26 00:53:13 +0000 UTC |
+| 26 | [Aimware-CSGO-Legit-and-Rage-cheat-cracked-by-VenomX](https://github.com/ChavvW/Aimware-CSGO-Legit-and-Rage-cheat-cracked-by-VenomX) | CSGO Aimware Cheat Legit and Rage with configs cracked by VenomX | 2022-10-26 00:44:41 +0000 UTC |
+| 26 | [AdFly-link-clicker-bot](https://github.com/ChavvW/AdFly-link-clicker-bot) | AdFly link opener bot that uses Tor network to generate income on AdFly | 2022-10-26 00:44:41 +0000 UTC |
+| 26 | [Bloxflip-Predictor](https://github.com/ChavvW/Bloxflip-Predictor) | Roblox BloxFlip Predictor. Supports: Cases, Plinko, Crash, Towers, Mines | 2022-10-26 00:05:57 +0000 UTC |
+| 26 | [JJSploit-Lua-Executor-for-Roblox](https://github.com/ChavvW/JJSploit-Lua-Executor-for-Roblox) | JJSploit Cracked (Roblox Lua Script Executor) | 2022-10-26 00:05:57 +0000 UTC |
+| 26 | [Adobe-Acrobat-Pro-DC-2022-v22-x64-CRACK](https://github.com/ChavvW/Adobe-Acrobat-Pro-DC-2022-v22-x64-CRACK) | Adobe Acrobat Pro DC CRACK | 2022-10-26 00:54:48 +0000 UTC |
+| 26 | [BitRat-Cracked](https://github.com/ChavvW/BitRat-Cracked) | Remote Access Tool (RAT) - BitRat Cracked | 2022-10-26 00:05:57 +0000 UTC |
+| 26 | [EngineOwning-COD-Vanguard-Cheat-cracked](https://github.com/ChavvW/EngineOwning-COD-Vanguard-Cheat-cracked) | COD Vanguard EngineOwning cheat cracked | 2022-10-26 00:05:58 +0000 UTC |
+| 25 | [CraftBlox-Script-for-Roblox](https://github.com/ChavvW/CraftBlox-Script-for-Roblox) | Craft-Blox Script for Roblox – Xray, WalkSpeed & More | 2022-10-26 00:53:43 +0000 UTC |
+| 25 | [Crossfire-Legit-and-Rage-cheat-cracked-by-VenomX](https://github.com/ChavvW/Crossfire-Legit-and-Rage-cheat-cracked-by-VenomX) | Crossfire Cheat Legit and Rage with configs cracked by VenomX | 2022-10-26 00:44:41 +0000 UTC |
+| 25 | [DDOS-Tool-cracked-by-VenoX](https://github.com/ChavvW/DDOS-Tool-cracked-by-VenoX) | DDOS tool cracked by VenoX | 2022-10-26 00:52:15 +0000 UTC |
+| 25 | [Business-Tour-Money-Hack](https://github.com/ChavvW/Business-Tour-Money-Hack) | Universal Cheat Menu Business Tour Game - Works at steam & other platforms. | 2022-10-26 00:53:43 +0000 UTC |
+| 25 | [Combat-Arms-Undetected-cheat-with-Spoofer](https://github.com/ChavvW/Combat-Arms-Undetected-cheat-with-Spoofer) | Combat Arms private cheat with built-in spoofer. Cracked by VenoX (Aimbot, Wallhack, ESP, and so much more) | 2022-10-26 00:50:02 +0000 UTC |
+| 25 | [Destiny-2-Undetected-cheat-with-Spoofer](https://github.com/ChavvW/Destiny-2-Undetected-cheat-with-Spoofer) | Watch Dogs 2 private cheat with built-in spoofer. Cracked by VenoX (Aimbot, Wallhack, ESP, and so much more) | 2022-10-26 00:50:03 +0000 UTC |
+| 25 | [CyberPunk-2077-ShadowCheat](https://github.com/ChavvW/CyberPunk-2077-ShadowCheat) | ShadoW CyberPunk 2077 PrivateCheat L3ak3d by me - Including Over 30 features - AimBot + Unlimited RAM + MORE! | 2022-10-26 00:53:43 +0000 UTC |
+| 25 | [Clips0-Private-Krunker.io-Cheat-Leaked](https://github.com/ChavvW/Clips0-Private-Krunker.io-Cheat-Leaked) | Clips0 Krunkerio PrivateCheat Cracked - Working AimBot + ModMenu + ESP / Tracker + WallHack + 50 MORE FEATURES! | 2022-10-26 00:53:13 +0000 UTC |
+| 25 | [Crash-Bandicoot-4-Its-About-Time-GAME-CRACK](https://github.com/ChavvW/Crash-Bandicoot-4-Its-About-Time-GAME-CRACK) | Crash Bandicoot 4 Its About Time (CRACK) | 2022-10-26 00:54:47 +0000 UTC |
+| 25 | [Crossout-Undetected-cheat-with-Spoofer](https://github.com/ChavvW/Crossout-Undetected-cheat-with-Spoofer) | Crossout private cheat with built-in spoofer. Cracked by VenoX (Aimbot, Wallhack, ESP, and so much more) | 2022-10-26 00:50:02 +0000 UTC |
+| 25 | [DayZ-Undetected-cheat-with-Spoofer](https://github.com/ChavvW/DayZ-Undetected-cheat-with-Spoofer) | DayZ private cheat with built-in spoofer. Cracked by VenoX | 2022-10-26 00:52:15 +0000 UTC |
+| 25 | [Dead-By-Daylight-Undetected-cheat-with-Spoofer](https://github.com/ChavvW/Dead-By-Daylight-Undetected-cheat-with-Spoofer) | Dead By Daylight private cheat with built-in spoofer. Cracked by VenoX | 2022-10-26 00:50:03 +0000 UTC |
+| 24 | [Dota-2-Cheat-with-Spoofer](https://github.com/ChavvW/Dota-2-Cheat-with-Spoofer) | Dota 2 Multi-cheat with Built In spoofer cracked by Venox (150+ features) | 2022-10-26 00:44:41 +0000 UTC |
+| 24 | [EclipseWare-Free-Roblox-Exploits-v1.7](https://github.com/ChavvW/EclipseWare-Free-Roblox-Exploits-v1.7) | Roblox Eclipseware Exploits (over 50+ in one program) | 2022-10-26 00:53:13 +0000 UTC |
+| 24 | [Discord-account-Generator](https://github.com/ChavvW/Discord-account-Generator) | Discord account Generator cracked by VenoX (Captcha AI solver, WebServer, Fully Request based) | 2022-10-26 00:52:15 +0000 UTC |
+| 24 | [Fifa-22-Undetected-cheat-with-Spoofer](https://github.com/ChavvW/Fifa-22-Undetected-cheat-with-Spoofer) | Fifa 22 private cheat with built-in spoofer. Cracked by VenoX | 2022-10-26 00:50:03 +0000 UTC |
+| 24 | [External-Auto-MineCraft-FishingBot-v2.8.0](https://github.com/ChavvW/External-Auto-MineCraft-FishingBot-v2.8.0) | Minecraft Fishing Bot made by me | 2022-10-26 00:53:43 +0000 UTC |
+| 23 | [Garrys-Mod-Undetected-cheat-with-Spoofer](https://github.com/ChavvW/Garrys-Mod-Undetected-cheat-with-Spoofer) | Garrys Mod private cheat with built-in spoofer. Cracked by VenoX | 2022-10-26 00:50:03 +0000 UTC |
+| 23 | [No-Mans-Sky-Cheat-Cracked-from-CheatHub](https://github.com/ChavvW/No-Mans-Sky-Cheat-Cracked-from-CheatHub) | No Mans Sky Including  Spoofer and 20 more Features Undetected version | 2022-10-26 00:02:39 +0000 UTC |
+| 23 | [GPay-balance-exploiter-by-VenomX](https://github.com/ChavvW/GPay-balance-exploiter-by-VenomX) | GPay balance exploiter (cheat) (Forcer) by VenomX | 2022-10-26 00:44:41 +0000 UTC |
+| 23 | [GoldSpoofer-Best-HWID-spoofer-with-cleaner](https://github.com/ChavvW/GoldSpoofer-Best-HWID-spoofer-with-cleaner) | Best HWID spoofer with cleaner included. Works for any games such as (Apex legends, LoL, Valorant, Fortnite, Rust, Faceit and more) | 2022-10-26 00:44:41 +0000 UTC |
+| 23 | [Gta-5-Undetected-cheat-with-Spoofer](https://github.com/ChavvW/Gta-5-Undetected-cheat-with-Spoofer) | Gta 5 private cheat with built-in spoofer. Cracked by VenoX | 2022-10-26 00:50:02 +0000 UTC |
+| 22 | [Pubg-cheat-cracked-by-VenoX](https://github.com/ChavvW/Pubg-cheat-cracked-by-VenoX) | PUBG cheat (goldencheats) cracked | 2022-10-26 00:05:58 +0000 UTC |
+| 22 | [Halo-Undetected-cheat-with-Spoofer](https://github.com/ChavvW/Halo-Undetected-cheat-with-Spoofer) | Halo private cheat with built-in spoofer. Cracked by VenoX (Aimbot, Wallhack, ESP, and so much more) | 2022-10-26 00:50:02 +0000 UTC |
+| 22 | [Raccoon-Stealer-Cracked](https://github.com/ChavvW/Raccoon-Stealer-Cracked) | Raccoon Stealer Cracked by iDecompile | 2022-10-26 00:05:57 +0000 UTC |
+| 22 | [Rblxwild-Predictor](https://github.com/ChavvW/Rblxwild-Predictor) | Roblox Rblxwild Predictor. Supports: Cases, Upgrader, Crash, Mines, Towers | 2022-10-26 00:05:57 +0000 UTC |
+| 21 | [Rebirth-Cheat-Cracked-from-CheatHub](https://github.com/ChavvW/Rebirth-Cheat-Cracked-from-CheatHub) | Rebirth Including  Spoofer and 30 more Features Undetected version | 2022-10-26 00:02:39 +0000 UTC |
+| 21 | [RDR2-cheat-with-spoofer](https://github.com/ChavvW/RDR2-cheat-with-spoofer) | RdR2 (Red Dead Redemption 2) cheat with HWID spoofer built in. Undetected. | 2022-10-26 00:05:57 +0000 UTC |
+| 21 | [Lmaobox-Premium-Cracked](https://github.com/ChavvW/Lmaobox-Premium-Cracked) | Lmaobox Premium TF2 cheat cracked by VenomX | 2022-10-26 00:44:41 +0000 UTC |
+| 21 | [L4D2-Legit-and-Rage-cheat-cracked-by-VenomX](https://github.com/ChavvW/L4D2-Legit-and-Rage-cheat-cracked-by-VenomX) | Left 4 Dead 2 Cheat Legit and Rage with configs cracked by VenomX | 2022-10-26 00:44:41 +0000 UTC |
+| 20 | [RimWorld-Cheat-Cracked-from-CheatHub](https://github.com/ChavvW/RimWorld-Cheat-Cracked-from-CheatHub) | RimWorld Including  Spoofer and 40 more Features Undetected version | 2022-10-26 00:02:39 +0000 UTC |
+| 20 | [Lost-ARK-Cheat-with-Spoofer](https://github.com/ChavvW/Lost-ARK-Cheat-with-Spoofer) | Lost ARK Multi-cheat with Built In spoofer cracked by Venox (150+ features) | 2022-10-26 00:44:41 +0000 UTC |
+| 20 | [LOL-Hack-Evolut-Client](https://github.com/ChavvW/LOL-Hack-Evolut-Client) | League of Legends (LoL) cheat with skin changer, auto spell, built in spoofer and so much more! | 2022-10-26 00:44:41 +0000 UTC |
+| 18 | [MadApex-Apex-Legends-Hack](https://github.com/ChavvW/MadApex-Apex-Legends-Hack) | MadApex Apex Legends Hack 2022 \| Aimbot, Wallhack , Skin Changer & More | 2022-10-26 00:53:43 +0000 UTC |
+| 18 | [Roblox-Synapse-X-Cracked-Lua-Executor](https://github.com/ChavvW/Roblox-Synapse-X-Cracked-Lua-Executor) | Roblox Synapse X Cracked Lua executor with 2000+ scripts for different games! | 2022-10-26 00:05:57 +0000 UTC |
+| 17 | [Roobet-Crypto-Casino-predictor](https://github.com/ChavvW/Roobet-Crypto-Casino-predictor) | Roobet Crypto Predictor that supports almost all Roobet games | 2022-10-26 00:05:58 +0000 UTC |
+| 16 | [SirHurt-Lua-Executor-for-Roblox](https://github.com/ChavvW/SirHurt-Lua-Executor-for-Roblox) | SirHurt Cracked (Roblox Lua Script Executor) | 2022-10-26 00:05:57 +0000 UTC |
+| 16 | [Sentinel-Lua-Executor-for-Roblox](https://github.com/ChavvW/Sentinel-Lua-Executor-for-Roblox) | Sentinel Cracked (Roblox Lua Script Executor) | 2022-10-26 00:05:57 +0000 UTC |
+| 16 | [Sekiro-Shadows-Cheat-Cracked-from-CheatHub](https://github.com/ChavvW/Sekiro-Shadows-Cheat-Cracked-from-CheatHub) | Sekiro Shadows Including  Spoofer and 20 more Features Undetected version | 2022-10-26 00:02:39 +0000 UTC |
+| 16 | [Shadow-of-War-Cheat-Cracked-from-CheatHub](https://github.com/ChavvW/Shadow-of-War-Cheat-Cracked-from-CheatHub) | Shadow of War Including  Spoofer and 20 more Features Undetected version | 2022-10-26 00:02:39 +0000 UTC |
+| 15 | [The-Forest-Cheat-Cracked-from-CheatHub](https://github.com/ChavvW/The-Forest-Cheat-Cracked-from-CheatHub) | The Forest Including  Spoofer and 0 more Features Undetected version | 2022-10-26 00:02:39 +0000 UTC |
+| 15 | [Stardew-Valley-Cheat-Cracked-from-CheatHub](https://github.com/ChavvW/Stardew-Valley-Cheat-Cracked-from-CheatHub) | Stardew Valley Including  Spoofer and 20 more Features Undetected version | 2022-10-26 00:02:39 +0000 UTC |
+| 15 | [Stellaris-Cheat-Cracked-from-CheatHub](https://github.com/ChavvW/Stellaris-Cheat-Cracked-from-CheatHub) | Stellaris Including  Spoofer and 30 more Features Undetected version | 2022-10-26 00:02:39 +0000 UTC |
+| 15 | [Skyrim-Special-Cheat-Cracked-from-CheatHub](https://github.com/ChavvW/Skyrim-Special-Cheat-Cracked-from-CheatHub) | Skyrim Special Including  Spoofer and 50 more Features Undetected version | 2022-10-26 00:02:39 +0000 UTC |
+| 5 | [Paladins-Cheat-with-Spoofer](https://github.com/ChavvW/Paladins-Cheat-with-Spoofer) | Paladins Multi-cheat with Built In spoofer cracked by Venox (Aimbot, ESP and so much more) | 2022-10-26 00:44:41 +0000 UTC |
+| 5 | [Naraka-Bladepoint-Undetected-cheat-with-Spoofer](https://github.com/ChavvW/Naraka-Bladepoint-Undetected-cheat-with-Spoofer) | Naraka Bladepoint private cheat with built-in spoofer. Cracked by VenoX | 2022-10-26 00:50:03 +0000 UTC |
+| 3 | [One-Punch-Fighters-Script](https://github.com/ChavvW/One-Punch-Fighters-Script) | One Punch Fighters Script Auto Farm Mob, Auto Collect Coins | 2022-10-26 00:53:12 +0000 UTC |
+| 3 | [final_project](https://github.com/Megreid23/final_project) |  | 2022-10-26 00:02:56 +0000 UTC |
+| 3 | [Phasmophobia-Legit-and-Rage-cheat-cracked-by-VenomX](https://github.com/ChavvW/Phasmophobia-Legit-and-Rage-cheat-cracked-by-VenomX) | Phasmophobia Cheat Legit and Rage with configs cracked by VenomX | 2022-10-26 00:44:41 +0000 UTC |
+| 3 | [Nyve-Keyless-Roblox-Premium-Exploit](https://github.com/ChavvW/Nyve-Keyless-Roblox-Premium-Exploit) | KeyLess Nyve RobloxExploit - Over 10 FEATURES! | 2022-10-26 00:53:13 +0000 UTC |
+| 3 | [final_test](https://github.com/Megreid23/final_test) |  | 2022-10-26 00:01:36 +0000 UTC |
+| 3 | [Path-of-Exile-Undetected-cheat-with-Spoofer](https://github.com/ChavvW/Path-of-Exile-Undetected-cheat-with-Spoofer) | Path of Exile private cheat with built-in spoofer. Cracked by VenoX | 2022-10-26 00:50:03 +0000 UTC |
+| 3 | [jhin](https://github.com/JhinBoard/jhin) | The Next-Gen Collaborative Knowledge Base, A free replacement for Notion & Miro.. | 2022-10-26 00:29:38 +0000 UTC |
+| 2 | [Guia-geoguessr](https://github.com/BiancaGallicchio/Guia-geoguessr) |  | 2022-10-26 01:29:03 +0000 UTC |
+| 2 | [Proyecto-Lord-Pollo](https://github.com/IsaacFlaminHot/Proyecto-Lord-Pollo) |  | 2022-10-26 01:16:21 +0000 UTC |
+| 1 | [Roblox-Lumber-Tycoon-2-Script](https://github.com/ChavvW/Roblox-Lumber-Tycoon-2-Script) | Lumber Tycoon 2 Script - Remove Trees (No Lag) Tp All Planks See All Planks | 2022-10-26 00:53:12 +0000 UTC |
+| 1 | [Ultra-Power-Tycoon-Cheat-Auto-Farm-Scripts](https://github.com/ChavvW/Ultra-Power-Tycoon-Cheat-Auto-Farm-Scripts) | Roblox MiniGame - Ultra Power Tycoon Cheat (AutoFarm AutoGathering Claim All Weapons and More) | 2022-10-26 00:53:13 +0000 UTC |
+| 1 | [Roblox-Jailbreak-Monkey-Gui-Hack](https://github.com/ChavvW/Roblox-Jailbreak-Monkey-Gui-Hack) | Xodia Roblox Jailbreak Monkey Gui Hack Scripts Cheats Codes | 2022-10-26 00:53:12 +0000 UTC |
+| 1 | [Skate-4-Free-PC-Hack](https://github.com/ChavvW/Skate-4-Free-PC-Hack) | Skate 4 Online / SinglePlayer GameHack - Includes Speed, Different FOV + More features | 2022-10-26 00:53:43 +0000 UTC |
+| 1 | [VenoX-Fortnite-Cheat-with-built-in-spoofer](https://github.com/ChavvW/VenoX-Fortnite-Cheat-with-built-in-spoofer) | Fortnite cheat with built in spoofer cracked by Vexon (100+ features) | 2022-10-26 00:05:58 +0000 UTC |
+| 1 | [Mehdi-momeni66](https://github.com/Mehdimome/Mehdi-momeni66) | Good | 2022-10-26 00:14:46 +0000 UTC |
+| 1 | [TCC](https://github.com/RICKBISPO/TCC) |  | 2022-10-26 01:21:22 +0000 UTC |
+| 1 | [Warframe-Undetected-cheat-with-Spoofer](https://github.com/ChavvW/Warframe-Undetected-cheat-with-Spoofer) | Warframe private cheat with built-in spoofer. Cracked by VenoX | 2022-10-26 00:50:03 +0000 UTC |
+| 1 | [PUBG-Mobile-Emulator-ESP-Hack](https://github.com/ChavvW/PUBG-Mobile-Emulator-ESP-Hack) | PUBG Mobile Emulator ESP Hack \| DESI with Bypass v2.2 | 2022-10-26 00:53:44 +0000 UTC |
+| 1 | [Microsoft-Windows-11-build-21996-x64-ACTIVATOR](https://github.com/ChavvW/Microsoft-Windows-11-build-21996-x64-ACTIVATOR) | Microsoft Windows 11 ACTIVATOR | 2022-10-26 00:54:47 +0000 UTC |
+| 1 | [Roblox-Pet-Simulator-cheat-with-Pet-cheat](https://github.com/ChavvW/Roblox-Pet-Simulator-cheat-with-Pet-cheat) | Roblox Pet Simulator 2 cheat with pet cheat included and over 300+ other cheats | 2022-10-26 00:44:41 +0000 UTC |
+| 1 | [VenomX-Cheat-for-Genshin-Impact](https://github.com/ChavvW/VenomX-Cheat-for-Genshin-Impact) | VenomX Cheat for Gensin Impact with built-in spoofer. Over 200+ features, undetected. | 2022-10-26 00:44:41 +0000 UTC |
+| 1 | [pedromaiaf.github.io](https://github.com/PedroMaiaF/pedromaiaf.github.io) |  | 2022-10-26 01:13:20 +0000 UTC |
+| 1 | [Project-02](https://github.com/xutimon/Project-02) | This repo is for project 02 for CSCI40.  | 2022-10-26 01:10:55 +0000 UTC |
+| 1 | [-github.io](https://github.com/1996fran/-github.io) |  | 2022-10-26 00:32:10 +0000 UTC |
 
