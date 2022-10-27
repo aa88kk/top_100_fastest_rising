@@ -1,31 +1,38 @@
 | Stars | Name | Desc | Created | 
 | ----- | ------- | ------------- | ------------- |
-| 0 | [Assignment-1_Golang](https://github.com/azmifaris/Assignment-1_Golang) |  | 2022-10-26 00:53:31 +0000 UTC |
-| 0 | [toc-go](https://github.com/mwrietz/toc-go) | go source table of contents | 2022-10-26 00:51:02 +0000 UTC |
-| 0 | [simpletop-md](https://github.com/ellisbywater/simpletop-md) |  | 2022-10-26 00:38:49 +0000 UTC |
-| 0 | [pkg](https://github.com/jf666666/pkg) |  | 2022-10-26 00:34:59 +0000 UTC |
-| 0 | [pgxpool-test](https://github.com/SophisticaSean/pgxpool-test) | example repo playing with pgxpool and other sql examples | 2022-10-26 00:45:02 +0000 UTC |
-| 0 | [kubeipfixed](https://github.com/wenwenxiong/kubeipfixed) |  | 2022-10-26 01:06:53 +0000 UTC |
-| 0 | [motion-eye-webhook-api](https://github.com/numaga94/motion-eye-webhook-api) |  | 2022-10-26 00:18:03 +0000 UTC |
-| 0 | [twtd](https://github.com/m25n/twtd) |  | 2022-10-26 00:00:31 +0000 UTC |
-| 0 | [casaDados_CEPS](https://github.com/Felipefmonteiro/casaDados_CEPS) |  | 2022-10-26 01:17:26 +0000 UTC |
-| 0 | [university-forum-api](https://github.com/MigzAvila/university-forum-api) |  | 2022-10-26 01:36:02 +0000 UTC |
-| 0 | [golooptest](https://github.com/gngenius02/golooptest) |  | 2022-10-26 01:17:45 +0000 UTC |
-| 0 | [go_nhlapi_tutorial](https://github.com/seyio91/go_nhlapi_tutorial) |  | 2022-10-26 00:10:55 +0000 UTC |
-| 0 | [test-olokosda](https://github.com/lucasmmo/test-olokosda) | Github repository created by Gravity API | 2022-10-26 01:31:27 +0000 UTC |
-| 0 | [mtdefs](https://github.com/discordtehe/mtdefs) | for getting minetest nodedefs and itemdefs | 2022-10-26 00:39:28 +0000 UTC |
-| 0 | [golympia](https://github.com/mdhender/golympia) | a port of Skrenta's and Turner's Olympia (The Age of Gods) | 2022-10-26 00:27:14 +0000 UTC |
-| 0 | [curso-golang](https://github.com/robsantossilva/curso-golang) | Curso Golang Udemy | 2022-10-26 00:33:04 +0000 UTC |
-| 0 | [mysimpleforce](https://github.com/miicchelle/mysimpleforce) |  | 2022-10-26 00:08:57 +0000 UTC |
-| 0 | [Assignment-2_Golang](https://github.com/azmifaris/Assignment-2_Golang) |  | 2022-10-26 00:46:25 +0000 UTC |
-| 0 | [yiaw-go](https://github.com/yiaw/yiaw-go) |  | 2022-10-26 01:03:19 +0000 UTC |
-| 0 | [real_quote](https://github.com/snxl/real_quote) | this repository is a go expert challenge | 2022-10-26 00:25:09 +0000 UTC |
-| 0 | [test-oloko](https://github.com/lucasmmo/test-oloko) | Github repository created by Gravity API | 2022-10-26 00:57:05 +0000 UTC |
-| 0 | [technical_debt](https://github.com/glemzurg/technical_debt) | Technical Debt tool for analysis of golang | 2022-10-26 00:41:46 +0000 UTC |
-| 0 | [grbl_feeder](https://github.com/k0b3rIT/grbl_feeder) |  | 2022-10-26 00:16:07 +0000 UTC |
-| 0 | [leetcode-badgets](https://github.com/DumanYessengali/leetcode-badgets) | leetcode badgets tasks | 2022-10-26 00:51:59 +0000 UTC |
-| 0 | [labci](https://github.com/miltonfalves/labci) |  | 2022-10-26 00:59:38 +0000 UTC |
-| 0 | [learning-git](https://github.com/Jafethpc/learning-git) |  | 2022-10-26 01:30:44 +0000 UTC |
-| 0 | [contact_api](https://github.com/Golps/contact_api) | teste | 2022-10-26 01:17:49 +0000 UTC |
-| 0 | [gin-hong-api-beta](https://github.com/justfu/gin-hong-api-beta) | beta | 2022-10-26 01:26:25 +0000 UTC |
+| 0 | [gobyexample](https://github.com/aryanrsuri/gobyexample) | LEARNING GOLANG | 2022-10-27 00:12:53 +0000 UTC |
+| 0 | [Min-MaxSum-HackerrankSolution](https://github.com/raorafarhan/Min-MaxSum-HackerrankSolution) |  | 2022-10-27 00:53:18 +0000 UTC |
+| 0 | [TimeConversion-HackerrankSolution](https://github.com/raorafarhan/TimeConversion-HackerrankSolution) |  | 2022-10-27 01:04:05 +0000 UTC |
+| 0 | [goframe](https://github.com/a406299736/goframe) |  | 2022-10-27 01:19:43 +0000 UTC |
+| 0 | [backend-krakend](https://github.com/iswonl/backend-krakend) |  | 2022-10-27 00:51:10 +0000 UTC |
+| 0 | [go-util](https://github.com/bradfordwagner/go-util) |  | 2022-10-27 00:12:26 +0000 UTC |
+| 0 | [BirthdayCakeCandles-HackerrankSolution](https://github.com/raorafarhan/BirthdayCakeCandles-HackerrankSolution) |  | 2022-10-27 01:01:40 +0000 UTC |
+| 0 | [CatsAndaMouse-HackerrankSolution](https://github.com/raorafarhan/CatsAndaMouse-HackerrankSolution) |  | 2022-10-27 01:11:34 +0000 UTC |
+| 0 | [dagger-go-sdk-example](https://github.com/koki-develop/dagger-go-sdk-example) | dagger-go-sdk-example | 2022-10-27 01:11:44 +0000 UTC |
+| 0 | [DesignerPDFViewer-HackerrankSolution](https://github.com/raorafarhan/DesignerPDFViewer-HackerrankSolution) |  | 2022-10-27 01:14:35 +0000 UTC |
+| 0 | [pwl-testapi](https://github.com/mauriciorodriguez007/pwl-testapi) |  | 2022-10-27 01:40:03 +0000 UTC |
+| 0 | [trabalho-go](https://github.com/wartonneto/trabalho-go) | my first API using GO Lang | 2022-10-27 00:53:43 +0000 UTC |
+| 0 | [Data-Structure-Algorithms](https://github.com/Ferin79/Data-Structure-Algorithms) |  | 2022-10-27 01:11:00 +0000 UTC |
+| 0 | [GoPractice](https://github.com/MINHTIENUIT/GoPractice) | Practice with Golang | 2022-10-27 01:08:54 +0000 UTC |
+| 0 | [dmc](https://github.com/milligan22963/dmc) | Device Management Console | 2022-10-27 01:15:13 +0000 UTC |
+| 0 | [SalesByMatch-HackerrankSolution](https://github.com/raorafarhan/SalesByMatch-HackerrankSolution) |  | 2022-10-27 01:25:22 +0000 UTC |
+| 0 | [ntfy-to-slack](https://github.com/ozskywalker/ntfy-to-slack) | Pushes messages received via Ntfy to a Slack webhook | 2022-10-27 01:01:53 +0000 UTC |
+| 0 | [977890ipojknm](https://github.com/Tondeep/977890ipojknm) |  | 2022-10-27 00:18:17 +0000 UTC |
+| 0 | [odi](https://github.com/DAlperin/odi) |  | 2022-10-27 01:02:20 +0000 UTC |
+| 0 | [go_chatbot_backend](https://github.com/Carlosabdoamaral/go_chatbot_backend) |  | 2022-10-27 00:11:27 +0000 UTC |
+| 0 | [generic-gorm](https://github.com/STRockefeller/generic-gorm) | gorm package with generic types | 2022-10-27 00:17:16 +0000 UTC |
+| 0 | [go-hexarch](https://github.com/mproyyan/go-hexarch) | golang hexagonal architecture | 2022-10-27 01:09:28 +0000 UTC |
+| 0 | [CountingValleys-HackerrankSolution](https://github.com/raorafarhan/CountingValleys-HackerrankSolution) |  | 2022-10-27 01:21:44 +0000 UTC |
+| 0 | [silent-deny](https://github.com/rauljordan/silent-deny) |  | 2022-10-27 01:13:26 +0000 UTC |
+| 0 | [Chess-on-Go-](https://github.com/MetaStar20/Chess-on-Go-) |  | 2022-10-27 00:20:29 +0000 UTC |
+| 0 | [GoStore](https://github.com/brian926/GoStore) |  | 2022-10-27 01:02:51 +0000 UTC |
+| 0 | [game-score](https://github.com/michaelByrne/game-score) |  | 2022-10-27 01:19:31 +0000 UTC |
+| 0 | [Neighborhood](https://github.com/Qian-gy35/Neighborhood) | A Full-stack Social Media Website | 2022-10-27 00:47:32 +0000 UTC |
+| 0 | [bpmovefile](https://github.com/waldirborbajr/bpmovefile) |  | 2022-10-27 00:23:25 +0000 UTC |
+| 0 | [PickingNumber-HackerrankSolution](https://github.com/raorafarhan/PickingNumber-HackerrankSolution) |  | 2022-10-27 01:32:25 +0000 UTC |
+| 0 | [Go-Eventos-CQRS](https://github.com/jpcorona/Go-Eventos-CQRS) | Microservicios y arquitecturas basadas en eventos | 2022-10-27 00:13:46 +0000 UTC |
+| 0 | [SimpleArraySum-HackerrankSolution](https://github.com/raorafarhan/SimpleArraySum-HackerrankSolution) |  | 2022-10-27 00:47:15 +0000 UTC |
+| 0 | [az-env-k8s-creation](https://github.com/ericogr/az-env-k8s-creation) | Tool used to easy the creation of Azure DevOps kubernetes environment to be used with your pipelines | 2022-10-27 00:20:51 +0000 UTC |
+| 0 | [DrawingBook-HackerrankSolution](https://github.com/raorafarhan/DrawingBook-HackerrankSolution) |  | 2022-10-27 01:28:30 +0000 UTC |
+| 0 | [windows_export](https://github.com/cs-yts/windows_export) | windows客户端,用户数据采集 | 2022-10-27 01:19:57 +0000 UTC |
 
