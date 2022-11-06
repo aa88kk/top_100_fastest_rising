@@ -1,103 +1,103 @@
 | Stars | Name | Desc | Created | 
 | ----- | ------- | ------------- | ------------- |
-| 4 | [codigo-do-futuro](https://github.com/GusGul/codigo-do-futuro) | Repositório para as aulas do Código do Futuro | 2022-11-05 00:07:29 +0000 UTC |
-| 3 | [Junction-2022](https://github.com/salcc/Junction-2022) |  | 2022-11-05 01:10:32 +0000 UTC |
-| 2 | [Cowpunkvania](https://github.com/Paulzine/Cowpunkvania) | vidya :) | 2022-11-05 00:04:22 +0000 UTC |
-| 2 | [resty_app](https://github.com/proz-tecnologia/resty_app) |  | 2022-11-05 00:27:23 +0000 UTC |
-| 2 | [Children-sParty](https://github.com/sergienkoanna777/Children-sParty) | Online account split calculator | 2022-11-05 00:22:56 +0000 UTC |
-| 2 | [uSoup](https://github.com/n2g7mutf8/uSoup) | A basic kitpvp core with lots of customization | 2022-11-05 01:06:34 +0000 UTC |
-| 2 | [SILENT-PDF-EXPLOIT-CLEANo](https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANo) |  | 2022-11-05 00:32:30 +0000 UTC |
-| 2 | [hitachi_task22](https://github.com/anupam1411/hitachi_task22) |  | 2022-11-05 01:15:19 +0000 UTC |
-| 2 | [code-de-la-route](https://github.com/Ryuka25/code-de-la-route) |  | 2022-11-05 01:36:43 +0000 UTC |
-| 2 | [Codes](https://github.com/ItzMav/Codes) | Códigos que vaya haciendo | 2022-11-05 00:43:59 +0000 UTC |
-| 2 | [equalizer](https://github.com/thusmiley/equalizer) |  | 2022-11-05 00:43:54 +0000 UTC |
-| 2 | [Doctors-And-Hospital-Details](https://github.com/Rahi999/Doctors-And-Hospital-Details) | Build this Website for getting all the details of Doctors and Hospitals Provided by API. Can See name,salary,category,department of the Doctors and can add More Doctors and Hospitals. | 2022-11-05 00:34:30 +0000 UTC |
-| 2 | [Epic-Archery](https://github.com/OphiliaFradarick/Epic-Archery) | Epic Archery is a physics engine game created using Matter.js library. | 2022-11-05 00:49:02 +0000 UTC |
-| 2 | [Python-SSH](https://github.com/adiyaksabackend/Python-SSH) | This is a python script to connect to ssh / vps and it uses Indonesian | 2022-11-05 00:17:02 +0000 UTC |
-| 2 | [Text_and_Audio_Classification_with_Bert](https://github.com/enessoztrk/Text_and_Audio_Classification_with_Bert) |  | 2022-11-05 00:12:39 +0000 UTC |
-| 2 | [sistema-cadastro-hospitalar-covid19](https://github.com/MarceloAdeSSantos/sistema-cadastro-hospitalar-covid19) |  | 2022-11-05 00:05:45 +0000 UTC |
-| 2 | [SILENT-EXCEL-XLS-EXPLOIT-CLEANo](https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANo) |  | 2022-11-05 00:34:12 +0000 UTC |
-| 1 | [TornBot](https://github.com/ftn22002/TornBot) |  | 2022-11-05 01:04:39 +0000 UTC |
-| 1 | [IMDBFinder](https://github.com/ma14ew/IMDBFinder) | Simple project for network requests and table view | 2022-11-05 01:04:55 +0000 UTC |
-| 1 | [DESMONDIS](https://github.com/nacil420/DESMONDIS) | TEAM DESMONDIS | 2022-11-05 01:22:56 +0000 UTC |
-| 1 | [Tas-Makas-Kag-t-Oyunu](https://github.com/Wadoud101/Tas-Makas-Kag-t-Oyunu) |  | 2022-11-05 01:20:32 +0000 UTC |
-| 1 | [Modelo-conceitual](https://github.com/AugustoMello09/Modelo-conceitual) |  | 2022-11-05 00:00:16 +0000 UTC |
-| 1 | [Docker](https://github.com/danielPoloWork/Docker) |  | 2022-11-05 01:08:13 +0000 UTC |
-| 1 | [trEnD-analysis](https://github.com/TonyYenTWN/trEnD-analysis) | Result analysis for the energy transition model trEnD | 2022-11-05 01:06:37 +0000 UTC |
-| 1 | [-TT](https://github.com/qq239/-TT) |  | 2022-11-05 00:41:20 +0000 UTC |
-| 1 | [Nurfaizhakim](https://github.com/Nurfaizhakim/Nurfaizhakim) | Config files for my GitHub profile. | 2022-11-05 01:39:13 +0000 UTC |
-| 1 | [blog-api](https://github.com/KelzAce/blog-api) | Altschool project | 2022-11-05 00:24:39 +0000 UTC |
-| 1 | [Proyecto-Final-Ava-2](https://github.com/elmerjmejia/Proyecto-Final-Ava-2) |  | 2022-11-05 01:10:42 +0000 UTC |
-| 1 | [TypeForm_Backend](https://github.com/MustafaBaig51/TypeForm_Backend) |  | 2022-11-05 00:07:41 +0000 UTC |
-| 1 | [Angularavel](https://github.com/AAVision/Angularavel) | 🔮 You can now build your angular-Laravel project in the same place without any problem with the development or build bundles! | 2022-11-05 00:01:12 +0000 UTC |
-| 1 | [projetoToDo](https://github.com/xSnowflak3/projetoToDo) |  | 2022-11-05 00:41:55 +0000 UTC |
-| 1 | [C](https://github.com/Slap-me/C) | A junior high school student learning programming program as part of the C language aspect | 2022-11-05 00:55:11 +0000 UTC |
-| 1 | [random-user-generator](https://github.com/jorbbey/random-user-generator) |  | 2022-11-05 01:18:49 +0000 UTC |
-| 1 | [fuadmerty-gmail.com](https://github.com/fuadmertyu/fuadmerty-gmail.com) | fuadmertyu@1 | 2022-11-05 01:40:55 +0000 UTC |
-| 1 | [react-css-modules](https://github.com/hashlog5/react-css-modules) |  | 2022-11-05 00:01:04 +0000 UTC |
-| 1 | [SILENT-DOC-EXPLOIT-CLEANo](https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANo) |  | 2022-11-05 00:33:25 +0000 UTC |
-| 1 | [Cesar-encryptor](https://github.com/rostok2112/Cesar-encryptor) | Cesar cipher encryptor  with CLI interface | 2022-11-05 01:19:07 +0000 UTC |
-| 1 | [ProcessReporter](https://github.com/LeifChristian/ProcessReporter) | Node/Express API for watching PM2 processes, server status reporting with Twilio/Gmail API, and local or remote restart of processes.  | 2022-11-05 01:11:49 +0000 UTC |
-| 1 | [paulorobertof](https://github.com/paulorobertof/paulorobertof) | Config files for my GitHub profile. | 2022-11-05 00:37:23 +0000 UTC |
-| 1 | [Inventory-System](https://github.com/Chlo-Sko/Inventory-System) | C482 - Software I - Object-Oriented Application Development | 2022-11-05 00:01:39 +0000 UTC |
-| 1 | [Rand](https://github.com/Palmerg4/Rand) | An example of why you shouldn't try to generate randomness on-chain | 2022-11-05 00:10:20 +0000 UTC |
-| 1 | [nlw-copa](https://github.com/AlineGuiseline/nlw-copa) | Projeto construído no evento Next Level Week (NLW) da Rocketseat. | 2022-11-05 00:01:23 +0000 UTC |
-| 1 | [guest-front-end](https://github.com/GabrielFerreira98/guest-front-end) | Front-end para projeto da Guest | 2022-11-05 00:22:45 +0000 UTC |
-| 1 | [ELLBOX](https://github.com/kanand-cfd/ELLBOX) | Lagrangian tracking and collision of ellipsoidal particle in a cubical box | 2022-11-05 00:08:02 +0000 UTC |
-| 1 | [stats-preview-card](https://github.com/jamilpl/stats-preview-card) |  | 2022-11-05 01:16:50 +0000 UTC |
-| 1 | [Shadows-OF-the-Overworld-mod](https://github.com/xXshadowWolf/Shadows-OF-the-Overworld-mod) |  | 2022-11-05 00:07:05 +0000 UTC |
-| 1 | [ionic-autenticacao-firebase](https://github.com/phlima3/ionic-autenticacao-firebase) | Projeto desenvolvido em ionic onde ele faz autenticação usando o firebase service Credentials and Google | 2022-11-05 01:23:24 +0000 UTC |
-| 1 | [Emmataipei](https://github.com/Emmataipei/Emmataipei) | Config files for my GitHub profile. | 2022-11-05 01:38:29 +0000 UTC |
-| 1 | [super-octo-funicular](https://github.com/Viktorguu/super-octo-funicular) |  | 2022-11-05 00:10:58 +0000 UTC |
-| 1 | [956](https://github.com/LARRYKlNG/956) |  | 2022-11-05 00:11:46 +0000 UTC |
-| 1 | [Integration-Project](https://github.com/bigbear-grrr/Integration-Project) |  | 2022-11-05 01:37:46 +0000 UTC |
-| 1 | [Hotel-Management](https://github.com/muhammadashabmavia/Hotel-Management) | The project based on C++. I created this project for my 1st semester project. | 2022-11-05 00:13:10 +0000 UTC |
-| 1 | [ShopMajestic-Ecommerce-API](https://github.com/DianaLauraMN/ShopMajestic-Ecommerce-API) |  | 2022-11-05 00:17:13 +0000 UTC |
-| 1 | [MKWalletSoluction_Soluct](https://github.com/eduardo19791/MKWalletSoluction_Soluct) | Solução para gerar ticket para hotspot | 2022-11-05 00:06:44 +0000 UTC |
-| 1 | [IntelliJ](https://github.com/danielPoloWork/IntelliJ) |  | 2022-11-05 01:05:33 +0000 UTC |
-| 0 | [Prework-study-guide](https://github.com/gnrt/Prework-study-guide) | Study guide for prework | 2022-11-05 00:00:15 +0000 UTC |
-| 0 | [curly-garbanzo](https://github.com/00491781089668/curly-garbanzo) |  | 2022-11-05 00:01:02 +0000 UTC |
-| 0 | [Database-Design-and-Basic-SQL-in-PostgreSQL](https://github.com/JBravo805/Database-Design-and-Basic-SQL-in-PostgreSQL) |  | 2022-11-05 00:02:41 +0000 UTC |
-| 0 | [Kimi](https://github.com/yumofei/Kimi) | Uber | 2022-11-05 00:03:21 +0000 UTC |
-| 0 | [cron-hub](https://github.com/Yandalar/cron-hub) |  | 2022-11-05 00:02:34 +0000 UTC |
-| 0 | [codestuff](https://github.com/walatheo/codestuff) |  | 2022-11-05 00:03:12 +0000 UTC |
-| 0 | [temp](https://github.com/abdomedht/temp) | temp1 | 2022-11-05 00:03:27 +0000 UTC |
-| 0 | [simple_shell](https://github.com/maescode/simple_shell) |  | 2022-11-05 00:02:30 +0000 UTC |
-| 0 | [Flight-Insurance-dApp](https://github.com/SebastienBielecki/Flight-Insurance-dApp) |  | 2022-11-05 00:03:15 +0000 UTC |
-| 0 | [85_14678](https://github.com/qq1935046755qu/85_14678) | 安卓英雄联盟云顶之弈资料库 | 2022-11-05 00:01:59 +0000 UTC |
-| 0 | [FullAuthMERN](https://github.com/PrajwalTikhe1/FullAuthMERN) |  | 2022-11-05 00:04:05 +0000 UTC |
-| 0 | [PreEntrega3Mansilla](https://github.com/aguken9/PreEntrega3Mansilla) |  | 2022-11-05 00:02:40 +0000 UTC |
-| 0 | [eth-web-app](https://github.com/Mirror-Protocol-Clone/eth-web-app) |  | 2022-11-05 00:08:29 +0000 UTC |
-| 0 | [Carpetahenry](https://github.com/Gabo-Sanchez/Carpetahenry) |  | 2022-11-05 00:09:41 +0000 UTC |
-| 0 | [p7](https://github.com/da333333333/p7) |  | 2022-11-05 00:06:49 +0000 UTC |
-| 0 | [react-business-card-AR](https://github.com/khristin-2022/react-business-card-AR) | react-three-example-image-tracking-business-card | 2022-11-05 00:10:50 +0000 UTC |
-| 0 | [proyectoo](https://github.com/Cayo322/proyectoo) |  | 2022-11-05 00:09:55 +0000 UTC |
-| 0 | [arduino_projects](https://github.com/vicserv/arduino_projects) |  | 2022-11-05 00:10:39 +0000 UTC |
-| 0 | [IntegrationProject](https://github.com/dliers/IntegrationProject) |  | 2022-11-05 00:09:11 +0000 UTC |
-| 0 | [stock-app-frontend](https://github.com/joshuachapman93/stock-app-frontend) | Svelte tailwind frontend for stock application | 2022-11-05 00:07:11 +0000 UTC |
-| 0 | [task-2](https://github.com/AbdulRaufARK/task-2) | Assignment | 2022-11-05 00:06:34 +0000 UTC |
-| 0 | [sbt](https://github.com/sai-hackathon/sbt) |  | 2022-11-05 00:05:58 +0000 UTC |
-| 0 | [Copa-Ignite-NLW](https://github.com/thammgoncalves/Copa-Ignite-NLW) |  | 2022-11-05 00:08:34 +0000 UTC |
-| 0 | [hoa_app](https://github.com/MelissaCurylo/hoa_app) | MERN Project: HOA Board Application  | 2022-11-05 00:08:44 +0000 UTC |
-| 0 | [atividade-people](https://github.com/rossienzo/atividade-people) | Atividade Focus | 2022-11-05 00:07:49 +0000 UTC |
-| 0 | [ShopWorld93](https://github.com/ThanhTi93/ShopWorld93) |  | 2022-11-05 00:12:06 +0000 UTC |
-| 0 | [Terraform](https://github.com/SrMafra/Terraform) | Estudos IAC Terraform | 2022-11-05 00:12:11 +0000 UTC |
-| 0 | [MS28S_JavaSolitaire](https://github.com/KatiaMiglioli/MS28S_JavaSolitaire) |  | 2022-11-05 00:01:36 +0000 UTC |
-| 0 | [cars-bnb](https://github.com/Abdo9826/cars-bnb) |  | 2022-11-05 00:13:37 +0000 UTC |
-| 0 | [caua](https://github.com/Frombolas/caua) |  | 2022-11-05 00:12:26 +0000 UTC |
-| 0 | [zzamboni_leanpub-watch-action](https://github.com/actions-marketplace-validations/zzamboni_leanpub-watch-action) |  | 2022-11-05 00:14:02 +0000 UTC |
-| 0 | [Clone-Dictionary](https://github.com/HATE-Company/Clone-Dictionary) | Clone Dictionary \| Mert#5587 | 2022-11-05 00:04:02 +0000 UTC |
-| 0 | [slide-share](https://github.com/brandon-brum/slide-share) | A tailored screen sharing app made in WebRTC specifically for slower internet connections | 2022-11-05 00:12:16 +0000 UTC |
-| 0 | [finalProjectFullStack](https://github.com/shivaniInamdar-fullstack/finalProjectFullStack) | This is a repo for my final project in coursera | 2022-11-05 00:08:33 +0000 UTC |
-| 0 | [Restaurant_Website](https://github.com/JamesMunoz1999/Restaurant_Website) |  | 2022-11-05 00:13:41 +0000 UTC |
-| 0 | [introToPython](https://github.com/onasaxela/introToPython) |  | 2022-11-05 00:15:32 +0000 UTC |
-| 0 | [16_9634](https://github.com/qq1935046755qy/16_9634) | 模块:智云物业V3.1.5 以物业管理为核心 打造智慧云物业管理平台 | 2022-11-05 00:16:26 +0000 UTC |
-| 0 | [zufardhiyaulhaq_setup-istioctl](https://github.com/actions-marketplace-validations/zufardhiyaulhaq_setup-istioctl) |  | 2022-11-05 00:16:25 +0000 UTC |
-| 0 | [MusicVAE](https://github.com/cyan9212/MusicVAE) |  | 2022-11-05 00:06:16 +0000 UTC |
-| 0 | [zrosenbauer_slack](https://github.com/actions-marketplace-validations/zrosenbauer_slack) |  | 2022-11-05 00:17:21 +0000 UTC |
-| 0 | [34_14711](https://github.com/qq1935046755qu/34_14711) | 安卓一键设置充电提示音v1.0 | 2022-11-05 00:17:28 +0000 UTC |
-| 0 | [MUI-components](https://github.com/felipe7281/MUI-components) | Created with CodeSandbox | 2022-11-05 00:16:46 +0000 UTC |
-| 0 | [dsa](https://github.com/jonathanfelicity/dsa) |  | 2022-11-05 00:20:24 +0000 UTC |
-| 0 | [zofrex_mirror-branch](https://github.com/actions-marketplace-validations/zofrex_mirror-branch) |  | 2022-11-05 00:19:46 +0000 UTC |
-| 0 | [Decode-String](https://github.com/WeebAlert1/Decode-String) |  | 2022-11-05 00:20:55 +0000 UTC |
+| 3 | [Starstruck-30272476](https://github.com/emimbchen/Starstruck-30272476) |  | 2022-11-06 00:11:07 +0000 UTC |
+| 2 | [BeFake-Dashboard](https://github.com/ArtrenH/BeFake-Dashboard) | Dashboard for BeFake | 2022-11-06 00:22:57 +0000 UTC |
+| 2 | [python-basic](https://github.com/Gugo-le/python-basic) | 친구에게 파이썬 알려주기 | 2022-11-06 00:19:48 +0000 UTC |
+| 1 | [training](https://github.com/claudsonbarrosdbc/training) |  | 2022-11-06 00:08:10 +0000 UTC |
+| 1 | [chrooted](https://github.com/novusthedev/chrooted) | An easy to use tool where you can install other Linux distros on top of your current and chroot into them. | 2022-11-06 00:29:35 +0000 UTC |
+| 1 | [EDA-For-IPL](https://github.com/SrinidhiBharadwaj/EDA-For-IPL) |  | 2022-11-06 00:05:53 +0000 UTC |
+| 1 | [PHP2_2023_aud_nedelja02](https://github.com/glavniArhivator/PHP2_2023_aud_nedelja02) |  | 2022-11-06 00:31:28 +0000 UTC |
+| 1 | [nokia-x2-adb-exploit-root](https://github.com/symbuzzer/nokia-x2-adb-exploit-root) | Nokia X2 ADB Exploit for Stock Rom | 2022-11-06 00:17:24 +0000 UTC |
+| 1 | [Silent-Excel-Exploit-](https://github.com/0x414141414/Silent-Excel-Exploit-) |  | 2022-11-06 00:32:07 +0000 UTC |
+| 1 | [Hechoamano](https://github.com/Frangaleano/Hechoamano) | Este proyecto es el segundo que realizo, luego de terminar el curso de desarrollo web en coder. | 2022-11-06 01:06:23 +0000 UTC |
+| 1 | [meu_reposit-rio3](https://github.com/Carla2216/meu_reposit-rio3) |  | 2022-11-06 00:34:17 +0000 UTC |
+| 1 | [ContaBancaria_V3](https://github.com/freire45/ContaBancaria_V3) | Programa que simula uma conta bancária | 2022-11-06 00:44:08 +0000 UTC |
+| 1 | [NdRApp](https://github.com/DaviSe2/NdRApp) | Recode Pro, APP do NdRViagens consumindo API em C# que consulta a mesma base de dados da API em JAVA.  | 2022-11-06 00:52:27 +0000 UTC |
+| 1 | [SILENT-EXCEL-XLS-EXPLOIT-CLEANm](https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANm) |  | 2022-11-06 01:12:36 +0000 UTC |
+| 1 | [Luifeng0](https://github.com/Luifeng0/Luifeng0) | Config files for my GitHub profile. | 2022-11-06 01:11:18 +0000 UTC |
+| 1 | [loja](https://github.com/lucasvmramos/loja) |  | 2022-11-06 00:11:09 +0000 UTC |
+| 1 | [v_standalone_template](https://github.com/sakkke/v_standalone_template) | 🧲 A V template for standalone executables, including MIT license and a dev container. | 2022-11-06 01:02:57 +0000 UTC |
+| 1 | [htc-hd2-nand-analyses](https://github.com/symbuzzer/htc-hd2-nand-analyses) | Understanding HTC HD2's famous bootloader, aMagldr's Nand Design and Partition Structure | 2022-11-06 00:36:03 +0000 UTC |
+| 1 | [DOCKER](https://github.com/madibash1/DOCKER) |  | 2022-11-06 00:58:11 +0000 UTC |
+| 1 | [SILENT-PDF-EXPLOIT-CLEANm](https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANm) |  | 2022-11-06 01:10:35 +0000 UTC |
+| 1 | [Cheating-Communty](https://github.com/SugarBoy1337/Cheating-Communty) | Official Cheating Communty - https://discord.gg/mqJqFPEBm8 | 2022-11-06 00:11:15 +0000 UTC |
+| 1 | [PWEB](https://github.com/detonaweb/PWEB) |  | 2022-11-06 00:14:53 +0000 UTC |
+| 1 | [Silent-PDF-Exploit-](https://github.com/0x414141414/Silent-PDF-Exploit-) |  | 2022-11-06 00:31:37 +0000 UTC |
+| 1 | [vueflask](https://github.com/morningx/vueflask) |  | 2022-11-06 01:13:53 +0000 UTC |
+| 1 | [wp-screenr-theme-dark-mode-additional-css](https://github.com/symbuzzer/wp-screenr-theme-dark-mode-additional-css) | Wordpress Screenr theme unofficial dark mode additional CSS codes | 2022-11-06 00:55:24 +0000 UTC |
+| 1 | [xprojup](https://github.com/phimage/xprojup) |  | 2022-11-06 00:40:48 +0000 UTC |
+| 1 | [Deep_Face_Detection](https://github.com/ryanhong07/Deep_Face_Detection) | A neutral network built and modified using VGG16 model to detect faces | 2022-11-06 00:02:21 +0000 UTC |
+| 1 | [SNU_2D_ProgrammingTools_IDE_Refal](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Refal) | The Refal Programming language IDE submodule for SNU Programming Tools (2D Mode) | 2022-11-06 00:01:36 +0000 UTC |
+| 1 | [Delmy-Castillo-Resume](https://github.com/anahyeee/Delmy-Castillo-Resume) | My very own resume for job applications. | 2022-11-06 00:04:53 +0000 UTC |
+| 1 | [SILENT-DOC-EXPLOIT-CLEANm](https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANm) |  | 2022-11-06 01:11:55 +0000 UTC |
+| 1 | [py-askerlik-with-kaynIm](https://github.com/symbuzzer/py-askerlik-with-kaynIm) | Bünyamin BAKIMCI ile Python alıştırması | 2022-11-06 01:14:55 +0000 UTC |
+| 1 | [nokia-x2-cyanogenmod11-low-memory-fixer](https://github.com/symbuzzer/nokia-x2-cyanogenmod11-low-memory-fixer) | LowMemoryKiller script for Nokia X2 (Ara) CyanogenMod 11 rom | 2022-11-06 00:12:08 +0000 UTC |
+| 1 | [ProjectTwo](https://github.com/DavidGarciaWebDev/ProjectTwo) | Check my portfolio at https:/davidgarciawebdev.com | 2022-11-06 01:10:06 +0000 UTC |
+| 1 | [meet](https://github.com/thusmiley/meet) |  | 2022-11-06 00:09:39 +0000 UTC |
+| 1 | [Learn-Refal](https://github.com/seanpm2001/Learn-Refal) | A repository for showcasing my knowledge of the Refal programming language, and continuing to learn the language. | 2022-11-06 00:00:24 +0000 UTC |
+| 1 | [calendario-copa-nlw](https://github.com/BioGMMorais/calendario-copa-nlw) | Projeto feito durante o evento NLW da Rocketseat na trilha Explorer | 2022-11-06 00:01:38 +0000 UTC |
+| 1 | [Calculadora-kill-bill-JS](https://github.com/JOESTAR117/Calculadora-kill-bill-JS) | Projeto basico de calculadora JS | 2022-11-06 00:11:25 +0000 UTC |
+| 1 | [Learn-SCSS](https://github.com/seanpm2001/Learn-SCSS) | A repository for showcasing my knowledge of the SCSS programming language, and continuing to learn the language. | 2022-11-06 00:02:51 +0000 UTC |
+| 1 | [Curso-MySql](https://github.com/Jhonatas-Araujo/Curso-MySql) |  | 2022-11-06 00:25:25 +0000 UTC |
+| 1 | [dceu](https://github.com/fsantanna/dceu) |  | 2022-11-06 00:09:24 +0000 UTC |
+| 1 | [JPEG-Silent-Exploit-2022](https://github.com/0x414141414/JPEG-Silent-Exploit-2022) |  | 2022-11-06 00:30:46 +0000 UTC |
+| 1 | [AluraFrame-TSC](https://github.com/JoaoIto/AluraFrame-TSC) | This is a business webpage, made in Alura! Este é um site de negociação de investimentos em dinheiro desenvolvido em um projeto pela Alura em tempo de investimento, volume, taxa, etc... Dessa vez rodado no modelo MVC de TypeScript de tipagem JS | 2022-11-06 00:46:51 +0000 UTC |
+| 1 | [clothy](https://github.com/HaithemGhattass/clothy) |  | 2022-11-06 01:09:59 +0000 UTC |
+| 1 | [credfeto-enum-source-generation](https://github.com/credfeto/credfeto-enum-source-generation) | C# source generator for producing faster enum lookups | 2022-11-06 00:36:26 +0000 UTC |
+| 1 | [depresionTropical](https://github.com/depresionTropical/depresionTropical) |  | 2022-11-06 00:09:37 +0000 UTC |
+| 1 | [HwidSpoofer.com-Remaked-in-C-Winform-by-SugarBoy-1337](https://github.com/SugarBoy1337/HwidSpoofer.com-Remaked-in-C-Winform-by-SugarBoy-1337) | I remaked HwidSpoofer.com Join my Discord Server for the Download! Remaked by: SugarBoy#1337  https://discord.gg/mqJqFPEBm8 | 2022-11-06 00:12:09 +0000 UTC |
+| 1 | [ProxyChecker](https://github.com/Y-v-a-i-n/ProxyChecker) | A simple algorithm to check proxy lists (HTTP/HTTPS/SOCKS4/SOCKS5/ALL) by filtering IPv4/IPv6 addresses created by me | 2022-11-06 00:42:00 +0000 UTC |
+| 1 | [SkiaSharpHatching](https://github.com/bclehmann/SkiaSharpHatching) |  | 2022-11-06 00:09:14 +0000 UTC |
+| 1 | [PlayerRegistration](https://github.com/robertowusu4199/PlayerRegistration) |  | 2022-11-06 01:07:46 +0000 UTC |
+| 1 | [dotfiles](https://github.com/HerilS/dotfiles) | Heril's Dotfiles | 2022-11-06 01:29:39 +0000 UTC |
+| 1 | [Alpha](https://github.com/red-x7368/Alpha) | Text Encryption System  | 2022-11-06 01:29:30 +0000 UTC |
+| 1 | [sams-GitHub-repo](https://github.com/GreatNate0509YTALT1/sams-GitHub-repo) | This is made by this alt account which is made by my sister sam enjoy and heres my website | 2022-11-06 00:27:02 +0000 UTC |
+| 1 | [-_](https://github.com/hyeseongmyg/-_) |  | 2022-11-06 01:34:36 +0000 UTC |
+| 1 | [Learn-Sed](https://github.com/seanpm2001/Learn-Sed) | A repository for showcasing my knowledge of the Sed programming language, and continuing to learn the language. | 2022-11-06 00:04:05 +0000 UTC |
+| 1 | [Paulo12345](https://github.com/Paulo12345/Paulo12345) | Config files for my GitHub profile. | 2022-11-06 01:00:56 +0000 UTC |
+| 1 | [One-to-One-Chat-Application](https://github.com/Rahi999/One-to-One-Chat-Application) | Build this Mern Application For Chatting one-to-one Person. Messages Can be typed and after sending messages can be shown on the UI as Well | 2022-11-06 00:23:50 +0000 UTC |
+| 1 | [slim-skin](https://github.com/Turnip-Labs/slim-skin) | Minecraft Better than Adventure! mod adding slim skin support | 2022-11-06 01:03:56 +0000 UTC |
+| 1 | [ProsjektTNT_QBCoreV1](https://github.com/ProsjektTNT/ProsjektTNT_QBCoreV1) | Open Source  Norsk QBCore based Prosjekt. for spillere av spillere | 2022-11-06 00:19:59 +0000 UTC |
+| 1 | [SpotifyAccountCreator](https://github.com/BrailyGuzman/SpotifyAccountCreator) | This Program Creates a Spotify Account with given Username, Password & Display Name. | 2022-11-06 01:05:22 +0000 UTC |
+| 1 | [dotfiles](https://github.com/pradana4648/dotfiles) | Config dotfiles buat Arch  | 2022-11-06 01:11:23 +0000 UTC |
+| 0 | [simplebot](https://github.com/stebansaa/simplebot) |  | 2022-11-06 00:10:22 +0000 UTC |
+| 0 | [17_12430](https://github.com/qq1935046755qy/17_12430) | 仙侣奇缘2 2D怀旧武侠网游单机一键服务端 GM工具无限元宝 | 2022-11-06 00:11:29 +0000 UTC |
+| 0 | [responsive-delivery](https://github.com/lemartins07/responsive-delivery) |  | 2022-11-06 00:10:38 +0000 UTC |
+| 0 | [2022-nvim-rc](https://github.com/drew-harris/2022-nvim-rc) |  | 2022-11-06 00:10:14 +0000 UTC |
+| 0 | [queue_py](https://github.com/shakil4014008/queue_py) |  | 2022-11-06 00:12:07 +0000 UTC |
+| 0 | [62_12432](https://github.com/qq1935046755qy/62_12432) | 网络游戏【鬼话钟馗】最新梦幻版 抓鬼神兽GM 回合网游仿梦幻西游单机版一键端 | 2022-11-06 00:12:33 +0000 UTC |
+| 0 | [nlwCopa](https://github.com/davimarcilio/nlwCopa) |  | 2022-11-06 00:12:26 +0000 UTC |
+| 0 | [CNNRepo](https://github.com/baris-kol/CNNRepo) | Görüntü Analizinde Derin Öğrenme Uygulamaları Projeleri | 2022-11-06 00:10:47 +0000 UTC |
+| 0 | [OOP-244](https://github.com/Parampree972/OOP-244) |  | 2022-11-06 00:11:36 +0000 UTC |
+| 0 | [physics-assignment](https://github.com/Stefan-Physics/physics-assignment) |  | 2022-11-06 00:14:14 +0000 UTC |
+| 0 | [s3betaplus](https://github.com/ogm846/s3betaplus) | IDK BRO | 2022-11-06 00:14:31 +0000 UTC |
+| 0 | [40_12435](https://github.com/qq1935046755qy/40_12435) | 网路游戏【永恒之塔4.3】精品AION4.3一键服务端3D网游赛亚人核心枪炮带客户端及教程 | 2022-11-06 00:14:21 +0000 UTC |
+| 0 | [nextCov](https://github.com/Rohit-Satyam/nextCov) | A short read Nextflow pipeline for SARS-Cov2 | 2022-11-06 00:05:49 +0000 UTC |
+| 0 | [jassunas-front](https://github.com/Goby026/jassunas-front) | Angular project | 2022-11-06 00:14:05 +0000 UTC |
+| 0 | [week-3-challenge](https://github.com/zMag33z/week-3-challenge) |  | 2022-11-06 00:15:37 +0000 UTC |
+| 0 | [HTML5-CSS3-Sites](https://github.com/lukasombrado/HTML5-CSS3-Sites) | Sites feitos puramente com HTML5 e CSS3 | 2022-11-06 00:09:39 +0000 UTC |
+| 0 | [Health_insurance_cross_selling](https://github.com/snowflake439/Health_insurance_cross_selling) |  | 2022-11-06 00:13:28 +0000 UTC |
+| 0 | [tst-tc471-gyylycelc-42929](https://github.com/crowdbotics-dev/tst-tc471-gyylycelc-42929) | This react_native application was built with Crowdbotics www.crowdbotics.com | 2022-11-06 00:15:56 +0000 UTC |
+| 0 | [wav2lip-hq-test](https://github.com/MizunoAtsuyuki/wav2lip-hq-test) |  | 2022-11-06 00:16:23 +0000 UTC |
+| 0 | [70142a2d-6591-4bab-9f2a-ad38a6ff311e](https://github.com/appseed-projects2/70142a2d-6591-4bab-9f2a-ad38a6ff311e) | Volt Dashboard Django - Generated Seed Project (Open-Source) \| AppSeed | 2022-11-06 00:15:03 +0000 UTC |
+| 0 | [Final-Project-in-Python](https://github.com/nadirras/Final-Project-in-Python) | This is the pre-trained file of Final Project that detect shockable or non-shockable rhythm of cardiac arrest | 2022-11-06 00:15:23 +0000 UTC |
+| 0 | [92_12440](https://github.com/qq1935046755qy/92_12440) | 韩游【武林外史】一键服务端+教程3D武侠古老的东方国度在韩国当地刮起了一阵3D旋风 | 2022-11-06 00:16:56 +0000 UTC |
+| 0 | [proyecto62](https://github.com/churrito5767/proyecto62) |  | 2022-11-06 00:12:04 +0000 UTC |
+| 0 | [12_12441](https://github.com/qq1935046755qy/12_12441) | 3D动作网游单机 项羽OL一键安装服务端 GM后台修改元宝金币 | 2022-11-06 00:17:26 +0000 UTC |
+| 0 | [VJJ-Divisas-Converter-Reto-1-](https://github.com/ljparras/VJJ-Divisas-Converter-Reto-1-) |  | 2022-11-06 00:19:04 +0000 UTC |
+| 0 | [guess-popular-game](https://github.com/jantosz/guess-popular-game) |  | 2022-11-06 00:17:46 +0000 UTC |
+| 0 | [17_12444](https://github.com/qq1935046755qy/17_12444) | 魔兽【9月3.3.5更新琉璃魔兽V1】商业版 特色修改耐玩性强修复所有T4副本无BUG测试稳定 | 2022-11-06 00:19:05 +0000 UTC |
+| 0 | [Fixed-Cloak-3D-poser-for-Android](https://github.com/Zantetsukens-cut/Fixed-Cloak-3D-poser-for-Android) | Fix the issue with Cloak not being able to save poses, scenes, and images. | 2022-11-06 00:16:35 +0000 UTC |
+| 0 | [my-website](https://github.com/CrazyWillBear/my-website) | My personal website on https://capbear.net | 2022-11-06 00:21:34 +0000 UTC |
+| 0 | [JSPcurd](https://github.com/yesmenOkay/JSPcurd) |  | 2022-11-06 00:21:27 +0000 UTC |
+| 0 | [working-national-code](https://github.com/GivaldoEc/working-national-code) | Working gode for the embedded logger | 2022-11-06 00:19:48 +0000 UTC |
+| 0 | [DataStructures-and-Algorithms](https://github.com/rubentanahara/DataStructures-and-Algorithms) | Course of datastructures and algorithms | 2022-11-06 00:19:54 +0000 UTC |
+| 0 | [RhythmSharma10614346](https://github.com/RhythmSharma10614346/RhythmSharma10614346) | Config files for my GitHub profile. | 2022-11-06 00:23:15 +0000 UTC |
+| 0 | [CardMatchGame](https://github.com/Zarzoom/CardMatchGame) |  | 2022-11-06 00:19:46 +0000 UTC |
+| 0 | [Personal-Portfolio](https://github.com/JaeGif/Personal-Portfolio) | JaeGif's current Front-End Engineering Portfolio | 2022-11-06 00:23:30 +0000 UTC |
+| 0 | [dart](https://github.com/simo1231211/dart) |  | 2022-11-06 00:23:34 +0000 UTC |
+| 0 | [LAMP-Reddit-App](https://github.com/javajavascript/LAMP-Reddit-App) |  | 2022-11-06 00:22:33 +0000 UTC |
+| 0 | [10_12453](https://github.com/qq1935046755qy/10_12453) | 网游【神話RYL】服务端+客户端+数据库+网站 | 2022-11-06 00:24:14 +0000 UTC |
+| 0 | [PaginaStreaming](https://github.com/YairHernandezPech/PaginaStreaming) | Es una Pagina html con Bostrap esta pagina es una actividad realizada en la universidad | 2022-11-06 00:17:43 +0000 UTC |
+| 0 | [UnrealBrokenLegs](https://github.com/onlinesupergamer/UnrealBrokenLegs) |  | 2022-11-06 00:15:06 +0000 UTC |
 
