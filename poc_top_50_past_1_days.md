@@ -1,103 +1,103 @@
 | Stars | Name | Desc | Created | 
 | ----- | ------- | ------------- | ------------- |
-| 2 | [pdf-tools](https://github.com/estebangarcia21/pdf-tools) |  | 2022-11-13 00:36:57 +0000 UTC |
-| 2 | [security-roles-login](https://github.com/johngualteros/security-roles-login) | login spring security roles, email sender, lombok, forgotPassword | 2022-11-13 01:35:25 +0000 UTC |
-| 2 | [mca-pcaprotocol](https://github.com/MagooPixel/mca-pcaprotocol) |  | 2022-11-13 01:14:54 +0000 UTC |
-| 1 | [Connect4-SpecialEdition](https://github.com/HashtagOfficialAccount/Connect4-SpecialEdition) | Welcome to Connect4. BUT - THERE IS A TWIST! THE LAWS OF GRAVITY HAVE BEEN VOIDED! Welcome to a new era of connect 4! | 2022-11-13 00:02:11 +0000 UTC |
-| 1 | [SILENT-DOC-EXPLOIT-CLEANii](https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANii) |  | 2022-11-13 00:43:03 +0000 UTC |
-| 1 | [SILENT-EXCEL-XLS-EXPLOIT-CLEANii](https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANii) |  | 2022-11-13 00:44:02 +0000 UTC |
-| 1 | [CienciasDeLosDatosTEC](https://github.com/dchaconr/CienciasDeLosDatosTEC) |  | 2022-11-13 01:12:56 +0000 UTC |
-| 1 | [tastefl](https://github.com/jack-hags/tastefl) | Generate a unique Spotify playlist based on the ever-changing world around you. | 2022-11-13 01:18:23 +0000 UTC |
-| 1 | [DesafioFullStackQuestao3](https://github.com/Gabimariacarvalho/DesafioFullStackQuestao3) |  | 2022-11-13 00:25:46 +0000 UTC |
-| 1 | [spdx3-dotnet](https://github.com/iamwillbar/spdx3-dotnet) | SPDX 3.0-DRAFT Implementation for .NET | 2022-11-13 00:22:01 +0000 UTC |
-| 1 | [mixin.js](https://github.com/Thundercraft5/mixin.js) | 🎛️A zero-dependency lightweight performant library for creating mixins/traits in JS/TS. | 2022-11-13 00:34:27 +0000 UTC |
-| 1 | [ADI-XGAMING-](https://github.com/Adi-Xgaming/ADI-XGAMING-) | Hi | 2022-11-13 01:07:35 +0000 UTC |
-| 1 | [ps3_Game](https://github.com/Diospace/ps3_Game) | Game in python | 2022-11-13 01:22:21 +0000 UTC |
-| 1 | [Ted.florkers.com](https://github.com/Ted6828/Ted.florkers.com) | Just a kinda bio website with my socials and that | 2022-11-13 00:23:56 +0000 UTC |
-| 1 | [My-portfolio](https://github.com/ajay001-zz/My-portfolio) | this is my personal portfolio made using html, css, js | 2022-11-13 01:11:20 +0000 UTC |
-| 1 | [RegularlyOversimplifyingNNs](https://github.com/nicholaskross/RegularlyOversimplifyingNNs) | Can we make neural network structures searchable? | 2022-11-13 00:21:32 +0000 UTC |
-| 1 | [endoze](https://github.com/endoze/endoze) |  | 2022-11-13 01:13:04 +0000 UTC |
-| 1 | [PIXELONGAKNII](https://github.com/PIXELONGAKNII/PIXELONGAKNII) |  | 2022-11-13 00:26:22 +0000 UTC |
-| 1 | [MealsApp-React](https://github.com/mohdmustafa0111/MealsApp-React) |  | 2022-11-13 00:30:54 +0000 UTC |
-| 1 | [todo-list-mvc-nodejs](https://github.com/josedomingos919/todo-list-mvc-nodejs) | Simple task list using mysql mvc struct and nodejs | 2022-11-13 00:56:31 +0000 UTC |
-| 1 | [Weslei.souza](https://github.com/wesleifs/Weslei.souza) |  | 2022-11-13 00:20:14 +0000 UTC |
-| 1 | [jarchive](https://github.com/emacs-straight/jarchive) | Mirror of the jarchive package from GNU ELPA, current as of 2022-11-13 | 2022-11-13 00:06:09 +0000 UTC |
-| 1 | [card-design-with-animatin](https://github.com/waqashaider01/card-design-with-animatin) | Bootstrap 4 2 Card Design  With CSS and HTML | 2022-11-13 00:15:56 +0000 UTC |
-| 1 | [pln-pos-hmm](https://github.com/Elildes/pln-pos-hmm) | Modelagem de Sequence Labeling Problema para NLP como HMM - Hidden Markov Model | 2022-11-13 00:47:25 +0000 UTC |
-| 1 | [Twitter-Sentiment-Analysis](https://github.com/edonnardkibii/Twitter-Sentiment-Analysis) |  | 2022-11-13 01:27:52 +0000 UTC |
-| 1 | [logintela](https://github.com/gabsouzkkj/logintela) |  | 2022-11-13 01:37:02 +0000 UTC |
-| 1 | [redpine-mobile](https://github.com/FlyingJay/redpine-mobile) | RedPine React Native App | 2022-11-13 00:13:25 +0000 UTC |
-| 1 | [Jogo-da-Velha-Python](https://github.com/Massnt/Jogo-da-Velha-Python) |  | 2022-11-13 00:49:35 +0000 UTC |
-| 1 | [favelog](https://github.com/carlosrocha-dev/favelog) |  | 2022-11-13 00:45:13 +0000 UTC |
-| 1 | [laravel-translations](https://github.com/MohmmedAshraf/laravel-translations) | Laravel Translations UI provides a simple way to manage your translations in your Laravel application. It allows you to add, edit, delete and export translations, and it also provides a search functionality to find translations. | 2022-11-13 00:31:31 +0000 UTC |
-| 1 | [MIS](https://github.com/Astor-m/MIS) | This repository is used to store my MIS course experiment work | 2022-11-13 01:18:01 +0000 UTC |
-| 1 | [capitalize.cpp](https://github.com/yisliu/capitalize.cpp) |  | 2022-11-13 00:21:38 +0000 UTC |
-| 1 | [Juan-esteban](https://github.com/Juayhdre/Juan-esteban) |  | 2022-11-13 00:34:50 +0000 UTC |
-| 1 | [color-hunter-app](https://github.com/dhuddi-bro/color-hunter-app) | View Live project here: https://colorhunt-app.netlify.app/  Make Sure to leave a star and suggessions | 2022-11-13 00:44:02 +0000 UTC |
-| 1 | [Animation-Buttons](https://github.com/waqashaider01/Animation-Buttons) | Custom Animation Buttons With HTML CSS | 2022-11-13 00:44:43 +0000 UTC |
-| 1 | [KnowledgeArchived](https://github.com/Vladimirirr/KnowledgeArchived) |  | 2022-11-13 01:04:44 +0000 UTC |
-| 1 | [mtvrspt](https://github.com/smelocamilo/mtvrspt) | 👉👉👉🌍🌎🌏🙈🌔🌕🌖👈👈👈 | 2022-11-13 01:01:53 +0000 UTC |
-| 1 | [Top-5-European-Football-Club-Analysis](https://github.com/shehzanwar/Top-5-European-Football-Club-Analysis) | An analysis completed by me over the summer of 2022 on the top performing clubs and players in European football during the 2020/21 season. | 2022-11-13 00:07:54 +0000 UTC |
-| 1 | [hirepeople](https://github.com/Rajeshrj202/hirepeople) |  | 2022-11-13 00:14:05 +0000 UTC |
-| 1 | [SILENT-PDF-EXPLOIT-CLEANii](https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANii) |  | 2022-11-13 00:41:38 +0000 UTC |
-| 1 | [mlazadehdezjbonabbhzad-gmail.com-](https://github.com/Mlazadehdezjbonabbhzad/mlazadehdezjbonabbhzad-gmail.com-) |  | 2022-11-13 01:05:09 +0000 UTC |
-| 1 | [spring-batch](https://github.com/airtonalmeida/spring-batch) |  | 2022-11-13 00:41:19 +0000 UTC |
-| 1 | [ProyectoFinal_LucasDiNezio](https://github.com/lucasdinezio/ProyectoFinal_LucasDiNezio) |  | 2022-11-13 01:15:35 +0000 UTC |
-| 1 | [Extravi](https://github.com/Extravi/Extravi) |  | 2022-11-13 01:28:29 +0000 UTC |
-| 1 | [DesafioFullStackQuestao4](https://github.com/Gabimariacarvalho/DesafioFullStackQuestao4) |  | 2022-11-13 00:29:21 +0000 UTC |
-| 1 | [fooducm](https://github.com/JoseFlores9/fooducm) |  | 2022-11-13 00:13:15 +0000 UTC |
-| 1 | [nike-store-tailwind](https://github.com/septiandr/nike-store-tailwind) |  | 2022-11-13 01:20:37 +0000 UTC |
-| 1 | [secure-ssh-config](https://github.com/Extravi/secure-ssh-config) | secure ssh using libpam-google-authenticator | 2022-11-13 01:20:01 +0000 UTC |
-| 1 | [Chocolate-Engine-Advanced-Lua](https://github.com/Joalor64GH/Chocolate-Engine-Advanced-Lua) | A bare-bones fork of Chocolate Engine designed to be soft coded, but to be used with source code. Has support for advanced lua. | 2022-11-13 00:47:08 +0000 UTC |
-| 1 | [yodieware](https://github.com/yodieware/yodieware) |  | 2022-11-13 01:10:56 +0000 UTC |
-| 1 | [Valores-Nulos](https://github.com/OscarAliM/Valores-Nulos) |  | 2022-11-13 01:35:30 +0000 UTC |
-| 1 | [DiceGame](https://github.com/Diospace/DiceGame) | Dice Game in python | 2022-11-13 01:33:35 +0000 UTC |
-| 1 | [fissehab](https://github.com/fissehab/fissehab) |  | 2022-11-13 00:05:59 +0000 UTC |
-| 1 | [scaling-octo-fiesta](https://github.com/01151327620/scaling-octo-fiesta) | zelicaputri6@mail.com | 2022-11-13 00:18:43 +0000 UTC |
-| 1 | [dnd_story_book](https://github.com/AndrewPankoProjects/dnd_story_book) | Virtual Story Book, that will contain multiple One shot story lines, possibly unlockable stories that will cost money.... ;3 | 2022-11-13 01:00:26 +0000 UTC |
-| 1 | [NFTSmartWallet](https://github.com/androolloyd/NFTSmartWallet) | Smart Wallets operated by NFT's | 2022-11-13 01:20:37 +0000 UTC |
-| 1 | [action-figure-store](https://github.com/septiandr/action-figure-store) | reposnsive action figure store using react js, redux, material ui | 2022-11-13 01:31:27 +0000 UTC |
-| 1 | [Indexphone-c](https://github.com/Pitohuyy/Indexphone-c) | First project in C which is a beginning of a phonebook. | 2022-11-13 00:02:17 +0000 UTC |
-| 1 | [Lazar](https://github.com/Lazar-Ilic/Lazar) | Notes has files which contain theorems and definitions useful for memorisation and recollection, as well as files of papers, ideation sessions, codes, subchapter by subchapter textbooks commentaries, papers commentaries, and puzzles. Resume has Resume, Transcript, and Verificational Image Files. | 2022-11-13 00:27:06 +0000 UTC |
-| 1 | [News-website](https://github.com/Sohamhalder07/News-website) | Auto created by Programming Hero | 2022-11-13 01:14:13 +0000 UTC |
-| 1 | [Incremento_](https://github.com/freire45/Incremento_) | Programa em Java que testa incremento | 2022-11-13 01:19:15 +0000 UTC |
-| 1 | [HangmanGame](https://github.com/Diospace/HangmanGame) | Hangman game in python | 2022-11-13 01:09:48 +0000 UTC |
-| 1 | [stephentaylor91.github.io](https://github.com/StephenTaylor91/stephentaylor91.github.io) |  | 2022-11-13 00:31:17 +0000 UTC |
-| 1 | [growing-card-with-hover-animation](https://github.com/waqashaider01/growing-card-with-hover-animation) | beautiful card growing with liner gradient  | 2022-11-13 00:51:49 +0000 UTC |
-| 1 | [Calculator-with-Interface](https://github.com/Massnt/Calculator-with-Interface) |  | 2022-11-13 00:41:48 +0000 UTC |
-| 1 | [Komodo-Insurance-Developer-Team-Management-Application](https://github.com/CassFaith13/Komodo-Insurance-Developer-Team-Management-Application) |  | 2022-11-13 00:45:25 +0000 UTC |
-| 1 | [toggler.in](https://github.com/chtushar/toggler.in) | 🚧 | 2022-11-13 00:32:25 +0000 UTC |
-| 1 | [BelajarGodot](https://github.com/PutraDevId/BelajarGodot) |  | 2022-11-13 00:11:10 +0000 UTC |
-| 1 | [Predictions](https://github.com/sergienkoanna777/Predictions) |  | 2022-11-13 00:08:31 +0000 UTC |
-| 0 | [php-mvc-alura](https://github.com/bbroger1/php-mvc-alura) |  | 2022-11-13 00:00:29 +0000 UTC |
-| 0 | [ponascimento](https://github.com/ponascimento/ponascimento) | Config files for my GitHub profile. | 2022-11-13 00:00:37 +0000 UTC |
-| 0 | [portfoiliosite](https://github.com/GNFinder/portfoiliosite) |  | 2022-11-13 00:01:48 +0000 UTC |
-| 0 | [sadkaodkoadsko](https://github.com/IsaidaOrg/sadkaodkoadsko) |  | 2022-11-13 00:00:51 +0000 UTC |
-| 0 | [musica-app](https://github.com/Bashirwale/musica-app) | music based web app | 2022-11-13 00:02:20 +0000 UTC |
-| 0 | [practice-for-week-02-pojo](https://github.com/KaartikS/practice-for-week-02-pojo) |  | 2022-11-13 00:01:18 +0000 UTC |
-| 0 | [VAI](https://github.com/Faizblack/VAI) | 2HRTPYuvEozU66iuXgjm2aHClxx_4v6FR2dY8pMAakigubL16 | 2022-11-13 00:03:48 +0000 UTC |
-| 0 | [AR-Exhibition](https://github.com/Jin-314/AR-Exhibition) |  | 2022-11-13 00:04:45 +0000 UTC |
-| 0 | [Meu-Perfil](https://github.com/Cardozeira/Meu-Perfil) |  | 2022-11-13 00:07:56 +0000 UTC |
-| 0 | [MovieTime-backend](https://github.com/maxcata1998/MovieTime-backend) |  | 2022-11-13 00:07:39 +0000 UTC |
-| 0 | [43490Marsico](https://github.com/TomMarsz/43490Marsico) |  | 2022-11-13 00:05:00 +0000 UTC |
-| 0 | [noteapp2](https://github.com/MartinDeveloper22/noteapp2) |  | 2022-11-13 00:02:00 +0000 UTC |
-| 0 | [Perojet-QCM-javascript](https://github.com/Zakaria-Kharroub/Perojet-QCM-javascript) | Project QCM for check your level in javascript using javascript ,html and css | 2022-11-13 00:05:45 +0000 UTC |
-| 0 | [javaprojects](https://github.com/CyclicalSeal494/javaprojects) |  | 2022-11-13 00:03:08 +0000 UTC |
-| 0 | [lo](https://github.com/elpro578/lo) |  | 2022-11-13 00:06:57 +0000 UTC |
-| 0 | [lu](https://github.com/elpro578/lu) |  | 2022-11-13 00:08:46 +0000 UTC |
-| 0 | [ItSuyai-Version-2.1--Project1](https://github.com/ItSuyai/ItSuyai-Version-2.1--Project1) |  | 2022-11-13 00:06:37 +0000 UTC |
-| 0 | [challenges-frontedMentor](https://github.com/danielcgilibert/challenges-frontedMentor) |  | 2022-11-13 00:09:21 +0000 UTC |
-| 0 | [Jornada_Prog_Elaine](https://github.com/RadierFalk/Jornada_Prog_Elaine) |  | 2022-11-13 00:06:21 +0000 UTC |
-| 0 | [Python-assignment](https://github.com/solomonugo/Python-assignment) |  | 2022-11-13 00:08:11 +0000 UTC |
-| 0 | [GtaV](https://github.com/erik1505/GtaV) | Site sobre Gta | 2022-11-13 00:11:48 +0000 UTC |
-| 0 | [oop_principles_5](https://github.com/basharbaz/oop_principles_5) |  | 2022-11-13 00:10:37 +0000 UTC |
-| 0 | [lunch_and_learn](https://github.com/cece-132/lunch_and_learn) |  | 2022-11-13 00:11:48 +0000 UTC |
-| 0 | [School_District_Analysis](https://github.com/kbrown0007/School_District_Analysis) |  | 2022-11-13 00:12:51 +0000 UTC |
-| 0 | [playlistSaver](https://github.com/KentV12/playlistSaver) | An application that saves your Youtube playlists locally | 2022-11-13 00:09:58 +0000 UTC |
-| 0 | [mq002](https://github.com/FELIXDUARTE1/mq002) | estudo | 2022-11-13 00:12:24 +0000 UTC |
-| 0 | [react-baslangic](https://github.com/omerkahraman/react-baslangic) | React baslangic | 2022-11-13 00:23:14 +0000 UTC |
-| 0 | [MandateQA1Sunday0027](https://github.com/digitalxc1/MandateQA1Sunday0027) | Testing | 2022-11-13 00:31:09 +0000 UTC |
-| 0 | [first_react_project](https://github.com/furkanozcn/first_react_project) |  | 2022-11-13 00:31:04 +0000 UTC |
-| 0 | [runenv](https://github.com/davidkellis/runenv) | Run a command in an environment that includes environment variables specified in a file | 2022-11-13 00:28:59 +0000 UTC |
-| 0 | [Desserterria-Defense](https://github.com/pupungeggang289/Desserterria-Defense) |  | 2022-11-13 00:31:55 +0000 UTC |
+| 4 | [getpet](https://github.com/rafaelmtrindade/getpet) | GetPet é um aplicativo para conectar doadores/vendedores de Pets com adotantes/compradores através de uma plataforma on-line com funcionalidades como localização de pet-shops próximos e chats de bate-papo. | 2022-11-14 00:56:54 +0000 UTC |
+| 3 | [hiphp-desktop](https://github.com/hiphp-project/hiphp-desktop) |  | 2022-11-14 00:00:39 +0000 UTC |
+| 3 | [TESTGIT-B5JUNGGEUN](https://github.com/sjk990515/TESTGIT-B5JUNGGEUN) |  | 2022-11-14 00:11:55 +0000 UTC |
+| 3 | [TESTGIT-B5JIEUN](https://github.com/yjyyls/TESTGIT-B5JIEUN) |  | 2022-11-14 00:11:46 +0000 UTC |
+| 3 | [HoodsLife](https://github.com/YangYubin12/HoodsLife) | 후드 브이로그 | 2022-11-14 00:18:43 +0000 UTC |
+| 3 | [TESTGIT-B5MINSUNG](https://github.com/GhostPines/TESTGIT-B5MINSUNG) |  | 2022-11-14 00:11:55 +0000 UTC |
+| 2 | [TESTGIT-B5MYEONGJUN](https://github.com/chorongs/TESTGIT-B5MYEONGJUN) |  | 2022-11-14 00:23:28 +0000 UTC |
+| 2 | [Simple-Discord-Slash-Cmds](https://github.com/AmbEAE/Simple-Discord-Slash-Cmds) |  | 2022-11-14 00:48:10 +0000 UTC |
+| 2 | [resources](https://github.com/openbook-dex/resources) | Resources for the "Serum Community Fork" project | 2022-11-14 00:39:03 +0000 UTC |
+| 1 | [boleto-banco-brasil](https://github.com/filipeas/boleto-banco-brasil) | SDK para boletos do Banco do Brasil | 2022-11-14 00:44:10 +0000 UTC |
+| 1 | [Nitrix](https://github.com/Dashbloxx/Nitrix) | NITRIX is a UNIX-like operating system developed me (https://github.com/Dashbloxx), and an anonymous friend. | 2022-11-14 00:50:18 +0000 UTC |
+| 1 | [Dayanaaa1](https://github.com/Dayanaaa1/Dayanaaa1) | Config files for my GitHub profile. | 2022-11-14 01:17:55 +0000 UTC |
+| 1 | [SNU_3D_Universe_MilkyWay_Solar-System_Kuiper-Belt_Dwarf_Pluto](https://github.com/seanpm2001/SNU_3D_Universe_MilkyWay_Solar-System_Kuiper-Belt_Dwarf_Pluto) | The (Milky Way/Solar System/Kuiper Belt) Pluto map center for the SNU Universe project (in 3D mode) | 2022-11-14 01:15:09 +0000 UTC |
+| 1 | [TensorMaker](https://github.com/scole02/TensorMaker) |  | 2022-11-14 01:37:28 +0000 UTC |
+| 1 | [DataAnalytics_SpaceMissions](https://github.com/jgarza9788/DataAnalytics_SpaceMissions) | Analyzing the data from the Space Missions. | 2022-11-14 00:01:32 +0000 UTC |
+| 1 | [windaninjas3](https://github.com/iblethebible/windaninjas3) |  | 2022-11-14 00:38:47 +0000 UTC |
+| 1 | [ISL2MoCap](https://github.com/Sowmya-Iyer/ISL2MoCap) | Using supervised learning, ISL Mocap dataset is built and rendered in blender  | 2022-11-14 00:45:53 +0000 UTC |
+| 1 | [MODELING-A-HYBRID-SYSTEM-FOR-AN-AUTOMATED-GUIDED-VEHICLE---AGV](https://github.com/emanuelvalerio/MODELING-A-HYBRID-SYSTEM-FOR-AN-AUTOMATED-GUIDED-VEHICLE---AGV) | This project aims to model a hybrid system in the simulink of an AGV to follow a given trajectory. | 2022-11-14 00:01:06 +0000 UTC |
+| 1 | [Baixar_Videos_YouTube](https://github.com/ThaysonScript/Baixar_Videos_YouTube) | Usando o pacote Pytube para baixar vídeos do YouTube | 2022-11-14 00:23:02 +0000 UTC |
+| 1 | [Charege](https://github.com/Johnny-pub/Charege) | 找零小程序 | 2022-11-14 00:41:37 +0000 UTC |
+| 1 | [Frontiers-GEE-Random-Forest](https://github.com/hc08220/Frontiers-GEE-Random-Forest) | **Still Working A random forest classification using Google Earth Engine and high resolution PlanetScope Imagery. It should be noted, that the PlanetScope Imagery was uploaded as an asset and traing, as well as validation points were created within GEE. | 2022-11-14 00:40:03 +0000 UTC |
+| 1 | [A-Simple-Guessing-Game](https://github.com/Peixe2b/A-Simple-Guessing-Game) |  | 2022-11-14 00:58:20 +0000 UTC |
+| 1 | [2022-JinRong-Mathematics-modeling](https://github.com/du2279664786/2022-JinRong-Mathematics-modeling) | 2022年第三届“大湾区杯”粤港澳金融数学建模竞赛信息 | 2022-11-14 00:48:59 +0000 UTC |
+| 1 | [notifications-page-main](https://github.com/traez/notifications-page-main) | My 6th (JavaScript) attempted challenge on frontendmentor.io | 2022-11-14 00:00:55 +0000 UTC |
+| 1 | [Exercicios-b-sicos-python](https://github.com/Alisson-Rodrigo/Exercicios-b-sicos-python) | Neste tepositório você irá encontrar os meus exercicios de python que utilizei para aprender os princípios básicos da linguagem. | 2022-11-14 00:03:41 +0000 UTC |
+| 1 | [SPAMER.sh](https://github.com/Riskimbmbg/SPAMER.sh) |  | 2022-11-14 00:42:05 +0000 UTC |
+| 1 | [SNU_3D_Universe_MilkyWay_Solar-System_Kuiper-Belt](https://github.com/seanpm2001/SNU_3D_Universe_MilkyWay_Solar-System_Kuiper-Belt) | The (Milky Way/Solar System/Kuiper Belt) Kuiper belt center for the SNU Universe project (in 3D mode) | 2022-11-14 01:16:31 +0000 UTC |
+| 1 | [Super](https://github.com/GusMuza/Super) |  | 2022-11-14 00:36:06 +0000 UTC |
+| 1 | [analisis-clientes-NoRegulados-Peajes](https://github.com/sebashvare/analisis-clientes-NoRegulados-Peajes) |  | 2022-11-14 00:46:53 +0000 UTC |
+| 1 | [CNN-for-Potato-Detection-](https://github.com/niteshsilwal01/CNN-for-Potato-Detection-) | In this NN model, I have trained multiple vegetables images, created a .h5 trained file and uploaded the model to test for the detection of potato. | 2022-11-14 00:06:33 +0000 UTC |
+| 1 | [DataAnalytics_PredictEarnings_NLSY97](https://github.com/jgarza9788/DataAnalytics_PredictEarnings_NLSY97) | Analyzing the data for earnings based on the data in the NLSY97 dataset. | 2022-11-14 00:01:39 +0000 UTC |
+| 1 | [THNMW](https://github.com/TheDemonTuan/THNMW) |  | 2022-11-14 01:05:47 +0000 UTC |
+| 1 | [Demo-Antivirus](https://github.com/Lodred/Demo-Antivirus) |  | 2022-11-14 00:09:28 +0000 UTC |
+| 1 | [SurendraVidiyala](https://github.com/SurendraVidiyala/SurendraVidiyala) | Config files for my GitHub profile. | 2022-11-14 01:02:42 +0000 UTC |
+| 1 | [data-science](https://github.com/daudpanther/data-science) |  | 2022-11-14 01:14:53 +0000 UTC |
+| 1 | [Sistema-Cadastral-com-Lista-Encadeada](https://github.com/SantosVicente/Sistema-Cadastral-com-Lista-Encadeada) |  | 2022-11-14 01:33:50 +0000 UTC |
+| 1 | [Disbale-App](https://github.com/UltraSmsApp/Disbale-App) |  | 2022-11-14 00:24:25 +0000 UTC |
+| 1 | [Mage](https://github.com/pmac1965/Mage) | A Game Engine | 2022-11-14 00:05:58 +0000 UTC |
+| 1 | [Spring-Boot-API-REST-construa-uma-API-Alura](https://github.com/EduardoBtc/Spring-Boot-API-REST-construa-uma-API-Alura) |  | 2022-11-14 00:54:38 +0000 UTC |
+| 1 | [Public-14](https://github.com/Ab-Ozkan/Public-14) | Ab-Ozkan | 2022-11-14 00:04:41 +0000 UTC |
+| 1 | [ynrrizki.github.io](https://github.com/ynrrizki/ynrrizki.github.io) |  | 2022-11-14 00:11:24 +0000 UTC |
+| 1 | [EasyHelp](https://github.com/elmaxquiro38/EasyHelp) |  | 2022-11-14 00:01:54 +0000 UTC |
+| 1 | [Predicting-Diabetes-](https://github.com/Lala0z/Predicting-Diabetes-) |  | 2022-11-14 01:07:24 +0000 UTC |
+| 1 | [Three.js_car](https://github.com/hjkimw/Three.js_car) | react를 활용한 three.js 자동차 모델링 | 2022-11-14 00:43:19 +0000 UTC |
+| 1 | [math-library-android](https://github.com/gabriel-aplok/math-library-android) | Math library for Android. | 2022-11-14 00:42:00 +0000 UTC |
+| 1 | [TimeDeEscrita](https://github.com/igorUfca/TimeDeEscrita) | Jogo que cálcula a velocidade de digitação do úsuario por meio de digitação de palavras aleatorias geradas durante o jogo é retorna a quantidade de tempo utilizada para a digitação; | 2022-11-14 01:07:30 +0000 UTC |
+| 1 | [Front-End_Development_Libraries_FCC](https://github.com/Terrachad/Front-End_Development_Libraries_FCC) |  | 2022-11-14 00:00:47 +0000 UTC |
+| 1 | [Portfolio](https://github.com/jonytoast/Portfolio) |  | 2022-11-14 01:02:26 +0000 UTC |
+| 1 | [Elevtors.bryqalastanls](https://github.com/bryqalastanls/Elevtors.bryqalastanls) | bryqalastanls for elevators | 2022-11-14 01:12:41 +0000 UTC |
+| 1 | [IOS-Memory-Game---By-Marco](https://github.com/MarquinCss/IOS-Memory-Game---By-Marco) |  | 2022-11-14 01:35:22 +0000 UTC |
+| 1 | [dicoding-blog](https://github.com/sincanmaulanaa/dicoding-blog) | Practice project from Dicoding Academy. | 2022-11-14 00:46:38 +0000 UTC |
+| 1 | [Portfolio-Project](https://github.com/LuisVillaDev/Portfolio-Project) |  | 2022-11-14 00:02:32 +0000 UTC |
+| 1 | [leetCode](https://github.com/syedraza011/leetCode) |  | 2022-11-14 00:01:22 +0000 UTC |
+| 1 | [mql5_basemodels](https://github.com/NoIndexx/mql5_basemodels) | mql5_expert_advisor_models | 2022-11-14 00:05:51 +0000 UTC |
+| 1 | [uogtad](https://github.com/blakehawkins/uogtad) |  | 2022-11-14 00:31:05 +0000 UTC |
+| 1 | [Ejercicios-Logica-Programacion-JS](https://github.com/Tatianasanabr/Ejercicios-Logica-Programacion-JS) | Practice 👩🏻‍💻  | 2022-11-14 00:46:10 +0000 UTC |
+| 1 | [dot-catch](https://github.com/katiehan22/dot-catch) |  | 2022-11-14 00:08:15 +0000 UTC |
+| 1 | [Elijah3456](https://github.com/Elijah3456/Elijah3456) | Config files for my GitHub profile. | 2022-11-14 00:36:47 +0000 UTC |
+| 1 | [yfetch](https://github.com/figsoda/yfetch) | yfetch (pronounced why-fetch) is a minimal command-line tool for fetching and displaying system information. | 2022-11-14 00:48:07 +0000 UTC |
+| 1 | [SNU_3D_Universe_MilkyWay_SolarSystem_Neptune](https://github.com/seanpm2001/SNU_3D_Universe_MilkyWay_SolarSystem_Neptune) | The (Milky Way/Solar System) Neptune map center for the SNU Universe project (in 3D mode) | 2022-11-14 01:12:11 +0000 UTC |
+| 1 | [SNU_3D_Universe_MilkyWay_SolarSystem_Saturn](https://github.com/seanpm2001/SNU_3D_Universe_MilkyWay_SolarSystem_Saturn) | The (Milky Way/Solar System) Saturn map center for the SNU Universe project (in 3D mode) | 2022-11-14 01:13:38 +0000 UTC |
+| 1 | [BOT-SPAM](https://github.com/humanexo/BOT-SPAM) | What this bot will do is send a text given by the user and carry out the sending process by a number determined also by the user after having clicked on the chat that you want to carry out the process. | 2022-11-14 01:11:34 +0000 UTC |
+| 1 | [Generala](https://github.com/Nazuti/Generala) | Juego de mesa la generala desarrollado en C/C++. Proyecto hecho a modo de final para la universidad tecnológica nacional (UTN). | 2022-11-14 00:06:26 +0000 UTC |
+| 1 | [recipie](https://github.com/renato-roca-dev/recipie) | Projeto feito usando a API TheMealDB | 2022-11-14 01:32:35 +0000 UTC |
+| 1 | [seleniumFramework](https://github.com/AhmedGamal991/seleniumFramework) | Selenium Framework project ( Shopping website ) using java, maven, testNG, and POM | 2022-11-14 00:10:10 +0000 UTC |
+| 1 | [EncurtadorDeLink](https://github.com/igorUfca/EncurtadorDeLink) | Encurtador de link, recebe um link e retorna ele encurtado  (qualquer link) | 2022-11-14 01:27:45 +0000 UTC |
+| 1 | [4k](https://github.com/bsbfoto/4k) |  | 2022-11-14 01:16:50 +0000 UTC |
+| 1 | [learning-typescript](https://github.com/gary-dev-aus/learning-typescript) |  | 2022-11-14 00:07:54 +0000 UTC |
+| 1 | [undetected_edgedriver](https://github.com/Plorinaa/undetected_edgedriver) | Undetected EdgeDriver for Selenium based on undetected_chromedriver with some tweaking. | 2022-11-14 00:05:16 +0000 UTC |
+| 1 | [scrimba-frontend-certificate](https://github.com/tentacle-bean/scrimba-frontend-certificate) | Certificate given for successfully completing the Frontend Developer Career Path on Scrimba | 2022-11-14 00:11:37 +0000 UTC |
+| 1 | [OurWedding2023](https://github.com/tikenned/OurWedding2023) |  | 2022-11-14 01:27:26 +0000 UTC |
+| 0 | [Object-Segregation-](https://github.com/niteshsilwal01/Object-Segregation-) | This is a second part of CNN for Potato Detection model.  | 2022-11-14 00:13:09 +0000 UTC |
+| 0 | [AM](https://github.com/AhmedK76/AM) |  | 2022-11-14 00:13:49 +0000 UTC |
+| 0 | [qb-atms](https://github.com/QBCore-Framework-UK/qb-atms) |  | 2022-11-14 00:13:41 +0000 UTC |
+| 0 | [RG-Lab-6-College-Student-Management-System-RESTful-Web-Api](https://github.com/RG-Rahul-Gupta/RG-Lab-6-College-Student-Management-System-RESTful-Web-Api) |  | 2022-11-14 00:04:56 +0000 UTC |
+| 0 | [.github](https://github.com/por-um-triz/.github) | Profile configuration. | 2022-11-14 00:12:14 +0000 UTC |
+| 0 | [modules](https://github.com/Odigie02/modules) |  | 2022-11-14 00:12:29 +0000 UTC |
+| 0 | [ivanrff](https://github.com/ivanrff/ivanrff) |  | 2022-11-14 00:15:02 +0000 UTC |
+| 0 | [Lele1204xp](https://github.com/Lele1204xp/Lele1204xp) | La kaka bro | 2022-11-14 00:13:29 +0000 UTC |
+| 0 | [Anythink-Market-6pyockst](https://github.com/ObelusFamily/Anythink-Market-6pyockst) |  | 2022-11-14 00:01:35 +0000 UTC |
+| 0 | [05-laravel-seeder](https://github.com/maxmurr/05-laravel-seeder) |  | 2022-11-14 00:14:47 +0000 UTC |
+| 0 | [gt-design](https://github.com/gabrieldeavila/gt-design) |  | 2022-11-14 00:07:04 +0000 UTC |
+| 0 | [otto_kaggle](https://github.com/endrol/otto_kaggle) | kaggle competition otto-multi-objective recommender system | 2022-11-14 00:16:28 +0000 UTC |
+| 0 | [js-ts-practice](https://github.com/maxzakh/js-ts-practice) | javascript to typescript migration practice | 2022-11-14 00:13:03 +0000 UTC |
+| 0 | [Verrated-Web-Design](https://github.com/melisaeldem/Verrated-Web-Design) |  | 2022-11-14 00:04:06 +0000 UTC |
+| 0 | [ace-vuex](https://github.com/answer0932/ace-vuex) | 增强 Vuex 的 TS 功能 | 2022-11-14 00:15:04 +0000 UTC |
+| 0 | [module4-solution](https://github.com/SamerBenAbdallah/module4-solution) | module4-solution | 2022-11-14 00:17:24 +0000 UTC |
+| 0 | [chrimpy](https://github.com/chrimpy/chrimpy) | Config files for my GitHub profile. | 2022-11-14 00:16:22 +0000 UTC |
+| 0 | [ccSTB3](https://github.com/flyhedgehog-del/ccSTB3) |  | 2022-11-14 00:13:23 +0000 UTC |
+| 0 | [Calculadora](https://github.com/Ratasanchezok/Calculadora) |  | 2022-11-14 00:17:22 +0000 UTC |
+| 0 | [bash-copying-files](https://github.com/olaola994/bash-copying-files) | script is copying files from source to build | 2022-11-14 00:15:29 +0000 UTC |
+| 0 | [w2ui-test](https://github.com/vladimirogaston/w2ui-test) | proyecto de prueba para w2ui | 2022-11-14 00:04:18 +0000 UTC |
+| 0 | [Fanime-Website](https://github.com/Fanime-Francisa/Fanime-Website) | Fanime .net web application for Fanime Club. | 2022-11-14 00:03:37 +0000 UTC |
+| 0 | [asteroids-practice](https://github.com/thejovialknight/asteroids-practice) |  | 2022-11-14 00:04:07 +0000 UTC |
+| 0 | [ProjectManagement](https://github.com/RJ140115/ProjectManagement) |  | 2022-11-14 00:04:09 +0000 UTC |
+| 0 | [darshcloud](https://github.com/darshcloud/darshcloud) |  | 2022-11-14 00:01:22 +0000 UTC |
+| 0 | [java-udemy](https://github.com/SolusRGB/java-udemy) |  | 2022-11-14 00:03:29 +0000 UTC |
+| 0 | [tidy_data](https://github.com/HarshaKoduri123/tidy_data) |  | 2022-11-14 00:02:50 +0000 UTC |
+| 0 | [WORKS2](https://github.com/Duc-BK/WORKS2) |  | 2022-11-14 00:05:06 +0000 UTC |
+| 0 | [adhmalhjry](https://github.com/adhmalhjry/adhmalhjry) | Config files for my GitHub profile. | 2022-11-14 00:05:12 +0000 UTC |
 
