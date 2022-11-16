@@ -1,100 +1,100 @@
-480, cloudfox, https://github.com/BishopFox/cloudfox, "Automating situational awareness for cloud penetration tests.", "aws,cloud,cloud-security,golang,penetration-testing-tools", 2022-09-08 02:39:15 +0000 UTC
-446, evilgophish, https://github.com/fin3ss3g0d/evilgophish, "evilginx2 + gophish", "", 2022-09-07 02:47:43 +0000 UTC
-313, mixctl, https://github.com/inlets/mixctl, "A tiny TCP load balancer 🍸", "", 2022-09-08 17:49:47 +0000 UTC
-287, kahroba, https://github.com/kahroba-lang/kahroba, "Kahroba is a programming language with educational purposes written in Go", "", 2022-08-27 19:15:37 +0000 UTC
-252, marmot, https://github.com/maxpert/marmot, "A distributed SQLite replicator", "", 2022-08-27 06:35:02 +0000 UTC
-249, go-plugin, https://github.com/knqyf263/go-plugin, "Go Plugin System over WebAssembly", "go,golang,plugin,plugins,protobuf3,protocol-buffers", 2022-08-19 06:58:57 +0000 UTC
-220, constellation, https://github.com/edgelesssys/constellation, "Constellation is the first Confidential Kubernetes. Constellation shields entire Kubernetes clusters from the (cloud) infrastructure using confidential computing.", "cloud-security,confidential-computing,data-encryption,kubernetes,kubernetes-security", 2022-08-28 15:08:34 +0000 UTC
-186, wunderbase, https://github.com/wundergraph/wunderbase, "Serverless GraphQL Database built on top of Firecracker, SQLite and Prisma", "database,db,firecracker,firecracker-containerd,firecracker-microvms,firecracker-vm,go,golang,golang-application,golang-package,graphql,prisma,prisma2,serverless,sqlite,sqlite-database,sqlite3,sqlite3-database,wundergraph", 2022-09-13 06:10:58 +0000 UTC
-177, Adinfo, https://github.com/lzzbb/Adinfo, "域信息收集工具", "", 2022-09-10 03:09:36 +0000 UTC
-164, tdl, https://github.com/iyear/tdl, "📥 Telegram Downloader, but more than a downloader 🚀", "download,downloader,telegram,telegram-api", 2022-09-01 01:02:37 +0000 UTC
-154, ylgy, https://github.com/zc2638/ylgy, "羊了个羊 通关程序，支持无限通关", "", 2022-09-15 05:31:35 +0000 UTC
-148, git-remote-aws, https://github.com/nathants/git-remote-aws, "encrypted git hosting should be easy", "", 2022-08-31 23:02:45 +0000 UTC
-144, microwaveo, https://github.com/Ciyfly/microwaveo, "将dll exe 等转成shellcode 最后输出exe 可定制加载器模板 支持白文件的捆绑 shellcode 加密", "dll,golang,shellcode-loader", 2022-09-08 06:59:10 +0000 UTC
-124, run-job, https://github.com/alexellis/run-job, "Run a Kubernetes Job and get the logs when it's done 🏃\u200d♂️", "", 2022-09-05 14:10:29 +0000 UTC
-113, lsf, https://github.com/AkihiroSuda/lsf, "Linux Subsystem for FreeBSD (😈 on\u00a0🐧)", "elf,freebsd,ptrace,syscalls", 2022-08-29 09:17:29 +0000 UTC
-108, k8s-pod-restart-info-collector, https://github.com/airwallex/k8s-pod-restart-info-collector, "Automated troubleshooting of Kubernetes Pods issues. Collect K8s pod restart reasons, logs, and events automatically.", "automation,collector,golang,k8s,kubernetes,kubernetes-controller,monitoring,pods,restart,troubleshooting", 2022-08-29 07:57:12 +0000 UTC
-95, allero, https://github.com/allero-io/allero, "Prevent CI/CD Bad Practices", "cicd,developer-tools,devops,devops-pipeline,devsecops,devsecops-tools,governance-operations", 2022-08-25 14:20:50 +0000 UTC
-76, Chrono, https://github.com/hazyuun/Chrono, "A git time machine", "", 2022-08-20 19:01:30 +0000 UTC
-70, dfserver, https://github.com/huo-ju/dfserver, "A distributed backend AI pipeline server", "ai-art,ai-pipeline,diffusers,pipeline,stable-diffusion", 2022-09-12 00:59:22 +0000 UTC
-69, go-tinypng, https://github.com/liutongke/go-tinypng, "自动批量上传图片至TinyPNG压缩照片.支持命令行、window、Mac，免安装支持MacOS和Windows系统。", "compression,go,tinypng,tinypng-cli", 2022-09-07 11:34:57 +0000 UTC
-66, comqtt, https://github.com/wind-c/comqtt, "A lightweight, high-performance go mqtt server(v3.0|v3.1.1|v5.0) supporting distributed cluster", "cluster,distributed,golang,golang-library,gossip,iot,mqtt,mqtt-broker,mqtt-server,mqtt-smarthome,mqttv5,msgpack,raft", 2022-09-04 02:37:02 +0000 UTC
-57, countries, https://github.com/pioz/countries, "All you need when you are working with countries in Go.", "countries,go,golang", 2022-09-03 10:05:46 +0000 UTC
-55, hooks, https://github.com/mikestefanello/hooks, "Simple, type-safe hook system to enable easier modularization of your Go code.", "decoupling,generics,go,golang,hook,hooks,lifecycle-hooks,module,type-safe,typesafe", 2022-09-04 12:48:31 +0000 UTC
-53, dtp, https://github.com/spinechain/dtp, "SpineChain Distributed Task Platform", "", 2022-08-26 06:34:37 +0000 UTC
-50, cidr, https://github.com/bschaatsbergen/cidr, "A CLI to perform various actions on CIDR ranges", "cidr,cli,cobra,go,ipv4,ipv6", 2022-09-07 15:14:06 +0000 UTC
-49, eval2term, https://github.com/She11Way/eval2term, "连接eval一句话webshell，获得可交互的虚拟终端", "", 2022-09-07 19:03:05 +0000 UTC
-49, bettercache, https://github.com/realTristan/bettercache, "Modern Caching System with Lightning Fast Full Text Search", "cache,easy-to-use,fast,full-text-search,go,thread-safe", 2022-08-25 20:00:46 +0000 UTC
-43, dreamboat, https://github.com/blocknative/dreamboat, "alpha mev-boost relay", "", 2022-09-12 23:59:05 +0000 UTC
-43, Nuclei-and-Subfinder-API, https://github.com/h33tlit/Nuclei-and-Subfinder-API, "Web API for nuclei and subfinder will help you automate your entire security testing workflow since you can host it anywhere and make it accessible.", "api,fastapi,nuclei,python,vulnerability-assessment,vulnerability-detection,vulnerability-scanners", 2022-09-12 01:33:29 +0000 UTC
-42, automemlimit, https://github.com/KimMachineGun/automemlimit, "Automatically set GOMEMLIMIT to match Linux cgroups(7) memory limit.", "golang,golang-gc", 2022-08-23 17:41:45 +0000 UTC
-41, core, https://github.com/efficientgo/core, "Set of core packages every Go project needs. Minimal API, strictly versioned and with ~no dependencies.", "", 2022-08-27 18:57:53 +0000 UTC
-41, controller-idioms, https://github.com/authzed/controller-idioms, "Generic libraries for building idiomatic Kubernetes controllers", "go,go-generics,k8s,kubernetes,kubernetes-api,kubernetes-controller,kubernetes-operator", 2022-08-25 12:06:15 +0000 UTC
-40, cut-cdn, https://github.com/AbbasAtaei/cut-cdn, "✂️ Striping CDN IPs from a list of IP Addresses", "", 2022-08-31 09:20:56 +0000 UTC
-39, ratus, https://github.com/hyperonym/ratus, "Ratus is a RESTful asynchronous task queue server. It translated concepts of distributed task queues into a set of resources that conform to REST principles and provides an easy-to-use HTTP API.", "background-jobs,distributed-systems,go,golang,mongodb,priority-queue,restful-api,swagger,task,task-queue,task-scheduler", 2022-08-25 10:00:29 +0000 UTC
-39, gentlemanSpider, https://github.com/Youngkingman/gentlemanSpider, "基于colly，支持标签(xp)筛选和多线程加速的绅士漫画爬虫优雅实现", "colly,erohon,golang,hentai,scraper", 2022-09-06 07:29:59 +0000 UTC
-36, protocol-ctf, https://github.com/lightclient/protocol-ctf, "Introduction to core development via CTF challenges", "", 2022-09-06 18:11:19 +0000 UTC
-36, safetext, https://github.com/google/safetext, "", "", 2022-08-30 17:32:19 +0000 UTC
-34, scan, https://github.com/wroge/scan, "scan sql rows into any type powered by generics", "database,db,golang,scan,scanner,sql", 2022-09-10 16:14:04 +0000 UTC
-33, relay-monitor, https://github.com/ralexstokes/relay-monitor, "", "", 2022-08-23 20:22:23 +0000 UTC
-32, goast, https://github.com/m-mizutani/goast, "Go AST based static analysis tool with Rego", "", 2022-08-27 05:06:48 +0000 UTC
-32, kratos-blog, https://github.com/tx7do/kratos-blog, "go-kratos + vue3 = blog system", "", 2022-08-25 23:33:30 +0000 UTC
-31, json2yaml, https://github.com/itchyny/json2yaml, "An efficient JSON to YAML converter written in Go language", "", 2022-08-26 15:13:09 +0000 UTC
-31, caps, https://github.com/chanced/caps, "a case conversion library for Go", "case-conversion,case-converter,go,golang", 2022-08-28 23:04:45 +0000 UTC
-30, godeclutter, https://github.com/c3l3si4n/godeclutter, "Declutters URLs in a fast and flexible way, for improving input for web hacking automations such as crawlers and vulnerability scans. ", "", 2022-08-30 03:13:52 +0000 UTC
-29, dictionary, https://github.com/hbl-ngocnd1/dictionary, "tools for learn Japanese", "", 2022-08-25 23:43:06 +0000 UTC
-28, tyk-k8s-bootstrap, https://github.com/TykTechnologies/tyk-k8s-bootstrap, "", "", 2022-08-24 17:42:16 +0000 UTC
-28, XProxy, https://github.com/Its-Vichy/XProxy, "Powerfull proxy scraper and checker.", "checker,proxies,proxy,scraper,scrapers", 2022-09-01 06:11:25 +0000 UTC
-26, gogs, https://github.com/metagogs/gogs, "gogs is a simple, fast and lightweight game server framework written in golang", "android,datachannel,game,game-framework,gameserver,go,goalng-application,ios,protobuf,unity,webrtc,websocket", 2022-09-06 02:50:54 +0000 UTC
-26, go-set, https://github.com/micnncim/go-set, "Go package for sets implemented with generics", "", 2022-09-09 06:26:37 +0000 UTC
-25, sleepy, https://github.com/mattn/sleepy, "", "", 2022-09-07 04:49:46 +0000 UTC
-24, due, https://github.com/dobyte/due, "一款基于Go语言开发的轻量级分布式游戏服务器框架", "distributed-framework,distributed-game-framework,distributed-systems,framework,game-framework,game-server,go,go-framework,golang", 2022-08-26 06:05:04 +0000 UTC
-24, notinheap, https://github.com/mdempsky/notinheap, "", "", 2022-08-19 22:42:29 +0000 UTC
-22, I, https://github.com/hherman1/I, "Make CLIs into GUIs in the Acme editor", "", 2022-08-27 18:58:24 +0000 UTC
-21, ms-demo-gen, https://github.com/warm-metal/ms-demo-gen, "MSDGen: Generater for microservice demos of any given size and connectivity constraints.", "istio-demo,microservice,service-mesh", 2022-08-25 05:56:12 +0000 UTC
-21, proxmox-exporter, https://github.com/lwch/proxmox-exporter, "proxmox exporter of prometheus", "", 2022-08-19 08:22:24 +0000 UTC
-21, klock, https://github.com/robert-nemet/klock, "Lock for K8s", "k8s,kubernetes,operator", 2022-08-28 16:31:59 +0000 UTC
-21, golang-project-template, https://github.com/TykTechnologies/golang-project-template, "Use it as a baseline for your Golang projects", "", 2022-08-25 05:55:31 +0000 UTC
-19, pg_webhook, https://github.com/MovingLake/pg_webhook, "This repo plugs to a replication slot of a Postgres database, and sends webhooks for any change that happens in the database.", "", 2022-09-01 23:33:33 +0000 UTC
-19, asty, https://github.com/asty-org/asty, "Converts golang AST to JSON and JSON to AST", "ast,go,golang,json", 2022-08-23 12:44:01 +0000 UTC
-18, gh-stars, https://github.com/aymanbagabas/gh-stars, "GitHub stargazers in your terminal 🌟", "bubbletea,cli,gh-cli,gh-extension,gh-extensions", 2022-08-23 15:35:03 +0000 UTC
-18, transfer, https://github.com/LinuxSuRen/transfer, "A file transfer tool that via UDP protocol on Linux, Windows, and macOS.", "air-dropper,data-transfer,udp", 2022-08-29 13:40:45 +0000 UTC
-18, LMOtelFY, https://github.com/alexrios/LMOtelFY, "Automagically insert Open Telemetry spans in your codebase.", "ast,cli,go,golang,open-telemetry,open-telemetry-go,otel,span", 2022-09-01 04:00:58 +0000 UTC
-18, go-async, https://github.com/41north/go-async, "A collection of utilities for async code in Go.", "async,go,golang", 2022-09-05 18:39:27 +0000 UTC
-18, SingBox, https://github.com/daodao97/SingBox, "Cross platform client for sing-box", "sing-box", 2022-09-15 12:20:44 +0000 UTC
-18, FastjsonScan, https://github.com/a1phaboy/FastjsonScan, "Fastjson扫描器，可识别版本、依赖库、autoType状态等。A tool to distinguish fastjson ,version and dependency", "deserialization-vulnerability,fastjson,fastjson-rce,scanner-web", 2022-09-05 19:14:17 +0000 UTC
-17, pixel, https://github.com/jamesthesken/pixel, "Pixel is a Matrix client for the terminal.", "", 2022-09-13 20:10:08 +0000 UTC
-17, pdb_proxy, https://github.com/szdyg/pdb_proxy, "", "", 2022-08-22 14:46:15 +0000 UTC
-17, eve, https://github.com/eve-network/eve, "", "", 2022-08-23 08:51:09 +0000 UTC
-17, ngman, https://github.com/memmaker/ngman, "A lightweight abstraction layer around nginx and lego", "", 2022-09-03 11:44:43 +0000 UTC
-17, utls-light, https://github.com/hellais/utls-light, "", "", 2022-09-05 12:44:26 +0000 UTC
-17, caddy-mesh, https://github.com/RussellLuo/caddy-mesh, "Caddy service mesh based on the host/node architecture.", "", 2022-08-28 10:14:59 +0000 UTC
-16, fentanyl-epidemic-tracker, https://github.com/xilaluna/fentanyl-epidemic-tracker, "A go scraper that identifies articles relating to fentanyl to map the trend of the fentanyl epidemic.", "colly,gin-gonic,go,golang,mongodb,redis", 2022-09-03 01:54:49 +0000 UTC
-16, imagorvideo, https://github.com/cshum/imagorvideo, "imagor video thumbnail processing server via ffmpeg C bindings", "avi,docker,ffmpeg,mkv,mp4,thumbnail,webm", 2022-09-08 12:42:23 +0000 UTC
-16, promql-engine, https://github.com/thanos-community/promql-engine, "Experimental PromQL engine implementation based on Volcano paper.", "", 2022-08-30 16:01:47 +0000 UTC
-16, kube-MSRM, https://github.com/HSQ-Q/kube-MSRM, "", "", 2022-09-09 01:52:53 +0000 UTC
-16, catwalk, https://github.com/knz/catwalk, "test library for Bubbletea TUI models", "", 2022-08-31 08:55:39 +0000 UTC
-16, stLib, https://github.com/EduardoOliveira/stLib, "3d printing management platform", "", 2022-08-28 10:38:26 +0000 UTC
-15, cicd, https://github.com/calmonr/cicd, "Go CI/CD Playground", "buf-cli,bufbuild,cobra,docker,editorconfig,github-actions,gitleaks,go,golang,golangci-lint,goreleaser,grpc,grpc-go,playground,pre-commit,protobuf,protoc,protocol-buffers,viper,zap", 2022-08-27 15:37:55 +0000 UTC
-15, load-average-hook, https://github.com/netinternet/load-average-hook, "Load Avarage Web Hook ", "", 2022-09-04 12:19:05 +0000 UTC
-15, MoneroBlock, https://github.com/duggavo/MoneroBlock, "Decentralized and trustless Monero block explorer", "block-explorer,cryptocurrency,monero", 2022-08-28 08:39:34 +0000 UTC
-15, viral-mcorr, https://github.com/kussell-lab/viral-mcorr, "Using correlated substitutions to infer recombination rates in RNA viruses", "coronavirus,recombination,sars-cov-2,viruses", 2022-09-15 20:44:48 +0000 UTC
-15, scatman, https://github.com/89luca89/scatman, "Scatman is a simple Chroot manager, able to download, unpack and use OCI images from various container registries.", "chroot,development,docker,go,golang,linux,nerdctl,podman,tools", 2022-09-08 21:22:52 +0000 UTC
-14, unhttpx, https://github.com/melvinsh/unhttpx, "unhttpx is not a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library. In fact, it does the exact opposite. TL;DR: turns a list of URLs into hostnames.", "", 2022-08-21 18:11:17 +0000 UTC
-14, discord-promo-generator, https://github.com/Its-Vichy/discord-promo-generator, "fully requests promo/nitro generator for Discord - https://www.toweroffantasy-global.com", "generator,nitro,promo,toweroffantasy", 2022-08-19 21:33:27 +0000 UTC
-14, js.go, https://github.com/rofagha/js.go, "Implementation of JavaScript features in Go", "", 2022-08-31 09:17:42 +0000 UTC
-13, pub, https://github.com/Vandathron/pub, "A go package based on the publish/subscribe model to execute independently executing functions,tasks or subscribers by sending events to its subscribers", "concurrency,go,golang,pubsub", 2022-08-30 20:47:19 +0000 UTC
-13, RGLExtractor, https://github.com/Disquse/RGLExtractor, "A tool for extracting content from Rockstar Game Launcher RAGE packfiles.", "", 2022-09-04 17:04:10 +0000 UTC
-13, xdsl-exporter, https://github.com/Dentrax/xdsl-exporter, "xDSL Prometheus Exporter", "dsl,go,golang,grafana,grafana-dashboard,metrics,metrics-visualization,modem,prometheus,prometheus-exporter,prometheus-metrics,router,scraper,scraping,xdsl", 2022-09-03 19:50:02 +0000 UTC
-13, go-studies, https://github.com/biantris/go-studies, "compiled from my go lang studies", "go,golang,study-project", 2022-09-06 23:45:37 +0000 UTC
-12, sui-go-sdk, https://github.com/block-vision/sui-go-sdk, "go language SDK for @MystenLabs Sui", "", 2022-09-06 03:03:34 +0000 UTC
-12, sleeping-beauty, https://github.com/radian-software/sleeping-beauty, "🌹 Webserver auto-sleep for containerized environments.", "", 2022-09-10 19:31:10 +0000 UTC
-12, authn, https://github.com/Ink-33/authn, "call win32 WebAuthN api using golang", "", 2022-08-26 09:45:10 +0000 UTC
-12, mysql-check, https://github.com/CTF-MissFeng/mysql-check, "mysql蜜罐检查小工具,输出mysql认证及认证后交互数据", "", 2022-09-02 16:36:15 +0000 UTC
-12, odin, https://github.com/antman1p/odin, "", "", 2022-08-27 13:30:44 +0000 UTC
-12, pwnfaces, https://github.com/oppsec/pwnfaces, "Primefaces 5.X EL Injection Exploit (CVE-2017-1000486)", "cve,cve-2017-1000486,elinjection,exploit,primefaces,redteam", 2022-09-09 23:09:40 +0000 UTC
-12, password-sharing, https://github.com/misikdmitriy/password-sharing, "", "", 2022-08-26 09:35:36 +0000 UTC
-11, api, https://github.com/revanced/api, "ReVanced API made in Go.", "", 2022-09-12 09:25:01 +0000 UTC
-11, op-geth, https://github.com/ethereum-optimism/op-geth, "", "", 2022-08-19 15:18:05 +0000 UTC
-11, gocask, https://github.com/aneshas/gocask, "Go implementation of Bitcask - A Log-Structured Hash Table for Fast Key / Value Data", "database,embedded,golang,key-value", 2022-09-05 19:06:43 +0000 UTC
-11, thankunext, https://github.com/c3l3si4n/thankunext, "Easily gather all routes related to a NextJs application through parsing of _buildManifest.js", "", 2022-08-20 07:04:59 +0000 UTC
+4166, answer, https://github.com/answerdev/answer, "An open-source knowledge-based community software. You can use it to quickly build your Q&A community for product technical support, customer support, user communication, and more.", "community,forum,golang,react,typescipt", 2022-09-29 05:16:19 +0000 UTC
+2762, Havoc, https://github.com/HavocFramework/Havoc, "The Havoc Framework", "", 2022-09-11 13:21:16 +0000 UTC
+1637, coroot, https://github.com/coroot/coroot, "A monitoring and troubleshooting tool for microservice architectures.", "dashboard,database-monitoring,ebpf,kubernetes,log-analysis,metrics,microservice,monitoring,network-monitoring,observability,postgresql-monitoring,prometheus,service-map", 2022-08-22 14:59:07 +0000 UTC
+1499, jqp, https://github.com/noahgorstein/jqp, "A TUI playground to experiment with jq", "go,jq,tui", 2022-08-28 05:52:21 +0000 UTC
+1348, helm-dashboard, https://github.com/komodorio/helm-dashboard, "The missing UI for Helm - visualize your releases", "gui,helm,helm-plugin,helm-plugins,k8s,kubernetes", 2022-08-22 13:31:17 +0000 UTC
+1002, cloudfox, https://github.com/BishopFox/cloudfox, "Automating situational awareness for cloud penetration tests.", "aws,cloud,cloud-security,golang,penetration-testing-tools", 2022-09-08 02:39:15 +0000 UTC
+926, Freeze, https://github.com/optiv/Freeze, "Freeze is a payload toolkit for bypassing EDRs using suspended processes, direct syscalls, and alternative execution methods", "", 2022-09-21 14:40:59 +0000 UTC
+887, virtual-fido, https://github.com/bulwarkid/virtual-fido, "A Virtual FIDO2 USB Device", "", 2022-09-15 22:47:15 +0000 UTC
+856, fgtrace, https://github.com/felixge/fgtrace, "fgtrace is an experimental profiler/tracer that is capturing wallclock timelines for each goroutine. It's very similar to the Chrome profiler.", "", 2022-09-17 20:31:13 +0000 UTC
+699, evilgophish, https://github.com/fin3ss3g0d/evilgophish, "evilginx2 + gophish", "", 2022-09-07 02:47:43 +0000 UTC
+661, sonic, https://github.com/go-sonic/sonic, "Sonic is a blogging platform developed by Go. Simple and powerful", "blog,cms,go,golang,sonic", 2022-10-29 16:07:57 +0000 UTC
+589, VcenterKiller, https://github.com/Schira4396/VcenterKiller, "一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005、One Access的CVE-2022-22954、CVE-2022-22972/31656以及log4j，提供一键上传webshell，命令执行或者上传公钥使用SSH免密连接", "go,golang,log4j,log4shell,scan,vcenter", 2022-10-04 03:39:27 +0000 UTC
+565, ldapnomnom, https://github.com/lkarlslund/ldapnomnom, "Anonymously bruteforce Active Directory usernames from Domain Controllers by abusing LDAP Ping requests (cLDAP)", "active-directory,bruteforce,bruteforcer,cldap,ldap", 2022-09-18 10:35:09 +0000 UTC
+546, tdl, https://github.com/iyear/tdl, "📥 Telegram Downloader, but more than a downloader", "download,downloader,telegram,telegram-api", 2022-09-01 01:02:37 +0000 UTC
+528, marmot, https://github.com/maxpert/marmot, "A distributed SQLite replicator built on top of NATS", "database,distributed,nats-streaming,raft-consensus-algorithm,replication,sqlite3", 2022-08-27 06:35:02 +0000 UTC
+509, topaz, https://github.com/aserto-dev/topaz, "Cloud-native authorization for modern applications and APIs", "abac,access-control,api,authorization,cloud-native,golang,opa,rbac,rebac,security,zanzibar", 2022-10-23 15:54:10 +0000 UTC
+501, FastjsonScan, https://github.com/a1phaboy/FastjsonScan, "Fastjson扫描器，可识别版本、依赖库、autoType状态等。A tool to distinguish fastjson ,version and dependency", "deserialization-vulnerability,fastjson,fastjson-rce,scanner-web", 2022-09-05 19:14:17 +0000 UTC
+498, geacon_pro, https://github.com/H4de5-7/geacon_pro, "跨平台重构了Cobaltstrike Beacon，适配了大部分Beacon的功能，行为对国内主流杀软免杀，支持4.1以上的版本。 A cross-platform CobaltStrike Beacon bypass anti-virus, supports 4.1+ version.", "", 2022-10-27 12:07:00 +0000 UTC
+483, constellation, https://github.com/edgelesssys/constellation, "Constellation is the first Confidential Kubernetes. Constellation shields entire Kubernetes clusters from the (cloud) infrastructure using confidential computing.", "cloud-security,confidential-computing,data-encryption,hacktoberfest,kubernetes,kubernetes-security", 2022-08-28 15:08:34 +0000 UTC
+414, pets, https://github.com/ema/pets, "A configuration management system for Pets, not Cattle", "configuration,linux", 2022-10-21 08:22:10 +0000 UTC
+409, mixctl, https://github.com/inlets/mixctl, "A tiny TCP load balancer 🍸", "", 2022-09-08 17:49:47 +0000 UTC
+384, wunderbase, https://github.com/wundergraph/wunderbase, "Serverless GraphQL Database built on top of Firecracker, SQLite and Prisma", "database,db,firecracker,firecracker-containerd,firecracker-microvms,firecracker-vm,go,golang,golang-application,golang-package,graphql,prisma,prisma2,serverless,sqlite,sqlite-database,sqlite3,sqlite3-database,wundergraph", 2022-09-13 06:10:58 +0000 UTC
+367, OrcaC2, https://github.com/Ptkatz/OrcaC2, "OrcaC2是一款基于Websocket加密通信的多功能C&C框架，使用Golang实现。", "c2,golang,orca-c2,rat,redteam", 2022-09-23 05:53:37 +0000 UTC
+344, ylgy, https://github.com/zc2638/ylgy, "羊了个羊 通关程序，支持自动通关", "", 2022-09-15 05:31:35 +0000 UTC
+303, lure, https://github.com/Arsen6331/lure, "Linux User REpository", "bash,build-system,git,go,golang,linux,linux-app,linux-user-repository,package-management,package-manager,packaging", 2022-09-26 05:30:33 +0000 UTC
+300, kahroba, https://github.com/kahroba-lang/kahroba, "Kahroba is a programming language with educational purposes written in Go", "", 2022-08-27 19:15:37 +0000 UTC
+296, go-plugin, https://github.com/knqyf263/go-plugin, "Go Plugin System over WebAssembly", "go,golang,plugin,plugins,protobuf3,protocol-buffers", 2022-08-19 06:58:57 +0000 UTC
+280, cdebug, https://github.com/iximiuz/cdebug, "cdebug - a swiss army knife of container debugging (WIP)", "containerd,containers,debug,distroless,docker,kubernetes", 2022-10-22 15:22:44 +0000 UTC
+269, luna, https://github.com/thomscoder/luna, "🌙 A really tiny WebAssembly compiler for demonstration and educational purposes. Written in Go and built as one of my quests to conquer the WebAssembly dungeon", "codemotion,compiler,javascript,learning,learning-by-doing,personal-project,programming-language,runtime,sample-code,tinygo,wasm,wasmer,wasmtime,wat2wasm,webassembly", 2022-10-29 08:05:28 +0000 UTC
+264, cute, https://github.com/zakaria-chahboun/cute, "a minimalist beautiful Go print (fmt alternative)", "fmt,go,golang,print", 2022-10-10 00:08:07 +0000 UTC
+255, dfserver, https://github.com/huo-ju/dfserver, "A distributed backend AI pipeline server", "ai-art,ai-pipeline,diffusers,pipeline,stable-diffusion", 2022-09-12 00:59:22 +0000 UTC
+243, Adinfo, https://github.com/lzzbb/Adinfo, "域信息收集工具", "", 2022-09-10 03:09:36 +0000 UTC
+237, ghostly, https://github.com/Dominic-Wassef/ghostly, "Ghostly is a simple, lightweight, and fast full-stack framework for Golang", "", 2022-10-02 06:53:07 +0000 UTC
+229, shin, https://github.com/p-e-w/shin, "A shell in every text input on your system", "ibus,input-method,linux,shell", 2022-09-28 06:18:10 +0000 UTC
+213, fman, https://github.com/nore-dev/fman, "TUI File Manager", "bubbletea,console,file,filemanager,go,golang,hacktoberfest,terminal,tui", 2022-09-13 17:19:44 +0000 UTC
+207, asnmap, https://github.com/projectdiscovery/asnmap, "Go CLI and Library for quickly mapping organization network ranges using ASN information.", "asn,asn-lookup,cidr-range,osint,recon", 2022-09-29 01:19:40 +0000 UTC
+205, fingerprintx, https://github.com/praetorian-inc/fingerprintx, "Standalone utility for service discovery on open ports! ", "", 2022-09-21 16:57:21 +0000 UTC
+204, homebox, https://github.com/hay-kot/homebox, "Homebox is the inventory and organization system built for the Home User", "hacktoberfest,hacktoberfest2022", 2022-08-30 02:30:35 +0000 UTC
+199, comqtt, https://github.com/wind-c/comqtt, "A lightweight, high-performance go mqtt server(v3.0|v3.1.1|v5.0) supporting distributed cluster", "cluster,distributed,golang,golang-library,gossip,iot,mqtt,mqtt-broker,mqtt-server,mqtt-smarthome,mqttv5,msgpack,raft", 2022-09-04 02:37:02 +0000 UTC
+196, microwaveo, https://github.com/Ciyfly/microwaveo, "将dll exe 等转成shellcode 最后输出exe 可定制加载器模板 支持白文件的捆绑 shellcode 加密", "dll,golang,shellcode-loader", 2022-09-08 06:59:10 +0000 UTC
+183, jett, https://github.com/saurabh0719/jett, "Jett is a lightweight micro-framework for building Go HTTP services. Built on top of HttpRouter, enables subrouting and flexible addition of middleware at any level  :rocket: ", "micro-framework,microservice,rest-api,router", 2022-09-18 05:31:03 +0000 UTC
+182, murre, https://github.com/groundcover-com/murre, "Murre is an on-demand, scaleable source of container resource metrics for K8s.", "cli,kubernetes,monitoring", 2022-10-01 09:53:29 +0000 UTC
+179, dice, https://github.com/DiceDB/dice, "An extremely simple Golang-based in-memory KV store to rule them all.", "database,golang,hacktoberfest", 2022-08-31 19:01:22 +0000 UTC
+161, stackplz, https://github.com/SeeFlowerX/stackplz, "基于eBPF的堆栈追踪工具", "", 2022-11-09 05:49:39 +0000 UTC
+158, evhub, https://github.com/tencentmusic/evhub, "EvHub supports the distribution of delayed, transaction, real-time and cyclic events. It is used in scenarios such as system decoupling, asynchronous calling and distributed transactions.", "", 2022-09-27 08:16:27 +0000 UTC
+157, allero, https://github.com/allero-io/allero, "By scanning CI/CD misconfigurations, Allero helps reduce production issues, harden your security posture and shift-left CI/CD from DevOps to developers.", "cicd,compliance,developer-tools,devops,devops-pipeline,devsecops,devsecops-tools,github-actions,governance-operations,hacktoberfest,hacktoberfest2022,jfrog,pipelines-developer-platform,pipelines-incidents,security,security-tools", 2022-08-25 14:20:50 +0000 UTC
+152, MediaUnlockTest, https://github.com/nkeonkeo/MediaUnlockTest, "MediaUnlockTest in golang", "", 2022-10-14 14:04:18 +0000 UTC
+151, siphon, https://github.com/liamg/siphon, ":alembic: Intercept stdin/stdout/stderr for any process", "hacktoberfest,input-output,intercept,ptrace,spy,syscalls", 2022-10-26 18:46:18 +0000 UTC
+151, git-remote-aws, https://github.com/nathants/git-remote-aws, "encrypted git hosting should be easy", "", 2022-08-31 23:02:45 +0000 UTC
+151, grace, https://github.com/liamg/grace, "It's strace, with colours.", "cli,colors,colours,debug,go,golang,ptrace,strace,syscalls,tool", 2022-10-27 18:45:03 +0000 UTC
+147, bucketeer, https://github.com/bucketeer-io/bucketeer, "Feature Flag Management and A/B Testing platform", "ab-testing,beta-testing,bucketeer,dark-launch,data-analysis,data-driven,experiments,feature-flags,feature-toggles,go,multivariate-testing,python,react,trunk-based-development,typescript", 2022-09-28 06:17:37 +0000 UTC
+140, Gofreeproxy, https://github.com/ja9er/Gofreeproxy, "自用的动态代理小工具", "", 2022-08-26 07:36:32 +0000 UTC
+136, run-job, https://github.com/alexellis/run-job, "Run a Kubernetes Job and get the logs when it's done 🏃\u200d♂️", "", 2022-09-05 14:10:29 +0000 UTC
+135, zpscan, https://github.com/niudaii/zpscan, "一个有点好用的信息收集工具。A somewhat useful information gathering tool.", "golang", 2022-09-16 03:03:20 +0000 UTC
+131, lsf, https://github.com/AkihiroSuda/lsf, "Linux Subsystem for FreeBSD (😈 on\u00a0🐧)", "elf,freebsd,ptrace,syscalls", 2022-08-29 09:17:29 +0000 UTC
+127, Cronus, https://github.com/exploitees/Cronus, "NEW 0 DAY // GoLang Discord Gen // NO CAPTCHA + FULLY REQUESTS", "captcha-solver,cronus,discord,discord-acc-gen,discord-account-creator,discord-account-generator,discord-bot,discord-hack,discord-joiner,discord-spammer,generator,hcaptcha,hcaptcha-bypass,hcaptcha-solver,python,vast", 2022-10-05 15:22:27 +0000 UTC
+113, cli, https://github.com/eleven-sh/cli, "A CLI to create code sandboxes with automatic HTTPS and long running processes in your cloud provider account", "aws,cli,coder,codespaces,eleven,github,gitpod,golang,hetzner", 2022-10-31 14:51:17 +0000 UTC
+113, webpty, https://github.com/mickael-kerjean/webpty, "A secure webshell", "bash,terminal-app,webshell,webterminal", 2022-10-13 07:50:09 +0000 UTC
+109, imagorvideo, https://github.com/cshum/imagorvideo, "imagor video thumbnail server in Go and ffmpeg C bindings", "docker,ffmpeg,flv,mkv,mp4,ogg,rmse,thumbnail,webm", 2022-09-08 12:42:23 +0000 UTC
+108, nabaz, https://github.com/nabaz-io/nabaz, "Test runner for the easily distracted", "adhd,adhd-specific-tools,dankmemes,farts,fast,skipping-tests,smart-test-selection,test-impact-analysis,test-selection,tests", 2022-10-02 20:55:32 +0000 UTC
+108, pg_eventserv, https://github.com/CrunchyData/pg_eventserv, "Small golang server to push PgSQL listen/notify events into websockets", "golang,postgresql,websockets", 2022-09-23 00:31:11 +0000 UTC
+107, twiyou, https://github.com/disksing/twiyou, "", "", 2022-09-29 16:20:20 +0000 UTC
+105, tfvc, https://github.com/tfverch/tfvc, "Terraform provider and module version checking tool", "go,golang,terraform", 2022-09-30 10:43:55 +0000 UTC
+102, SingBox, https://github.com/daodao97/SingBox, "Cross platform client for sing-box", "client,cross-platform,sing-box", 2022-09-15 12:20:44 +0000 UTC
+96, dns-over-ping, https://github.com/jamespwilliams/dns-over-ping, "DNS-over-ping(8)", "", 2022-11-07 23:27:19 +0000 UTC
+96, dreamboat, https://github.com/blocknative/dreamboat, "alpha mev-boost relay", "", 2022-09-12 23:59:05 +0000 UTC
+96, autopprof, https://github.com/daangn/autopprof, "Automatically profile the Go applications when CPU or memory utilization crosses threshold", "", 2022-10-19 03:37:16 +0000 UTC
+93, go-htmltable, https://github.com/nfx/go-htmltable, "Structured HTML table data extraction from URLs in Go that has almost no external dependencies", "data-extraction,go,go-generics,html", 2022-09-17 10:00:39 +0000 UTC
+91, mpeg, https://github.com/gen2brain/mpeg, "MPEG-1 Video decoder, MP2 Audio decoder and MPEG-PS Demuxer in pure Go", "", 2022-10-23 14:39:16 +0000 UTC
+91, whalewall, https://github.com/capnspacehook/whalewall, "Automate management of firewall rules for Docker containers", "docker,firewall,golang,security", 2022-08-24 17:10:00 +0000 UTC
+84, go_proxy_pool, https://github.com/pingc0y/go_proxy_pool, "无环境依赖开箱即用的代理IP池", "proxy,proxy-server,proxypool", 2022-11-14 07:00:52 +0000 UTC
+83, detek, https://github.com/kakao/detek, "Extensible problem-detecting CLI tool for reliable Kubernetes cluster operations and rapid problem detections.", "", 2022-10-18 07:27:28 +0000 UTC
+83, f403, https://github.com/carl1l/f403, "用于渗透测试中对40x页面进行bypass并发扫描,采用go编写", "", 2022-09-11 04:05:47 +0000 UTC
+83, tts-server-go, https://github.com/jing332/tts-server-go, "微软TTS服务转发，以便在阅读APP中通过网络导入方式收听微软TTS / Edge大声朗读", "golang,tts", 2022-09-09 12:35:22 +0000 UTC
+81, Zmap-ProxyScanner, https://github.com/Yariya/Zmap-ProxyScanner, "A Thread Safe fast way to find proxies. Find 2000-5000 working http,socks4,socks5 proxies in one scan.", "portscanning,proxy-checker,proxy-scraper,zmap", 2022-08-26 05:59:41 +0000 UTC
+79, Chrono, https://github.com/hazyuun/Chrono, "A git time machine", "", 2022-08-20 19:01:30 +0000 UTC
+78, kancli, https://github.com/charmbracelet/kancli, "Command line kanban board", "hacktoberfest,kanban", 2022-09-27 18:31:26 +0000 UTC
+76, matrix-qq, https://github.com/duo/matrix-qq, "A Matrix-QQ puppeting bridge", "bridge,go,matrix,matrix-appservice,qq", 2022-09-07 12:21:24 +0000 UTC
+74, chaosbernie, https://github.com/secureworks/chaosbernie, "Azure as an external process source for psDoom-ng", "psdoom", 2022-11-10 15:38:12 +0000 UTC
+73, go-http, https://github.com/openziti-test-kitchen/go-http, "GoLang HTTP Clients & Servers + Alternative Networking", "", 2022-09-15 13:24:25 +0000 UTC
+71, mockey, https://github.com/bytedance/mockey, "a simple and easy-to-use golang mock library", "", 2022-09-27 11:28:54 +0000 UTC
+71, kube-bind, https://github.com/kube-bind/kube-bind, "", "", 2022-09-21 19:48:26 +0000 UTC
+71, Darksteel, https://github.com/wjlab/Darksteel, "Attack Domain Kerberos LDAP", "", 2022-10-13 03:33:32 +0000 UTC
+70, controller-idioms, https://github.com/authzed/controller-idioms, "Generic libraries for building idiomatic Kubernetes controllers", "crd,go,go-generics,k8s,kubernetes,kubernetes-api,kubernetes-applications,kubernetes-controller,kubernetes-operator,operator-framework,operator-sdk", 2022-08-25 12:06:15 +0000 UTC
+70, hooks, https://github.com/mikestefanello/hooks, "Simple, type-safe hook system to enable easier modularization of your Go code.", "decoupling,generics,go,golang,hook,hooks,lifecycle-hooks,module,type-safe,typesafe", 2022-09-04 12:48:31 +0000 UTC
+69, Golang-Project, https://github.com/kokonior/Golang-Project, "Feel free to create new file, don't hesitate to pull your code, the most important thing is that the file name here must match your nickname so that file does not conflict with other people.", "hacktoberfest", 2022-10-05 01:38:40 +0000 UTC
+68, countries, https://github.com/pioz/countries, "All you need when you are working with countries in Go.", "countries,go,golang", 2022-09-03 10:05:46 +0000 UTC
+66, dns, https://github.com/facebookincubator/dns, "Collection of Meta's DNS Libraries", "", 2022-10-04 18:03:41 +0000 UTC
+65, ratus, https://github.com/hyperonym/ratus, "Ratus is a RESTful asynchronous task queue server. It translated concepts of distributed task queues into a set of resources that conform to REST principles and provides a consistent HTTP API for various backends based on embedded or external storage engines.", "background-jobs,distributed-systems,go,golang,mongodb,priority-queue,restful-api,swagger,task,task-queue,task-scheduler", 2022-08-25 10:00:29 +0000 UTC
+65, cnspec, https://github.com/mondoohq/cnspec, "An open source, cloud-native security and policy project", "cloud-native,compliance,declarative,kubernetes,opensource,policy,policy-as-code,security,security-as-code", 2022-09-21 08:34:41 +0000 UTC
+64, golang_learning, https://github.com/chieund/golang_learning, "Awesome about Learning Golang Blog, Examples, Ebooks, Video, Algorithms, Leetcode,...", "algorithms,clear-architecture,clear-code,ebooks,examples-go,golang,learning-golang,tutorial", 2022-10-27 04:04:52 +0000 UTC
+64, zdm-proxy, https://github.com/datastax/zdm-proxy, "An open-source component designed to seamlessly handle the real-time client application activity while a migration is in progress.", "", 2022-08-22 15:16:46 +0000 UTC
+64, k8s-pod-restart-info-collector, https://github.com/airwallex/k8s-pod-restart-info-collector, "Automated troubleshooting of Kubernetes Pods issues. Collect K8s pod restart reasons, logs, and events automatically.", "automation,collector,golang,k8s,kubernetes,kubernetes-controller,monitoring,pods,restart,troubleshooting", 2022-08-29 07:57:12 +0000 UTC
+62, tart, https://github.com/nanmu42/tart, "A Toy Gitlab CI Runner backed by Firecracker MicroVM | 基于Firecracker MicroVM的玩具Gitlab CI Runner", "firecracker,firecracker-microvms,gitlab,gitlab-ci,gitlab-runner,go,golang", 2022-10-24 15:38:57 +0000 UTC
+61, cidr, https://github.com/bschaatsbergen/cidr, "A CLI to perform various actions on CIDR ranges", "cidr,cli,cobra,go,ipv4,ipv6", 2022-09-07 15:14:06 +0000 UTC
+60, geacon_plus, https://github.com/Z3ratu1/geacon_plus, "CobaltStrike beacon written in golang", "", 2022-10-08 08:42:50 +0000 UTC
+59, matrix-wechat, https://github.com/duo/matrix-wechat, "A Matrix-Wechat puppeting bridge", "bridge,go,matrix,matrix-appservice,wechat", 2022-09-13 15:01:27 +0000 UTC
+59, apx, https://github.com/Vanilla-OS/apx, "apx is the Vanilla OS package manager. It’s meant to be simple to use, but also powerful with support to installing packages from multiple sources without altering the root filesystem.", "", 2022-09-10 21:41:17 +0000 UTC
+57, automemlimit, https://github.com/KimMachineGun/automemlimit, "Automatically set GOMEMLIMIT to match Linux cgroups(7) memory limit.", "golang,golang-gc,hacktoberfest", 2022-08-23 17:41:45 +0000 UTC
+57, kratos-blog, https://github.com/tx7do/kratos-blog, "go-kratos + vue3 = blog system", "", 2022-08-25 23:33:30 +0000 UTC
