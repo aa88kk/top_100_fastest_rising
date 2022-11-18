@@ -1,103 +1,103 @@
 | Stars | Name | Desc | Created | 
 | ----- | ------- | ------------- | ------------- |
-| 2 | [ci-cd-bot](https://github.com/Samsung/ci-cd-bot) |  | 2022-11-17 00:39:51 +0000 UTC |
-| 2 | [CallCenter](https://github.com/diego-vecch/CallCenter) | Team 4 - Devathon 3 | 2022-11-17 00:03:05 +0000 UTC |
-| 2 | [thanksgiving_receipes](https://github.com/castig/thanksgiving_receipes) | our fav recipes at CBS  | 2022-11-17 01:00:48 +0000 UTC |
-| 1 | [pyxis-aws](https://github.com/spacetelescope/pyxis-aws) |  | 2022-11-17 00:39:49 +0000 UTC |
-| 1 | [demo-help](https://github.com/sumonh-star/demo-help) |  | 2022-11-17 00:58:49 +0000 UTC |
-| 1 | [FreelanceMotoKurye](https://github.com/eneesakan/FreelanceMotoKurye) | Freelance Moto Kurye App | 2022-11-17 01:20:50 +0000 UTC |
-| 1 | [joguinho](https://github.com/louiz1/joguinho) |  | 2022-11-17 01:26:46 +0000 UTC |
-| 1 | [easycoord](https://github.com/posmikdc/easycoord) | R Package "EasyCoord" | 2022-11-17 00:36:45 +0000 UTC |
-| 1 | [SILENT-EXCEL-XLS-EXPLOIT-CLEANd](https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEANd) |  | 2022-11-17 00:28:40 +0000 UTC |
-| 1 | [Back_API](https://github.com/ked500/Back_API) |  | 2022-11-17 00:14:15 +0000 UTC |
-| 1 | [twibbon-bordered](https://github.com/susahcebok/twibbon-bordered) | Twibbon Border | 2022-11-17 01:19:40 +0000 UTC |
-| 1 | [twitter-network-analysis](https://github.com/ashish-dahal/twitter-network-analysis) |  | 2022-11-17 00:01:22 +0000 UTC |
-| 1 | [Rocky-bot](https://github.com/Mjrocky/Rocky-bot) |  | 2022-11-17 00:22:53 +0000 UTC |
-| 1 | [djangogirls](https://github.com/celenny/djangogirls) |  | 2022-11-17 00:18:59 +0000 UTC |
-| 1 | [PIC-Programs](https://github.com/Honedah3/PIC-Programs) |  | 2022-11-17 01:02:48 +0000 UTC |
-| 1 | [UHS_DataSets_RussoUkrainianWar_UkraineTerritoryMap](https://github.com/seanpm2001/UHS_DataSets_RussoUkrainianWar_UkraineTerritoryMap) | Data set for the Ukraine History Simulator that contains Ukrainian territory changes during the Russo-Ukrainian war | 2022-11-17 00:50:17 +0000 UTC |
-| 1 | [Gocial-official](https://github.com/oofy123/Gocial-official) |  | 2022-11-17 00:49:41 +0000 UTC |
-| 1 | [dio-desafio-github-primeiro-repositorio](https://github.com/Dposilva/dio-desafio-github-primeiro-repositorio) | Desafio de codigo sobre Git/Hub | 2022-11-17 00:51:42 +0000 UTC |
-| 1 | [fantastic-chainsaw](https://github.com/Lyhur/fantastic-chainsaw) |  | 2022-11-17 00:18:18 +0000 UTC |
-| 1 | [next-crud](https://github.com/esteemayo/next-crud) |  | 2022-11-17 00:48:14 +0000 UTC |
-| 1 | [ArraySort](https://github.com/brenonsc/ArraySort) | Projeto criado em C# para a matéria de Análise de Algoritmos | 2022-11-17 00:25:04 +0000 UTC |
-| 1 | [curso-web](https://github.com/cesarpicado/curso-web) |  | 2022-11-17 00:17:54 +0000 UTC |
-| 1 | [JavaFlix-beta](https://github.com/KaianS/JavaFlix-beta) |  | 2022-11-17 01:33:21 +0000 UTC |
-| 1 | [SILENT-PDF-EXPLOIT-CLEANd](https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEANd) |  | 2022-11-17 00:24:53 +0000 UTC |
-| 1 | [job-offering](https://github.com/SarahEdward5/job-offering) | Free job offer  | 2022-11-17 00:41:36 +0000 UTC |
-| 1 | [ProyectoFinalPython__ParedesMJ](https://github.com/mjParedes/ProyectoFinalPython__ParedesMJ) |  | 2022-11-17 00:51:25 +0000 UTC |
-| 1 | [WeCode](https://github.com/Linus-Shyu/WeCode) | An informatics competition development environment developed by junior high school students. | 2022-11-17 01:22:49 +0000 UTC |
-| 1 | [FreelanceMotoKurye-Backend](https://github.com/eneesakan/FreelanceMotoKurye-Backend) | FreelanceMotoKuryeApp-Backend | 2022-11-17 01:23:45 +0000 UTC |
-| 1 | [webpack-dead-code](https://github.com/DanTrofimov/webpack-dead-code) | find dead code in your project | 2022-11-17 01:33:29 +0000 UTC |
-| 1 | [TESIS_CABRERA_GERMANA](https://github.com/GCabrera12/TESIS_CABRERA_GERMANA) | MODELOS | 2022-11-17 01:33:32 +0000 UTC |
-| 1 | [SEED-Learning](https://github.com/Geralt-Targaryen/SEED-Learning) | Repository for our EI314 project. | 2022-11-17 01:26:05 +0000 UTC |
-| 1 | [Madrasah-Website](https://github.com/9Kostka-Group3B-IT9/Madrasah-Website) |  | 2022-11-17 00:45:47 +0000 UTC |
-| 1 | [Trabajo-de-Grado-IoT](https://github.com/Uchimatron/Trabajo-de-Grado-IoT) | Este repositorio contiene de forma parcial los codigos que se utilizaron para la creación del sistema IoT desarrollado en el Trabajo de Grado de Yeison Orrego. | 2022-11-17 00:47:31 +0000 UTC |
-| 1 | [programa-dados](https://github.com/PabloMoore96/programa-dados) | Es el inicio de un proyecto propio, tengo previsto que forme parte de otro mas grande | 2022-11-17 01:33:06 +0000 UTC |
-| 1 | [Curso-Udemy-JavaScript-Prof-Juan-Pablo.-4-to-Projeto](https://github.com/Varuska/Curso-Udemy-JavaScript-Prof-Juan-Pablo.-4-to-Projeto) | Aprendiendo y Trabajando en un Projecto con Local Storage. JavaScript Moderno Guía Definitiva Construye +20 Proyectos . 4 to Projeto do curso de Udemy- Professor: Juan Pablo De la torre Valdez | 2022-11-17 00:35:53 +0000 UTC |
-| 1 | [sepsis-review](https://github.com/javiersgjavi/sepsis-review) | Baseline to compare the performance of different models with sepsis data from MIMIC-III database | 2022-11-17 00:17:27 +0000 UTC |
-| 1 | [uwdsc_workshops](https://github.com/neysapatel/uwdsc_workshops) |  | 2022-11-17 00:29:04 +0000 UTC |
-| 1 | [graphql-minidoc](https://github.com/i-Lucas/graphql-minidoc) |  | 2022-11-17 00:02:26 +0000 UTC |
-| 1 | [leetcode](https://github.com/Shahriar-Sazid/leetcode) |  | 2022-11-17 00:51:21 +0000 UTC |
-| 1 | [power-hour](https://github.com/tjcages/power-hour) | chug chug chug | 2022-11-17 00:34:07 +0000 UTC |
-| 1 | [FriendBook-Social-Media](https://github.com/RafaaLounis/FriendBook-Social-Media) | site Web de genre Social-Networking qui permet aux membres de créer des liens amicaux entres eux selon des critères communs.  | 2022-11-17 00:22:45 +0000 UTC |
-| 1 | [todo_app](https://github.com/ivan-015/todo_app) | Todo App made using Parabeac | 2022-11-17 00:13:55 +0000 UTC |
-| 1 | [final_pjt](https://github.com/sssungjooon/final_pjt) | ~ 2022.11.25. | 2022-11-17 00:25:41 +0000 UTC |
-| 1 | [vicentegui](https://github.com/vicentegui/vicentegui) |  | 2022-11-17 00:57:28 +0000 UTC |
-| 1 | [Fabianohhhu](https://github.com/Fabianohhhu/Fabianohhhu) | Config files for my GitHub profile. | 2022-11-17 01:24:42 +0000 UTC |
-| 1 | [UHS_DataSets_RussoUkrainianWar_RussiaTerritoryMap](https://github.com/seanpm2001/UHS_DataSets_RussoUkrainianWar_RussiaTerritoryMap) | Data set for the Ukraine History Simulator that contains Russian territory changes during the Russo-Ukrainian war | 2022-11-17 00:52:03 +0000 UTC |
-| 1 | [DesenhandoLinhas_3](https://github.com/freire45/DesenhandoLinhas_3) | Programa em Java que desenha linhas em uma interface gráfica | 2022-11-17 00:00:18 +0000 UTC |
-| 1 | [tabular-mimic-iii](https://github.com/javiersgjavi/tabular-mimic-iii) | repository for easy generation of tabulated dataset from the MIMIC-III database | 2022-11-17 00:09:13 +0000 UTC |
-| 1 | [Mjrocky](https://github.com/Mjrocky/Mjrocky) | Config files for my GitHub profile. | 2022-11-17 00:23:36 +0000 UTC |
-| 1 | [Belajar-Python](https://github.com/AlfErga04/Belajar-Python) | Coding random aja isinya belajar python | 2022-11-17 00:37:54 +0000 UTC |
-| 1 | [Bitcoin-wallet.dat](https://github.com/Bitcoin-Wallet-Dat/Bitcoin-wallet.dat) | We do the cracking wallets, the exchange wallets. ( BTC, LTC, DOGECOIN...) If some of the wallets be cracked, the whole group gets a part. You are in the right place. https://t.me/BitcoinWalletDat | 2022-11-17 01:20:01 +0000 UTC |
-| 1 | [goit-js-hw-07](https://github.com/Karavang/goit-js-hw-07) |  | 2022-11-17 00:10:40 +0000 UTC |
-| 1 | [SILENT-DOC-EXPLOIT-CLEANd](https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEANd) |  | 2022-11-17 00:27:45 +0000 UTC |
-| 1 | [singlepane](https://github.com/vijaypolsani/singlepane) | Single pane of glass (SPOG) or Single-Pane View is a management philosophy of consuming information from various complex entangled sources into useful signals of data points. | 2022-11-17 01:05:31 +0000 UTC |
-| 1 | [Wxzeqs](https://github.com/Wxzeqs/Wxzeqs) | Config files for my GitHub profile. | 2022-11-17 00:41:12 +0000 UTC |
-| 1 | [ProfileUI](https://github.com/grizz12/ProfileUI) | Simple Flutter ProfileUI  | 2022-11-17 00:05:00 +0000 UTC |
-| 1 | [Fullstack-MultiRoleLogin-Backend](https://github.com/zulnurdiana/Fullstack-MultiRoleLogin-Backend) | Multi Role Login (MRL), use NodeJS, ExpressJS, RESTful API, mySQL, Sequelize, Argon2 and Express-session (includes cookie) | 2022-11-17 00:10:18 +0000 UTC |
-| 1 | [BestClientBase](https://github.com/Spinyfish/BestClientBase) | Best base EVER | 2022-11-17 00:11:22 +0000 UTC |
-| 1 | [working-with-hooks-sammi-platform-modul-2](https://github.com/James-Jamshid/working-with-hooks-sammi-platform-modul-2) |  | 2022-11-17 01:14:04 +0000 UTC |
-| 1 | [Homework-Answers-With-Python-Codes](https://github.com/AlperRiza/Homework-Answers-With-Python-Codes) |  | 2022-11-17 00:52:11 +0000 UTC |
-| 1 | [planet-simulation](https://github.com/radioactivityy/planet-simulation) |  | 2022-11-17 00:11:54 +0000 UTC |
-| 1 | [portfolio-novo-1](https://github.com/rafaelmolinari2019/portfolio-novo-1) |  | 2022-11-17 00:23:30 +0000 UTC |
-| 1 | [pyflix-executable](https://github.com/Gusic06/pyflix-executable) |  | 2022-11-17 00:17:19 +0000 UTC |
-| 1 | [Target_Practice_Game](https://github.com/cdog2897/Target_Practice_Game) | A "Whack A Mole" game where you have to click the target before it disapears, but don't click the bombs! | 2022-11-17 01:24:09 +0000 UTC |
-| 1 | [Mateelogic-](https://github.com/Nattymathias/Mateelogic-) | Programmer of web3.0 lover of blockchain tech, content writer etc. | 2022-11-17 00:08:39 +0000 UTC |
-| 1 | [ANDROID-SPYWARE](https://github.com/PyterSmithDarkGhost/ANDROID-SPYWARE) |  | 2022-11-17 00:06:54 +0000 UTC |
-| 1 | [aliyun-sdk-managed-credentials-providers-go](https://github.com/aliyun/aliyun-sdk-managed-credentials-providers-go) |  | 2022-11-17 01:14:58 +0000 UTC |
-| 1 | [ReinforcementLearning](https://github.com/andrewtp32/ReinforcementLearning) | Tutorials from YouTube, personal projects, and more using Reinforcement Learning | 2022-11-17 00:12:04 +0000 UTC |
-| 1 | [menu_projects](https://github.com/pauloabrantesii/menu_projects) | Página para demonstração de novos projetos do meu portfólio  | 2022-11-17 01:03:31 +0000 UTC |
-| 1 | [Ryan1349](https://github.com/Ryan1349/Ryan1349) | Config files for my GitHub profile. | 2022-11-17 01:09:03 +0000 UTC |
-| 1 | [Tokuda-Discord-Bot](https://github.com/L30NJHK/Tokuda-Discord-Bot) |  | 2022-11-17 00:50:32 +0000 UTC |
-| 1 | [projectakhir](https://github.com/frhnmlna20/projectakhir) |  | 2022-11-17 00:51:23 +0000 UTC |
-| 1 | [yudunmiao](https://github.com/yudunmiao/yudunmiao) |  | 2022-11-17 00:28:34 +0000 UTC |
-| 1 | [js-cheatsheet](https://github.com/NSHoffman/js-cheatsheet) | This guide contains brief overview of JavaScript's main concepts and known pitfalls. It might be used as a reference for interview preparation. | 2022-11-17 00:51:22 +0000 UTC |
-| 1 | [ContraintsJ.com](https://github.com/joselines28/ContraintsJ.com) |  | 2022-11-17 01:09:56 +0000 UTC |
-| 1 | [csharp_sudoku_game](https://github.com/255doesnotexist/csharp_sudoku_game) | a simple csharp practice | 2022-11-17 01:13:28 +0000 UTC |
-| 1 | [atvphdl](https://github.com/phhphc/atvphdl) |  | 2022-11-17 01:05:10 +0000 UTC |
-| 1 | [kdmartin518.github.io](https://github.com/kdmartin518/kdmartin518.github.io) |  | 2022-11-17 00:11:26 +0000 UTC |
-| 1 | [project1](https://github.com/alaa1234218/project1) | Project1 | 2022-11-17 00:44:17 +0000 UTC |
-| 1 | [HerenciaEj_Ex01](https://github.com/NeuenMartinez/HerenciaEj_Ex01) |  | 2022-11-17 00:35:16 +0000 UTC |
-| 1 | [Usabilidade-A3](https://github.com/LeitGCastro/Usabilidade-A3) |  | 2022-11-17 01:35:43 +0000 UTC |
-| 1 | [aliyun-sdk-managed-credentials-providers-python](https://github.com/aliyun/aliyun-sdk-managed-credentials-providers-python) |  | 2022-11-17 01:13:51 +0000 UTC |
-| 1 | [MeechyKen.github.io](https://github.com/MeechyKen/MeechyKen.github.io) |  | 2022-11-17 00:45:47 +0000 UTC |
-| 0 | [hw1-annoshka](https://github.com/fullstack-decal-fa22/hw1-annoshka) | hw1-annoshka created by GitHub Classroom | 2022-11-17 00:00:31 +0000 UTC |
-| 0 | [API-REST-Exercises](https://github.com/HeloisaFelizardo/API-REST-Exercises) | Some exercises of applications created in the Rest layer. | 2022-11-17 00:00:18 +0000 UTC |
-| 0 | [retroarchweb](https://github.com/Ohyaboiii/retroarchweb) |  | 2022-11-17 00:02:49 +0000 UTC |
-| 0 | [towers](https://github.com/towers-of-hanoi/towers) |  | 2022-11-17 00:00:07 +0000 UTC |
-| 0 | [poc](https://github.com/eduardocardenas97/poc) |  | 2022-11-17 00:00:33 +0000 UTC |
-| 0 | [27-05-mys](https://github.com/joselin20/27-05-mys) |  | 2022-11-17 00:00:42 +0000 UTC |
-| 0 | [PRO-16-Estoura-Bal-es-3](https://github.com/JojoFood1/PRO-16-Estoura-Bal-es-3) | Projeto da Byju's: | 2022-11-17 00:05:33 +0000 UTC |
-| 0 | [NotificacionesCiclo4](https://github.com/ALEJANDRALIEVANO10/NotificacionesCiclo4) |  | 2022-11-17 00:03:10 +0000 UTC |
-| 0 | [Authorisation](https://github.com/TheKelp1e/Authorisation) |  | 2022-11-17 00:08:11 +0000 UTC |
-| 0 | [Theneekkal](https://github.com/tfabricsweb/Theneekkal) |  | 2022-11-17 00:08:32 +0000 UTC |
-| 0 | [codetrend](https://github.com/r0ad/codetrend) |  | 2022-11-17 00:06:52 +0000 UTC |
-| 0 | [CMSC203-MIDTERM](https://github.com/Dennis1903/CMSC203-MIDTERM) |  | 2022-11-17 00:04:21 +0000 UTC |
-| 0 | [to-do-list](https://github.com/Rodrigo-Victor/to-do-list) | Lista de Tarefas | 2022-11-17 00:03:08 +0000 UTC |
-| 0 | [kasir-django](https://github.com/RenalPutra/kasir-django) |  | 2022-11-17 00:08:46 +0000 UTC |
-| 0 | [UNCHARTED-Legacy-of-Thieves-Collection-V1-GAME-CRACK](https://github.com/Gunemahaedx/UNCHARTED-Legacy-of-Thieves-Collection-V1-GAME-CRACK) | UNCHARTED Legacy of Thieves Collection CRACK | 2022-11-17 00:07:52 +0000 UTC |
-| 0 | [Calculator](https://github.com/Devansh0991/Calculator) | Grade Calculator | 2022-11-17 00:06:45 +0000 UTC |
-| 0 | [Recyclo](https://github.com/Joshua1517M/Recyclo) |  | 2022-11-17 00:04:04 +0000 UTC |
+| 2 | [ft_tools](https://github.com/minjakim/ft_tools) |  | 2022-11-18 00:31:52 +0000 UTC |
+| 2 | [FreeOfCharge2022-23](https://github.com/karx1/FreeOfCharge2022-23) |  | 2022-11-18 01:15:08 +0000 UTC |
+| 1 | [stm32f4_mpu6050](https://github.com/ChenXinchao0628/stm32f4_mpu6050) |  | 2022-11-18 00:47:25 +0000 UTC |
+| 1 | [turismo2](https://github.com/beatrizribeir0/turismo2) |  | 2022-11-18 00:02:34 +0000 UTC |
+| 1 | [Gvnetwork](https://github.com/Gvnetwork/Gvnetwork) | Config files for my GitHub profile. | 2022-11-18 00:35:09 +0000 UTC |
+| 1 | [network-table-test](https://github.com/JLi69/network-table-test) | Network tables test for robotics team | 2022-11-18 00:00:28 +0000 UTC |
+| 1 | [AWSPlacesQueryApp](https://github.com/ellisperez47/AWSPlacesQueryApp) |  | 2022-11-18 00:37:44 +0000 UTC |
+| 1 | [Inflearn_Young-Han-Kim](https://github.com/GangHyeonLee/Inflearn_Young-Han-Kim) | [인프런] 스프링 핵심 원리 - 기본편 (김영한 강사님) | 2022-11-18 00:14:55 +0000 UTC |
+| 1 | [jhonG](https://github.com/jhon762/jhonG) | Config files for my GitHub profile. | 2022-11-18 00:00:47 +0000 UTC |
+| 1 | [credit_default_prediction_group_20](https://github.com/UBC-MDS/credit_default_prediction_group_20) | Using ML to understand if a customer would default their credit payment or not. | 2022-11-18 00:11:55 +0000 UTC |
+| 1 | [CorruptYourOwnFiles](https://github.com/0x01x02x03/CorruptYourOwnFiles) |  | 2022-11-18 00:00:18 +0000 UTC |
+| 1 | [Detection-of-COVID-19-using-Chest-X-RAY](https://github.com/abdelwhabkamal/Detection-of-COVID-19-using-Chest-X-RAY) |  | 2022-11-18 00:50:48 +0000 UTC |
+| 1 | [figures](https://github.com/beatrizribeir0/figures) |  | 2022-11-18 00:52:22 +0000 UTC |
+| 1 | [Project4-spencer-saylor](https://github.com/spencerperley/Project4-spencer-saylor) | its a thing | 2022-11-18 00:42:19 +0000 UTC |
+| 1 | [Resort-](https://github.com/Kekelifenuku/Resort-) | Resort  | 2022-11-18 00:14:43 +0000 UTC |
+| 1 | [Food-Finder](https://github.com/eabaynes/Food-Finder) |  | 2022-11-18 00:26:09 +0000 UTC |
+| 1 | [apparentcode](https://github.com/Tarun1564/apparentcode) |  | 2022-11-18 01:13:19 +0000 UTC |
+| 1 | [clase-3-comision-44555](https://github.com/botcarola/clase-3-comision-44555) | Clase 3 de la comisión 44555:  Bucles | 2022-11-18 00:07:15 +0000 UTC |
+| 1 | [React-Sign-up-form](https://github.com/MohammadHoseynZamany/React-Sign-up-form) |  | 2022-11-18 00:10:51 +0000 UTC |
+| 1 | [Quiz-Game](https://github.com/Kritik007/Quiz-Game) | Quiz Game Build using C Programming | 2022-11-18 00:24:32 +0000 UTC |
+| 1 | [stm32f4_0.96OLED](https://github.com/ChenXinchao0628/stm32f4_0.96OLED) |  | 2022-11-18 00:41:01 +0000 UTC |
+| 1 | [PIA-VISUALIZACION](https://github.com/JesusValmiki/PIA-VISUALIZACION) | Proyecto universitario de 4to semestre (Point of sale) | 2022-11-18 00:45:19 +0000 UTC |
+| 1 | [ROCK-GARAGE](https://github.com/renannicazzio/ROCK-GARAGE) |  | 2022-11-18 01:29:52 +0000 UTC |
+| 1 | [Sobre](https://github.com/beatrizribeir0/Sobre) |  | 2022-11-18 00:26:03 +0000 UTC |
+| 1 | [Nayaisha](https://github.com/Nayaisha/Nayaisha) | Config files for my GitHub profile. | 2022-11-18 00:57:36 +0000 UTC |
+| 1 | [googlemap-Vue-](https://github.com/leonado1204/googlemap-Vue-) |  | 2022-11-18 00:59:46 +0000 UTC |
+| 1 | [DesenhandoLinhas_4](https://github.com/freire45/DesenhandoLinhas_4) | Programa em Java que desenha linhas em uma interface gráfica | 2022-11-18 01:06:51 +0000 UTC |
+| 1 | [Herumutus-Crypto](https://github.com/ashwurz/Herumutus-Crypto) | Herumutus discord bot wrote in Typescript  | 2022-11-18 00:53:31 +0000 UTC |
+| 1 | [Mouse-to-avoid-game](https://github.com/gyb357/Mouse-to-avoid-game) | Window programming team project | 2022-11-18 01:24:16 +0000 UTC |
+| 1 | [Assemble_Crypto_Pair_Trading](https://github.com/funing230/Assemble_Crypto_Pair_Trading) |  | 2022-11-18 00:43:29 +0000 UTC |
+| 1 | [moderation-vc-bot](https://github.com/zumberr/moderation-vc-bot) | este bot de discord esta enfocado en la creacion de canales y de moderar mediante los comandos /  | 2022-11-18 01:23:33 +0000 UTC |
+| 1 | [Jokes](https://github.com/Crv5heR/Jokes) | https://crv5her.github.io/Jokes/ | 2022-11-18 00:59:14 +0000 UTC |
+| 1 | [Pai_Filhos](https://github.com/MatheusSchiavao/Pai_Filhos) | Projeto de uma loja de enxovais (Cama, Mesa e Banho) feito em parceria com meus colegas de turma/trabalho. | 2022-11-18 01:08:37 +0000 UTC |
+| 1 | [ukrgalas1985](https://github.com/ukrgalas1985/ukrgalas1985) | Config files for my GitHub profile. | 2022-11-18 01:37:50 +0000 UTC |
+| 1 | [projetos](https://github.com/Jair-Alerrandro/projetos) |  | 2022-11-18 01:15:34 +0000 UTC |
+| 1 | [TwitterClon](https://github.com/leeansilva/TwitterClon) | Clon de Twitter con algunas de sus funciones. Hecho con HTML CSS y JS. | 2022-11-18 00:53:49 +0000 UTC |
+| 1 | [realtor](https://github.com/daniel-dunsin/realtor) | A real estate app built with next js and rapid api | 2022-11-18 00:26:34 +0000 UTC |
+| 1 | [FinalcursoJS](https://github.com/crisalerodriguez/FinalcursoJS) | entregaJS | 2022-11-18 00:06:00 +0000 UTC |
+| 1 | [ProyectoFinal-CelesteAlfaro](https://github.com/Celesgei26/ProyectoFinal-CelesteAlfaro) |  | 2022-11-18 00:50:53 +0000 UTC |
+| 1 | [diyadiangong](https://github.com/PTA00/diyadiangong) | 低压电工取证考试练习网站 | 2022-11-18 01:07:06 +0000 UTC |
+| 1 | [Learn-Typescript-from-Youtube](https://github.com/LebrancWorkshop/Learn-Typescript-from-Youtube) | Learn Typescript from many great resources on Youtube.  | 2022-11-18 00:39:56 +0000 UTC |
+| 1 | [MCPYE_CommandLanguage](https://github.com/seanpm2001/MCPYE_CommandLanguage) | The in-game command language for MCPYE, a 3-way extended version of the mcFunction language | 2022-11-18 01:17:59 +0000 UTC |
+| 1 | [Instagram-backend](https://github.com/GangHyeonLee/Instagram-backend) | [팀프로젝트] 인스타그램 웹페이지 제작 | 2022-11-18 00:30:38 +0000 UTC |
+| 1 | [Boiinature](https://github.com/Boiinature/Boiinature) | Config files for my GitHub profile. | 2022-11-18 01:07:29 +0000 UTC |
+| 1 | [Projeto-Integrador---2SM---IMT](https://github.com/naluronicaa/Projeto-Integrador---2SM---IMT) | projeto desenvolvido durante o segundo semestre de 2022 | 2022-11-18 01:04:02 +0000 UTC |
+| 1 | [F1TENTH-Mocap-Data-Recording-Pipeline](https://github.com/Tinker-Twins/F1TENTH-Mocap-Data-Recording-Pipeline) | F1TENTH Motion Capture Data Recording Pipeline | 2022-11-18 01:13:53 +0000 UTC |
+| 1 | [CSE160FinalProject](https://github.com/CarlFreyer/CSE160FinalProject) |  | 2022-11-18 00:06:55 +0000 UTC |
+| 1 | [perguntations](https://github.com/heloziza/perguntations) |  | 2022-11-18 00:45:21 +0000 UTC |
+| 1 | [robocamp](https://github.com/weareqacademy/robocamp) | Projeto usado no Bootcamp de Robot Framework pela QAcademy | 2022-11-18 00:14:58 +0000 UTC |
+| 1 | [stm32f4_SR04](https://github.com/ChenXinchao0628/stm32f4_SR04) |  | 2022-11-18 00:03:22 +0000 UTC |
+| 1 | [Angular-download](https://github.com/leonado1204/Angular-download) | lonic framework,typescript,mysql | 2022-11-18 00:55:36 +0000 UTC |
+| 1 | [Cloud-music](https://github.com/huanglonggui520/Cloud-music) | 仿移动端网易云音乐 | 2022-11-18 00:35:22 +0000 UTC |
+| 1 | [Oceanic-Build](https://github.com/BlaBlak2/Oceanic-Build) |  | 2022-11-18 00:44:27 +0000 UTC |
+| 1 | [Instagram-frontend](https://github.com/GangHyeonLee/Instagram-frontend) | [팀프로젝트] 인스타그램 웹페이지 제작 | 2022-11-18 00:34:51 +0000 UTC |
+| 1 | [Lazar](https://github.com/Lazar-Ilic/Lazar) | Notes has files which contain theorems and definitions useful for memorisation and recollection, as well as files of papers, ideation sessions, codes, subchapter by subchapter textbooks commentaries, papers commentaries, and puzzles. | 2022-11-18 01:06:55 +0000 UTC |
+| 1 | [algo_theme_projects](https://github.com/Edmond22-prog/algo_theme_projects) | This repository is to gather all the themes (lectures and codes) attributed in Algorithms | 2022-11-18 00:10:36 +0000 UTC |
+| 1 | [uniapp-book-shop](https://github.com/huanglonggui520/uniapp-book-shop) | 基于uniapp的图书商城 | 2022-11-18 01:02:19 +0000 UTC |
+| 1 | [finfin](https://github.com/ja881/finfin) |  | 2022-11-18 00:40:06 +0000 UTC |
+| 1 | [MinerSim](https://github.com/scully-levi/MinerSim) | Scripts from MinerSim VR project | 2022-11-18 00:09:31 +0000 UTC |
+| 1 | [pstore-sa](https://github.com/pstore-sa/pstore-sa) | Config files for my GitHub profile. | 2022-11-18 00:05:28 +0000 UTC |
+| 1 | [ICS-and-SPL-C-program](https://github.com/Robiul0Islam/ICS-and-SPL-C-program) |  | 2022-11-18 00:48:50 +0000 UTC |
+| 1 | [Linux](https://github.com/xiaohaiNohappy/Linux) | Linux命令手册 | 2022-11-18 01:01:57 +0000 UTC |
+| 1 | [Chrome-Dinosaur-hack](https://github.com/JaydenTD500/Chrome-Dinosaur-hack) |  | 2022-11-18 01:00:51 +0000 UTC |
+| 1 | [Alura-Barber](https://github.com/ArthurVeigaTec/Alura-Barber) | Study project built in HTML and CSS. A website with three pages and a simple design. | 2022-11-18 01:12:10 +0000 UTC |
+| 1 | [atllas.github.io](https://github.com/Atllas21/atllas.github.io) |  | 2022-11-18 00:44:46 +0000 UTC |
+| 1 | [aluraprojects](https://github.com/laryferreira/aluraprojects) | This repository is made for projects I do at my online classes. Most of them will include Python now, since I'm focusing on this language. 🐍 | 2022-11-18 01:35:17 +0000 UTC |
+| 1 | [aspnetcore-pipeline-java](https://github.com/d4ilys/aspnetcore-pipeline-java) | JAVA模拟实现ASP.NET Core Http管道 | 2022-11-18 00:55:39 +0000 UTC |
+| 1 | [bombinhas](https://github.com/RenanAmorim89/bombinhas) | viagem | 2022-11-18 00:33:56 +0000 UTC |
+| 1 | [ssafyfinal](https://github.com/Randommagic/ssafyfinal) |  | 2022-11-18 00:34:07 +0000 UTC |
+| 1 | [UK-Auto-Filter-2](https://github.com/HMTD-Links/UK-Auto-Filter-2) |  | 2022-11-18 00:58:59 +0000 UTC |
+| 1 | [Oceanic-Whitelist](https://github.com/BlaBlak2/Oceanic-Whitelist) |  | 2022-11-18 00:44:00 +0000 UTC |
+| 1 | [Meus-Projetos](https://github.com/Eduardo7070/Meus-Projetos) | Projetos que faço no tempo livre | 2022-11-18 01:09:14 +0000 UTC |
+| 1 | [javaxcel](https://github.com/javaxcel/javaxcel) | Supporter for export and import of excel file | 2022-11-18 00:19:14 +0000 UTC |
+| 1 | [Zfartem](https://github.com/Zfartem/Zfartem) | Config files for my GitHub profile. | 2022-11-18 00:11:58 +0000 UTC |
+| 1 | [checkers](https://github.com/EdgarSantamaria/checkers) |  | 2022-11-18 00:50:22 +0000 UTC |
+| 1 | [SistemaPDV](https://github.com/eduardoaalmeidaa/SistemaPDV) |  | 2022-11-18 00:43:10 +0000 UTC |
+| 1 | [portfolio](https://github.com/CalebMcOlin/portfolio) | A built from scratch portfolio for Caleb McOlin. | 2022-11-18 00:41:46 +0000 UTC |
+| 1 | [rxngforms](https://github.com/edwardgazitonline/rxngforms) | Created with StackBlitz ⚡️ | 2022-11-18 01:31:33 +0000 UTC |
+| 1 | [ProjetorIntegradorBackEnd](https://github.com/DiogomCunha/ProjetorIntegradorBackEnd) |  | 2022-11-18 00:42:35 +0000 UTC |
+| 1 | [front-meme-maker](https://github.com/felipeAguiarCode/front-meme-maker) |  | 2022-11-18 00:52:23 +0000 UTC |
+| 1 | [SNU_3D_Universe_MilkyWay_SolarSystem](https://github.com/seanpm2001/SNU_3D_Universe_MilkyWay_SolarSystem) | The core milky way solar system map repository for the SNU 3D Universe project. | 2022-11-18 01:19:12 +0000 UTC |
+| 0 | [18_2654](https://github.com/qq488745278qw/18_2654) | 2018最新Thinkphp视频打赏平台源码\|可不用微信服务号，已对接个人免签支付功能等 | 2022-11-18 01:03:08 +0000 UTC |
+| 0 | [lecture-MLops-streamlit](https://github.com/xkeeja/lecture-MLops-streamlit) | example streamlit app based on lecture | 2022-11-18 00:58:22 +0000 UTC |
+| 0 | [BenCellini.github.io](https://github.com/BenCellini/BenCellini.github.io) |  | 2022-11-18 01:02:22 +0000 UTC |
+| 0 | [JOKER123](https://github.com/iptvtuga/JOKER123) |  | 2022-11-18 01:01:14 +0000 UTC |
+| 0 | [ds003548-fmriprep](https://github.com/OpenNeuroDerivatives/ds003548-fmriprep) |  | 2022-11-18 00:50:03 +0000 UTC |
+| 0 | [6_2656](https://github.com/qq488745278qw/6_2656) | 最新H5微信游戏源码 八戒夺宝 已破解授权无限制 | 2022-11-18 01:04:03 +0000 UTC |
+| 0 | [GitDemo](https://github.com/ksalazar2/GitDemo) |  | 2022-11-18 01:04:19 +0000 UTC |
+| 0 | [BdbSql](https://github.com/semihc/BdbSql) | Berkeley DB SQL interface (based on SQLite) | 2022-11-18 00:41:15 +0000 UTC |
+| 0 | [dio-trilha-java-basico](https://github.com/EduardoRSantiago/dio-trilha-java-basico) |  | 2022-11-18 00:02:57 +0000 UTC |
+| 0 | [thalkapp1](https://github.com/anish44482/thalkapp1) |  | 2022-11-18 01:01:28 +0000 UTC |
+| 0 | [Story2](https://github.com/DAWILL30/Story2) |  | 2022-11-18 00:40:42 +0000 UTC |
+| 0 | [eax](https://github.com/7054company/eax) |  | 2022-11-18 00:56:00 +0000 UTC |
+| 0 | [Project3a](https://github.com/ChrisChandler325/Project3a) |  | 2022-11-18 01:01:44 +0000 UTC |
+| 0 | [Sufriendo_con_di_michelle](https://github.com/Joseeee11/Sufriendo_con_di_michelle) | no sabemos que estamos haciendo xd | 2022-11-18 00:58:00 +0000 UTC |
+| 0 | [SSC_KMP_ZH](https://github.com/Zaphiroth/SSC_KMP_ZH) |  | 2022-11-18 01:02:36 +0000 UTC |
+| 0 | [computercraftprojects](https://github.com/Kichibae/computercraftprojects) | my personal computercraft projects | 2022-11-18 01:00:27 +0000 UTC |
+| 0 | [PROYECTO31](https://github.com/SaderGomez/PROYECTO31) |  | 2022-11-18 00:53:58 +0000 UTC |
+| 0 | [Using-Deep-Learning-to-Analyze-the-Driveability-of-Autonomous-Vehicles-on-Unmarked-Terrain](https://github.com/zinichakraborty/Using-Deep-Learning-to-Analyze-the-Driveability-of-Autonomous-Vehicles-on-Unmarked-Terrain) |  | 2022-11-18 00:56:38 +0000 UTC |
+| 0 | [movie-app](https://github.com/ldnminh31/movie-app) |  | 2022-11-18 00:50:43 +0000 UTC |
 

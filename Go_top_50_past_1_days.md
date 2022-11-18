@@ -1,29 +1,24 @@
 | Stars | Name | Desc | Created | 
 | ----- | ------- | ------------- | ------------- |
-| 1 | [leetcode](https://github.com/Shahriar-Sazid/leetcode) |  | 2022-11-17 00:51:21 +0000 UTC |
-| 0 | [farmatik-simple-api-for-apotik](https://github.com/satalesmana/farmatik-simple-api-for-apotik) |  | 2022-11-17 01:04:36 +0000 UTC |
-| 0 | [grpc-go-category](https://github.com/efborchardt/grpc-go-category) | Repository regarding the activities developed during the "gRPC" Module of the "Full Cycle 3.0" course | 2022-11-17 00:11:44 +0000 UTC |
-| 0 | [apollo-client](https://github.com/raojinlin/apollo-client) | Apollo Configuration cmd | 2022-11-17 01:34:41 +0000 UTC |
-| 0 | [Oficina_Go](https://github.com/Strke12i/Oficina_Go) |  | 2022-11-17 00:38:06 +0000 UTC |
-| 0 | [labora-wallet-v1](https://github.com/danamerro/labora-wallet-v1) | primera version de la wallet de labora en go | 2022-11-17 00:50:02 +0000 UTC |
-| 0 | [creador-de-eventos-de-Labora](https://github.com/danamerro/creador-de-eventos-de-Labora) | creador de eventos en donde se aprende a usar el post y el get en la api utilizando go | 2022-11-17 00:55:41 +0000 UTC |
-| 0 | [bookins](https://github.com/deenikarim/bookins) |  | 2022-11-17 01:11:10 +0000 UTC |
-| 0 | [Go-project-demo-Azuredevops](https://github.com/appsowner/Go-project-demo-Azuredevops) |  | 2022-11-17 01:35:33 +0000 UTC |
-| 0 | [Linxdatacenter](https://github.com/GermanBogatov/Linxdatacenter) |  | 2022-11-17 00:28:31 +0000 UTC |
-| 0 | [nacos-sdk-go](https://github.com/sftfjugg/nacos-sdk-go) |  | 2022-11-17 01:09:51 +0000 UTC |
-| 0 | [be-no-stunting](https://github.com/nandotmbn/be-no-stunting) |  | 2022-11-17 00:42:15 +0000 UTC |
-| 0 | [score_server](https://github.com/valdrinkuchi/score_server) |  | 2022-11-17 00:00:52 +0000 UTC |
-| 0 | [otel-tracing-zipkin](https://github.com/ffelipelimao/otel-tracing-zipkin) |  | 2022-11-17 01:16:53 +0000 UTC |
-| 0 | [CourseProject](https://github.com/nicola-sh/CourseProject) | Hiking microservice | 2022-11-17 01:32:43 +0000 UTC |
-| 0 | [gobyexample](https://github.com/aaronknudtson/gobyexample) | Go by example problems | 2022-11-17 00:32:51 +0000 UTC |
-| 0 | [Go-React-Crud](https://github.com/JrGustavo/Go-React-Crud) |  | 2022-11-17 01:20:43 +0000 UTC |
-| 0 | [microuser](https://github.com/sftfjugg/microuser) | go微服务-gRPC_Demo | 2022-11-17 01:24:39 +0000 UTC |
-| 0 | [rful](https://github.com/mnrva-dev/rful) | A Really F*cking Useful Logger for Go | 2022-11-17 01:22:23 +0000 UTC |
-| 0 | [go-playground](https://github.com/ehCruz/go-playground) | go plaground | 2022-11-17 01:00:15 +0000 UTC |
-| 0 | [gron](https://github.com/Evdokimov11/gron) |  | 2022-11-17 00:00:50 +0000 UTC |
-| 0 | [Go-exercises](https://github.com/idriss30/Go-exercises) | Learning Go by solving a few challenges | 2022-11-17 00:03:46 +0000 UTC |
-| 0 | [bad-matches-example](https://github.com/spatten/bad-matches-example) |  | 2022-11-17 01:01:06 +0000 UTC |
-| 0 | [checkssl](https://github.com/leondevpt/checkssl) |  | 2022-11-17 00:24:55 +0000 UTC |
-| 0 | [pvg-assesment](https://github.com/feresyan/pvg-assesment) |  | 2022-11-17 01:25:12 +0000 UTC |
-| 0 | [cryptopals](https://github.com/wfgilman/cryptopals) |  | 2022-11-17 01:33:49 +0000 UTC |
+| 0 | [GenericDataStructureAndAlgorithms](https://github.com/mrojasb2000/GenericDataStructureAndAlgorithms) |  | 2022-11-18 00:06:42 +0000 UTC |
+| 0 | [downtime-gateway](https://github.com/plockc/downtime-gateway) | Manages dnsmasq and iptables on a gateway to implement Parental Controls Downtime | 2022-11-18 01:40:32 +0000 UTC |
+| 0 | [sls-golang-template](https://github.com/vmotta8/sls-golang-template) |  | 2022-11-18 00:21:24 +0000 UTC |
+| 0 | [messenger](https://github.com/kunmingLiu/messenger) | a http server that integrates Line and MongoDB | 2022-11-18 00:21:38 +0000 UTC |
+| 0 | [protoc-gen-go-http-client](https://github.com/sj82516/protoc-gen-go-http-client) |  | 2022-11-18 00:55:25 +0000 UTC |
+| 0 | [grpc-go-500-response-mwe](https://github.com/sjbarag/grpc-go-500-response-mwe) | Minimal, workable example demonstrating grpc-go's HTTP 500 response for malformed HTTP requests | 2022-11-18 01:12:57 +0000 UTC |
+| 0 | [pipelines-vote-api](https://github.com/Philip-HC-Tsui/pipelines-vote-api) |  | 2022-11-18 01:12:22 +0000 UTC |
+| 0 | [ad](https://github.com/nausicaan/ad) | A Go language project to facilitate PowerShell administration of AD. | 2022-11-18 00:17:47 +0000 UTC |
+| 0 | [rhin](https://github.com/needlle/rhin) | Functional methods chaining in Go | 2022-11-18 00:22:58 +0000 UTC |
+| 0 | [spotify-icecast](https://github.com/ZerNico/spotify-icecast) | Easily cast Spotify to icecast2 | 2022-11-18 00:37:47 +0000 UTC |
+| 0 | [fire](https://github.com/YunzeGao/fire) | GoFire框架 | 2022-11-18 01:00:26 +0000 UTC |
+| 0 | [go-functions](https://github.com/souluanf/go-functions) |  | 2022-11-18 00:48:37 +0000 UTC |
+| 0 | [restaurant_management](https://github.com/MohamedSawahZC/restaurant_management) | Restaurant management Api using go and mysql | 2022-11-18 00:22:10 +0000 UTC |
+| 0 | [cdn](https://github.com/dronestock/cdn) | Drone持续集成系统CDN插件，提供常见的CDN对接服务（腾讯云、阿里云、百度云、创世云等），提供地址或目录刷新功能，方便在CI/CD过程中及时刷新相应的文件 | 2022-11-18 00:54:52 +0000 UTC |
+| 0 | [go-ast-print](https://github.com/dustinspecker/go-ast-print) |  | 2022-11-18 01:09:40 +0000 UTC |
+| 0 | [tgrep](https://github.com/oliverisaac/tgrep) | Templated Grep Tool | 2022-11-18 01:25:42 +0000 UTC |
+| 0 | [SysAdminProject](https://github.com/OsbornCollins/SysAdminProject) |  | 2022-11-18 01:32:22 +0000 UTC |
+| 0 | [go-ping-pong](https://github.com/souluanf/go-ping-pong) |  | 2022-11-18 01:09:16 +0000 UTC |
+| 0 | [zcrypto](https://github.com/zRich/zcrypto) |  | 2022-11-18 00:46:40 +0000 UTC |
+| 0 | [gofiber-kontenbase](https://github.com/exneval/gofiber-kontenbase) |  | 2022-11-18 01:28:13 +0000 UTC |
+| 0 | [sptools](https://github.com/qtsunami/sptools) | go语言实现的简单的小工具 | 2022-11-18 01:33:46 +0000 UTC |
 
