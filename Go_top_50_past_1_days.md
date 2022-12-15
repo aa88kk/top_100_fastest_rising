@@ -1,27 +1,32 @@
 | Stars | Name | Desc | Created | 
 | ----- | ------- | ------------- | ------------- |
-| 1 | [go-expert-api](https://github.com/ClaudionorJunior/go-expert-api) | My first completed API qith GO | 2022-12-14 00:41:23 +0000 UTC |
-| 0 | [projeto_marmota](https://github.com/arthur1648/projeto_marmota) |  | 2022-12-14 01:00:13 +0000 UTC |
-| 0 | [golang-simple-restful-api](https://github.com/kamilanindita/golang-simple-restful-api) |  | 2022-12-14 01:07:05 +0000 UTC |
-| 0 | [go-internal-files](https://github.com/w3-key/go-internal-files) |  | 2022-12-14 00:11:34 +0000 UTC |
-| 0 | [binaryclock](https://github.com/UnclassedPenguin/binaryclock) | A binary clock written in go, using tcell to display.  | 2022-12-14 00:31:50 +0000 UTC |
-| 0 | [movieHub-microservice](https://github.com/IkehAkinyemi/movieHub-microservice) | Microservices for movie metadata and aggregated rating. | 2022-12-14 01:22:20 +0000 UTC |
-| 0 | [discord-as-cdn](https://github.com/Grubba27/discord-as-cdn) | Discord as CDN | 2022-12-14 00:53:26 +0000 UTC |
-| 0 | [die_go](https://github.com/diegomonsalves/die_go) |  | 2022-12-14 00:52:34 +0000 UTC |
-| 0 | [gitopsfc](https://github.com/riquena96/gitopsfc) |  | 2022-12-14 00:08:19 +0000 UTC |
-| 0 | [tokengen](https://github.com/symbioticllc/tokengen) |  | 2022-12-14 01:04:26 +0000 UTC |
-| 0 | [golang_logs_filter_alert](https://github.com/kerneltravel/golang_logs_filter_alert) |  | 2022-12-14 00:11:56 +0000 UTC |
-| 0 | [wool](https://github.com/otzarri/wool) |  | 2022-12-14 01:19:46 +0000 UTC |
-| 0 | [tcp-ip](https://github.com/wchen777/tcp-ip) | TCP/IP protocol from scratch.  | 2022-12-14 00:51:50 +0000 UTC |
-| 0 | [gopenai](https://github.com/CasualCodersProjects/gopenai) | Go wrapper for OpenAI GPT-3 Completion, Editing, and DALLE Image API | 2022-12-14 01:06:48 +0000 UTC |
-| 0 | [SnakeGameInGO](https://github.com/divu0804/SnakeGameInGO) |  | 2022-12-14 00:08:34 +0000 UTC |
-| 0 | [AxoloGo](https://github.com/sidramon/AxoloGo) |  | 2022-12-14 00:37:36 +0000 UTC |
-| 0 | [nscan](https://github.com/otzarri/nscan) |  | 2022-12-14 01:20:13 +0000 UTC |
-| 0 | [context-golang](https://github.com/LuizSouz404/context-golang) |  | 2022-12-14 00:33:33 +0000 UTC |
-| 0 | [beer-cli](https://github.com/brianlewyn/beer-cli) | Beer CLI is a tool that provides information about beers with API's | 2022-12-14 01:21:51 +0000 UTC |
-| 0 | [labs-golang](https://github.com/otzarri/labs-golang) |  | 2022-12-14 00:34:46 +0000 UTC |
-| 0 | [engine](https://github.com/EdCornejo/engine) |  | 2022-12-14 01:32:43 +0000 UTC |
-| 0 | [go-gin-blog](https://github.com/GoldenLeeK/go-gin-blog) | golang学习项目 | 2022-12-14 01:37:38 +0000 UTC |
-| 0 | [charm](https://github.com/rUidiO/charm) |  | 2022-12-14 00:26:24 +0000 UTC |
-| 0 | [money-maker](https://github.com/MrGlass42/money-maker) | End of the year baby MSSSS!!!! | 2022-12-14 00:02:30 +0000 UTC |
+| 2 | [exchange-smtp](https://github.com/demen-in/exchange-smtp) |  | 2022-12-15 00:01:25 +0000 UTC |
+| 1 | [go-techradar](https://github.com/soon-yoong/go-techradar) |  | 2022-12-15 01:14:08 +0000 UTC |
+| 0 | [AL_LineBotChatGPT](https://github.com/albertdell/AL_LineBotChatGPT) |  | 2022-12-15 00:05:59 +0000 UTC |
+| 0 | [courses.go.aufgaben.formen](https://github.com/ReinerHuechting/courses.go.aufgaben.formen) |  | 2022-12-15 00:31:22 +0000 UTC |
+| 0 | [tcal](https://github.com/hankpeeples/tcal) | Terminal based calendar management. | 2022-12-15 00:17:52 +0000 UTC |
+| 0 | [chef-game](https://github.com/ssargent/chef-game) | Chef Game - A text based game about cooking written in golang. | 2022-12-15 00:24:38 +0000 UTC |
+| 0 | [10-curso-go-completo-udemy](https://github.com/boniekmorais/10-curso-go-completo-udemy) |  | 2022-12-15 00:02:43 +0000 UTC |
+| 0 | [multithreading-challenge](https://github.com/Caiocp/multithreading-challenge) |  | 2022-12-15 00:48:11 +0000 UTC |
+| 0 | [DRS-Portal](https://github.com/gaisa88/DRS-Portal) |  | 2022-12-15 01:10:23 +0000 UTC |
+| 0 | [LightORama](https://github.com/MikeWalczak/LightORama) |  | 2022-12-15 00:06:19 +0000 UTC |
+| 0 | [converse-websockets](https://github.com/GavSwe9/converse-websockets) |  | 2022-12-15 00:58:28 +0000 UTC |
+| 0 | [go_cards](https://github.com/tymofiismyrnov/go_cards) |  | 2022-12-15 00:32:15 +0000 UTC |
+| 0 | [muebleriaBackend](https://github.com/onilinkman/muebleriaBackend) |  | 2022-12-15 01:31:53 +0000 UTC |
+| 0 | [heretic](https://github.com/adamrt/heretic) |  | 2022-12-15 01:13:23 +0000 UTC |
+| 0 | [scrub-pii](https://github.com/developertogo/scrub-pii) |  | 2022-12-15 01:33:08 +0000 UTC |
+| 0 | [gocx](https://github.com/UnguidedFreedom/gocx) |  | 2022-12-15 00:16:39 +0000 UTC |
+| 0 | [vanity](https://github.com/gangleri/vanity) | generate html for canonical imports  | 2022-12-15 00:40:55 +0000 UTC |
+| 0 | [chi-favicon](https://github.com/mavolin/chi-favicon) | 🖼 Generate a favicon from a single file at runtime. | 2022-12-15 00:10:16 +0000 UTC |
+| 0 | [realtime-chat-emitter](https://github.com/sagepages/realtime-chat-emitter) | A server written in Go to emit websocket messages at timed intervals. Was built to emulate a real time chat application and can be used to practice building frontend UI's | 2022-12-15 00:08:11 +0000 UTC |
+| 0 | [vue-api-go-backend](https://github.com/Rexousia/vue-api-go-backend) |  | 2022-12-15 00:21:56 +0000 UTC |
+| 0 | [shop-go](https://github.com/DarkHorse0725/shop-go) |  | 2022-12-15 00:32:35 +0000 UTC |
+| 0 | [go-tui-skeleton](https://github.com/Jensen-holm/go-tui-skeleton) | Golang Terminal UI Skeleton for fun | 2022-12-15 00:50:52 +0000 UTC |
+| 0 | [BubbleNes](https://github.com/badbubble/BubbleNes) |  | 2022-12-15 00:55:24 +0000 UTC |
+| 0 | [evilginx2](https://github.com/mdaavid/evilginx2) |  | 2022-12-15 01:15:17 +0000 UTC |
+| 0 | [DistributedAlgorithms](https://github.com/saidatta/DistributedAlgorithms) | This will be having simplfied implementations from Distributed Algorithms book by Nancy Lynch | 2022-12-15 01:25:51 +0000 UTC |
+| 0 | [go-exec](https://github.com/ahmadyogi543/go-exec) | go-exec adalah sebuah layanan web yang digunakan untuk mengeksekusi kode berbagai macam bahasa pemrograman | 2022-12-15 01:02:39 +0000 UTC |
+| 0 | [profileyou-b](https://github.com/MouriMai/profileyou-b) |  | 2022-12-15 00:06:23 +0000 UTC |
+| 0 | [golang-discord-chatgpt-bot](https://github.com/hasanalibagiran/golang-discord-chatgpt-bot) |  | 2022-12-15 00:12:41 +0000 UTC |
+| 0 | [courses.go.aufgaben.flaechen](https://github.com/ReinerHuechting/courses.go.aufgaben.flaechen) |  | 2022-12-15 00:17:24 +0000 UTC |
 
