@@ -1,32 +1,25 @@
 | Stars | Name | Desc | Created | 
 | ----- | ------- | ------------- | ------------- |
-| 2 | [exchange-smtp](https://github.com/demen-in/exchange-smtp) |  | 2022-12-15 00:01:25 +0000 UTC |
-| 1 | [go-techradar](https://github.com/soon-yoong/go-techradar) |  | 2022-12-15 01:14:08 +0000 UTC |
-| 0 | [AL_LineBotChatGPT](https://github.com/albertdell/AL_LineBotChatGPT) |  | 2022-12-15 00:05:59 +0000 UTC |
-| 0 | [courses.go.aufgaben.formen](https://github.com/ReinerHuechting/courses.go.aufgaben.formen) |  | 2022-12-15 00:31:22 +0000 UTC |
-| 0 | [tcal](https://github.com/hankpeeples/tcal) | Terminal based calendar management. | 2022-12-15 00:17:52 +0000 UTC |
-| 0 | [chef-game](https://github.com/ssargent/chef-game) | Chef Game - A text based game about cooking written in golang. | 2022-12-15 00:24:38 +0000 UTC |
-| 0 | [10-curso-go-completo-udemy](https://github.com/boniekmorais/10-curso-go-completo-udemy) |  | 2022-12-15 00:02:43 +0000 UTC |
-| 0 | [multithreading-challenge](https://github.com/Caiocp/multithreading-challenge) |  | 2022-12-15 00:48:11 +0000 UTC |
-| 0 | [DRS-Portal](https://github.com/gaisa88/DRS-Portal) |  | 2022-12-15 01:10:23 +0000 UTC |
-| 0 | [LightORama](https://github.com/MikeWalczak/LightORama) |  | 2022-12-15 00:06:19 +0000 UTC |
-| 0 | [converse-websockets](https://github.com/GavSwe9/converse-websockets) |  | 2022-12-15 00:58:28 +0000 UTC |
-| 0 | [go_cards](https://github.com/tymofiismyrnov/go_cards) |  | 2022-12-15 00:32:15 +0000 UTC |
-| 0 | [muebleriaBackend](https://github.com/onilinkman/muebleriaBackend) |  | 2022-12-15 01:31:53 +0000 UTC |
-| 0 | [heretic](https://github.com/adamrt/heretic) |  | 2022-12-15 01:13:23 +0000 UTC |
-| 0 | [scrub-pii](https://github.com/developertogo/scrub-pii) |  | 2022-12-15 01:33:08 +0000 UTC |
-| 0 | [gocx](https://github.com/UnguidedFreedom/gocx) |  | 2022-12-15 00:16:39 +0000 UTC |
-| 0 | [vanity](https://github.com/gangleri/vanity) | generate html for canonical imports  | 2022-12-15 00:40:55 +0000 UTC |
-| 0 | [chi-favicon](https://github.com/mavolin/chi-favicon) | 🖼 Generate a favicon from a single file at runtime. | 2022-12-15 00:10:16 +0000 UTC |
-| 0 | [realtime-chat-emitter](https://github.com/sagepages/realtime-chat-emitter) | A server written in Go to emit websocket messages at timed intervals. Was built to emulate a real time chat application and can be used to practice building frontend UI's | 2022-12-15 00:08:11 +0000 UTC |
-| 0 | [vue-api-go-backend](https://github.com/Rexousia/vue-api-go-backend) |  | 2022-12-15 00:21:56 +0000 UTC |
-| 0 | [shop-go](https://github.com/DarkHorse0725/shop-go) |  | 2022-12-15 00:32:35 +0000 UTC |
-| 0 | [go-tui-skeleton](https://github.com/Jensen-holm/go-tui-skeleton) | Golang Terminal UI Skeleton for fun | 2022-12-15 00:50:52 +0000 UTC |
-| 0 | [BubbleNes](https://github.com/badbubble/BubbleNes) |  | 2022-12-15 00:55:24 +0000 UTC |
-| 0 | [evilginx2](https://github.com/mdaavid/evilginx2) |  | 2022-12-15 01:15:17 +0000 UTC |
-| 0 | [DistributedAlgorithms](https://github.com/saidatta/DistributedAlgorithms) | This will be having simplfied implementations from Distributed Algorithms book by Nancy Lynch | 2022-12-15 01:25:51 +0000 UTC |
-| 0 | [go-exec](https://github.com/ahmadyogi543/go-exec) | go-exec adalah sebuah layanan web yang digunakan untuk mengeksekusi kode berbagai macam bahasa pemrograman | 2022-12-15 01:02:39 +0000 UTC |
-| 0 | [profileyou-b](https://github.com/MouriMai/profileyou-b) |  | 2022-12-15 00:06:23 +0000 UTC |
-| 0 | [golang-discord-chatgpt-bot](https://github.com/hasanalibagiran/golang-discord-chatgpt-bot) |  | 2022-12-15 00:12:41 +0000 UTC |
-| 0 | [courses.go.aufgaben.flaechen](https://github.com/ReinerHuechting/courses.go.aufgaben.flaechen) |  | 2022-12-15 00:17:24 +0000 UTC |
+| 1 | [faker](https://github.com/gabrieldebem/faker) |  | 2022-12-16 00:24:13 +0000 UTC |
+| 0 | [rssreaderservice](https://github.com/salmanahmad2/rssreaderservice) |  | 2022-12-16 00:37:01 +0000 UTC |
+| 0 | [gym-project-golang-update](https://github.com/felipexx71/gym-project-golang-update) |  | 2022-12-16 00:20:33 +0000 UTC |
+| 0 | [gvt_go_store](https://github.com/VanThinh06/gvt_go_store) |  | 2022-12-16 00:11:07 +0000 UTC |
+| 0 | [SimulationModelingCourseWork](https://github.com/lonkidely/SimulationModelingCourseWork) |  | 2022-12-16 00:09:20 +0000 UTC |
+| 0 | [argocd-goserver](https://github.com/nirvanabrz/argocd-goserver) |  | 2022-12-16 01:06:38 +0000 UTC |
+| 0 | [go-horrible-concurrent-api](https://github.com/moms-spaghetti/go-horrible-concurrent-api) |  | 2022-12-16 00:36:56 +0000 UTC |
+| 0 | [goshopping](https://github.com/hollerith/goshopping) |  | 2022-12-16 01:32:13 +0000 UTC |
+| 0 | [cid](https://github.com/qorm/cid) | Correct Identifier | 2022-12-16 01:13:14 +0000 UTC |
+| 0 | [reader-logger](https://github.com/rosbit/reader-logger) | a utility to output the reader content and process it simultaneously. | 2022-12-16 00:21:04 +0000 UTC |
+| 0 | [go-docker](https://github.com/celiovjunior/go-docker) | 👓 Q&A Rest API built with Go, focusing on how to write a Dockerfile and docker-compose to set a database container.  | 2022-12-16 00:32:44 +0000 UTC |
+| 0 | [shukujitsu-jp](https://github.com/Sigumaa/shukujitsu-jp) |  | 2022-12-16 01:23:35 +0000 UTC |
+| 0 | [goph](https://github.com/Projekt-Echo/goph) |  | 2022-12-16 00:18:02 +0000 UTC |
+| 0 | [dh-checkpoint2](https://github.com/silasms/dh-checkpoint2) |  | 2022-12-16 00:11:38 +0000 UTC |
+| 0 | [go_homework](https://github.com/lq1149622825/go_homework) |  | 2022-12-16 01:25:58 +0000 UTC |
+| 0 | [pg-puzzle](https://github.com/linde/pg-puzzle) |  | 2022-12-16 01:22:45 +0000 UTC |
+| 0 | [office-space](https://github.com/taubyte/office-space) |  | 2022-12-16 00:26:32 +0000 UTC |
+| 0 | [webdozer-rmq](https://github.com/CesarDelgadoM/webdozer-rmq) | RabbitMQ application | 2022-12-16 00:39:21 +0000 UTC |
+| 0 | [go-auth-example](https://github.com/vaultvision/go-auth-example) | Example application with authentication using OpenID Connect from Vault Vision. | 2022-12-16 00:19:09 +0000 UTC |
+| 0 | [go-projects](https://github.com/saswatsam786/go-projects) |  | 2022-12-16 01:36:56 +0000 UTC |
+| 0 | [Go-ChatServer](https://github.com/cjens00/Go-ChatServer) |  | 2022-12-16 00:29:36 +0000 UTC |
+| 0 | [wallet](https://github.com/ffelipelimao/wallet) |  | 2022-12-16 01:37:00 +0000 UTC |
 
