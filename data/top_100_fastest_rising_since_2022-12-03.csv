@@ -1,0 +1,100 @@
+1877, chatgpt-telegram, https://github.com/m1guelpf/chatgpt-telegram, "Run your own GPTChat Telegram bot, with a single command!", "gpt-3,gptchat,openai,telegram-bot", 2022-12-04 03:19:47 +0000 UTC
+358, eks-node-viewer, https://github.com/awslabs/eks-node-viewer, "EKS Node Viewer", "", 2022-12-07 19:23:53 +0000 UTC
+318, aiac, https://github.com/gofireflyio/aiac, "Artificial Intelligence Infrastructure-as-Code Generator.", "ai,chatgpt,iac,openai,pulumi,terraform", 2022-12-07 07:29:50 +0000 UTC
+205, wechat-chatGPT, https://github.com/gtoxlili/wechat-chatGPT, "实现微信公众号被动返回接口的ChatGPT", "", 2022-12-06 13:39:43 +0000 UTC
+155, chatgpt-dingtalk, https://github.com/eryajf/chatgpt-dingtalk, "ChatGPT机器人在钉钉群聊中交互", "chatgpt,chatgpt-api,dingtalk,dingtalk-robot", 2022-12-09 00:15:23 +0000 UTC
+151, jojo-live, https://github.com/icepie/jojo-live, "利用旧手机远程观测鹦鹉, 甚至与它交互~", "", 2022-12-05 07:52:44 +0000 UTC
+98, imersao11, https://github.com/devfullcycle/imersao11, "", "", 2022-12-04 15:20:53 +0000 UTC
+94, chatgpt-discord, https://github.com/m1guelpf/chatgpt-discord, "Run your own GPTChat Discord bot, with a single command!", "", 2022-12-08 18:24:28 +0000 UTC
+81, wechatgpt, https://github.com/houko/wechatgpt, "wechatgpt golang版 chatgpt机器人(可docker部署)，目前支持微信(wechat)，telegram（可直接加@xiaomo_chatgpt_bot体验）", "chatgpt,golang,slack,wechat", 2022-12-07 03:37:33 +0000 UTC
+63, googleplay, https://github.com/elt/googleplay, "Download APK from Google Play or send API requests", "android,google-play", 2022-12-07 11:53:12 +0000 UTC
+57, openaigo, https://github.com/otiai10/openaigo, "OpenAI (ChatGPT) API Client for Go", "chatgpt,chatgpt-api,chatgpt3,go,golang,openai,openai-api", 2022-12-10 08:13:35 +0000 UTC
+51, cp-v2, https://github.com/mtgnorton/cp-v2, "模拟v2ex的论坛系统", "", 2022-12-09 06:12:57 +0000 UTC
+46, natiu-mqtt, https://github.com/soypat/natiu-mqtt, "A dead-simple, extensible MQTT implementation well suited for embedded systems. ", "go,golang,iot,mqtt,mqtt-client,mqtt-embedded,mqtt-protocol", 2022-12-06 03:01:25 +0000 UTC
+42, rclone-tui, https://github.com/darkhz/rclone-tui, "", "", 2022-12-14 10:03:41 +0000 UTC
+42, wafme0w, https://github.com/Lu1sDV/wafme0w, "Fast and lightweight Web Application Firewall Fingerprinting tool", "", 2022-12-07 11:16:00 +0000 UTC
+36, search, https://github.com/visualbasic6/search, "a cli google client written by ai (chatgpt) that bypasses captcha and rate limiting by using the google alerts \"preview\" feature", "", 2022-12-08 14:15:53 +0000 UTC
+36, chatgpt, https://github.com/kkdai/chatgpt, "ChatGPT Console client in Golang", "chatgpt,golang,openai", 2022-12-06 08:41:38 +0000 UTC
+31, safeurl, https://github.com/doyensec/safeurl, "A Server Side Request Forgery (SSRF) protection library. Made with 🖤 by Doyensec LLC.", "appsec,gosec,ssrf", 2022-12-12 15:08:39 +0000 UTC
+28, mech, https://github.com/elt/mech, "Download media or send API requests", "amc,bandcamp,cbc-gem,nbc,paramount,roku,soundcloud,youtube", 2022-12-07 11:54:34 +0000 UTC
+27, gsql, https://github.com/reddec/gsql, "Tiny wrapper around SQLX for Generic SQL queries", "", 2022-12-15 14:46:07 +0000 UTC
+25, qcg-installer, https://github.com/RockChinQ/qcg-installer, "ChatGPT QQ 机器人的自动安装器，自动化部署，适用于QChatGPT项目", "chatgpt,qq", 2022-12-11 04:05:03 +0000 UTC
+24, Exodus-Ninjabot, https://github.com/CryptoMax1337/Exodus-Ninjabot, "A fast trading bot platform for cryptocurrency in Go ", "", 2022-12-12 21:23:01 +0000 UTC
+19, myko, https://github.com/rakyll/myko, "A simple attribution engine.", "", 2022-12-06 16:23:30 +0000 UTC
+18, MiraiStealer, https://github.com/WhateverCC/MiraiStealer, "Fully undetected stealer (Cookie, Password, Extensions, LocalStorage, Crypto Wallets, Discord Token and many more)", "", 2022-12-06 15:46:48 +0000 UTC
+17, chatgpt-go, https://github.com/chatgp/chatgpt-go, "chatgpt go sdk", "chatgpt,chatgpt-api,chatgpt-go,chatgpt-sdk", 2022-12-11 09:40:17 +0000 UTC
+17, RSS-Can, https://github.com/soulteary/RSS-Can, "[WIP] 📰 🥫 Got RSS CAN be better and simple.", "go-js,golang,golang-rss,rss,rss-aggregator,rss-can,rss-feed,rss-generator,rss-scraper,rsscan", 2022-12-12 04:59:57 +0000 UTC
+16, wechatbot, https://github.com/djun/wechatbot, "为个人微信接入ChatGPT", "", 2022-12-07 03:50:28 +0000 UTC
+15, go-with-me, https://github.com/Lukmanern/go-with-me, "Learning Go Code by Example.", "golang,learning-by-examples,learning-golang", 2022-12-09 06:19:11 +0000 UTC
+15, fetchfetch, https://github.com/NikonP/fetchfetch, "Fetch all your fetches", "", 2022-12-15 20:07:01 +0000 UTC
+13, chatgptredisclient, https://github.com/smukil/chatgptredisclient, "A distributed, fault-tolerant Redis Client POC completely written by prompting ChatGPT.", "", 2022-12-06 21:28:57 +0000 UTC
+13, chat-gpt-cli, https://github.com/jseguillon/chat-gpt-cli, "Chat with GPT via command line", "", 2022-12-10 15:12:23 +0000 UTC
+13, matcha, https://github.com/piqoni/matcha, "Daily Digest Reader", "markdown,obsidian-md,rss", 2022-12-10 14:43:23 +0000 UTC
+11, esja, https://github.com/ThreeDotsLabs/esja, "Event Sourcing library in Go.", "", 2022-12-05 18:02:44 +0000 UTC
+11, chatgpt-go, https://github.com/zhan3333/chatgpt-go, "Unofficial golang client for ChatGPT. Reverse Engineered from chat.openai.com / Golang 客户端访问 ChatGPT", "", 2022-12-07 08:16:33 +0000 UTC
+11, xbsapi, https://github.com/mrusme/xbsapi, "Alternative xBrowserSync API that is a single binary and supports SQLite3, PostgreSQL and MySQL", "api,api-rest,bookmark,bookmark-manager,bookmarks,bookmarks-manager,rest-api,sync,xbrowsersync,xbrowsersync-api,xbs,xbsapi", 2022-12-12 01:40:47 +0000 UTC
+9, stock-informer, https://github.com/ainsleyclark/stock-informer, "📈 A small and simple DOM detection changer for when you're in desperate need of a new Nvidia graphics card or anything else that tickles your pickle.", "cron,cron-job,dom,golang,golang-application,scraper,scraping-websites,stock,stock-checker,stock-checking", 2022-12-13 10:37:09 +0000 UTC
+9, LineBotChatGPT, https://github.com/TaroballzChen/LineBotChatGPT, "utilize openai api for implementation of chatGPT with LINEBOT", "", 2022-12-09 19:09:32 +0000 UTC
+8, bisonrelay, https://github.com/companyzero/bisonrelay, "", "", 2022-12-12 14:12:14 +0000 UTC
+8, wcaptcha-api, https://github.com/wcaptcha/wcaptcha-api, "Backend API of wCaptcha", "", 2022-12-15 07:09:30 +0000 UTC
+8, enola, https://github.com/sherlock-project/enola, "This is Sherlock's sister, Modern shiny CLI tool written with Golang to help you: 🔎 Hunt down social media accounts by username across social networks", "cli,go,golang,search,sherlock,sherlock-holmes,social-network,username", 2022-12-11 15:21:55 +0000 UTC
+7, youbine, https://github.com/yude/youbine, "郵便屋さん", "golang", 2022-12-12 12:07:41 +0000 UTC
+7, pandora, https://github.com/thomscoder/pandora, "🏺✨ A toy browser engine written in Golang and compiled in WASI. Render simple HTML and CSS into PNG images. I mean why not?", "browser-engine,golang,wasi,wasm", 2022-12-09 22:55:33 +0000 UTC
+7, dblens, https://github.com/maragudk/dblens, "An HTTP handler for database browsing.", "go,golang,http-handler", 2022-12-07 09:26:37 +0000 UTC
+7, go-store, https://github.com/LegendaryB/go-store, "Lightweight embedded database in pure Go inspired by Lowdb", "adapter,database,embedded,embedded-database,extendable,generic,go,golang,json,library,lightweight,local,memory,storage", 2022-12-13 10:21:31 +0000 UTC
+7, go-ChatGPT, https://github.com/golang-infrastructure/go-ChatGPT, "ChatGPT's Golang API easily integrates ChatGPT into your Go application", "chatgpt,chatgpt-api", 2022-12-07 10:42:34 +0000 UTC
+7, k8s-operator-libs, https://github.com/NVIDIA/k8s-operator-libs, "A collection of useful Go libraries to ease the development of NVIDIA Operators for GPU/NIC management.", "", 2022-12-16 14:35:04 +0000 UTC
+6, study_xxqg, https://github.com/fuabr/study_xxqg, "自动学习", "", 2022-12-14 12:42:11 +0000 UTC
+6, chatgpt-wechatbot, https://github.com/putianhui/chatgpt-wechatbot, "一个将你的个人微信接入ChatGPT，并实现微信私聊获取群里@你通过chatgpt获取回复并回应微信好友的项目，实现chatgpt的微信机器人功能。", "", 2022-12-10 10:18:28 +0000 UTC
+6, orunmila, https://github.com/proditis/orunmila, "a simple tool to refine and produce lists for your bugbounty and pen-test engagements", "bugbounty,dirbuster,ffuf,pen-test-tools,pen-testing,penetration-testing,pentest-tool,pentesting", 2022-12-04 01:39:26 +0000 UTC
+6, wechatmp-chatgpt, https://github.com/malaohu/wechatmp-chatgpt, "为公众号接入OpenAI ChatGPT", "", 2022-12-09 18:08:38 +0000 UTC
+6, chatgpt, https://github.com/tomatocuke/chatgpt, "ChatGPT二次开发，微信公众号自动回复", "", 2022-12-12 12:47:47 +0000 UTC
+6, gonacli, https://github.com/wenlng/gonacli, "🖖 This is a development tool that can quickly use Golang to develop and build NodeJS Addon.", "addon,c,cpp,devtools,go,golang,javascript,js,napi,nodejs,nodejsaddon,v8", 2022-12-11 13:23:00 +0000 UTC
+5, chatgpt, https://github.com/solywsh/chatgpt, "chartgpt client for golang", "", 2022-12-07 06:03:00 +0000 UTC
+5, dbg, https://github.com/cristalhq/dbg, "Debug helpers for Go", "", 2022-12-07 22:52:14 +0000 UTC
+5, concurrency, https://github.com/lxzan/concurrency, "concurrency controller", "concurrency-control,coroutine,threadpool", 2022-12-09 07:50:55 +0000 UTC
+5, genius-invokation-simulator-backend, https://github.com/sunist-c/genius-invokation-simulator-backend, "原神七圣召唤模拟器后端", "", 2022-12-11 15:17:06 +0000 UTC
+5, tn-cli, https://github.com/cetorres/tn-cli, "TabNews (tabnews.com.br) CLI made with Go.", "", 2022-12-05 23:43:17 +0000 UTC
+5, twitterpurge, https://github.com/digitalsparky/twitterpurge, "", "", 2022-12-16 11:26:10 +0000 UTC
+5, stability-sdk-go, https://github.com/Stability-AI/stability-sdk-go, "Golang functions for interacting with Stability API", "", 2022-12-12 16:30:58 +0000 UTC
+5, most-secure-calculator, https://github.com/datosh-org/most-secure-calculator, "", "", 2022-12-05 11:40:19 +0000 UTC
+5, squashfs, https://github.com/KarpelesLab/squashfs, "SquashFS read only implementation in pure go", "", 2022-12-04 09:01:02 +0000 UTC
+5, turbo-tor-crawl, https://github.com/thedmdim/turbo-tor-crawl, "Recursive hostnames crawler", "crawler,go,spider,tor", 2022-12-05 16:26:39 +0000 UTC
+5, exchange-smtp, https://github.com/demen-in/exchange-smtp, "", "", 2022-12-15 00:01:25 +0000 UTC
+5, cookie-clicker-tasbot, https://github.com/niko-dunixi/cookie-clicker-tasbot, "The greatest contribution I can give: A robot that wastes time for you  #WorkSmarterNotHarder", "", 2022-12-12 01:32:26 +0000 UTC
+5, TrafficAlerted, https://github.com/Kioubit/TrafficAlerted, "Monitor transiting traffic. Per-IP alerts on high traffic volume. Network scanning alerts", "bandwidth,bandwidth-monitor,monitoring,network,network-analysis,network-graph", 2022-12-15 18:04:40 +0000 UTC
+5, Xray-core, https://github.com/dharak36/Xray-core, "", "", 2022-12-08 08:42:15 +0000 UTC
+5, rosso, https://github.com/elt/rosso, "Data parsers and formatters", "dash,hls,http,json,mp4,protobuf,xml", 2022-12-07 11:56:25 +0000 UTC
+5, cliImageViewer, https://github.com/lazygyu/cliImageViewer, "Show image in cli", "", 2022-12-06 20:27:39 +0000 UTC
+5, go-tify, https://github.com/aacevski/go-tify, "A simple CLI tool which let's you control your Spotify player from the terminal, built using Go 💙", "", 2022-12-08 00:38:40 +0000 UTC
+5, goversion, https://github.com/junk1tm/goversion, "🎲 Easily switch between multiple Go versions", "go,golang,version,version-manager", 2022-12-05 22:17:56 +0000 UTC
+4, hyphen, https://github.com/nekomeowww/hyphen, "An elegant URL Shortener service", "golang,url-shortener", 2022-12-11 07:32:51 +0000 UTC
+4, GScan, https://github.com/Ymjie/GScan, "使用Golang编写高性能网站爬虫、内容分析工具", "", 2022-12-06 11:02:55 +0000 UTC
+4, chatGPT_terminal, https://github.com/ifacker/chatGPT_terminal, "只要自己配置自己的 token 之后，便可以在终端和 chatGPT 进行对话", "", 2022-12-12 07:03:04 +0000 UTC
+4, brand-commerce-product-command-service, https://github.com/vandenbill/brand-commerce-product-command-service, "", "", 2022-12-04 16:22:15 +0000 UTC
+4, hashgen, https://github.com/cyclone-github/hashgen, "hash generator", "", 2022-12-16 02:27:27 +0000 UTC
+4, iot-platform, https://github.com/GetcharZp/iot-platform, "基于 go-zero（微服务）实现的物联网平台", "", 2022-12-04 05:13:26 +0000 UTC
+4, mr-cassop, https://github.com/IBM/mr-cassop, "mr-cassop was created to automate the deployment and management of Cassandra instances in Kubernetes clusters across multiple regions.", "", 2022-12-12 18:40:30 +0000 UTC
+4, gongs, https://github.com/sl1pm4t/gongs, "Go Nats Generic Streams", "golang,golang-library,nats,nats-streaming", 2022-12-04 21:53:36 +0000 UTC
+4, perseus, https://github.com/mattermost/perseus, "Multiplex connections", "", 2022-12-08 15:48:10 +0000 UTC
+4, defc, https://github.com/x5iu/defc, "通过定义 Schema，利用 go generate 生成数据库增删改查或 HTTP 请求代码", "codegen,golang,http,sql", 2022-12-09 11:36:58 +0000 UTC
+4, robot-operator, https://github.com/robolaunch/robot-operator, "Kubernetes Robot Operator for ROS/2 Based Robots", "kubernetes,ros2", 2022-12-05 07:26:04 +0000 UTC
+4, go-passwd, https://github.com/sour-is/go-passwd, "PHC Password Checker", "", 2022-12-07 21:31:53 +0000 UTC
+4, mindmachine, https://github.com/Stackerstan/mindmachine, "A replicated state machine built on Nostr and Bitcoin", "", 2022-12-16 06:12:02 +0000 UTC
+4, go-flocks-of-blocks, https://github.com/jeremyforan/go-flocks-of-blocks, "A Go package that helps compose Slack block messages", "", 2022-12-05 14:24:16 +0000 UTC
+4, go-hangul, https://github.com/KimHyeonwoo/go-hangul, "A package for Hangul (korean alphabet)", "", 2022-12-04 11:03:02 +0000 UTC
+4, go-data-stucture, https://github.com/vandenbill/go-data-stucture, "", "", 2022-12-15 02:54:33 +0000 UTC
+4, go-pcap, https://github.com/mel2oo/go-pcap, "", "", 2022-12-15 13:30:20 +0000 UTC
+4, signing-agent, https://github.com/qredo/signing-agent, "", "", 2022-12-14 08:36:16 +0000 UTC
+3, DiscordWebhookFucker, https://github.com/imvast/DiscordWebhookFucker, "!Fast!  Discord Webhook Flooder", "discord,discord-hack,discord-webhook,discord-webhook-spammer,webhook-spammer", 2022-12-04 01:43:00 +0000 UTC
+3, disciplinarian, https://github.com/charlieegan3/disciplinarian, "Run rego rules against the files in a repository", "", 2022-12-09 13:39:59 +0000 UTC
+3, chatgpt, https://github.com/Echowxsy/chatgpt, "", "", 2022-12-08 04:51:20 +0000 UTC
+3, AD2C, https://github.com/jtorvald/AD2C, "Apple Devices to Code", "", 2022-12-04 20:12:30 +0000 UTC
+3, acm, https://github.com/ahmadrosid/acm, "Write Automatic Git commit message with OpenAI GPT-3", "", 2022-12-08 14:08:22 +0000 UTC
+3, WEB-FianlExam, https://github.com/WSYwsy22/WEB-FianlExam, "", "", 2022-12-07 23:50:54 +0000 UTC
+3, must, https://github.com/xiegeo/must, "When you don't need error handling", "", 2022-12-08 15:36:06 +0000 UTC
+3, newsfilter, https://github.com/h1xxx/newsfilter, "", "", 2022-12-13 21:13:15 +0000 UTC
+3, sonate, https://github.com/fehernandez12/sonate, "HTTP Router and URL matcher for building web servers.", "", 2022-12-13 14:42:01 +0000 UTC
+3, pg-sniffer, https://github.com/ihippik/pg-sniffer, "", "", 2022-12-12 18:46:47 +0000 UTC
+3, meldeplattform, https://github.com/joschahenningsen/meldeplattform, "A simple website allowing anonymous reports about security issues, harassment, illegal activities, safety concerns, whistleblowing and whatnot. Possibly in use at TUM (soon™⟩", "", 2022-12-07 19:07:36 +0000 UTC
+3, github-action-workflow, https://github.com/LinuxSuRen/github-action-workflow, "GitHub Actions compitable workflows", "", 2022-12-11 12:08:18 +0000 UTC
