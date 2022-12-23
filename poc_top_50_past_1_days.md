@@ -1,103 +1,103 @@
 | Stars | Name | Desc | Created | 
 | ----- | ------- | ------------- | ------------- |
-| 2 | [consulta_de_credito](https://github.com/Luchecy/consulta_de_credito) |  | 2022-12-22 00:12:36 +0000 UTC |
-| 2 | [--Automatic-typing](https://github.com/SLZWAD/--Automatic-typing) |  | 2022-12-22 01:02:53 +0000 UTC |
-| 2 | [e4893d58-61c0-4ff6-9b35-2094374f737e](https://github.com/appseed-projects/e4893d58-61c0-4ff6-9b35-2094374f737e) | Material Kit Flask - Generated Seed Project (Open-Source) \| AppSeed | 2022-12-22 00:54:14 +0000 UTC |
-| 2 | [whenitis.github.io](https://github.com/whenitis/whenitis.github.io) |  | 2022-12-22 00:24:00 +0000 UTC |
-| 2 | [devb3](https://github.com/hugobrendow/devb3) |  | 2022-12-22 00:44:22 +0000 UTC |
-| 2 | [ANL_research_intern](https://github.com/anthonynguyen2021/ANL_research_intern) | Argonne National Laboratory Summer 2020 internship on derivative free optimization | 2022-12-22 01:07:08 +0000 UTC |
-| 1 | [Tugasbesar.github.io](https://github.com/Wahyuajipamungkas/Tugasbesar.github.io) |  | 2022-12-22 00:45:09 +0000 UTC |
-| 1 | [uydzfjy](https://github.com/uydzfjy/uydzfjy) | Config files for my GitHub profile. | 2022-12-22 00:19:22 +0000 UTC |
-| 1 | [markdown-practice](https://github.com/dnfwksha/markdown-practice) |  | 2022-12-22 00:06:19 +0000 UTC |
-| 1 | [blooket-cheats](https://github.com/lachhhh/blooket-cheats) | Free blooket hacks | 2022-12-22 01:09:12 +0000 UTC |
-| 1 | [faaba_app](https://github.com/mhgbtc/faaba_app) |  | 2022-12-22 00:56:45 +0000 UTC |
-| 1 | [react-solution-use-react-router-static-routing](https://github.com/qa-exercises/react-solution-use-react-router-static-routing) | Created with StackBlitz ⚡️ | 2022-12-22 01:35:01 +0000 UTC |
-| 1 | [CoreJava634Batch](https://github.com/chandrikagopireddy/CoreJava634Batch) | CoreJava634Batch | 2022-12-22 00:21:43 +0000 UTC |
-| 1 | [freecodecampJsCourse](https://github.com/JuniorBrPr/freecodecampJsCourse) |  | 2022-12-22 00:21:50 +0000 UTC |
-| 1 | [super-duper-meme](https://github.com/Martins23568865/super-duper-meme) | Wine  | 2022-12-22 00:45:55 +0000 UTC |
-| 1 | [TCC-LocPet](https://github.com/samarazaluski/TCC-LocPet) |  | 2022-12-22 00:21:40 +0000 UTC |
-| 1 | [zadaca4](https://github.com/hristijanp/zadaca4) |  | 2022-12-22 00:36:03 +0000 UTC |
-| 1 | [test](https://github.com/design2023/test) |  | 2022-12-22 00:43:21 +0000 UTC |
-| 1 | [free-will-blog](https://github.com/brunogarcia84/free-will-blog) |  | 2022-12-22 01:07:15 +0000 UTC |
-| 1 | [exercicios-js](https://github.com/MarcosASL/exercicios-js) |  | 2022-12-22 00:58:17 +0000 UTC |
-| 1 | [winter](https://github.com/ShiratoriYuu/winter) |  | 2022-12-22 01:35:10 +0000 UTC |
-| 1 | [WebStudy-202211-kb-huiju](https://github.com/huiju1313/WebStudy-202211-kb-huiju) |  | 2022-12-22 00:21:47 +0000 UTC |
-| 1 | [Yuans898](https://github.com/w8988998ww/Yuans898) |  | 2022-12-22 00:20:31 +0000 UTC |
-| 1 | [vowelFinder](https://github.com/codeNameDaneNextDoor/vowelFinder) |  | 2022-12-22 00:21:39 +0000 UTC |
-| 1 | [DataStructHW2](https://github.com/amit1221levi/DataStructHW2) |  | 2022-12-22 00:14:55 +0000 UTC |
-| 1 | [instagram-web-clone-practise](https://github.com/daemon9999/instagram-web-clone-practise) | The website's clone of the company of Instagram which is continuing to be developed is coded by me just in order to develop react and firebase skills... | 2022-12-22 00:05:54 +0000 UTC |
-| 1 | [gg-game](https://github.com/1Taron/gg-game) |  | 2022-12-22 00:46:23 +0000 UTC |
-| 1 | [OpenGL-Engine](https://github.com/alec-moore/OpenGL-Engine) |  | 2022-12-22 00:55:58 +0000 UTC |
-| 1 | [aula-guanabara](https://github.com/mylenalrf/aula-guanabara) | Testando repositório na aula 5 do curso em vídeo de git e github | 2022-12-22 00:22:56 +0000 UTC |
-| 1 | [multi-column-layout](https://github.com/FathyAdel1/multi-column-layout) |  | 2022-12-22 01:07:14 +0000 UTC |
-| 1 | [Marrone77-0](https://github.com/Marrone77-0/Marrone77-0) |  | 2022-12-22 01:13:51 +0000 UTC |
-| 1 | [drag-drop](https://github.com/haisweetqi/drag-drop) |  | 2022-12-22 01:25:05 +0000 UTC |
-| 1 | [aztek-apwine-bridge](https://github.com/djaciel/aztek-apwine-bridge) |  | 2022-12-22 01:29:35 +0000 UTC |
-| 1 | [JavaUnitTestSample](https://github.com/zxyao145/JavaUnitTestSample) | Java unit test sample with junit4 and junit5 | 2022-12-22 01:16:50 +0000 UTC |
-| 1 | [cmake](https://github.com/adityavigneshs/cmake) |  | 2022-12-22 01:39:54 +0000 UTC |
-| 1 | [Piper-plotter](https://github.com/inkenbrandt/Piper-plotter) | Plots geochemical Piper diagrams commonly used by hydrogeologists. Code based on D-Piper. This library generates a vector-based Piper plot. | 2022-12-22 00:06:21 +0000 UTC |
-| 1 | [Hungry_Animals_Prototype](https://github.com/RoaaK95/Hungry_Animals_Prototype) | Unity game prototype | 2022-12-22 00:08:02 +0000 UTC |
-| 1 | [The_Runner_Prototype](https://github.com/RoaaK95/The_Runner_Prototype) | Unity game prototype | 2022-12-22 00:21:18 +0000 UTC |
-| 1 | [ParkinglotS](https://github.com/ParkinglotS/ParkinglotS) | Config files for my GitHub profile. | 2022-12-22 00:10:26 +0000 UTC |
-| 1 | [Agenda-2](https://github.com/FedeFernandez503/Agenda-2) |  | 2022-12-22 00:00:57 +0000 UTC |
-| 1 | [js-assignment-6-orbit-report-cristenjohnson](https://github.com/Cleared-Talent-CodeCamp-Oct-2022/js-assignment-6-orbit-report-cristenjohnson) | js-assignment-6-orbit-report-cristenjohnson created by GitHub Classroom | 2022-12-22 00:15:48 +0000 UTC |
-| 1 | [ilyasdatabase](https://github.com/ilyaszh/ilyasdatabase) |  | 2022-12-22 01:07:14 +0000 UTC |
-| 1 | [BehaveExample](https://github.com/Brianmendozas/BehaveExample) | Primer ejercicio de pruebas automatizadas en python | 2022-12-22 00:36:54 +0000 UTC |
-| 1 | [15.4-rest-spread-Exercise](https://github.com/ZaneGoodman/15.4-rest-spread-Exercise) |  | 2022-12-22 00:54:13 +0000 UTC |
-| 1 | [conversor-de-moeda](https://github.com/TarcisioNeris/conversor-de-moeda) |  | 2022-12-22 00:21:47 +0000 UTC |
-| 1 | [Astonia-Engine](https://github.com/Nodeki-Tan/Astonia-Engine) | 3d engine for TOA game | 2022-12-22 01:30:10 +0000 UTC |
-| 1 | [react-usePassport](https://github.com/lucianHymer/react-usePassport) |  | 2022-12-22 01:35:16 +0000 UTC |
-| 1 | [desportoprojecto](https://github.com/22valenia/desportoprojecto) |  | 2022-12-22 00:21:40 +0000 UTC |
-| 1 | [Android-8BallPool-MiniClip-Cheat](https://github.com/stuardnudings/Android-8BallPool-MiniClip-Cheat) | Miniclip 8BallPool Prediction Hack Including AutoAim AutoPlay | 2022-12-22 01:07:15 +0000 UTC |
-| 1 | [Portfolio](https://github.com/itsCaveMan/Portfolio) | The portfolio of Cavan Schutte | 2022-12-22 01:07:14 +0000 UTC |
-| 1 | [PROYECTO](https://github.com/ELVIRAVARGAS92/PROYECTO) | PROYECTO ES-CA AUTENTICA | 2022-12-22 01:14:42 +0000 UTC |
-| 1 | [hover_event](https://github.com/OsmarGimenez/hover_event) |  | 2022-12-22 01:35:12 +0000 UTC |
-| 1 | [Playwright](https://github.com/rgirl0801/Playwright) |  | 2022-12-22 00:43:32 +0000 UTC |
-| 1 | [RecommenderSystemsProject](https://github.com/BFFV/RecommenderSystemsProject) | Project for IIC3633 - Recommender Systems. | 2022-12-22 00:37:03 +0000 UTC |
-| 1 | [-](https://github.com/Hayeon101/-) |  | 2022-12-22 01:07:16 +0000 UTC |
-| 1 | [Roman](https://github.com/RomanZelenuyk1998/Roman) |  | 2022-12-22 01:07:17 +0000 UTC |
-| 1 | [MicroInv_codigo](https://github.com/FranciscoDavidMiguelPedro/MicroInv_codigo) | Inventario codigo | 2022-12-22 01:07:14 +0000 UTC |
-| 1 | [pereiraios](https://github.com/pereiraios/pereiraios) | Config files for my GitHub profile. | 2022-12-22 01:12:39 +0000 UTC |
-| 1 | [ProjectBiscoitoDaSorte](https://github.com/Felipe099/ProjectBiscoitoDaSorte) |  | 2022-12-22 01:04:08 +0000 UTC |
-| 1 | [jk-vuetify3-lux-admin](https://github.com/yangjiakai/jk-vuetify3-lux-admin) | Vuetify3 Lux Admin PRO | 2022-12-22 01:09:54 +0000 UTC |
-| 1 | [HubHelper](https://github.com/wrobz16/HubHelper) | Discord bot to help my discord server | 2022-12-22 01:24:24 +0000 UTC |
-| 1 | [lv-app](https://github.com/DenielCordeiro/lv-app) | creating my first project for my first client. Screen that login, products, and payments . | 2022-12-22 01:31:35 +0000 UTC |
-| 1 | [H3V3R-WildLands-PrivateCheat-Leaked](https://github.com/champyhashemo/H3V3R-WildLands-PrivateCheat-Leaked) | H3V3R Wildlands PrivateCheat With Spoofer And 30 MORE FEATURES | 2022-12-22 01:35:01 +0000 UTC |
-| 1 | [PageRank-algoritam](https://github.com/eris00/PageRank-algoritam) | Implementacioni dio seminarskog rada iz predmeta strukture podataka i algoritmi | 2022-12-22 01:32:16 +0000 UTC |
-| 1 | [Clustering-and-Validation-Techniques](https://github.com/visheshgupta-BA/Clustering-and-Validation-Techniques) |  | 2022-12-22 01:35:14 +0000 UTC |
-| 1 | [easytodoapp](https://github.com/leonidasmich/easytodoapp) | Easy to do app with PySimpleGui and Streamlit | 2022-12-22 01:00:01 +0000 UTC |
-| 1 | [KS-README-Gen](https://github.com/Ksteed8859/KS-README-Gen) |  | 2022-12-22 01:35:10 +0000 UTC |
-| 1 | [slot_machine-Python](https://github.com/CodeMalasartes/slot_machine-Python) |  | 2022-12-22 00:21:40 +0000 UTC |
-| 1 | [pong.js](https://github.com/ricardocroce14/pong.js) |  | 2022-12-22 00:55:58 +0000 UTC |
-| 1 | [Python-Challenge](https://github.com/advorak57/Python-Challenge) |  | 2022-12-22 00:21:45 +0000 UTC |
-| 1 | [repo20](https://github.com/NeelimaKshatri26/repo20) |  | 2022-12-22 01:35:07 +0000 UTC |
-| 1 | [Data-Structure-Trosc](https://github.com/shorokatwa14/Data-Structure-Trosc) |  | 2022-12-22 00:21:35 +0000 UTC |
-| 1 | [Array2DNode](https://github.com/tomnguyen211/Array2DNode) | Using Node to Store Data | 2022-12-22 00:02:45 +0000 UTC |
-| 1 | [DWacademi](https://github.com/pjinbum/DWacademi) |  | 2022-12-22 00:21:50 +0000 UTC |
-| 1 | [Tictactoe](https://github.com/Albert1915/Tictactoe) |  | 2022-12-22 00:21:03 +0000 UTC |
-| 1 | [DS-Reference-Notebook](https://github.com/nub3Ar/DS-Reference-Notebook) |  | 2022-12-22 00:10:11 +0000 UTC |
-| 1 | [nerd](https://github.com/steviegt6/nerd) |  | 2022-12-22 00:19:04 +0000 UTC |
-| 1 | [Balls_Arena_Prototype](https://github.com/RoaaK95/Balls_Arena_Prototype) | Unity game prototype | 2022-12-22 00:35:07 +0000 UTC |
-| 1 | [Michael-](https://github.com/Martins23568865/Michael-) | Waddle  | 2022-12-22 00:33:12 +0000 UTC |
-| 1 | [mindai](https://github.com/mhdeiiking/mindai) | mindai is a package has alot of ai tools like chat with ai or code generate and more. | 2022-12-22 00:31:39 +0000 UTC |
-| 1 | [SHIVeT-Borderlands-2-PrivateCheat](https://github.com/champyhashemo/SHIVeT-Borderlands-2-PrivateCheat) | SHIVeT Borderlands 2 PrivateCheat with Spoofer and MORE FEATURES | 2022-12-22 01:35:17 +0000 UTC |
-| 1 | [Filereader](https://github.com/salason4/Filereader) | for reading files | 2022-12-22 01:35:13 +0000 UTC |
-| 1 | [Sprint3y4](https://github.com/JLeaf34/Sprint3y4) |  | 2022-12-22 01:35:17 +0000 UTC |
-| 1 | [Weather_Classification](https://github.com/ChenhaoZhu/Weather_Classification) |  | 2022-12-22 00:40:44 +0000 UTC |
-| 1 | [Projects-In-Python](https://github.com/troy-c137/Projects-In-Python) | Here are some basic programs in Python. | 2022-12-22 00:50:06 +0000 UTC |
-| 1 | [DSA](https://github.com/sabiya07/DSA) |  | 2022-12-22 01:25:58 +0000 UTC |
-| 1 | [band](https://github.com/MhndRenzz/band) |  | 2022-12-22 01:24:24 +0000 UTC |
-| 1 | [AED2](https://github.com/PSFREITASUEA/AED2) |  | 2022-12-22 00:14:09 +0000 UTC |
-| 1 | [04-challenge-hw-javascript-code-quiz](https://github.com/mariahw4/04-challenge-hw-javascript-code-quiz) | Creating a timed code quiz using JavaScript | 2022-12-22 00:13:01 +0000 UTC |
-| 1 | [Reverse_words](https://github.com/DariaTrabsky/Reverse_words) |  | 2022-12-22 00:19:25 +0000 UTC |
-| 1 | [bot-quiz](https://github.com/arai-19/bot-quiz) |  | 2022-12-22 01:07:18 +0000 UTC |
-| 1 | [tickets-app](https://github.com/rocoSittoni/tickets-app) | Event tickets application | 2022-12-22 00:44:09 +0000 UTC |
-| 1 | [codBash01](https://github.com/alixonsanchez/codBash01) | Validar tipos de datos en el input de la infrmation | 2022-12-22 01:34:24 +0000 UTC |
-| 1 | [Pymaceuticals](https://github.com/dkapoor75/Pymaceuticals) |  | 2022-12-22 01:24:48 +0000 UTC |
-| 1 | [Forge_1.19_Tutorial](https://github.com/felipeC20312/Forge_1.19_Tutorial) |  | 2022-12-22 01:10:48 +0000 UTC |
-| 1 | [k8s-manifests](https://github.com/srinuchowdary123/k8s-manifests) |  | 2022-12-22 01:24:44 +0000 UTC |
-| 1 | [Paper](https://github.com/NCCoder1/Paper) |  | 2022-12-22 00:21:39 +0000 UTC |
-| 1 | [RecommenderSystemsHW](https://github.com/BFFV/RecommenderSystemsHW) | Homework for IIC3633 - Recommender Systems. | 2022-12-22 00:41:45 +0000 UTC |
-| 1 | [kumo-opt](https://github.com/hamokumo/kumo-opt) | Kumo 客户端优化整合包。 | 2022-12-22 00:52:03 +0000 UTC |
-| 1 | [COP3223](https://github.com/nikoles123/COP3223) | Introduction to Programming with C: Programming in C including arrays, pointer manipulation and use of standard C math and IO libraries. | 2022-12-22 00:49:56 +0000 UTC |
+| 2 | [17ef381a-e065-41b6-85bf-f2919504b4f2](https://github.com/appseed-projects/17ef381a-e065-41b6-85bf-f2919504b4f2) | React Argon Design - API Server Nodejs \| AppSeed  | 2022-12-23 00:15:44 +0000 UTC |
+| 2 | [41_3959](https://github.com/uuid2com16/41_3959) | 织梦dedecms蓝色风格污水处理尿素生产设备公司网站模板(带手机移动端) | 2022-12-23 01:15:37 +0000 UTC |
+| 2 | [compose-navigation-extension](https://github.com/uragiristereo/compose-navigation-extension) | [BETA] A type-safe extension wrapper to simplify navigating experience with data classes support in Jetpack Compose. | 2022-12-23 00:07:08 +0000 UTC |
+| 2 | [docker-bitcoin-core](https://github.com/nodetec/docker-bitcoin-core) |  | 2022-12-23 00:19:23 +0000 UTC |
+| 2 | [Datadome-Solution](https://github.com/frenchghost/Datadome-Solution) | This api will help you avoid getting blocked by Datadome by generating a datadome cookie used to verify the authenticity of your request. | 2022-12-23 00:19:16 +0000 UTC |
+| 2 | [Learn-SDLang](https://github.com/seanpm2001/Learn-SDLang) | 📚️ A repository for showcasing my knowledge of the SDLang programming language, and continuing to learn the language. | 2022-12-23 00:34:54 +0000 UTC |
+| 1 | [71ab3925-1117-4ad5-a326-dfd417bcd4ad](https://github.com/appseed-projects3/71ab3925-1117-4ad5-a326-dfd417bcd4ad) | Soft Ui Dashboard Flask - Generated Seed Project (Open-Source) \| AppSeed | 2022-12-23 00:02:47 +0000 UTC |
+| 1 | [portfolioPython](https://github.com/Estivenfs/portfolioPython) | Portafolio en python | 2022-12-23 00:16:54 +0000 UTC |
+| 1 | [raycast-discord-utils](https://github.com/uzimaru0000/raycast-discord-utils) |  | 2022-12-23 00:01:43 +0000 UTC |
+| 1 | [Trilha_de_Aprendizado](https://github.com/AntonioLicciardi/Trilha_de_Aprendizado) | O objetivo deste repositório é compartilhar o conhecimento que venho adquirindo ao longo de cursos que realizo. | 2022-12-23 00:26:18 +0000 UTC |
+| 1 | [NuevoRepositorio](https://github.com/Nevervoker/NuevoRepositorio) | Este repositorio es de practica | 2022-12-23 00:35:04 +0000 UTC |
+| 1 | [trivia_game](https://github.com/sid-prakash/trivia_game) | Android application that allows users to play a trivia game with friends using Java and Spring Boot | 2022-12-23 00:17:32 +0000 UTC |
+| 1 | [FMCW_Radar_Ake](https://github.com/ake1999/FMCW_Radar_Ake) |  | 2022-12-23 00:45:23 +0000 UTC |
+| 1 | [tell-edge](https://github.com/playground/tell-edge) |  | 2022-12-23 01:15:34 +0000 UTC |
+| 1 | [Python_Assignments](https://github.com/Anil1415/Python_Assignments) |  | 2022-12-23 00:54:02 +0000 UTC |
+| 1 | [so_long_utils](https://github.com/ael-mouz/so_long_utils) |  | 2022-12-23 00:17:02 +0000 UTC |
+| 1 | [Computer-Vision-097222-Winter-2022-23](https://github.com/dahan198/Computer-Vision-097222-Winter-2022-23) |  | 2022-12-23 00:25:50 +0000 UTC |
+| 1 | [MyStore-Angular-Project](https://github.com/faalqa/MyStore-Angular-Project) |  | 2022-12-23 00:25:02 +0000 UTC |
+| 1 | [UPI](https://github.com/JovidYnwa/UPI) |  | 2022-12-23 00:38:20 +0000 UTC |
+| 1 | [CookBook](https://github.com/alexander-sazonov/CookBook) |  | 2022-12-23 00:53:50 +0000 UTC |
+| 1 | [Note](https://github.com/JiuPinX/Note) | 好欸 | 2022-12-23 00:54:04 +0000 UTC |
+| 1 | [validasi_Javascript](https://github.com/Erza0838/validasi_Javascript) | - Membuat falidasi yang mengharuskan user memasukkan code acak | 2022-12-23 01:22:59 +0000 UTC |
+| 1 | [hyeonjoonpark](https://github.com/hyeonjoonpark/hyeonjoonpark) |  | 2022-12-23 01:23:59 +0000 UTC |
+| 1 | [Bonpav777](https://github.com/Bonpav/Bonpav777) | Config files for my GitHub profile. | 2022-12-23 00:36:45 +0000 UTC |
+| 1 | [whatsapp-clone--next.js-firebase9](https://github.com/joaolessab/whatsapp-clone--next.js-firebase9) | Whats App Clone using Next.js and Firebase 9 | 2022-12-23 00:52:08 +0000 UTC |
+| 1 | [DMS2022FALL_project](https://github.com/yuchenzhao726/DMS2022FALL_project) | Yuchen Zhao & Xin Peng | 2022-12-23 00:25:50 +0000 UTC |
+| 1 | [ChatGPTLinux](https://github.com/ASoldo/ChatGPTLinux) |  | 2022-12-23 00:54:08 +0000 UTC |
+| 1 | [Deep-Q-Learning](https://github.com/djellab-ahmed/Deep-Q-Learning) | Deep Q-Learning - Lunar Lander | 2022-12-23 01:26:52 +0000 UTC |
+| 1 | [stranger](https://github.com/acuna10/stranger) |  | 2022-12-23 01:15:11 +0000 UTC |
+| 1 | [Android-x32x64_LiveCD_10A_Edition](https://github.com/seanpm2001/Android-x32x64_LiveCD_10A_Edition) | 🤖️ Special Android x32x64 LiveCD for all versions of Android x32 and x64 from 0.9 to 10.0 | 2022-12-23 01:24:18 +0000 UTC |
+| 1 | [Robo-Android](https://github.com/Allan-Carlos/Robo-Android) | Um site explicando a origem do nosso tão querido robô da Android! | 2022-12-23 00:26:30 +0000 UTC |
+| 1 | [openshittraining](https://github.com/bnvschaitanya/openshittraining) |  | 2022-12-23 00:45:10 +0000 UTC |
+| 1 | [gatsby-minimal-theme](https://github.com/joshuarhall/gatsby-minimal-theme) | A Gatsby Starter Project to get started with the Portfolio Minimal Theme. | 2022-12-23 00:11:04 +0000 UTC |
+| 1 | [site-antoniadis](https://github.com/AntVlassis/site-antoniadis) |  | 2022-12-23 00:11:08 +0000 UTC |
+| 1 | [ShortestRouteProject](https://github.com/Freezanator/ShortestRouteProject) | The purpose of this group project is to design and analyze an algorithm to find the shortest route. | 2022-12-23 00:46:05 +0000 UTC |
+| 1 | [xboard-frontend](https://github.com/elbon99/xboard-frontend) |  | 2022-12-23 01:15:40 +0000 UTC |
+| 1 | [OOPS_JAVA](https://github.com/REPANAJYOTHIPRAKASH629/OOPS_JAVA) |  | 2022-12-23 00:31:53 +0000 UTC |
+| 1 | [vsj](https://github.com/twuni/vsj) | VSJ is JSON Schema validation. | 2022-12-23 00:37:39 +0000 UTC |
+| 1 | [sharma-acloud](https://github.com/sharma-acloud/sharma-acloud) | Config files for my GitHub profile. | 2022-12-23 01:27:32 +0000 UTC |
+| 1 | [unstable-diffusion](https://github.com/alan-oliv/unstable-diffusion) | This is not a deep learning model, unless you can learn something from my thoughts. | 2022-12-23 00:44:11 +0000 UTC |
+| 1 | [Grid-II](https://github.com/PatricioAdaro/Grid-II) |  | 2022-12-23 00:37:09 +0000 UTC |
+| 1 | [Workshop](https://github.com/Allan-Carlos/Workshop) | Uma página de captura com um sistema de e-mails funcional! | 2022-12-23 00:41:22 +0000 UTC |
+| 1 | [elastic_search](https://github.com/f4js3il/elastic_search) |  | 2022-12-23 01:15:15 +0000 UTC |
+| 1 | [Java](https://github.com/thxb5/Java) | Java Class | 2022-12-23 00:17:00 +0000 UTC |
+| 1 | [69_8811](https://github.com/uuid2com17/69_8811) | 锦鲤报名分享 6.2.8 开源版功能模块 | 2022-12-23 00:17:04 +0000 UTC |
+| 1 | [trabajo-mi-inicio](https://github.com/danny-PNG/trabajo-mi-inicio) | aprendizaje  | 2022-12-23 00:16:56 +0000 UTC |
+| 1 | [Reencontrow](https://github.com/Allan-Carlos/Reencontrow) | Uma landing-page sobre uma comunidade de relacionamentos! | 2022-12-23 00:48:01 +0000 UTC |
+| 1 | [Form_CRUD](https://github.com/ChiBulva/Form_CRUD) |  | 2022-12-23 00:14:28 +0000 UTC |
+| 1 | [Shopping-Cart-React-Vite-Typescript](https://github.com/IMTheBale/Shopping-Cart-React-Vite-Typescript) |  | 2022-12-23 00:03:11 +0000 UTC |
+| 1 | [Moyai](https://github.com/FierysDiscordAddons/Moyai) |  | 2022-12-23 00:44:13 +0000 UTC |
+| 1 | [organizer](https://github.com/joaovhmota/organizer) |  | 2022-12-23 00:48:30 +0000 UTC |
+| 1 | [etch-a-sketch](https://github.com/jake-abed/etch-a-sketch) | Jake Abed's repository for the Etch-a-Sketch project on The Odin Project. | 2022-12-23 01:15:39 +0000 UTC |
+| 1 | [CVE-2022-1650](https://github.com/Live-Hack-CVE/CVE-2022-1650) | This repository contains a collection of data files on known Common Vulnerabilities and Exposures (CVEs). Each file is in JSON format and contains detailed information about the vulnerability, such as its reference number, description, impact, and resolution. CVE: CVE-2022-1650 Made by Sn0wAlice. ❤️ | 2022-12-23 01:06:04 +0000 UTC |
+| 1 | [nix-graph-viewer](https://github.com/lucasew/nix-graph-viewer) | Explore the Nix components relation through a generated web page | 2022-12-23 00:14:41 +0000 UTC |
+| 1 | [Site-vitrine](https://github.com/Danyelaalmeida18/Site-vitrine) | Desenvolvido durante o curso  Desenvolvimento Web | 2022-12-23 01:13:46 +0000 UTC |
+| 1 | [59_8916](https://github.com/uuid2com17/59_8916) | 文章分享送红包 3.0.1 原版 | 2022-12-23 01:24:53 +0000 UTC |
+| 1 | [create-typescript-app](https://github.com/TheSmartMonkey/create-typescript-app) | Simple typescript app with jest for small and fast projects | 2022-12-23 00:30:35 +0000 UTC |
+| 1 | [python-projects](https://github.com/itzMaurya/python-projects) |  | 2022-12-23 00:30:39 +0000 UTC |
+| 1 | [tabela-da-copa-completa-2022](https://github.com/edsonmaia/tabela-da-copa-completa-2022) | Projeto passo a passo de tabela da copa do mundo 2022 jogos, grupos, classificação e fases finais até a final | 2022-12-23 00:02:27 +0000 UTC |
+| 1 | [lux-backend](https://github.com/killingsworth-kristen/lux-backend) |  | 2022-12-23 00:41:43 +0000 UTC |
+| 1 | [angular-resume](https://github.com/horaciosdev/angular-resume) | A multiple resume project with Angular | 2022-12-23 00:03:50 +0000 UTC |
+| 1 | [vue-task-manager](https://github.com/alannuarii/vue-task-manager) |  | 2022-12-23 00:26:37 +0000 UTC |
+| 1 | [website-campaka](https://github.com/HamzahRaihan/website-campaka) |  | 2022-12-23 01:12:53 +0000 UTC |
+| 1 | [Portifolio](https://github.com/andrejsantos/Portifolio) | Meu portifolio como programador | 2022-12-23 01:15:31 +0000 UTC |
+| 1 | [QR_code_generator](https://github.com/learnwithprady/QR_code_generator) | Created with CodeSandbox | 2022-12-23 01:15:25 +0000 UTC |
+| 1 | [packageSample](https://github.com/kame-08/packageSample) |  | 2022-12-23 01:13:15 +0000 UTC |
+| 1 | [elflacogonza6689](https://github.com/elflacogonza6689/elflacogonza6689) | Config files for my GitHub profile. | 2022-12-23 01:32:24 +0000 UTC |
+| 1 | [62_8937](https://github.com/uuid2com17/62_8937) | VIP视频电影PC建站cms 3.1.4 原版 | 2022-12-23 01:35:59 +0000 UTC |
+| 1 | [Descomplicando-o-Kubernetes](https://github.com/Thadeu84/Descomplicando-o-Kubernetes) |  | 2022-12-23 00:42:04 +0000 UTC |
+| 1 | [reactJSProject](https://github.com/dheerd/reactJSProject) |  | 2022-12-23 00:23:56 +0000 UTC |
+| 1 | [simp](https://github.com/undersquire/simp) | Secure Internet Message Protocol (SIMP) | 2022-12-23 01:15:18 +0000 UTC |
+| 1 | [16_14009](https://github.com/uuid2com18/16_14009) | 安卓QQ回赞助手 解放双手 | 2022-12-23 01:15:18 +0000 UTC |
+| 1 | [Razorblade306](https://github.com/Razorblade306/Razorblade306) | Config files for my GitHub profile. | 2022-12-23 00:45:57 +0000 UTC |
+| 1 | [Pagina-de-conteudo](https://github.com/Allan-Carlos/Pagina-de-conteudo) | Apenas uma simples e informativa página sobre os 'vilões'da luz! | 2022-12-23 01:03:42 +0000 UTC |
+| 1 | [gitdayone](https://github.com/kaylinkhanal/gitdayone) |  | 2022-12-23 01:15:56 +0000 UTC |
+| 1 | [tanakou0226](https://github.com/tanakou0226/tanakou0226) | My personal repository | 2022-12-23 00:22:46 +0000 UTC |
+| 1 | [Android-x32x64_LiveCD_12A_Edition](https://github.com/seanpm2001/Android-x32x64_LiveCD_12A_Edition) | 🤖️ Special Android x32x32 LiveCD for all versions of Android x32 and x64 from 0.9 to 12.0 | 2022-12-23 01:26:34 +0000 UTC |
+| 1 | [Android-x32x64_LiveCD_11A_Edition](https://github.com/seanpm2001/Android-x32x64_LiveCD_11A_Edition) | 🤖️ Special Android x32x64 LiveCD for all versions of Android x32 and x64 from 0.9 to 11.0 | 2022-12-23 01:25:32 +0000 UTC |
+| 1 | [Laplace-](https://github.com/KamalHardiansyah/Laplace-) |  | 2022-12-23 00:15:07 +0000 UTC |
+| 1 | [Rogue-Pickings](https://github.com/Janette-B/Rogue-Pickings) |  | 2022-12-23 00:16:59 +0000 UTC |
+| 1 | [.github](https://github.com/0x1hiro/.github) |  | 2022-12-23 00:44:34 +0000 UTC |
+| 1 | [Balle-Bot](https://github.com/Allan-Carlos/Balle-Bot) | Apenas uma simples e bela landing-page sobre a Balle-Bot! | 2022-12-23 00:53:02 +0000 UTC |
+| 1 | [hilmarxo99](https://github.com/hilmarxo99/hilmarxo99) | Config files for my GitHub profile. | 2022-12-23 00:15:58 +0000 UTC |
+| 1 | [proyecto12](https://github.com/jose-vicente/proyecto12) |  | 2022-12-23 00:55:13 +0000 UTC |
+| 1 | [awesome-hash](https://github.com/hashintel/awesome-hash) | 😎 A curated list of the best resources in the HASH ecosystem | 2022-12-23 00:52:39 +0000 UTC |
+| 1 | [Ahmadgentle](https://github.com/Ahmadgentle/Ahmadgentle) | Config files for my GitHub profile. | 2022-12-23 00:15:57 +0000 UTC |
+| 1 | [Dacon_SNP_Repo](https://github.com/Byeon-MJ/Dacon_SNP_Repo) | Dacon Competetion Repository | 2022-12-23 00:11:58 +0000 UTC |
+| 1 | [Gerador_de_Listas_Python](https://github.com/AlbertoFAraujo/Gerador_de_Listas_Python) | Trata-se de um gerador de lista python com base em palavras de dicionário Português. | 2022-12-23 00:51:42 +0000 UTC |
+| 1 | [SAW-Sistema-de-Ativa-o-do-Windows](https://github.com/gustavoSilvaAlves/SAW-Sistema-de-Ativa-o-do-Windows) | Script feito em Powershell que através de um banco de dados que fornece chaves do Windows para o programa efetivar uma realização de ativação do sistema operacional de forma automática. | 2022-12-23 00:07:16 +0000 UTC |
+| 1 | [repositorio-henry](https://github.com/JuanBohor/repositorio-henry) |  | 2022-12-23 00:51:27 +0000 UTC |
+| 1 | [compareCars](https://github.com/mahdawy3000/compareCars) |  | 2022-12-23 00:21:51 +0000 UTC |
+| 1 | [causal-inference](https://github.com/jayakhan/causal-inference) | DAME-FLAME \| Control \| Treatment Groups \| Regression \| Matching | 2022-12-23 00:43:01 +0000 UTC |
+| 1 | [AdventOfCode](https://github.com/Thelostcircuit/AdventOfCode) |  | 2022-12-23 00:03:19 +0000 UTC |
+| 1 | [Android-x32x64_LiveCD_9A_Edition](https://github.com/seanpm2001/Android-x32x64_LiveCD_9A_Edition) | 🤖️ Special Android x32x64 LiveCD for all versions of Android x32 and x64 from 0.9 to 9.0 | 2022-12-23 01:22:56 +0000 UTC |
+| 1 | [Sistema-CRUD-CSHARP](https://github.com/wils0nalves/Sistema-CRUD-CSHARP) |  | 2022-12-23 00:36:53 +0000 UTC |
+| 1 | [projeto-android](https://github.com/Conrad011/projeto-android) | Projeto android criado no capitulo 17 com html e css | 2022-12-23 00:13:30 +0000 UTC |
+| 1 | [jieeunleeProjectThreeDevelopment](https://github.com/simpliweb/jieeunleeProjectThreeDevelopment) |  | 2022-12-23 00:16:56 +0000 UTC |
+| 1 | [EASLL-WeDesignTech](https://github.com/Aleenaay/EASLL-WeDesignTech) | WITM Hackatoon project, an app that helps you learn ASL and quizzes you on it. Made within 24hours using Figma. | 2022-12-23 00:25:30 +0000 UTC |
+| 1 | [Behzad](https://github.com/Behzad31/Behzad) |  | 2022-12-23 01:16:25 +0000 UTC |
+| 1 | [Academia-Infinity](https://github.com/Allan-Carlos/Academia-Infinity) | Uma página sobre a Academia-Infinity! | 2022-12-23 00:56:16 +0000 UTC |
 
