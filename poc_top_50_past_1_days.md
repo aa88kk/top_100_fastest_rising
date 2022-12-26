@@ -1,103 +1,103 @@
 | Stars | Name | Desc | Created | 
 | ----- | ------- | ------------- | ------------- |
-| 2 | [Learn-StrictYAML](https://github.com/seanpm2001/Learn-StrictYAML) | 📚️ A repository for showcasing my knowledge of the StrictYAML programming language, and continuing to learn the language.  | 2022-12-25 00:02:21 +0000 UTC |
-| 2 | [Sprint1_AuctionSystem](https://github.com/sasapuchandrika/Sprint1_AuctionSystem) |  | 2022-12-25 00:23:44 +0000 UTC |
-| 2 | [ia_sistemas_embebidos](https://github.com/diegoperea20/ia_sistemas_embebidos) | ia , sistemas embebidos, Arduino Nano BLE sense, edge impulse, tensorflow , platformio, networks etc. | 2022-12-25 01:10:47 +0000 UTC |
-| 2 | [Android-x64_LiveCD_8C](https://github.com/seanpm2001/Android-x64_LiveCD_8C) | 🤖️ Special Android x64 LiveCD for all versions of Android x64 from 5.0 to 8.1 (instead of ending at 8.0) | 2022-12-25 00:25:38 +0000 UTC |
-| 2 | [TestAmineAyoub](https://github.com/Tedsuno/TestAmineAyoub) | aaaa | 2022-12-25 00:03:12 +0000 UTC |
-| 1 | [Least_Siginificant_Bit_Embedding](https://github.com/akhilnev/Least_Siginificant_Bit_Embedding) | The project is used to embed a binary message into a greyscale image in the form of a 2D matrix which can be chosen by the user. We use LSB and LSB+- embedding in the project which are two alike but different methods. LSB+- method has an extra key/password field with a more efficient algorithm. | 2022-12-25 00:23:01 +0000 UTC |
-| 1 | [trending-statuses](https://github.com/feditrends/trending-statuses) | a filterable feed of statuses trending across the fediverse | 2022-12-25 00:07:35 +0000 UTC |
-| 1 | [tic-tac-toe](https://github.com/singhalex/tic-tac-toe) | A Tic Tac Toe Game | 2022-12-25 01:05:55 +0000 UTC |
-| 1 | [DiffNotes](https://github.com/MapMaths/DiffNotes) | Just some notes taken when I am studying Calculus, still updating. | 2022-12-25 00:36:46 +0000 UTC |
-| 1 | [ai-content-starting-template](https://github.com/scarlett1130/ai-content-starting-template) | This is the starting template for a content generator website that uses AI in the background to generate the content. | 2022-12-25 00:02:35 +0000 UTC |
-| 1 | [39_21228](https://github.com/uuid2com20/39_21228) | 2022年电商直通车系统教程+引力魔方系统教程，精准拉新低价引流、卡位、收割 | 2022-12-25 00:33:54 +0000 UTC |
-| 1 | [swis-hts](https://github.com/NouiraBaligh/swis-hts) |  | 2022-12-25 00:04:23 +0000 UTC |
-| 1 | [Building-a-Computer](https://github.com/Batlez/Building-a-Computer) | Building a computer can be a challenging task, especially if you are doing it for the first time. It is a good idea to familiarize yourself with the different components and their functions before you start building. You can also refer to online tutorials or seek help from more experienced builders if you encounter any issues. | 2022-12-25 00:55:41 +0000 UTC |
-| 1 | [aws.cloud.eventbridge_lambda](https://github.com/guzmanwolfrank/aws.cloud.eventbridge_lambda) | Use Lambda Destinations to send a message to the Inventory EventBridge event bus, following message processing through EventBridge,SNS and Step Functions.  | 2022-12-25 00:56:49 +0000 UTC |
-| 1 | [hexacon2022_AppleAVD](https://github.com/isciurus/hexacon2022_AppleAVD) |  | 2022-12-25 01:05:03 +0000 UTC |
-| 1 | [Android-x64_LiveCD_7C](https://github.com/seanpm2001/Android-x64_LiveCD_7C) | 🤖️ Special Android x64 LiveCD for all versions of Android x64 from 5.0 to 7.1 (instead of ending at 7.0) | 2022-12-25 00:27:12 +0000 UTC |
-| 1 | [esx_menu_default-v3](https://github.com/Nightt7/esx_menu_default-v3) | FiveM ESX esx_menu_default Design (v3) by Nightt#8899 | 2022-12-25 01:07:08 +0000 UTC |
-| 1 | [HTML-CSS-layout-grid-flexbox](https://github.com/abdullah-25/HTML-CSS-layout-grid-flexbox) |  | 2022-12-25 01:06:57 +0000 UTC |
-| 1 | [html](https://github.com/BroskinoLamer/html) |  | 2022-12-25 01:21:53 +0000 UTC |
-| 1 | [desafio-01-ignite](https://github.com/Richards0nd/desafio-01-ignite) |  | 2022-12-25 01:35:07 +0000 UTC |
-| 1 | [patternsTemplateMethod](https://github.com/777WhiteBear777/patternsTemplateMethod) |  | 2022-12-25 00:04:54 +0000 UTC |
-| 1 | [nodeapi](https://github.com/SauelAlmonte/nodeapi) |  | 2022-12-25 01:07:35 +0000 UTC |
-| 1 | [iBlacket-and-iBlooket.github.io](https://github.com/codemaster123puppy/iBlacket-and-iBlooket.github.io) | A website that has lots of info about blacket v2 and blooket | 2022-12-25 00:56:11 +0000 UTC |
-| 1 | [Project-1](https://github.com/MaLeK2023/Project-1) |  | 2022-12-25 00:41:06 +0000 UTC |
-| 1 | [MelodyGuess-WindowsForms](https://github.com/ckd4/MelodyGuess-WindowsForms) | was developed in 2021 | 2022-12-25 00:22:17 +0000 UTC |
-| 1 | [Android-x64_LiveCD_6C](https://github.com/seanpm2001/Android-x64_LiveCD_6C) | 🤖️ Special Android x64 LiveCD for all versions of Android x64 from 5.0 to 6.1 (instead of ending at 6.0) | 2022-12-25 00:28:33 +0000 UTC |
-| 1 | [Android-x64_LiveCD_5C](https://github.com/seanpm2001/Android-x64_LiveCD_5C) | 🤖️ Special Android x64 LiveCD for all versions of Android x64 from 5.0 to 5.1 (instead of ending at 5.0) | 2022-12-25 00:29:45 +0000 UTC |
-| 1 | [Catastrophe-of-the-20th-century](https://github.com/ckd4/Catastrophe-of-the-20th-century) | Monogame engine, project was abandoned in September 2022 | 2022-12-25 00:32:54 +0000 UTC |
-| 1 | [Website-For-NFC](https://github.com/paint827/Website-For-NFC) |  | 2022-12-25 00:09:18 +0000 UTC |
-| 1 | [98_21300](https://github.com/uuid2com20/98_21300) | 猎人社区·今日头条瑜伽搬砖项目，单号一天几十收入，可以批量操作！ | 2022-12-25 01:07:43 +0000 UTC |
-| 1 | [tst-tc617-ppcwhbeoy-52837](https://github.com/crowdbotics-dev/tst-tc617-ppcwhbeoy-52837) | This react_native application was built with Crowdbotics www.crowdbotics.com | 2022-12-25 00:47:11 +0000 UTC |
-| 1 | [trip-planner](https://github.com/amyzliao/trip-planner) |  | 2022-12-25 01:07:24 +0000 UTC |
-| 1 | [mechatronics_design_2](https://github.com/diegoperea20/mechatronics_design_2) | mechatronics_design_2, mechatronic, line cleaner bot , cleaner robot , line tennis, clean line tennis etc. | 2022-12-25 01:20:41 +0000 UTC |
-| 1 | [cracknode](https://github.com/bnoordhuis/cracknode) | stop gacking, start cracking | 2022-12-25 00:33:50 +0000 UTC |
-| 1 | [-](https://github.com/PUK85/-) |  | 2022-12-25 00:32:37 +0000 UTC |
-| 1 | [Koopa-Portfolio-Site-Source](https://github.com/KoopaCode/Koopa-Portfolio-Site-Source) | Koopa code Portfolio Site Source | 2022-12-25 00:33:01 +0000 UTC |
-| 1 | [clean-architecture](https://github.com/Antonio06Martins/clean-architecture) |  | 2022-12-25 00:15:02 +0000 UTC |
-| 1 | [lab3](https://github.com/Plushken/lab3) |  | 2022-12-25 00:40:05 +0000 UTC |
-| 1 | [kevs_db](https://github.com/kev1njodea/kevs_db) | Notes, cheatsheets, bookmarks, configs, all sorts of cool stuff! 🦀 | 2022-12-25 00:04:21 +0000 UTC |
-| 1 | [Ai_employee_salary_prediction](https://github.com/salwamahmoudd/Ai_employee_salary_prediction) | this project is created to predict the employee salary based on other data information provided by applying differe machine learning algorithms, pre-processing, feature engiering and classification methods. | 2022-12-25 00:56:17 +0000 UTC |
-| 1 | [IoT_-internet_of_things-](https://github.com/diegoperea20/IoT_-internet_of_things-) | internet_of_things, ESP32 , conecction wifi, save ,save database through sensors, create local server, mqtt, mosquito, iot, CRUD iot etc. | 2022-12-25 00:54:14 +0000 UTC |
-| 1 | [monoid-gen](https://github.com/simon-frankau/monoid-gen) | Generate the free idempotent monoid for 3 letters | 2022-12-25 00:33:46 +0000 UTC |
-| 1 | [SILENT-EXCEL-XLS-EXPLOIT-CLEAN-6l](https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-6l) |  | 2022-12-25 00:37:13 +0000 UTC |
-| 1 | [SINagoda](https://github.com/SINagoda/SINagoda) | Config files for my GitHub profile. | 2022-12-25 00:35:53 +0000 UTC |
-| 1 | [Grip-Strength-SOEP-Survey-Data](https://github.com/matej-marjanovic/Grip-Strength-SOEP-Survey-Data) | SOEP Hand Grip Strength Dataset Analysis Results | 2022-12-25 00:50:48 +0000 UTC |
-| 1 | [newManReportForUob](https://github.com/MostafaHagag54/newManReportForUob) |  | 2022-12-25 01:07:26 +0000 UTC |
-| 1 | [ParkingGarage-project](https://github.com/summerof19691969/ParkingGarage-project) |  | 2022-12-25 00:49:57 +0000 UTC |
-| 1 | [Chat-logs](https://github.com/Trelond/Chat-logs) |  | 2022-12-25 00:29:39 +0000 UTC |
-| 1 | [SILENT-DOC-EXPLOIT-CLEAN-6l](https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-6l) |  | 2022-12-25 00:38:27 +0000 UTC |
-| 1 | [Generalist](https://github.com/ckd4/Generalist) | intellectual quiz game, inspired by Triviador | 2022-12-25 00:37:37 +0000 UTC |
-| 1 | [Natal22](https://github.com/sombo20/Natal22) | Uma simples árvore de natal... | 2022-12-25 00:21:01 +0000 UTC |
-| 1 | [CRUD-FULL](https://github.com/MateuscardosoRocha/CRUD-FULL) | A aplicação tem um funcionamento bem simples como:  Navegação por rotas API criada em json-server Adicionar, Listar, Alterar e excluir os usuários criados   A aplicação foi desenvolvida utilizando as seguintes tecnologias: Frontend: Reactjs, Bootstrap, Font-awesome, React-router, Axios, Json-server  | 2022-12-25 01:03:48 +0000 UTC |
-| 1 | [codex](https://github.com/Skullomanic84/codex) |  | 2022-12-25 00:19:33 +0000 UTC |
-| 1 | [lab7_utkin](https://github.com/miraich/lab7_utkin) |  | 2022-12-25 00:38:26 +0000 UTC |
-| 1 | [Advanced_Java_Servlet_Insert](https://github.com/Angletan/Advanced_Java_Servlet_Insert) | I developed this insert operation by using html and servlet. | 2022-12-25 00:57:11 +0000 UTC |
-| 1 | [prolog-app-silviomori](https://github.com/profydev/prolog-app-silviomori) |  | 2022-12-25 00:25:49 +0000 UTC |
-| 1 | [turbotest_regvtkqk_1pnmlsti](https://github.com/turbocanary/turbotest_regvtkqk_1pnmlsti) |  | 2022-12-25 00:33:00 +0000 UTC |
-| 1 | [Pelechuco](https://github.com/aldomendez10/Pelechuco) |  | 2022-12-25 00:29:26 +0000 UTC |
-| 1 | [MaravilhaImoveis](https://github.com/HenriqueOPS/MaravilhaImoveis) |  | 2022-12-25 00:11:15 +0000 UTC |
-| 1 | [PixlArt](https://github.com/Nennii-CallyNtete/PixlArt) | A performant Pixel Art creation desktop app built in Golang. | 2022-12-25 00:33:57 +0000 UTC |
-| 1 | [pickles2](https://github.com/bordmite/pickles2) |  | 2022-12-25 00:55:53 +0000 UTC |
-| 1 | [inventory-barang](https://github.com/rusmanpriadi/inventory-barang) | Aplikasi inventory barang menggunakan bahasa pemrograman PHP tampa framework | 2022-12-25 01:07:35 +0000 UTC |
-| 1 | [SupaTest](https://github.com/Sergey-TM/SupaTest) |  | 2022-12-25 00:33:55 +0000 UTC |
-| 1 | [Sigilo](https://github.com/ShayBox/Sigilo) | Scan and collect Minecraft Servers using masscan and craftping | 2022-12-25 00:10:51 +0000 UTC |
-| 1 | [gotour](https://github.com/Turnikov/gotour) |  | 2022-12-25 00:25:16 +0000 UTC |
-| 1 | [56_21227](https://github.com/uuid2com20/56_21227) | 短视频常见10类账号内容选题讲解，解决各类账号拍什么的问题 | 2022-12-25 00:33:24 +0000 UTC |
-| 1 | [English-Crossword-Puzzle-Web](https://github.com/ibavli/English-Crossword-Puzzle-Web) |  | 2022-12-25 00:33:55 +0000 UTC |
-| 1 | [rasa_tomato_bot_structure](https://github.com/Nomethin/rasa_tomato_bot_structure) | This is a tomato bot structure | 2022-12-25 00:54:56 +0000 UTC |
-| 1 | [simple-rust-pendulum](https://github.com/IgorSAssis/simple-rust-pendulum) | pendulum | 2022-12-25 00:34:04 +0000 UTC |
-| 1 | [go_chat](https://github.com/dgutt17/go_chat) |  | 2022-12-25 01:07:32 +0000 UTC |
-| 1 | [PortfolioTec](https://github.com/TheMariano/PortfolioTec) | Portfólio Tecnológico | 2022-12-25 01:17:08 +0000 UTC |
-| 1 | [belajarAjaaah](https://github.com/Zentilax/belajarAjaaah) |  | 2022-12-25 01:19:13 +0000 UTC |
-| 1 | [SNU_2D_ProgrammingTools_IDE_StrictYAML](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_StrictYAML) | ⌨️ The StrictYAML Programming language IDE submodule for SNU Programming Tools (2D Mode)  | 2022-12-25 00:03:43 +0000 UTC |
-| 1 | [MERN-stack](https://github.com/baranero/MERN-stack) |  | 2022-12-25 00:06:23 +0000 UTC |
-| 1 | [PCA-plot](https://github.com/MedDataInt/PCA-plot) | This is code for generating PCA plot | 2022-12-25 00:33:49 +0000 UTC |
-| 1 | [searchBuild](https://github.com/senioruche/searchBuild) |  | 2022-12-25 00:33:45 +0000 UTC |
-| 1 | [version](https://github.com/D11voqiiIsDaddy/version) | d | 2022-12-25 00:33:43 +0000 UTC |
-| 1 | [DoItAll](https://github.com/nikhil-dronamraju/DoItAll) | Switching client from graphql-on-rails to Next.JS | 2022-12-25 00:58:53 +0000 UTC |
-| 1 | [Final-Project-A-B-Testing](https://github.com/Samad133009/Final-Project-A-B-Testing) |  | 2022-12-25 01:07:36 +0000 UTC |
-| 1 | [NEWBOT](https://github.com/Anjay51/NEWBOT) |  | 2022-12-25 01:07:34 +0000 UTC |
-| 1 | [nvim-config](https://github.com/varpeti/nvim-config) | My nvim config | 2022-12-25 00:17:31 +0000 UTC |
-| 1 | [Multi-WindowsFormsApp](https://github.com/ckd4/Multi-WindowsFormsApp) | was developed in 2021 | 2022-12-25 00:25:27 +0000 UTC |
-| 1 | [GiftAR](https://github.com/HaoTu1417/GiftAR) |  | 2022-12-25 00:32:55 +0000 UTC |
-| 1 | [tst-tc474-bbkoegchx-52829](https://github.com/crowdbotics-dev/tst-tc474-bbkoegchx-52829) | This react_native application was built with Crowdbotics www.crowdbotics.com | 2022-12-25 00:26:02 +0000 UTC |
-| 1 | [2048](https://github.com/amyzliao/2048) |  | 2022-12-25 00:58:52 +0000 UTC |
-| 1 | [portfolio-site](https://github.com/patelsuhani/portfolio-site) |  | 2022-12-25 01:07:35 +0000 UTC |
-| 1 | [hirst-painting](https://github.com/michaelvarga/hirst-painting) | Recreating an animated Damien Hirst dot painting using Python and the turtle library | 2022-12-25 00:14:53 +0000 UTC |
-| 1 | [Majestouch-2-TKL-Replacement-Controller](https://github.com/Sleepdealr/Majestouch-2-TKL-Replacement-Controller) |  | 2022-12-25 00:45:51 +0000 UTC |
-| 1 | [WordSegmentation](https://github.com/mehdiye5/WordSegmentation) |  | 2022-12-25 00:34:47 +0000 UTC |
-| 1 | [AstronoGame](https://github.com/GGisOnline/AstronoGame) | Raspberry PI project [1st year] @ Ecole Polytechnique de Louvain-La-Neuve (Computer Sciences) | 2022-12-25 00:53:44 +0000 UTC |
-| 1 | [winecourse](https://github.com/RomanOliakh/winecourse) |  | 2022-12-25 00:16:02 +0000 UTC |
-| 1 | [LiftUp](https://github.com/NickThomas20/LiftUp) | LiftUp was an android app created by me and my 3 teammates | 2022-12-25 00:46:25 +0000 UTC |
-| 1 | [product-card-challenge](https://github.com/Don-Promzzy/product-card-challenge) |  | 2022-12-25 01:07:28 +0000 UTC |
-| 1 | [MyBirthday-](https://github.com/bquang2k6/MyBirthday-) |  | 2022-12-25 01:12:46 +0000 UTC |
-| 1 | [ios102_prework](https://github.com/ys262/ios102_prework) |  | 2022-12-25 00:14:38 +0000 UTC |
-| 1 | [cardnew](https://github.com/Wilson900Miguel/cardnew) |  | 2022-12-25 00:50:14 +0000 UTC |
-| 1 | [data-website-untrusted](https://github.com/Arch881010/data-website-untrusted) | A website of Untrusted's Skills and Class data. Visit: https://www.playuntrusted.com/ for the game. | 2022-12-25 00:45:55 +0000 UTC |
-| 1 | [Cuphead-on-the-TM4C](https://github.com/bhuiyah/Cuphead-on-the-TM4C) | ECE319K Embedded Systems Final Project | 2022-12-25 00:15:16 +0000 UTC |
-| 1 | [VBox_Ubuntu_NodeRED_MongoDB_OpenPLC](https://github.com/ctch3ng/VBox_Ubuntu_NodeRED_MongoDB_OpenPLC) | Instructions for preparing a VirtualBox Image with Ubuntu Desktop + Node-RED + MongoDB (via Docker) + OpenPLC | 2022-12-25 01:09:34 +0000 UTC |
-| 1 | [gaganode](https://github.com/zakiahnv/gaganode) |  | 2022-12-25 00:33:56 +0000 UTC |
+| 2 | [Exchange-Analyzer](https://github.com/SandersSc1/Exchange-Analyzer) |  | 2022-12-26 00:22:45 +0000 UTC |
+| 2 | [Brick-Breaker-in-x86](https://github.com/RNGesus-exe/Brick-Breaker-in-x86) | Made this to review some concepts of x86 | 2022-12-26 00:12:19 +0000 UTC |
+| 2 | [Readit](https://github.com/Bit-Barron/Readit) |  | 2022-12-26 00:05:23 +0000 UTC |
+| 2 | [NetworkManagerHook](https://github.com/UrFingPoor/NetworkManagerHook) | Hook OnPlayerJoin/OnPlayerLeave For VRC No Patching Needed! | 2022-12-26 00:39:13 +0000 UTC |
+| 2 | [Adoptini](https://github.com/aymen-ziouche/Adoptini) | A platform for pet adoption | 2022-12-26 00:46:05 +0000 UTC |
+| 1 | [Github](https://github.com/Gyungsun/Github) |  | 2022-12-26 00:06:56 +0000 UTC |
+| 1 | [NoCameraSound](https://github.com/straight-tamago/NoCameraSound) |  | 2022-12-26 00:08:55 +0000 UTC |
+| 1 | [survey-form](https://github.com/Sahil17999/survey-form) | Created a certification project which is a survey form using HTML and CSS. This form collects data from users to help improve the freeCodeCamp platform. | 2022-12-26 00:14:46 +0000 UTC |
+| 1 | [https-picturee23.b0tnet.com-](https://github.com/Sanrego777/https-picturee23.b0tnet.com-) | hjbhost@ilinkk.net | 2022-12-26 00:31:31 +0000 UTC |
+| 1 | [CommandParser](https://github.com/LeyouHong/CommandParser) |  | 2022-12-26 00:40:47 +0000 UTC |
+| 1 | [vimeo_rb](https://github.com/cjilbert504/vimeo_rb) | A Ruby gem for the Vimeo API | 2022-12-26 00:40:27 +0000 UTC |
+| 1 | [Blender-Practice](https://github.com/samuelmapache120/Blender-Practice) |  | 2022-12-26 00:50:10 +0000 UTC |
+| 1 | [E-commerce-Website](https://github.com/rahi45/E-commerce-Website) | Hello Friend, This is a multipage E-commerce website using HTML, CSS & VANILLA JS only. And this website is fully responsive for all mobile devices. | 2022-12-26 01:38:07 +0000 UTC |
+| 1 | [tst-tc835-ppxcdkecw-52908](https://github.com/crowdbotics-dev/tst-tc835-ppxcdkecw-52908) | This react_native application was built with Crowdbotics www.crowdbotics.com | 2022-12-26 01:25:29 +0000 UTC |
+| 1 | [PressureLossFromDXF](https://github.com/navylemdi/PressureLossFromDXF) |  | 2022-12-26 00:01:03 +0000 UTC |
+| 1 | [Bitcoin-Clipper](https://github.com/Isid0r87/Bitcoin-Clipper) |  | 2022-12-26 00:07:20 +0000 UTC |
+| 1 | [C73](https://github.com/PLK12/C73) |  | 2022-12-26 00:12:20 +0000 UTC |
+| 1 | [Hanukkah-Of-Data-5783](https://github.com/ChaiaEran/Hanukkah-Of-Data-5783) | My PostgreSQL queries for the Hanukkah of Data for 5783. | 2022-12-26 00:11:01 +0000 UTC |
+| 1 | [HollyHacks](https://github.com/HollyHacks/HollyHacks) | Config files for my GitHub profile. | 2022-12-26 00:17:23 +0000 UTC |
+| 1 | [pastime](https://github.com/syxddd10001/pastime) |  | 2022-12-26 00:55:41 +0000 UTC |
+| 1 | [Blender_Man](https://github.com/Dev-Avishka/Blender_Man) | This is a horror game made with godot 4 | 2022-12-26 01:05:14 +0000 UTC |
+| 1 | [Auth](https://github.com/Ryuux/Auth) | Contributed Fifi :3  | 2022-12-26 01:06:42 +0000 UTC |
+| 1 | [nunes-petcare](https://github.com/rafael-oliveira-hellz/nunes-petcare) | Sistema para Consultório Veterinário com Agendamento de Consultas e Exames.  | 2022-12-26 01:34:20 +0000 UTC |
+| 1 | [gmcarrizo.github.io](https://github.com/GMCarrizo/gmcarrizo.github.io) | Personal web | 2022-12-26 01:38:14 +0000 UTC |
+| 1 | [tst-tc822-tucyfvaun-52909](https://github.com/crowdbotics-dev/tst-tc822-tucyfvaun-52909) | This django application was built with Crowdbotics www.crowdbotics.com | 2022-12-26 01:28:33 +0000 UTC |
+| 1 | [prj_new](https://github.com/Yasamangit/prj_new) |  | 2022-12-26 00:23:50 +0000 UTC |
+| 1 | [Personal-Website-React](https://github.com/EmrahMorgil/Personal-Website-React) |  | 2022-12-26 00:07:49 +0000 UTC |
+| 1 | [FinalProjectAlg](https://github.com/KonulHuseynli/FinalProjectAlg) |  | 2022-12-26 00:55:25 +0000 UTC |
+| 1 | [Web-Scraping-Top-Rated-Movies-on-IMDb](https://github.com/aitingzeng/Web-Scraping-Top-Rated-Movies-on-IMDb) | Collected the top 250 movies on IMDb using Python. | 2022-12-26 00:55:44 +0000 UTC |
+| 1 | [One-Button-Murmelbahn---Ghost-House](https://github.com/PizzaJade/One-Button-Murmelbahn---Ghost-House) |  | 2022-12-26 01:07:21 +0000 UTC |
+| 1 | [HowTime](https://github.com/JaoAndre/HowTime) |  | 2022-12-26 00:16:49 +0000 UTC |
+| 1 | [Tarea2](https://github.com/DavidNaids/Tarea2) |  | 2022-12-26 00:45:53 +0000 UTC |
+| 1 | [LoadBalancer](https://github.com/BoussaidMohammed/LoadBalancer) | LoadBalancer | 2022-12-26 00:55:43 +0000 UTC |
+| 1 | [mapitags](https://github.com/jengelh/mapitags) |  | 2022-12-26 00:55:04 +0000 UTC |
+| 1 | [mclinks-frontend-v1](https://github.com/FoskyTech/mclinks-frontend-v1) | MC导航网前端第一版 | 2022-12-26 01:35:28 +0000 UTC |
+| 1 | [turbotest_rv75ob20_tvfkspm3](https://github.com/turbocanary/turbotest_rv75ob20_tvfkspm3) |  | 2022-12-26 00:12:22 +0000 UTC |
+| 1 | [google-ml-courses](https://github.com/ethansilvas/google-ml-courses) | My completed notebooks from Google's machine learning courses | 2022-12-26 00:23:09 +0000 UTC |
+| 1 | [open_ai_codex](https://github.com/MrAdamUs/open_ai_codex) |  | 2022-12-26 00:12:15 +0000 UTC |
+| 1 | [ialab](https://github.com/angrave/ialab) | ialab website | 2022-12-26 00:52:57 +0000 UTC |
+| 1 | [Travis-Work](https://github.com/Arswrv/Travis-Work) |  | 2022-12-26 00:55:12 +0000 UTC |
+| 1 | [editermx](https://github.com/rovelstars/editermx) | Spck + Termux = Editermx | 2022-12-26 00:55:35 +0000 UTC |
+| 1 | [war-file-newcreated](https://github.com/Thokabaji/war-file-newcreated) | for practice | 2022-12-26 01:38:18 +0000 UTC |
+| 1 | [tst-tc839-gouylbcfk-52912](https://github.com/crowdbotics-dev/tst-tc839-gouylbcfk-52912) | This django application was built with Crowdbotics www.crowdbotics.com | 2022-12-26 01:37:24 +0000 UTC |
+| 1 | [Repository.py](https://github.com/GuilhermeMonfrinato/Repository.py) | Um repositório de todos os projetos feitos por mim, durante meus estudos de Python(PY). | 2022-12-26 01:38:10 +0000 UTC |
+| 1 | [Front-End_Journey](https://github.com/adrdediu/Front-End_Journey) |  | 2022-12-26 01:23:26 +0000 UTC |
+| 1 | [clash](https://github.com/inoyaksorojawi/clash) |  | 2022-12-26 00:55:51 +0000 UTC |
+| 1 | [first_streamlit_app](https://github.com/Akshay-Dubey2458/first_streamlit_app) | My first ever streamline app I am going to build in Snowflake DABW course! | 2022-12-26 00:12:17 +0000 UTC |
+| 1 | [my-profile-web-app](https://github.com/luisclsantos/my-profile-web-app) | My Professional Web Resume  | 2022-12-26 00:55:15 +0000 UTC |
+| 1 | [Predicting-Credit-Card-Approvals](https://github.com/pkabir22/Predicting-Credit-Card-Approvals) |  | 2022-12-26 00:59:39 +0000 UTC |
+| 1 | [basith](https://github.com/basithmca01/basith) | Created with StackBlitz ⚡️ | 2022-12-26 01:38:02 +0000 UTC |
+| 1 | [Arrays_javascripts_treinos](https://github.com/Thesamramos/Arrays_javascripts_treinos) |  | 2022-12-26 01:34:06 +0000 UTC |
+| 1 | [Chicken-Code-WebAR](https://github.com/zFz0000/Chicken-Code-WebAR) |  | 2022-12-26 01:37:58 +0000 UTC |
+| 1 | [angular-nx-ngrx-course](https://github.com/Courses-by-santosh/angular-nx-ngrx-course) | The repository contains the code for my  | 2022-12-26 00:27:43 +0000 UTC |
+| 1 | [react-cli-dio](https://github.com/Juli084/react-cli-dio) |  | 2022-12-26 00:44:47 +0000 UTC |
+| 1 | [python_fundamentals](https://github.com/JoshuaRosado/python_fundamentals) | Python assignments. FUNDAMENTALS, OOP, AJAX, FLASK, CRUD, MYSQL (ERD, QUERIES), DATABASE CONNECTION, VALIDATIONS,  EXAM | 2022-12-26 00:08:21 +0000 UTC |
+| 1 | [projeto-login](https://github.com/luizvictor98/projeto-login) | projeto tela de login | 2022-12-26 00:02:58 +0000 UTC |
+| 1 | [packifier](https://github.com/realTronsi/packifier) |  | 2022-12-26 01:30:15 +0000 UTC |
+| 1 | [takeku](https://github.com/goaornfi/takeku) |  | 2022-12-26 01:37:36 +0000 UTC |
+| 1 | [dadoriki](https://github.com/taucnvabnfa/dadoriki) |  | 2022-12-26 01:37:38 +0000 UTC |
+| 1 | [exercise](https://github.com/Pirozhki123/exercise) | HTML・CSSを学ぼう 2章～9章：演習問題 | 2022-12-26 00:20:31 +0000 UTC |
+| 1 | [Challenge-Oracle-ONE](https://github.com/Nancaro/Challenge-Oracle-ONE) | Desencriptador. | 2022-12-26 00:30:18 +0000 UTC |
+| 1 | [assignment-11](https://github.com/vaishnavidevivinod/assignment-11) |  | 2022-12-26 00:55:45 +0000 UTC |
+| 1 | [who-dont-follows-u](https://github.com/herbertcarnaubadesouza/who-dont-follows-u) | Sistema baseado em dev para ver quem não te segue no instagram | 2022-12-26 01:01:39 +0000 UTC |
+| 1 | [richard7428.github.io](https://github.com/Richard7428/richard7428.github.io) | web de perritos | 2022-12-26 01:37:20 +0000 UTC |
+| 1 | [Event-driven-Spring-Boot-MySQL](https://github.com/Dev317/Event-driven-Spring-Boot-MySQL) | A simple microservice-based app using Spring Boot and RabbitMQ | 2022-12-26 01:37:50 +0000 UTC |
+| 1 | [select-anidado-django-vainilla](https://github.com/MatCodee/select-anidado-django-vainilla) |  | 2022-12-26 01:38:19 +0000 UTC |
+| 1 | [test](https://github.com/enderagent/test) |  | 2022-12-26 01:37:42 +0000 UTC |
+| 1 | [e2e-gh-da504a63-09b6-4ec4-f8cc-727a55357cd1](https://github.com/tf-vcs-e2e/e2e-gh-da504a63-09b6-4ec4-f8cc-727a55357cd1) |  | 2022-12-26 01:38:10 +0000 UTC |
+| 1 | [Christmas-tree-code](https://github.com/rahmiaini/Christmas-tree-code) | One of my biostats programming assignments. Not so efficient but works | 2022-12-26 00:55:53 +0000 UTC |
+| 1 | [etc](https://github.com/JJ-Yeong/etc) |  | 2022-12-26 01:04:22 +0000 UTC |
+| 1 | [soft](https://github.com/iamcalebsoft/soft) | Hello 👋  | 2022-12-26 01:04:32 +0000 UTC |
+| 1 | [Game-of-numbers](https://github.com/ExceedPrince/Game-of-numbers) |  | 2022-12-26 00:55:40 +0000 UTC |
+| 1 | [Beta](https://github.com/XRazer92/Beta) |  | 2022-12-26 01:31:35 +0000 UTC |
+| 1 | [Prueba](https://github.com/Ygdrasil1/Prueba) |  | 2022-12-26 01:22:43 +0000 UTC |
+| 1 | [circleci](https://github.com/ZackeyTech/circleci) |  | 2022-12-26 00:34:28 +0000 UTC |
+| 1 | [Anythink-Market-jdkhohd5](https://github.com/ObelusFamily/Anythink-Market-jdkhohd5) |  | 2022-12-26 00:45:53 +0000 UTC |
+| 1 | [spinnaker-artifact](https://github.com/luversof/spinnaker-artifact) |  | 2022-12-26 00:10:38 +0000 UTC |
+| 1 | [article](https://github.com/nsimbadomingos/article) |  | 2022-12-26 00:07:13 +0000 UTC |
+| 1 | [Paypal](https://github.com/Rahman667/Paypal) |  | 2022-12-26 00:41:58 +0000 UTC |
+| 1 | [FlutterFirebase](https://github.com/Evelyn1120/FlutterFirebase) |  | 2022-12-26 00:04:44 +0000 UTC |
+| 1 | [Segtop-Education-Consult-](https://github.com/muhammed222-lab/Segtop-Education-Consult-) |  | 2022-12-26 00:58:33 +0000 UTC |
+| 1 | [distractionComabterExtension](https://github.com/sbagh/distractionComabterExtension) | Chrome extension to detect you endlessly scrolling different websites and snap you out of it (stop the dopamine algos!) | 2022-12-26 01:05:59 +0000 UTC |
+| 1 | [social-links](https://github.com/AssoDePicche/social-links) |  | 2022-12-26 00:09:16 +0000 UTC |
+| 1 | [Architecture](https://github.com/VisualAcademy/Architecture) |  | 2022-12-26 00:12:12 +0000 UTC |
+| 1 | [Mini_AI_Projects](https://github.com/YeojinKim03/Mini_AI_Projects) |  | 2022-12-26 00:03:30 +0000 UTC |
+| 1 | [plam](https://github.com/ditaijai8/plam) |  | 2022-12-26 00:12:23 +0000 UTC |
+| 1 | [typing_game](https://github.com/diegojfcampos/typing_game) | Responsive GUI Game created with JavaFX(pure) | 2022-12-26 00:14:23 +0000 UTC |
+| 1 | [blend-calculator](https://github.com/cloverwhale/blend-calculator) |  | 2022-12-26 00:10:23 +0000 UTC |
+| 1 | [CMN](https://github.com/AadeshDeshmukh/CMN) |  | 2022-12-26 00:12:26 +0000 UTC |
+| 1 | [SQL_Simulator](https://github.com/4bdul2001/SQL_Simulator) |  | 2022-12-26 01:25:09 +0000 UTC |
+| 1 | [DesktopWeather](https://github.com/sammorton11/DesktopWeather) |  | 2022-12-26 01:27:34 +0000 UTC |
+| 1 | [KotlinNews](https://github.com/sammorton11/KotlinNews) | MVVM News Application using XML and Retrofit | 2022-12-26 01:31:15 +0000 UTC |
+| 1 | [Haralovely2528](https://github.com/Haralovely2528/Haralovely2528) | Config files for my GitHub profile. | 2022-12-26 00:08:39 +0000 UTC |
+| 1 | [exercise-findnamearrayindexof](https://github.com/Sheilasc/exercise-findnamearrayindexof) |  | 2022-12-26 00:55:58 +0000 UTC |
+| 1 | [likita](https://github.com/erpapcone/likita) |  | 2022-12-26 01:37:34 +0000 UTC |
+| 1 | [gaxave](https://github.com/tayrnadnie/gaxave) |  | 2022-12-26 01:37:40 +0000 UTC |
+| 1 | [DDDinner](https://github.com/RafRunner/DDDinner) | A simple application for an imaginary Dinner to demonstrate clean architecture and DDD on a dotnet project. | 2022-12-26 00:15:07 +0000 UTC |
+| 1 | [dockerfile-to-vps](https://github.com/stuckwithjs/dockerfile-to-vps) | Build a Docker image from a Dockerfile and deploy it to a VPS | 2022-12-26 00:25:45 +0000 UTC |
+| 1 | [geesespotter](https://github.com/Sahil17999/geesespotter) | A Canadian version of minesweeper called geesespotter was made in a Fundamentals programming course at the University of Waterloo. | 2022-12-26 00:38:10 +0000 UTC |
+| 1 | [nginx-load-balancer](https://github.com/JAY-Chan9yu/nginx-load-balancer) |  | 2022-12-26 00:21:52 +0000 UTC |
 
