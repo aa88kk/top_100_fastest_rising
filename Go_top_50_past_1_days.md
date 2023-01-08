@@ -1,26 +1,25 @@
 | Stars | Name | Desc | Created | 
 | ----- | ------- | ------------- | ------------- |
-| 0 | [Golang_Practice_Udemy](https://github.com/mae-commits/Golang_Practice_Udemy) |  | 2023-01-07 00:58:10 +0000 UTC |
-| 0 | [51205-auctions-service](https://github.com/asclark109/51205-auctions-service) |  | 2023-01-07 01:24:55 +0000 UTC |
-| 0 | [Go-Bookstore](https://github.com/KleitonBarone/Go-Bookstore) | Project of a bookstore rest api using go and mysql | 2023-01-07 00:20:38 +0000 UTC |
-| 0 | [goxy](https://github.com/nahuelrm/goxy) | Go version of whoxysh | 2023-01-07 00:18:32 +0000 UTC |
-| 0 | [go-common](https://github.com/xiaogu-space/go-common) |  | 2023-01-07 00:55:14 +0000 UTC |
-| 0 | [saku-translate](https://github.com/sakuffo/saku-translate) |  | 2023-01-07 00:43:33 +0000 UTC |
-| 0 | [sample](https://github.com/ArpanaM/sample) |  | 2023-01-07 00:29:06 +0000 UTC |
-| 0 | [sqlitestream](https://github.com/hkassaei/sqlitestream) | A repository containing a simple data pipeline streaming SQLite changes to minio  | 2023-01-07 00:14:43 +0000 UTC |
-| 0 | [go-team-search-service](https://github.com/e-inwork-com/go-team-search-service) | Golang Team Search Microservice | 2023-01-07 01:33:54 +0000 UTC |
-| 0 | [go-clean-user](https://github.com/y-mabuchi/go-clean-user) | go-clean-user | 2023-01-07 00:28:21 +0000 UTC |
-| 0 | [gpterm](https://github.com/priuatus/gpterm) | GPTerm is a CLI tool for querying OpenAI's GPT models.  | 2023-01-07 01:20:41 +0000 UTC |
-| 0 | [algorithms-in-go](https://github.com/gAlexander77/algorithms-in-go) |  | 2023-01-07 00:26:33 +0000 UTC |
-| 0 | [sorting-room](https://github.com/nikitakoselev/sorting-room) | https://exercism.org/tracks/go/exercises/sorting-room | 2023-01-07 01:25:25 +0000 UTC |
-| 0 | [sample-api](https://github.com/varopxndx/sample-api) |  | 2023-01-07 00:38:50 +0000 UTC |
-| 0 | [ecommerce](https://github.com/t-boris/ecommerce) |  | 2023-01-07 00:26:44 +0000 UTC |
-| 0 | [typerrors](https://github.com/ccmonky/typerrors) | typed errors | 2023-01-07 01:07:41 +0000 UTC |
-| 0 | [Butterfly](https://github.com/Hilson-Alex/Butterfly) | Butterfly is an experimental programming language with an enent-driven perspective to create concurrent programs by default | 2023-01-07 00:26:22 +0000 UTC |
-| 0 | [Cryptographic-File-Sharing-System](https://github.com/keanekwa/Cryptographic-File-Sharing-System) | End-to-end encrypted file sharing system built in Golang. Uses SHA-512, RSA, HMAC, and PRNG to ensure confidentiality, authenticity and integrity. | 2023-01-07 00:16:27 +0000 UTC |
-| 0 | [ziaActivator](https://github.com/willguibr/ziaActivator) |  | 2023-01-07 00:36:42 +0000 UTC |
-| 0 | [fedopen](https://github.com/yskszk63/fedopen) | fedopen | 2023-01-07 00:32:27 +0000 UTC |
-| 0 | [gopher-todo_list](https://github.com/WillianBL99/gopher-todo_list) | A to-do list API developed in Golang, in a decoupled way allowing implementation of any database. | 2023-01-07 01:28:44 +0000 UTC |
-| 0 | [dm-retweeter](https://github.com/Ukraine-DAO/dm-retweeter) | Twitter bot for retweeting tweets shared with it via DMs | 2023-01-07 00:51:30 +0000 UTC |
-| 0 | [go_protocol_buffer_test](https://github.com/thomasmatt88/go_protocol_buffer_test) |  | 2023-01-07 00:39:34 +0000 UTC |
+| 1 | [aplikasi-ladangku](https://github.com/CobaKauPikirkan/aplikasi-ladangku) |  | 2023-01-08 00:04:01 +0000 UTC |
+| 0 | [mypeople](https://github.com/TheSnakeWitcher/mypeople) |  | 2023-01-08 00:22:38 +0000 UTC |
+| 0 | [terraform_plugin](https://github.com/kaspar4/terraform_plugin) |  | 2023-01-08 01:19:59 +0000 UTC |
+| 0 | [AppBooth](https://github.com/zilinli0130/AppBooth) |  | 2023-01-08 00:54:29 +0000 UTC |
+| 0 | [mauricetjmurphy-Blog_Site](https://github.com/mauricetjmurphy/mauricetjmurphy-Blog_Site) |  | 2023-01-08 00:31:46 +0000 UTC |
+| 0 | [GoPass](https://github.com/pattmax00/GoPass) | GoPass Repository Mirror | 2023-01-08 01:22:58 +0000 UTC |
+| 0 | [goProblemSolving](https://github.com/15011106/goProblemSolving) |  | 2023-01-08 01:34:49 +0000 UTC |
+| 0 | [simpeg-backend](https://github.com/SemmiDev/simpeg-backend) | Simpeg Backend | 2023-01-08 00:30:32 +0000 UTC |
+| 0 | [security-group-tracker](https://github.com/seongwoo-choi/security-group-tracker) |  | 2023-01-08 00:36:37 +0000 UTC |
+| 0 | [oci-service-operator](https://github.com/euh2/oci-service-operator) |  | 2023-01-08 01:05:12 +0000 UTC |
+| 0 | [mandelbrot](https://github.com/headblockhead/mandelbrot) | A sort-of working program to visualise the mandelbrot set. | 2023-01-08 01:06:33 +0000 UTC |
+| 0 | [go-intermediate-course](https://github.com/bvsaur/go-intermediate-course) | Golang intermediate course annotations | 2023-01-08 01:18:57 +0000 UTC |
+| 0 | [cpp](https://github.com/loc-bot/cpp) |  | 2023-01-08 01:19:57 +0000 UTC |
+| 0 | [Dijkstra_algorithm](https://github.com/salahidbelouch/Dijkstra_algorithm) |  | 2023-01-08 00:11:10 +0000 UTC |
+| 0 | [templatefuncs](https://github.com/chezmoi/templatefuncs) | Template functions to replace github.com/Masterminds/sprig. | 2023-01-08 00:27:38 +0000 UTC |
+| 0 | [HackEd2023---Account-Data-Generator](https://github.com/dustin-ward/HackEd2023---Account-Data-Generator) | Golang utility to generate a dataset for our HackEd23 project | 2023-01-08 00:26:38 +0000 UTC |
+| 0 | [security-group-tracker](https://github.com/seong-woo-choi/security-group-tracker) |  | 2023-01-08 00:34:34 +0000 UTC |
+| 0 | [SocialService](https://github.com/samjay22/SocialService) |  | 2023-01-08 00:03:32 +0000 UTC |
+| 0 | [krs-microservices-sederhana](https://github.com/adityarizkyramadhan/krs-microservices-sederhana) |  | 2023-01-08 00:55:28 +0000 UTC |
+| 0 | [book_bot_rmq](https://github.com/RedBuld/book_bot_rmq) | RabbitMQ for Book Bot | 2023-01-08 00:18:57 +0000 UTC |
+| 0 | [rrdbc](https://github.com/UniversityRadioYork/rrdbc) | Roses Radio Distribution and Broadcast Control | 2023-01-08 00:18:00 +0000 UTC |
+| 0 | [typesense-exporter](https://github.com/Clasyc/typesense-exporter) | Prometheus metrics exporter for Typesense | 2023-01-08 00:53:03 +0000 UTC |
 
