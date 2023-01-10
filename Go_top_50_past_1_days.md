@@ -1,31 +1,28 @@
 | Stars | Name | Desc | Created | 
 | ----- | ------- | ------------- | ------------- |
-| 0 | [ubase64](https://github.com/MichaelWasher/ubase64) | Small tool for decoding unpadded base64 | 2023-01-09 00:35:32 +0000 UTC |
-| 0 | [go_nacos](https://github.com/shrkx/go_nacos) |  | 2023-01-09 01:16:52 +0000 UTC |
-| 0 | [codecrafters-grep-go](https://github.com/ktny/codecrafters-grep-go) |  | 2023-01-09 00:28:37 +0000 UTC |
-| 0 | [gymBackEnd](https://github.com/miguelito5625/gymBackEnd) |  | 2023-01-09 00:47:18 +0000 UTC |
-| 0 | [GoChallenge](https://github.com/rviquezsoft/GoChallenge) |  | 2023-01-09 01:02:48 +0000 UTC |
-| 0 | [fcc-arq-hexagonal](https://github.com/smkbarbosa/fcc-arq-hexagonal) |  | 2023-01-09 00:35:56 +0000 UTC |
-| 0 | [linedis](https://github.com/Danny-Co/linedis) | Homework | 2023-01-09 01:10:53 +0000 UTC |
-| 0 | [dreamip-go](https://github.com/furui/dreamip-go) | Dynamic DNS for Dreamhost written in golang | 2023-01-09 01:37:05 +0000 UTC |
-| 0 | [FileEditor](https://github.com/Xilbram/FileEditor) | This is a introductory project to learn go. It's main objective is to create a GUI that allows user to create registration files | 2023-01-09 00:20:26 +0000 UTC |
-| 0 | [GeoCoder](https://github.com/ArchieAlexArkhipov/GeoCoder) |  | 2023-01-09 00:21:49 +0000 UTC |
-| 0 | [mailer](https://github.com/diogoaguiar/mailer) | A simple application to send an email to a list of recipients. | 2023-01-09 00:17:48 +0000 UTC |
-| 0 | [github-analyze](https://github.com/ohs30359-nobuhara/github-analyze) |  | 2023-01-09 00:18:58 +0000 UTC |
-| 0 | [movie-summary](https://github.com/chelmertz/movie-summary) |  | 2023-01-09 00:33:08 +0000 UTC |
-| 0 | [codecrafters-redis-go](https://github.com/gorisuke/codecrafters-redis-go) |  | 2023-01-09 01:07:27 +0000 UTC |
-| 0 | [get_image_go](https://github.com/abemaru/get_image_go) |  | 2023-01-09 00:25:07 +0000 UTC |
-| 0 | [SentimentAnalysisBot](https://github.com/TeddyZaremba/SentimentAnalysisBot) |  | 2023-01-09 00:38:18 +0000 UTC |
-| 0 | [go_gcp_api_client](https://github.com/laimison/go_gcp_api_client) |  | 2023-01-09 01:12:04 +0000 UTC |
-| 0 | [Golang-Codewars](https://github.com/riyan-eng/Golang-Codewars) |  | 2023-01-09 00:12:53 +0000 UTC |
-| 0 | [go_nacos_zero](https://github.com/shrkx/go_nacos_zero) |  | 2023-01-09 01:17:34 +0000 UTC |
-| 0 | [wifire](https://github.com/endobit/wifire) |  | 2023-01-09 00:57:41 +0000 UTC |
-| 0 | [cmath_tan](https://github.com/gostduy/cmath_tan) |  | 2023-01-09 01:05:57 +0000 UTC |
-| 0 | [go_scripts](https://github.com/xj-m/go_scripts) |  | 2023-01-09 00:20:21 +0000 UTC |
-| 0 | [workflow-demo](https://github.com/NaokiYazawa/workflow-demo) |  | 2023-01-09 00:46:58 +0000 UTC |
-| 0 | [Golang_Backend](https://github.com/0pyaq0/Golang_Backend) |  | 2023-01-09 01:00:21 +0000 UTC |
-| 0 | [azure-nsg-golang](https://github.com/jsredmond/azure-nsg-golang) |  | 2023-01-09 01:05:29 +0000 UTC |
-| 0 | [go_ex](https://github.com/dmitriy-fv/go_ex) |  | 2023-01-09 01:19:08 +0000 UTC |
-| 0 | [xinqitryagin](https://github.com/0xJungleMonkey/xinqitryagin) |  | 2023-01-09 00:11:19 +0000 UTC |
-| 0 | [mig-absensi](https://github.com/Findryankp/mig-absensi) |  | 2023-01-09 01:36:32 +0000 UTC |
+| 0 | [ws](https://github.com/kislerdm/ws) | Demo project to illustrate websocket protocol | 2023-01-10 00:27:16 +0000 UTC |
+| 0 | [Projeto_Banco-Go-POO-](https://github.com/Rfaelsn/Projeto_Banco-Go-POO-) | projeto de simulação de um banco utilizando POO da linguagem Go | 2023-01-10 00:49:24 +0000 UTC |
+| 0 | [rst1](https://github.com/InaccessibleCardinal/rst1) | simple rest in go | 2023-01-10 00:37:26 +0000 UTC |
+| 0 | [gitops-operator](https://github.com/stianobe/gitops-operator) |  | 2023-01-10 01:22:41 +0000 UTC |
+| 0 | [golang-notes](https://github.com/jjeanjacques10/golang-notes) | Repository for record my learning in GO | 2023-01-10 01:16:01 +0000 UTC |
+| 0 | [notify-system](https://github.com/iamhabbeboy/notify-system) |  | 2023-01-10 00:03:11 +0000 UTC |
+| 0 | [app-hello-world](https://github.com/FadhilAF/app-hello-world) |  | 2023-01-10 00:49:03 +0000 UTC |
+| 0 | [ticker](https://github.com/fogonthedowns/ticker) |  | 2023-01-10 00:59:29 +0000 UTC |
+| 0 | [mitur-api](https://github.com/tapiaw38/mitur-api) |  | 2023-01-10 01:23:21 +0000 UTC |
+| 0 | [real-time-forum](https://github.com/Rshezarr/real-time-forum) |  | 2023-01-10 00:21:38 +0000 UTC |
+| 0 | [serverless-data-processing-kinesis](https://github.com/Mughees605/serverless-data-processing-kinesis) | serverless data procesing with kinesis | 2023-01-10 00:36:13 +0000 UTC |
+| 0 | [cert-manager-webhook-antsdns](https://github.com/zhtest000/cert-manager-webhook-antsdns) | cert-manager-webhook-antsdns | 2023-01-10 00:46:50 +0000 UTC |
+| 0 | [go-projects](https://github.com/shamsheer7/go-projects) | Implemented projects to explore Go programming from fundamentals all the way to advanced concurrency using goroutines, channels, mutexes + more | 2023-01-10 00:02:12 +0000 UTC |
+| 0 | [projeto-go-testes](https://github.com/wallefaquino/projeto-go-testes) |  | 2023-01-10 00:47:22 +0000 UTC |
+| 0 | [rpi-switch](https://github.com/attiss/rpi-switch) |  | 2023-01-10 00:08:10 +0000 UTC |
+| 0 | [timestampvm](https://github.com/emersoncloud/timestampvm) |  | 2023-01-10 00:59:25 +0000 UTC |
+| 0 | [trying-chi](https://github.com/Edu-Maturana/trying-chi) |  | 2023-01-10 01:31:48 +0000 UTC |
+| 0 | [generic-consumers-producers](https://github.com/ThePixelDeveloper/generic-consumers-producers) |  | 2023-01-10 00:20:30 +0000 UTC |
+| 0 | [api-chuck](https://github.com/Beto-j10/api-chuck) |  | 2023-01-10 00:12:48 +0000 UTC |
+| 0 | [go-hello-world](https://github.com/FadhilAF/go-hello-world) |  | 2023-01-10 00:34:55 +0000 UTC |
+| 0 | [dev.to.](https://github.com/atsushii/dev.to.) | Automate posting articles to dev.to | 2023-01-10 00:41:21 +0000 UTC |
+| 0 | [gowatch](https://github.com/teyhouse/gowatch) | Keep track off changed files based on SHA256-Filesum | 2023-01-10 01:20:18 +0000 UTC |
+| 0 | [file-watcher](https://github.com/lalizita/file-watcher) | Simple file watcher demo using fsnotify | 2023-01-10 01:22:45 +0000 UTC |
+| 0 | [go-web](https://github.com/tranphilong2406/go-web) |  | 2023-01-10 01:16:57 +0000 UTC |
+| 0 | [golang_udemy](https://github.com/jhaym3s/golang_udemy) |  | 2023-01-10 00:25:39 +0000 UTC |
 
