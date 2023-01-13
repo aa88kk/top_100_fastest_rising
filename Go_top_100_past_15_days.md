@@ -1,103 +1,103 @@
 | Stars | Name | Desc | Created | 
 | ----- | ------- | ------------- | ------------- |
-| 3406 | [conc](https://github.com/sourcegraph/conc) | Better structured concurrency for go | 2023-01-02 22:52:07 +0000 UTC |
-| 773 | [go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) | A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker. | 2023-01-08 04:50:47 +0000 UTC |
-| 63 | [nuclearpond](https://github.com/DevSecOpsDocs/nuclearpond) | Nuclear Pond is a utility leveraging Nuclei to perform internet wide scans for the cost of a cup of coffee.  | 2022-12-31 01:36:50 +0000 UTC |
+| 4125 | [conc](https://github.com/sourcegraph/conc) | Better structured concurrency for go | 2023-01-02 22:52:07 +0000 UTC |
+| 1087 | [go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) | A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker. | 2023-01-08 04:50:47 +0000 UTC |
+| 68 | [nuclearpond](https://github.com/DevSecOpsDocs/nuclearpond) | Nuclear Pond is a utility leveraging Nuclei to perform internet wide scans for the cost of a cup of coffee.  | 2022-12-31 01:36:50 +0000 UTC |
 | 62 | [protodump](https://github.com/arkadiyt/protodump) | A utility to dump all Protobuf file descriptors from a given binary as *.proto files | 2022-12-30 00:52:07 +0000 UTC |
 | 60 | [jacked](https://github.com/carbonetes/jacked) | Jacked provides organizations with a more comprehensive look at their application to take calculated actions and create a better security approach. Its primary purpose is to scan vulnerabilities to implement subsequent risk mitigation measures. | 2023-01-06 13:56:49 +0000 UTC |
+| 57 | [box](https://github.com/tidwall/box) | Efficiently box values in Go. Optimized for primitives, strings, and byte slices. | 2023-01-05 23:46:36 +0000 UTC |
 | 56 | [diggity](https://github.com/carbonetes/diggity) | Generates SBOMs for container images, filesystems, archives, and more to Discover packages and libraries Highly scalable data pipelines for loading data | 2023-01-06 13:55:57 +0000 UTC |
-| 53 | [box](https://github.com/tidwall/box) | Efficiently box values in Go. Optimized for primitives, strings, and byte slices. | 2023-01-05 23:46:36 +0000 UTC |
-| 51 | [udon](https://github.com/dhn/udon) | A simple tool that helps to find assets/domains based on the Google Analytics ID. | 2023-01-06 11:28:58 +0000 UTC |
-| 50 | [gain](https://github.com/pawelgaczynski/gain) | Gain is a high-performance io_uring networking framework written entirely in Go. | 2022-12-29 14:12:58 +0000 UTC |
-| 37 | [go-assistant](https://github.com/halilylm/go-assistant) | CLI App interacting with ChatGPT | 2022-12-29 09:41:47 +0000 UTC |
-| 35 | [googleplay](https://github.com/hr8/googleplay) | Download APK from Google Play or send API requests | 2022-12-31 15:38:42 +0000 UTC |
+| 53 | [udon](https://github.com/dhn/udon) | A simple tool that helps to find assets/domains based on the Google Analytics ID. | 2023-01-06 11:28:58 +0000 UTC |
+| 37 | [googleplay](https://github.com/hr8/googleplay) | Download APK from Google Play or send API requests | 2022-12-31 15:38:42 +0000 UTC |
 | 34 | [go-gen-tools](https://github.com/duyledat197/go-gen-tools) | generate tools for golang with protoc | 2023-01-01 05:26:09 +0000 UTC |
-| 25 | [GoNetCapture](https://github.com/burpheart/GoNetCapture) | 不依赖驱动的跨平台抓包工具 | 2023-01-08 07:05:38 +0000 UTC |
+| 27 | [GoNetCapture](https://github.com/burpheart/GoNetCapture) | 不依赖驱动的跨平台抓包工具 | 2023-01-08 07:05:38 +0000 UTC |
+| 23 | [tandem](https://github.com/rosszurowski/tandem) | Parallel task runner for servers and long-running commands. | 2023-01-01 20:20:44 +0000 UTC |
 | 22 | [bifrost](https://github.com/opensaucerer/bifrost) | Rainbow bridge for shipping your files to any cloud storage service | 2023-01-02 05:00:25 +0000 UTC |
 | 21 | [asterisc](https://github.com/protolambda/asterisc) | Work in progress RISC-V interactive fraud-proof tech | 2023-01-07 19:44:34 +0000 UTC |
-| 20 | [strans](https://github.com/sheepla/strans) | 📖 A command line translate tool inspired by translate-shell | 2022-12-29 11:52:22 +0000 UTC |
+| 21 | [jc](https://github.com/thooton/jc) | Meta-program C/C++ with JavaScript | 2023-01-08 03:24:14 +0000 UTC |
 | 18 | [slack-chat-gpt](https://github.com/halilylm/slack-chat-gpt) | Slack bot assisted with ChatGPT | 2022-12-30 10:31:32 +0000 UTC |
-| 17 | [dnstwist](https://github.com/hazcod/dnstwist) | A tool to monitor for potential spear phishing domains and send to Slack. | 2022-12-29 09:47:58 +0000 UTC |
+| 18 | [whoarethey](https://github.com/AGWA/whoarethey) | Determine Who Can Log In to an SSH Server | 2023-01-10 21:06:31 +0000 UTC |
+| 18 | [traceutils](https://github.com/felixge/traceutils) | Code for decoding and encoding runtime/trace files as well as useful functionality implemented on top. | 2023-01-08 21:05:18 +0000 UTC |
+| 18 | [neonmodem](https://github.com/mrusme/neonmodem) | Neon Modem Overdrive | 2022-12-30 04:03:34 +0000 UTC |
 | 17 | [pesieve-go](https://github.com/hasherezade/pesieve-go) | Golang bindings for PE-sieve | 2023-01-05 02:01:27 +0000 UTC |
 | 16 | [gopherlogs](https://github.com/jpmcb/gopherlogs) | A simple, powerful, and extensible Go logging framework suitable for stylized command line utilities and multi-writer logging | 2023-01-06 16:11:59 +0000 UTC |
-| 16 | [traceutils](https://github.com/felixge/traceutils) | Code for decoding and encoding runtime/trace files as well as useful functionality implemented on top. | 2023-01-08 21:05:18 +0000 UTC |
+| 16 | [mech](https://github.com/hr8/mech) | Download media or send API requests | 2022-12-31 16:26:06 +0000 UTC |
 | 16 | [listparse](https://github.com/Kitchen-Kreations/listparse) | Parses through wordlists to refine them | 2023-01-03 19:41:14 +0000 UTC |
+| 15 | [coredns-nomad](https://github.com/mr-karan/coredns-nomad) |  | 2023-01-03 08:37:27 +0000 UTC |
 | 15 | [ae](https://github.com/aurae-runtime/ae) | Unix inspired command line client for Aurae | 2022-12-30 17:47:33 +0000 UTC |
-| 15 | [mech](https://github.com/hr8/mech) | Download media or send API requests | 2022-12-31 16:26:06 +0000 UTC |
-| 14 | [coredns-nomad](https://github.com/mr-karan/coredns-nomad) |  | 2023-01-03 08:37:27 +0000 UTC |
 | 14 | [bnfuzzer](https://github.com/rexim/bnfuzzer) | Generate random messages based on their BNF definition | 2023-01-05 07:58:48 +0000 UTC |
-| 14 | [neonmodem](https://github.com/mrusme/neonmodem) | Neon Modem Overdrive | 2022-12-30 04:03:34 +0000 UTC |
-| 13 | [jc](https://github.com/thooton/jc) | Meta-program C/C++ with JavaScript | 2023-01-08 03:24:14 +0000 UTC |
 | 13 | [MITRE_ATTACK_CLI](https://github.com/EspressoCake/MITRE_ATTACK_CLI) | CLI Search for Security Operators of MITRE ATT&CK URLs | 2023-01-05 18:34:03 +0000 UTC |
-| 12 | [whoarethey](https://github.com/AGWA/whoarethey) | Determine Who Can Log In to an SSH Server | 2023-01-10 21:06:31 +0000 UTC |
+| 12 | [cadet](https://github.com/martinrue/cadet) | cadet is a library for creating simple HTTP-RPC servers in Go | 2023-01-10 22:17:37 +0000 UTC |
 | 12 | [sagooiot](https://github.com/sagoo-cloud/sagooiot) | SagooIOT是一个基于golang开发的开源的企业级物联网基础开发平台。负责设备管理和协议数据管理，支持跨平台的物联网接入及管理方案，平台实现了物联网开发相关的基础功能，基于该功能可以快速的搭建起一整套的IOT相关的业务系统。旨在通过可复用的组件，减少开发工作，简化和加速物联网开发交付。适配多种接入协议(TCP,MQTT,UDP,CoAP,HTTP,GRPC,RPC等) | 2023-01-01 08:06:18 +0000 UTC |
 | 11 | [lets-go-professional-source-code](https://github.com/xiaolai/lets-go-professional-source-code) | Source code of the book, Let's go professional, by Alex Edwards | 2023-01-07 02:16:09 +0000 UTC |
 | 11 | [elapsing](https://github.com/nekomeowww/elapsing) | A simple Golang library for measuring elapsed time in application, function calls, and goroutine | 2023-01-05 10:43:08 +0000 UTC |
 | 11 | [go-kzg-ceremony-client](https://github.com/jsign/go-kzg-ceremony-client) | EIP-4844 KZG Powers of Tau ceremony client | 2023-01-03 19:45:40 +0000 UTC |
+| 10 | [yav](https://github.com/SladeThe/yav) | Go struct and field validation | 2023-01-07 23:17:52 +0000 UTC |
+| 10 | [unicorn](https://github.com/cheng-zhongliang/unicorn) | Simple I/O event notification library wirtten in Golang | 2022-12-31 14:32:20 +0000 UTC |
 | 10 | [notes-system](https://github.com/temirovazat/notes-system) | 📝 Made notes app. The user can take important notes 📑 and save them for later 📆 use. You can easily distinguish between different notes 📰. | 2023-01-02 08:23:39 +0000 UTC |
-| 10 | [tandem](https://github.com/rosszurowski/tandem) | Parallel task runner for servers and long-running commands. | 2023-01-01 20:20:44 +0000 UTC |
 | 11 | [paramix](https://github.com/xhzeem/paramix) | Paramix is a command-line tool for modifying the parameters of a list of URLs from stdin and returns them in stdout. | 2023-01-02 16:42:36 +0000 UTC |
-| 9 | [vertfn](https://github.com/nikolaydubina/vertfn) | vertfn — Go linter for Vertical Function Ordering | 2023-01-04 12:07:09 +0000 UTC |
+| 10 | [goread](https://github.com/TypicalAM/goread) | A beautiful program to read your RSS feeds right in the terminal! | 2022-12-30 12:16:29 +0000 UTC |
+| 9 | [openzeppelin-go](https://github.com/studyzy/openzeppelin-go) | A blockchain token smart contract develop framework, like an OpenZeppelin Golang implement | 2023-01-04 06:26:49 +0000 UTC |
 | 9 | [sakuin](https://github.com/getumen/sakuin) | a low-level toy search engine | 2022-12-30 13:02:37 +0000 UTC |
-| 9 | [yav](https://github.com/SladeThe/yav) | Go struct and field validation | 2023-01-07 23:17:52 +0000 UTC |
+| 9 | [vertfn](https://github.com/nikolaydubina/vertfn) | vertfn — Go linter for Vertical Function Ordering | 2023-01-04 12:07:09 +0000 UTC |
 | 9 | [whois-cli](https://github.com/sheepla/whois-cli) | 🌐  A simple command line whois client | 2023-01-07 08:10:35 +0000 UTC |
 | 9 | [URLPath](https://github.com/r00tSe7en/URLPath) | 批量处理url链接，获取多级路径并打印 | 2023-01-04 02:17:30 +0000 UTC |
 | 9 | [rpi_export](https://github.com/cavaliercoder/rpi_export) | Prometheus exporter for Raspberry Pi hardware metrics | 2023-01-04 15:39:15 +0000 UTC |
 | 8 | [golang-gin-api](https://github.com/qq601046124/golang-gin-api) |  golang-gin 企业级开发框架 带配套课程，源码根目录pdf | 2023-01-03 09:16:49 +0000 UTC |
-| 8 | [unicorn](https://github.com/cheng-zhongliang/unicorn) | Simple I/O event notification library wirtten in Golang | 2022-12-31 14:32:20 +0000 UTC |
+| 8 | [enu](https://github.com/yuemori/enu) |  | 2023-01-08 18:02:46 +0000 UTC |
 | 8 | [ublacklist-rankings](https://github.com/exoego/ublacklist-rankings) | Exclusion list of  "Top N ..."-ish rankings contents | 2022-12-31 09:07:37 +0000 UTC |
 | 7 | [Zamok](https://github.com/nemzyxt/Zamok) | FUD Linux Ransomware | 2022-12-30 13:28:54 +0000 UTC |
-| 7 | [qrgpt](https://github.com/nathanleclaire/qrgpt) | A little CLI helper for cleaner, more contextual ChatGPT | 2022-12-29 03:24:57 +0000 UTC |
 | 7 | [fuzzer](https://github.com/dpanic/fuzzer) |  | 2023-01-06 21:53:51 +0000 UTC |
-| 7 | [enu](https://github.com/yuemori/enu) |  | 2023-01-08 18:02:46 +0000 UTC |
 | 7 | [nhole](https://github.com/biandc/nhole) | Intranet penetration tool | 2023-01-01 13:06:36 +0000 UTC |
-| 6 | [go-mixplus](https://github.com/mix-plus/go-mixplus) | A cloud-native Go microservices framework with cli tool for productivity. | 2022-12-29 03:46:41 +0000 UTC |
-| 6 | [openzeppelin-go](https://github.com/studyzy/openzeppelin-go) | A blockchain token smart contract develop framework, like an OpenZeppelin Golang implement | 2023-01-04 06:26:49 +0000 UTC |
 | 6 | [Golang-ChatGPT-linebot-Render](https://github.com/pyfbsdk59/Golang-ChatGPT-linebot-Render) | A Golang ChatGPT linebot project, quickly built on the platform Render | 2022-12-31 11:16:16 +0000 UTC |
 | 6 | [vedia](https://github.com/CanPacis/vedia) | Beslenme Vedia Betik Dili | 2023-01-10 09:32:19 +0000 UTC |
 | 6 | [config-server](https://github.com/dwakel/config-server) | My attempt at builder a configuration management server in Golang | 2023-01-03 07:11:59 +0000 UTC |
-| 6 | [k8s_ssrf_portscanner](https://github.com/raesene/k8s_ssrf_portscanner) |  | 2022-12-29 08:41:46 +0000 UTC |
-| 6 | [cadet](https://github.com/martinrue/cadet) | cadet is a library for creating simple HTTP-RPC servers in Go | 2023-01-10 22:17:37 +0000 UTC |
 | 6 | [C1enBot](https://github.com/C1enDev/C1enBot) | 太太太屑了啦 | 2023-01-08 22:58:05 +0000 UTC |
+| 6 | [go-4beginners](https://github.com/roham96/go-4beginners) | golang examples for beginners! | 2023-01-08 20:36:26 +0000 UTC |
+| 6 | [array](https://github.com/decanus/array) | Generic golang array utils | 2023-01-12 15:00:58 +0000 UTC |
+| 6 | [Poc-Monitor_v1.0.1](https://github.com/adminlove520/Poc-Monitor_v1.0.1) | 威胁情报-漏洞存储库 | 2023-01-05 08:56:34 +0000 UTC |
 | 6 | [ginchat](https://github.com/liao123-git/ginchat) |  | 2023-01-05 13:32:46 +0000 UTC |
 | 6 | [go-upx](https://github.com/alegrey91/go-upx) | Go command-line wrapper for upx utility | 2023-01-07 15:37:04 +0000 UTC |
-| 6 | [reverse-proxy](https://github.com/ton-utils/reverse-proxy) | Reverse proxy for TON sites | 2022-12-29 09:12:25 +0000 UTC |
 | 5 | [bot-go-sdk](https://github.com/yhchat/bot-go-sdk) |  | 2023-01-06 02:05:46 +0000 UTC |
 | 5 | [nuke](https://github.com/cqdetdev/nuke) | It's here for all to see now, the infamous /__nuke | 2022-12-31 22:10:54 +0000 UTC |
-| 5 | [APKHunt](https://github.com/Cyber-Buddy/APKHunt) | APKHunt is a comprehensive static code analysis tool for Android apps that is based on the OWASP MASVAS framework. Although it is intended primarily for mobile app developers and security testers, it can be used by anyone to identify and address potential security vulnerabilities in their code. | 2023-01-10 13:10:57 +0000 UTC |
-| 5 | [grpc-load](https://github.com/anvari1313/grpc-load) | A simple application for testing some load test scenarios on gRPC | 2022-12-31 16:00:29 +0000 UTC |
+| 5 | [APKHunt](https://github.com/Cyber-Buddy/APKHunt) | APKHunt is a comprehensive static code analysis tool for Android apps that is based on the OWASP MASVS framework. Although it is intended primarily for mobile app developers and security testers, it can be used by anyone to identify and address pot | 2023-01-10 13:10:57 +0000 UTC |
 | 5 | [anbackup-cli](https://github.com/anbackup/anbackup-cli) |  这是一个能直接备份Android数据到PC上的命令行工具。 | 2022-12-30 14:29:54 +0000 UTC |
+| 5 | [grpc-load](https://github.com/anvari1313/grpc-load) | A simple application for testing some load test scenarios on gRPC | 2022-12-31 16:00:29 +0000 UTC |
 | 5 | [swarmctl](https://github.com/ndeloof/swarmctl) | Swarm Control command line | 2023-01-04 09:14:57 +0000 UTC |
 | 5 | [Videocall-Chat-GO-Project](https://github.com/AkhilSharma90/Videocall-Chat-GO-Project) | Code for my youtube project series | 2022-12-31 04:58:54 +0000 UTC |
 | 5 | [go-studies](https://github.com/fcoprata/go-studies) |  | 2023-01-08 13:53:45 +0000 UTC |
+| 5 | [sigdump](https://github.com/rohankmr414/sigdump) | Use signal to show stacktrace of a Go process without restarting it | 2023-01-02 22:38:16 +0000 UTC |
 | 5 | [cloud-logging-data-source-plugin](https://github.com/GoogleCloudPlatform/cloud-logging-data-source-plugin) |  | 2023-01-11 14:28:43 +0000 UTC |
 | 5 | [Unfold](https://github.com/JewishLewish/Unfold) | r/place clone that requires programmers to code their way into placing pixels. SIDENOTE: if site not working then give it a day or two. | 2023-01-03 04:02:57 +0000 UTC |
+| 5 | [reflector](https://github.com/thecyberworld/reflector) | Reflector: A tool to check for reflected query parameter values. | 2023-01-09 14:19:31 +0000 UTC |
 | 5 | [prql-go](https://github.com/pims/prql-go) | Go library to compile PRQL to SQL  | 2023-01-05 07:20:49 +0000 UTC |
 | 5 | [tron](https://github.com/paulrosania/tron) | A tiny CLI tool for controlling Lutron Caséta systems | 2023-01-02 19:16:06 +0000 UTC |
 | 5 | [bdyp_upload_golang](https://github.com/zcxey2911/bdyp_upload_golang) | 百度云盘/百度网盘API接口上传文件，基于Golang1.18 | 2023-01-10 13:41:53 +0000 UTC |
 | 5 | [nola](https://github.com/richardartoul/nola) |  | 2022-12-31 04:12:27 +0000 UTC |
-| 5 | [go-4beginners](https://github.com/roham96/go-4beginners) | golang examples for beginners! | 2023-01-08 20:36:26 +0000 UTC |
 | 5 | [syncthing-map](https://github.com/wsw70/syncthing-map) | A utility to map syncthing devices and shared folders. | 2023-01-08 18:55:03 +0000 UTC |
+| 5 | [fo-relay](https://github.com/phyro/fo-relay) | A forward-only Nostr relay. | 2023-01-05 19:05:41 +0000 UTC |
 | 5 | [IMiniCrack](https://github.com/o0x1024/IMiniCrack) |  | 2023-01-06 08:43:34 +0000 UTC |
 | 5 | [netrunner](https://github.com/DEROFDN/netrunner) | DERO Network Gateway | 2022-12-30 01:03:03 +0000 UTC |
-| 5 | [XMPlus](https://github.com/xcode75/XMPlus) | A custom version of XRayR for XMPlus frontend | 2022-12-29 10:47:00 +0000 UTC |
 | 5 | [hertz-vue-admin](https://github.com/donallin823/hertz-vue-admin) | 使用字节跳动Golang微服务 HTTP 框架Hertz搭建的后台管理系统！ | 2023-01-04 06:22:07 +0000 UTC |
 | 5 | [pinger](https://github.com/urlesistiana/pinger) | ping + udp + prometheus metrics (?) WIP | 2022-12-31 03:22:24 +0000 UTC |
-| 5 | [ec2id](https://github.com/thaim/ec2id) | A CLI tool that retrieve the EC2 instance ID of specified instance's Name tag | 2022-12-29 07:44:30 +0000 UTC |
-| 5 | [goread](https://github.com/TypicalAM/goread) | A beautiful program to read your RSS feeds right in the terminal! | 2022-12-30 12:16:29 +0000 UTC |
 | 5 | [chuno](https://github.com/Comamoca/chuno) | chuno | 2023-01-01 07:14:28 +0000 UTC |
 | 5 | [hemanex](https://github.com/sumadiredja/hemanex) | hemanex - nexus cli | 2023-01-05 06:29:23 +0000 UTC |
-| 4 | [countryfetch-go](https://github.com/CondensedMilk7/countryfetch-go) | A cli tool for fetching information about countries. Written in Go. | 2022-12-29 18:27:57 +0000 UTC |
+| 5 | [Test-Companion.Rocket.Chat_Apps](https://github.com/henit-chobisa/Test-Companion.Rocket.Chat_Apps) | Sets up a testing RCServer for hassle free testing of your apps  | 2023-01-10 07:08:14 +0000 UTC |
+| 5 | [promql2influxql](https://github.com/wubin1989/promql2influxql) | Convert PromQL to InfluxQL, plus a RESTful service as Prometheus adaptor service for Grafana | 2023-01-03 02:45:26 +0000 UTC |
+| 4 | [RESTfulAPI_TodoList](https://github.com/EchoEdyP/RESTfulAPI_TodoList) |  | 2023-01-08 13:38:02 +0000 UTC |
+| 4 | [glel](https://github.com/yuin/glel) | Expression evaluation with Lua for Go | 2023-01-09 12:01:44 +0000 UTC |
 | 4 | [wakame](https://github.com/elmarsan/wakame) | Html parser  | 2022-12-30 14:20:54 +0000 UTC |
-| 4 | [sigdump](https://github.com/rohankmr414/sigdump) | Use signal to show stacktrace of a Go process without restarting it | 2023-01-02 22:38:16 +0000 UTC |
 | 4 | [image-scanner-operator](https://github.com/statnett/image-scanner-operator) | Kubernetes Operator supporting detection of vulnerabilities in running container images | 2023-01-06 14:54:59 +0000 UTC |
 | 4 | [proc-top](https://github.com/SonyaCore/proc-top) | cli system monitor written in go | 2023-01-07 14:57:08 +0000 UTC |
+| 4 | [douyin](https://github.com/lastdz/douyin) |  | 2023-01-12 14:01:33 +0000 UTC |
+| 4 | [go101](https://github.com/tgujar/go101) | Small experiments in Go | 2023-01-11 09:18:51 +0000 UTC |
 | 4 | [tflint-ruleset-aws-cis](https://github.com/gruntwork-io/tflint-ruleset-aws-cis) | Tflint rules for CIS AWS Foundations Benchmark compliance checks. These rules work in addition to the recommendations from Gruntwork's CIS Service Catalog. | 2023-01-05 16:37:20 +0000 UTC |
+| 4 | [shc-prometheus-exporter](https://github.com/zabeloliver/shc-prometheus-exporter) | Exports Bosch SHC Events to be scrapped by Prometheus. | 2023-01-01 12:22:05 +0000 UTC |
+| 4 | [starlink_exporter](https://github.com/clarkzjw/starlink_exporter) |  | 2022-12-30 09:25:21 +0000 UTC |
+| 4 | [malawi-country-data](https://github.com/PreciousNyasulu/malawi-country-data) |  | 2023-01-06 11:40:39 +0000 UTC |
+| 4 | [redi301](https://github.com/haha357/redi301) |  | 2023-01-10 03:14:25 +0000 UTC |
 | 4 | [k8s-kurated-addons](https://github.com/nearform/k8s-kurated-addons) | A set of Kubernetes add-ons with optimal configuration and test coverage to create a day zero platform for your code | 2023-01-10 14:14:49 +0000 UTC |
-| 4 | [fo-relay](https://github.com/phyro/fo-relay) | A forward-only Nostr relay. | 2023-01-05 19:05:41 +0000 UTC |
 | 4 | [otn](https://github.com/1nv8rzim/otn) |  | 2023-01-02 03:45:37 +0000 UTC |
 | 4 | [pano-api](https://github.com/kamp-us/pano-api) | pano.kamp.us RPC API made with Twirp RPC framework | 2023-01-09 23:40:11 +0000 UTC |
-| 4 | [kaltura-media-framework-docker-compose](https://github.com/leandromoreira/kaltura-media-framework-docker-compose) | A docker compose for https://github.com/kaltura/media-framework | 2023-01-05 18:57:06 +0000 UTC |
-| 4 | [slkm](https://github.com/k1LoW/slkm) | slkm is github.com/slack-go/slack wrapper package for posting message. | 2023-01-10 05:09:46 +0000 UTC |
-| 4 | [Poc-Monitor_v1.0.1](https://github.com/adminlove520/Poc-Monitor_v1.0.1) | 威胁情报-漏洞存储库 | 2023-01-05 08:56:34 +0000 UTC |
+| 4 | [Shamanic](https://github.com/whiterabb17/Shamanic) | Resilient, Stealthy & Capable Windows Backdoor. Utilizing Telegram for command relays | 2023-01-09 02:23:55 +0000 UTC |
 
