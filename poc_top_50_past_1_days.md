@@ -1,103 +1,103 @@
 | Stars | Name | Desc | Created | 
 | ----- | ------- | ------------- | ------------- |
-| 2 | [Project-Calculator](https://github.com/oak99x/Project-Calculator) |  | 2023-01-16 00:26:28 +0000 UTC |
-| 2 | [Cloud9LLMsearch](https://github.com/thePegasusai/Cloud9LLMsearch) | Llm search in aws cloud 9 | 2023-01-16 00:29:22 +0000 UTC |
-| 1 | [Neon-Effect](https://github.com/jimyschild/Neon-Effect) |  | 2023-01-16 00:34:04 +0000 UTC |
-| 1 | [SparksParticlesHLSL](https://github.com/mirrorsword/SparksParticlesHLSL) | Sparks Partilces using HLSL compute shader | 2023-01-16 00:43:22 +0000 UTC |
-| 1 | [ailearnweb](https://github.com/ailearncloud/ailearnweb) |  | 2023-01-16 00:35:53 +0000 UTC |
-| 1 | [batwam.github.io](https://github.com/Batwam/batwam.github.io) |  | 2023-01-16 01:02:56 +0000 UTC |
-| 1 | [notes-app](https://github.com/kacharuk/notes-app) |  | 2023-01-16 01:34:21 +0000 UTC |
-| 1 | [GO-AUTH-API](https://github.com/gavinduFedolab/GO-AUTH-API) |  | 2023-01-16 01:27:03 +0000 UTC |
-| 1 | [DocsCosmosIE](https://github.com/ToxicedIsOnTheLand/DocsCosmosIE) | ReadTheDocs of CosmosIE | 2023-01-16 00:22:56 +0000 UTC |
-| 1 | [CS111-Winter2023](https://github.com/adityam2350/CS111-Winter2023) |  | 2023-01-16 00:34:15 +0000 UTC |
-| 1 | [socialapp](https://github.com/newdragonborn/socialapp) | a simple social web app with django where you can like and follow users | 2023-01-16 00:23:08 +0000 UTC |
-| 1 | [NEU---CS-5001-Intensive-Foundations](https://github.com/alexanderperkins/NEU---CS-5001-Intensive-Foundations) |  | 2023-01-16 00:25:59 +0000 UTC |
-| 1 | [social-network](https://github.com/AlexitoReyes54/social-network) |  | 2023-01-16 00:56:38 +0000 UTC |
-| 1 | [susueellen](https://github.com/susueellen/susueellen) |  | 2023-01-16 00:48:05 +0000 UTC |
-| 1 | [C-code](https://github.com/coder-ox/C-code) | 存放考研408【C语言、数据结构和算法】学习的相关代码 | 2023-01-16 00:52:36 +0000 UTC |
-| 1 | [COSC-4P02-Project](https://github.com/SWE-2023/COSC-4P02-Project) | An interactive timeline web application for COSC 4P02. | 2023-01-16 01:20:19 +0000 UTC |
-| 1 | [docker-runzero](https://github.com/coffeekomrade/docker-runzero) |  | 2023-01-16 01:34:23 +0000 UTC |
-| 1 | [joarepository](https://github.com/joak990/joarepository) |  | 2023-01-16 00:54:16 +0000 UTC |
-| 1 | [TESTING](https://github.com/Inter-Aizat/TESTING) |  | 2023-01-16 00:25:47 +0000 UTC |
-| 1 | [js-expert](https://github.com/eddyzera/js-expert) | Aulas do curso de Javascript Expert | 2023-01-16 00:16:47 +0000 UTC |
-| 1 | [Temperature-Sensing-Calculator](https://github.com/HarguntasBenipal/Temperature-Sensing-Calculator) |  | 2023-01-16 00:27:19 +0000 UTC |
-| 1 | [likehuiyuanai.github.io](https://github.com/likehuiyuanai/likehuiyuanai.github.io) |  | 2023-01-16 01:06:17 +0000 UTC |
-| 1 | [day03](https://github.com/parkjungwoong34/day03) |  | 2023-01-16 01:32:38 +0000 UTC |
-| 1 | [Simple-Python-Projects](https://github.com/David-oh1/Simple-Python-Projects) |  | 2023-01-16 01:34:15 +0000 UTC |
-| 1 | [Every_Day](https://github.com/misha720/Every_Day) |  | 2023-01-16 01:40:41 +0000 UTC |
-| 1 | [cube-city](https://github.com/GonzaloEscamilla/cube-city) | A 3D puzzle game with a city-building theme, developed using Unity. While it may not showcase my full capabilities with the engine, I am proud of the project as a challenging and rewarding experience that demonstrates my passion for game development and interest in city-building mechanics. | 2023-01-16 00:12:40 +0000 UTC |
-| 1 | [Flames](https://github.com/Arun100203/Flames) | flames in flutter | 2023-01-16 00:39:10 +0000 UTC |
-| 1 | [DI-Bootcamp-week4-day1-exercice_ninja](https://github.com/bocissetresor/DI-Bootcamp-week4-day1-exercice_ninja) |  | 2023-01-16 00:43:52 +0000 UTC |
-| 1 | [vtgitrepo](https://github.com/Liberace1/vtgitrepo) |  | 2023-01-16 00:34:06 +0000 UTC |
-| 1 | [Bike-Sharing-Demand-Forecast-use-of-a-city-bikeshare-system](https://github.com/reda180599/Bike-Sharing-Demand-Forecast-use-of-a-city-bikeshare-system) | Bike sharing systems are a means of renting bicycles where the process of obtaining membership, rental, and bike return is automated via a network of kiosk locations throughout a city. | 2023-01-16 00:57:59 +0000 UTC |
-| 1 | [React-Todo-App](https://github.com/DezSays/React-Todo-App) |  | 2023-01-16 00:33:55 +0000 UTC |
-| 1 | [hw2-2022](https://github.com/mchang2003/hw2-2022) |  | 2023-01-16 01:05:07 +0000 UTC |
-| 1 | [HamSandwichWithHam.github.io](https://github.com/HamSandwichWithHam/HamSandwichWithHam.github.io) | Practice Websites | 2023-01-16 01:29:29 +0000 UTC |
-| 1 | [task-manager](https://github.com/levart/task-manager) |  | 2023-01-16 01:34:17 +0000 UTC |
-| 1 | [yvdjuvoyfm](https://github.com/slskopytko/yvdjuvoyfm) |  | 2023-01-16 00:22:24 +0000 UTC |
-| 1 | [zundamon-cafe.github.io](https://github.com/zundamon-cafe/zundamon-cafe.github.io) |  | 2023-01-16 00:21:28 +0000 UTC |
-| 1 | [nader](https://github.com/nadersat123/nader) |  | 2023-01-16 01:07:37 +0000 UTC |
-| 1 | [TransliteratorWPF_Clean_Version](https://github.com/Seagullie/TransliteratorWPF_Clean_Version) |  | 2023-01-16 00:47:47 +0000 UTC |
-| 1 | [SnapifyPlus](https://github.com/unofficialdxnny/SnapifyPlus) | ElectronJS automated Application to boost snapscore | 2023-01-16 00:55:19 +0000 UTC |
-| 1 | [USBWallet](https://github.com/crossdilemma/USBWallet) | USBWallet - Portable Wallet With AES Encryption | 2023-01-16 00:20:30 +0000 UTC |
-| 1 | [TEST](https://github.com/riceknot/TEST) |  | 2023-01-16 01:33:09 +0000 UTC |
-| 1 | [Global-Coronavirus-Data-Analysis-Visualization](https://github.com/xinghanaliceguo/Global-Coronavirus-Data-Analysis-Visualization) |  | 2023-01-16 00:59:36 +0000 UTC |
-| 1 | [Class-Object](https://github.com/phivu3125/Class-Object) |  | 2023-01-16 01:26:50 +0000 UTC |
-| 1 | [DSC80_Projects](https://github.com/BarryZ807/DSC80_Projects) |  | 2023-01-16 00:05:58 +0000 UTC |
-| 1 | [vs-chavo](https://github.com/guislakkkkkkk/vs-chavo) |  | 2023-01-16 00:34:18 +0000 UTC |
-| 1 | [kuthulu](https://github.com/psyance/kuthulu) |  | 2023-01-16 00:30:59 +0000 UTC |
-| 1 | [vuestagram](https://github.com/heesoooo/vuestagram) |  | 2023-01-16 00:11:25 +0000 UTC |
-| 1 | [alexandria](https://github.com/bunkbed-tech/alexandria) | Personal media tracker for books, movies, tv shows, video games, board games, music, concerts, and more (with none of the filler or pay-to-play nonsense). | 2023-01-16 00:29:26 +0000 UTC |
-| 1 | [LibrarianSystem](https://github.com/universe365/LibrarianSystem) |  | 2023-01-16 00:55:26 +0000 UTC |
-| 1 | [basic_web_lesson1](https://github.com/joon-hee-kim/basic_web_lesson1) |  | 2023-01-16 01:34:18 +0000 UTC |
-| 1 | [ansible-deploy-django-microservice](https://github.com/saviganga/ansible-deploy-django-microservice) | deploy Django microservices to separate aws ec2 instances | 2023-01-16 01:02:18 +0000 UTC |
-| 1 | [Off-Market-Request-Received](https://github.com/ProprHome-pv/Off-Market-Request-Received) |  | 2023-01-16 00:33:25 +0000 UTC |
-| 1 | [Test](https://github.com/litonjr/Test) |  | 2023-01-16 01:25:06 +0000 UTC |
-| 1 | [mycashd](https://github.com/CASHAPPX11XO/mycashd) |  | 2023-01-16 00:23:29 +0000 UTC |
-| 1 | [sieve-erato-scheme](https://github.com/hootisman/sieve-erato-scheme) | Sieve of Eratosthenes | 2023-01-16 00:34:03 +0000 UTC |
-| 1 | [DIOFormacao_JD02](https://github.com/Err0rGCeni/DIOFormacao_JD02) | Formação Java Developer #01 (Escopo e Estruturas de Controle) | 2023-01-16 00:34:44 +0000 UTC |
-| 1 | [Calculator-JS-V1](https://github.com/LemosFTW/Calculator-JS-V1) |  | 2023-01-16 00:35:06 +0000 UTC |
-| 1 | [Eliaukilig.github.io](https://github.com/Eliaukilig/Eliaukilig.github.io) |  | 2023-01-16 01:21:46 +0000 UTC |
-| 1 | [DataScience-DiabetesProject](https://github.com/3zHrb/DataScience-DiabetesProject) | this project is a data science project that analysis Diabetes and uses Machine Learning classification model with a website built for it  | 2023-01-16 00:34:16 +0000 UTC |
-| 1 | [MergeStudentPDF](https://github.com/FredChang14/MergeStudentPDF) | 從資料庫提取相關欄位資訊，產生html並使用使用iText將html內容轉為PDF檔案 | 2023-01-16 01:05:55 +0000 UTC |
-| 1 | [interca](https://github.com/interca/interca) |  | 2023-01-16 00:25:02 +0000 UTC |
-| 1 | [homework](https://github.com/xc3217/homework) | 各种作业 | 2023-01-16 01:34:21 +0000 UTC |
-| 1 | [6502_8-bit_processor](https://github.com/Head-Pin/6502_8-bit_processor) | Legendary 8-bit minicomputer 6502 processor PCB replication | 2023-01-16 00:30:01 +0000 UTC |
-| 1 | [Flutter_Practicess](https://github.com/Jeremimedina011/Flutter_Practicess) | Parcticas de flutter | 2023-01-16 00:34:21 +0000 UTC |
-| 1 | [RandomChallenges](https://github.com/uscmtchow/RandomChallenges) |  | 2023-01-16 00:32:37 +0000 UTC |
-| 1 | [turbotest_uo9i7y8a_uwz5fw52](https://github.com/turbocanary/turbotest_uo9i7y8a_uwz5fw52) |  | 2023-01-16 00:33:49 +0000 UTC |
-| 1 | [livewire-crud](https://github.com/gregorysouzasilva/livewire-crud) |  | 2023-01-16 01:05:07 +0000 UTC |
-| 1 | [first_streamlit_app](https://github.com/krupatel61/first_streamlit_app) |  | 2023-01-16 00:15:01 +0000 UTC |
-| 1 | [DolphnPack](https://github.com/Kod3c/DolphnPack) |  | 2023-01-16 00:59:46 +0000 UTC |
-| 1 | [DI-Bootcamp-week4-day5-mini_project](https://github.com/bocissetresor/DI-Bootcamp-week4-day5-mini_project) |  | 2023-01-16 01:33:43 +0000 UTC |
-| 1 | [django--encuestas](https://github.com/ottonmq/django--encuestas) |  | 2023-01-16 01:19:00 +0000 UTC |
-| 1 | [chrome-launcher](https://github.com/orbitkit/chrome-launcher) | Scripts to launch Google Chrome with the --disable-background-timer-throttling flag | 2023-01-16 00:26:11 +0000 UTC |
-| 1 | [FigGen](https://github.com/Oleg671/FigGen) | Creating and changing figures | 2023-01-16 00:21:18 +0000 UTC |
-| 1 | [wow877](https://github.com/lillymartin/wow877) |  | 2023-01-16 00:25:09 +0000 UTC |
-| 1 | [wpu-resolusi](https://github.com/reffypradana10/wpu-resolusi) |  | 2023-01-16 00:34:10 +0000 UTC |
-| 1 | [Youtube-MutantTests-DotNet-Example](https://github.com/wilsonneto-dev/Youtube-MutantTests-DotNet-Example) | Code used in the youtube class | 2023-01-16 00:28:25 +0000 UTC |
-| 1 | [prep-course-Henry](https://github.com/Drako01/prep-course-Henry) |  | 2023-01-16 00:42:15 +0000 UTC |
-| 1 | [moose2d.github.io](https://github.com/moose2d/moose2d.github.io) |  | 2023-01-16 00:26:14 +0000 UTC |
-| 1 | [helloworld](https://github.com/kdscieneaux/helloworld) | print "hello world" | 2023-01-16 01:35:53 +0000 UTC |
-| 1 | [DIOProject_controle-fluxo](https://github.com/Err0rGCeni/DIOProject_controle-fluxo) | Criando Um Pequeno Sistema Para Validação de Processo Seletivo | 2023-01-16 00:26:21 +0000 UTC |
-| 1 | [45_12613](https://github.com/uuid2com74/45_12613) | 网络游戏【彩虹岛】七职业S2一键服务端+新地图+三转+等级上限255 | 2023-01-16 00:33:57 +0000 UTC |
-| 1 | [python_practice](https://github.com/john-mcenroe/python_practice) | Playing around with python and testing git | 2023-01-16 00:35:17 +0000 UTC |
-| 1 | [Man](https://github.com/Claux31/Man) |  | 2023-01-16 01:34:12 +0000 UTC |
-| 1 | [Ejercicio-1-OpenBootCamp](https://github.com/SIFTG/Ejercicio-1-OpenBootCamp) |  | 2023-01-16 00:33:15 +0000 UTC |
-| 1 | [webpack-bundle](https://github.com/nelllyai/webpack-bundle) |  | 2023-01-16 00:55:10 +0000 UTC |
-| 1 | [NetworkValidator](https://github.com/IODevBlue/NetworkValidator) | A lightweight module written in Kotlin for monitoring network activity state on native android. | 2023-01-16 01:34:21 +0000 UTC |
-| 1 | [e2e-gh-a4bb8313-6220-e956-c63f-14ea727430fc](https://github.com/tf-vcs-e2e/e2e-gh-a4bb8313-6220-e956-c63f-14ea727430fc) |  | 2023-01-16 01:34:11 +0000 UTC |
-| 1 | [sobre_mim](https://github.com/douglasSilva123/sobre_mim) |  | 2023-01-16 00:48:36 +0000 UTC |
-| 1 | [React-Redux](https://github.com/joezwa44/React-Redux) |  | 2023-01-16 01:35:06 +0000 UTC |
-| 1 | [contexty](https://github.com/Fredthedoggy/contexty) | Contexty is a single-purpose Discord Bot created to solve the issue of linked messages being incredibly clunky | 2023-01-16 01:29:18 +0000 UTC |
-| 1 | [psychic-palm-tree](https://github.com/graysonwagner/psychic-palm-tree) | homework 6 | 2023-01-16 00:34:14 +0000 UTC |
-| 1 | [Digital-Watch](https://github.com/CaioBotrel/Digital-Watch) | Digital Watch project | 2023-01-16 00:28:55 +0000 UTC |
-| 1 | [babel-jsx-to-ast-fragmented](https://github.com/Novout/babel-jsx-to-ast-fragmented) | @babel/parser wrapper for simple JSX tree. | 2023-01-16 00:35:45 +0000 UTC |
-| 1 | [ECommerce](https://github.com/newman-afk/ECommerce) |  | 2023-01-16 01:33:46 +0000 UTC |
-| 1 | [demo-repo](https://github.com/subhi997/demo-repo) | Demo Repository | 2023-01-16 01:31:04 +0000 UTC |
-| 1 | [pdf-generator-config-server-service-files](https://github.com/lucasmuniz/pdf-generator-config-server-service-files) | Repositório para os arquivos de Configuração do pdf-generator-service | 2023-01-16 00:09:57 +0000 UTC |
-| 1 | [BallBounce](https://github.com/SHivit700/BallBounce) |  | 2023-01-16 00:34:12 +0000 UTC |
-| 1 | [curso_python_basico_avancado](https://github.com/rockfellererbb/curso_python_basico_avancado) | Repositório dos exercícios do curso Python, Básico ao Avançado da Geek University | 2023-01-16 00:13:57 +0000 UTC |
-| 1 | [56c0d79c-fb31-4623-bec6-7f6ddab54dbc](https://github.com/appseed-projects2/56c0d79c-fb31-4623-bec6-7f6ddab54dbc) | Material Kit Flask - Generated Seed Project (Open-Source) \| AppSeed | 2023-01-16 00:14:25 +0000 UTC |
-| 1 | [Limpeza-e-Tratamento-de-Dados](https://github.com/Pedro1840/Limpeza-e-Tratamento-de-Dados) | Demonstração de Limpeza e Tratamento de Dados em Python | 2023-01-16 00:50:11 +0000 UTC |
+| 2 | [mellowmarshe](https://github.com/mellowmarshe/mellowmarshe) |  | 2023-01-17 01:02:09 +0000 UTC |
+| 2 | [val-guessr](https://github.com/lfwang42/val-guessr) | Geoguessr inspired Valorant minigame | 2023-01-17 00:15:47 +0000 UTC |
+| 2 | [pangu_alpha](https://github.com/mindspore-lab/pangu_alpha) |  | 2023-01-17 01:37:23 +0000 UTC |
+| 2 | [Kubernetes-KEDA-Cron](https://github.com/renatogroffe/Kubernetes-KEDA-Cron) | Exemplo de uso do scaler Cron do KEDA com escalabilidade pré-agendada de uma Web App | 2023-01-17 01:24:00 +0000 UTC |
+| 2 | [DigitalSuite](https://github.com/seanpm2001/DigitalSuite) | ↪️♣️↩️ A redirect to the DSuite source repository. | 2023-01-17 00:55:05 +0000 UTC |
+| 1 | [pitodevid.github.io](https://github.com/PitoDevID/pitodevid.github.io) |  | 2023-01-17 00:20:54 +0000 UTC |
+| 1 | [back-de-prueba](https://github.com/JesusAVC/back-de-prueba) |  | 2023-01-17 00:15:37 +0000 UTC |
+| 1 | [NFT-preview-card-component](https://github.com/Theingistacy/NFT-preview-card-component) | Solution for Frontend Mentor \| NFT preview card component | 2023-01-17 00:22:43 +0000 UTC |
+| 1 | [felipeGueno-SnapshotFinanceProjetoPessoal-Back](https://github.com/felipeGueno/felipeGueno-SnapshotFinanceProjetoPessoal-Back) |  | 2023-01-17 00:07:04 +0000 UTC |
+| 1 | [TIC-TAC-TOE-GAME](https://github.com/ouiam08/TIC-TAC-TOE-GAME) | TIC TAC TOE GAME USING JAVASCRIPT | 2023-01-17 00:36:44 +0000 UTC |
+| 1 | [EnableQuickShare](https://github.com/gws8820/EnableQuickShare) |  | 2023-01-17 00:17:08 +0000 UTC |
+| 1 | [Android-x32_Android1.5_Vanilla_Edition](https://github.com/seanpm2001/Android-x32_Android1.5_Vanilla_Edition) | 🤖️ Android x32: The Vanilla build for Android 1.5, a basic, but useful Android 1.5 (Cupcake) alternative installation | 2023-01-17 01:01:19 +0000 UTC |
+| 1 | [FilmesAPI](https://github.com/marcusalves13/FilmesAPI) |  | 2023-01-17 00:15:37 +0000 UTC |
+| 1 | [SmarterTabSwitching](https://github.com/paulstn/SmarterTabSwitching) |  | 2023-01-17 00:49:46 +0000 UTC |
+| 1 | [CharacterAnimationTools](https://github.com/KosukeFukazawa/CharacterAnimationTools) | Character Animation Tools for Python. | 2023-01-17 00:40:42 +0000 UTC |
+| 1 | [gitTestProject](https://github.com/ykid333/gitTestProject) |  | 2023-01-17 01:12:30 +0000 UTC |
+| 1 | [bottom-up-golang](https://github.com/mcarifio/bottom-up-golang) |  | 2023-01-17 00:35:47 +0000 UTC |
+| 1 | [Estudos_em_Python](https://github.com/JulianoCorreia/Estudos_em_Python) | Estudo em Python | 2023-01-17 01:36:48 +0000 UTC |
+| 1 | [React-Projects](https://github.com/Rizz008/React-Projects) |  | 2023-01-17 01:35:10 +0000 UTC |
+| 1 | [PI-Countries](https://github.com/alejandro10-ctr/PI-Countries) | Proyecto Individual Countries | 2023-01-17 00:08:46 +0000 UTC |
+| 1 | [14_19715](https://github.com/uuid2com76/14_19715) | 大数据日志分析系统-Spark日志分析实战课程 进入大数据Spark SQL的世界 Spark视频教程 | 2023-01-17 00:17:03 +0000 UTC |
+| 1 | [MIOT-Teori](https://github.com/Lestari08/MIOT-Teori) | Mobile Internet of Things project final setelah UTS | 2023-01-17 00:59:55 +0000 UTC |
+| 1 | [golang-practice](https://github.com/c0d33ngr/golang-practice) | A repo containing coding practice using Go | 2023-01-17 01:17:30 +0000 UTC |
+| 1 | [Crowdfunding_ETL](https://github.com/khp023/Crowdfunding_ETL) |  | 2023-01-17 00:17:08 +0000 UTC |
+| 1 | [mini-vue3](https://github.com/ronnycyy/mini-vue3) | mini-vue3 是一个笔者学习 vue3 源码过程中实现的库，抽取了 vue3 中最核心的逻辑。 | 2023-01-17 00:11:34 +0000 UTC |
+| 1 | [.github](https://github.com/sfccdevops/.github) | GitHub README | 2023-01-17 00:59:56 +0000 UTC |
+| 1 | [PfizerFinalProject-](https://github.com/siddi582/PfizerFinalProject-) |  | 2023-01-17 00:42:21 +0000 UTC |
+| 1 | [96_19808](https://github.com/uuid2com76/96_19808) | 人工智能主要方向-概率图模型（PGM）的多场景应用实战 概率图模型体系架构系学视频 | 2023-01-17 01:04:56 +0000 UTC |
+| 1 | [maps](https://github.com/alvarengaricardo/maps) |  | 2023-01-17 01:07:05 +0000 UTC |
+| 1 | [SWARM-ProjectCatalys-GitBook-in-PT-BR](https://github.com/Catalyst-Swarm/SWARM-ProjectCatalys-GitBook-in-PT-BR) | Repository created to host the Catalyst SWARM Gitbook language variation: Brazilian Portuguese [PT-BR] | 2023-01-17 00:51:11 +0000 UTC |
+| 1 | [HNS-server](https://github.com/Nathanwoodburn/HNS-server) | Single Script to setup HNS hosting | 2023-01-17 00:46:04 +0000 UTC |
+| 1 | [Hysteria-yg](https://github.com/yonggekkk/Hysteria-yg) | Hysteria多功能一键脚本，支持范围端口及多端口复用、四模式IP优先级切换 | 2023-01-17 00:40:00 +0000 UTC |
+| 1 | [C-Programming-for-Beginners-Section-05](https://github.com/Matthew-Johnson-Embedded-Engineer/C-Programming-for-Beginners-Section-05) | Repository for C Programming for Beginners, Section 5, by Jason Fedin on Udemy.com | 2023-01-17 01:38:26 +0000 UTC |
+| 1 | [Teach-the-Need-Mobile-App](https://github.com/potaton00b/Teach-the-Need-Mobile-App) |  | 2023-01-17 00:02:09 +0000 UTC |
+| 1 | [nlw-habits-frontend](https://github.com/tbathat/nlw-habits-frontend) | Projeto desenvolvido para a Trilha Ignite NLW da Rocketseat. | 2023-01-17 00:17:08 +0000 UTC |
+| 1 | [TsuchinokusPython](https://github.com/Tsuchinokus/TsuchinokusPython) | Tsuchinokus Booru with Python Aproach | 2023-01-17 00:12:06 +0000 UTC |
+| 1 | [Intermediate-JavaScript-Password-Generator](https://github.com/aartimehar/Intermediate-JavaScript-Password-Generator) |  | 2023-01-17 00:17:05 +0000 UTC |
+| 1 | [HTML-CSSTests](https://github.com/FCancella/HTML-CSSTests) | Projetos feitos em HTML e CSS | 2023-01-17 00:21:18 +0000 UTC |
+| 1 | [Automation_Project_](https://github.com/anshusethiritwik/Automation_Project_) |  | 2023-01-17 00:23:39 +0000 UTC |
+| 1 | [Android-x32_Android1.5_DeGoogled_Edition](https://github.com/seanpm2001/Android-x32_Android1.5_DeGoogled_Edition) | 🤖️ Android x32: The DeGoogled build for Android 1.5, a powerful, DeGoogled Android 1.5 (Cupcake) alternative installation  | 2023-01-17 01:02:37 +0000 UTC |
+| 1 | [arduino-gate-simulator](https://github.com/c4mpos-dev/arduino-gate-simulator) | Um simples sistema feito em arduino que simula um portão. | 2023-01-17 00:33:58 +0000 UTC |
+| 1 | [IDGS801](https://github.com/NoeGuevaraIDGS-801-20002449/IDGS801) |  | 2023-01-17 01:02:05 +0000 UTC |
+| 1 | [tratando-ejaculacao-precoce](https://github.com/SuzArtCopr/tratando-ejaculacao-precoce) | fds | 2023-01-17 00:37:37 +0000 UTC |
+| 1 | [AMT-123.github.io](https://github.com/AMT-123/AMT-123.github.io) |  | 2023-01-17 01:20:12 +0000 UTC |
+| 1 | [tarefa-controledefluxo](https://github.com/RicardoYoshio/tarefa-controledefluxo) |  | 2023-01-17 00:17:11 +0000 UTC |
+| 1 | [Clipclaps](https://github.com/dolBlob/Clipclaps) | cc pv cfg done op FF | 2023-01-17 00:13:50 +0000 UTC |
+| 1 | [Axies-Infinity-AI-Bot-Farm-Hack-Cheat](https://github.com/ApeNode/Axies-Infinity-AI-Bot-Farm-Hack-Cheat) | An Axies Infinity Bot with AI to farm on mulrti accounts without risking a ban  | 2023-01-17 00:08:59 +0000 UTC |
+| 1 | [portfolio_metrics](https://github.com/vhgimenes/portfolio_metrics) | Collection of functions built in Python language for performance and risk analysis of financial series. | 2023-01-17 00:40:10 +0000 UTC |
+| 1 | [73_19798](https://github.com/uuid2com76/73_19798) | 深度学习算法优化最前沿 融会贯通深度学习最新技术 深度之眼最新版深度学习实战教程 | 2023-01-17 00:59:43 +0000 UTC |
+| 1 | [webhoodForWhatsapp](https://github.com/GaveyCao/webhoodForWhatsapp) |  | 2023-01-17 00:55:58 +0000 UTC |
+| 1 | [testing-app](https://github.com/diegocarrp/testing-app) |  | 2023-01-17 01:36:48 +0000 UTC |
+| 1 | [WepClp](https://github.com/Pup077/WepClp) |  | 2023-01-17 01:39:12 +0000 UTC |
+| 1 | [Risk-Factors-and-Severity-Outcomes-for-Post-Vaccination-COVID-19-Infections-A-Case-Study-of-Yucatan](https://github.com/etoshon/Risk-Factors-and-Severity-Outcomes-for-Post-Vaccination-COVID-19-Infections-A-Case-Study-of-Yucatan) |  | 2023-01-17 00:17:03 +0000 UTC |
+| 1 | [social-app](https://github.com/alecryan88/social-app) |  | 2023-01-17 00:35:07 +0000 UTC |
+| 1 | [8_19750](https://github.com/uuid2com76/8_19750) | 不可错过的零基础到人工智能Ai专家课程 大数据+人工智能零基础到就业实战视频教程 | 2023-01-17 00:34:54 +0000 UTC |
+| 1 | [website_scraping](https://github.com/gnimeth/website_scraping) |  | 2023-01-17 00:45:14 +0000 UTC |
+| 1 | [PortiDan](https://github.com/DanielSalvadorGibHub/PortiDan) |  | 2023-01-17 00:00:33 +0000 UTC |
+| 1 | [hw2-2022](https://github.com/rheauppal/hw2-2022) |  | 2023-01-17 00:59:58 +0000 UTC |
+| 1 | [Projeto-Angular-Proway-Computers](https://github.com/yuridevnba/Projeto-Angular-Proway-Computers) |  | 2023-01-17 00:23:58 +0000 UTC |
+| 1 | [demo3-JeffLee](https://github.com/JefferyWlLee/demo3-JeffLee) |  | 2023-01-17 00:59:52 +0000 UTC |
+| 1 | [include-code-files](https://github.com/quarto-ext/include-code-files) |  | 2023-01-17 00:57:43 +0000 UTC |
+| 1 | [m](https://github.com/000alen/m) |  | 2023-01-17 01:00:08 +0000 UTC |
+| 1 | [The.Design.Pattern.Of.JavaScript](https://github.com/332684470/The.Design.Pattern.Of.JavaScript) | 《JavaScript设计模式与开发实践》---阅读笔记 | 2023-01-17 01:25:28 +0000 UTC |
+| 1 | [projeto14-mywallet-front](https://github.com/JoaoGracindo/projeto14-mywallet-front) |  | 2023-01-17 01:23:41 +0000 UTC |
+| 1 | [class-diary](https://github.com/yagolimalins/class-diary) | Simple Class Diary in Python + MongoDB | 2023-01-17 01:28:57 +0000 UTC |
+| 1 | [im_engaged_moveon_please](https://github.com/swajid/im_engaged_moveon_please) |  | 2023-01-17 00:28:30 +0000 UTC |
+| 1 | [Lesson4C-](https://github.com/XeniaLS13/Lesson4C-) |  | 2023-01-17 00:17:03 +0000 UTC |
+| 1 | [caetanoadvocacia](https://github.com/fernandobricio/caetanoadvocacia) |  | 2023-01-17 00:15:47 +0000 UTC |
+| 1 | [Patrisfs.github.io](https://github.com/Patrisfs/Patrisfs.github.io) |  | 2023-01-17 00:30:03 +0000 UTC |
+| 1 | [nlw-habits-tracker](https://github.com/JoaoVanzuita/nlw-habits-tracker) |  | 2023-01-17 01:04:14 +0000 UTC |
+| 1 | [zv3](https://github.com/MrYoshiii/zv3) |  | 2023-01-17 00:02:58 +0000 UTC |
+| 1 | [matematicas](https://github.com/wilpec2010/matematicas) |  | 2023-01-17 00:52:59 +0000 UTC |
+| 1 | [python_core](https://github.com/Spenezanni/python_core) |  | 2023-01-17 01:12:56 +0000 UTC |
+| 1 | [TP-N-30-El-ciclo-de-vida-de-los-componentes](https://github.com/martinavendano/TP-N-30-El-ciclo-de-vida-de-los-componentes) |  | 2023-01-17 00:22:31 +0000 UTC |
+| 1 | [Java-homwork](https://github.com/Vaimer81/Java-homwork) |  | 2023-01-17 00:31:28 +0000 UTC |
+| 1 | [modulo3-clase1](https://github.com/AgustinMoreno26/modulo3-clase1) | Santigo y Agustin | 2023-01-17 00:17:14 +0000 UTC |
+| 1 | [F1panel-system](https://github.com/ethemyanik/F1panel-system) | F1panelsystem for mta | 2023-01-17 01:27:14 +0000 UTC |
+| 1 | [text-editor](https://github.com/tinyturtledev/text-editor) | A simple and importable JS text editor. | 2023-01-17 00:05:50 +0000 UTC |
+| 1 | [Password-Manager](https://github.com/carolha2/Password-Manager) |  | 2023-01-17 00:01:25 +0000 UTC |
+| 1 | [Booking-app](https://github.com/EnzoAMarco/Booking-app) |  | 2023-01-17 01:02:22 +0000 UTC |
+| 1 | [42Lisboa](https://github.com/brendathena/42Lisboa) |  | 2023-01-17 00:59:49 +0000 UTC |
+| 1 | [Monee](https://github.com/Thiratikan/Monee) |  | 2023-01-17 00:55:20 +0000 UTC |
+| 1 | [headphones-website](https://github.com/romualdjunior/headphones-website) |  | 2023-01-17 00:58:01 +0000 UTC |
+| 1 | [udacity-security-training](https://github.com/dajuanmc/udacity-security-training) | Codify my learning with programming language and provided content | 2023-01-17 00:26:16 +0000 UTC |
+| 1 | [challenge-05](https://github.com/rulysse11/challenge-05) |  | 2023-01-17 01:36:45 +0000 UTC |
+| 1 | [nvimstoller](https://github.com/lucasstoller/nvimstoller) | My personal setting for neovim | 2023-01-17 00:09:44 +0000 UTC |
+| 1 | [Bliss_Browser_OSMode_RedHat-Shell](https://github.com/seanpm2001/Bliss_Browser_OSMode_RedHat-Shell) | 🌳️🌐️🐚️ The OS mode RedHat shell for Bliss Browser lets Bliss run as an operating system environment on top of Red Hat Linux for as much time as you choose. | 2023-01-17 00:53:45 +0000 UTC |
+| 1 | [nlw-setup](https://github.com/phenriquep00/nlw-setup) | habit tracker application | 2023-01-17 00:48:00 +0000 UTC |
+| 1 | [sql-1](https://github.com/lizjieunkim/sql-1) |  | 2023-01-17 00:16:18 +0000 UTC |
+| 1 | [turbotest_cu4xf9ix_5rune3p3](https://github.com/turbocanary/turbotest_cu4xf9ix_5rune3p3) |  | 2023-01-17 00:34:36 +0000 UTC |
+| 1 | [youtube-volume-normalizer](https://github.com/Kelvin-Ng/youtube-volume-normalizer) | Normalize YouTube volume. This extension will increase the volume if it is too soft. YouTube by default will lower the volume if it is too loud. | 2023-01-17 00:28:17 +0000 UTC |
+| 1 | [pomodoro-timer](https://github.com/srtjazz/pomodoro-timer) | A flutter application of a timer using the Pomodoro Technique. Main libs: MobX, Provider, Build Runner and MobXCodeGen | 2023-01-17 00:35:57 +0000 UTC |
+| 1 | [lab4](https://github.com/Galimimus/lab4) |  | 2023-01-17 00:11:47 +0000 UTC |
+| 1 | [case-08-the-robot-arm](https://github.com/mrjoshkao/case-08-the-robot-arm) | A MakeCode project | 2023-01-17 00:59:41 +0000 UTC |
+| 1 | [App-de-Receitas](https://github.com/ItzMari0/App-de-Receitas) |  | 2023-01-17 00:49:05 +0000 UTC |
+| 1 | [next-blog](https://github.com/dzakirz/next-blog) |  | 2023-01-17 01:31:19 +0000 UTC |
+| 1 | [chatapp](https://github.com/Ris345/chatapp) |  | 2023-01-17 01:36:50 +0000 UTC |
+| 1 | [FCC-Demographic-Data-Analyzer](https://github.com/svtereoactiv/FCC-Demographic-Data-Analyzer) | Analyze demographic data that was extracted from the 1994 Census database. | 2023-01-17 01:14:39 +0000 UTC |
+| 1 | [RefactoringKata](https://github.com/JasonMoon95/RefactoringKata) | Uplus x AWS 리팩토링을 연습할 수 있는 예제 입니다. | 2023-01-17 00:45:02 +0000 UTC |
+| 1 | [SapeX](https://github.com/AndrewVidarX/SapeX) |  | 2023-01-17 01:36:43 +0000 UTC |
 
