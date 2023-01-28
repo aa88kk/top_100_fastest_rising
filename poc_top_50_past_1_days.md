@@ -1,103 +1,103 @@
 | Stars | Name | Desc | Created | 
 | ----- | ------- | ------------- | ------------- |
-| 2 | [Python-Games](https://github.com/Elliot-Adam/Python-Games) | Games in python (tictactoe + connect 4) | 2023-01-27 01:05:43 +0000 UTC |
-| 2 | [adminBackendCursoAngular](https://github.com/JonathanArtetaH/adminBackendCursoAngular) | Repo de curso angular avanzado (Backend) | 2023-01-27 00:34:40 +0000 UTC |
-| 2 | [jigalo](https://github.com/anmolewh/jigalo) |  | 2023-01-27 00:57:07 +0000 UTC |
-| 2 | [News4U](https://github.com/TharunChougoni/News4U) |  | 2023-01-27 00:25:02 +0000 UTC |
-| 1 | [Layron-Moura](https://github.com/iToXiC022/Layron-Moura) |  | 2023-01-27 00:15:20 +0000 UTC |
-| 1 | [kickoff-jv](https://github.com/gabrielVB-C/kickoff-jv) | Try to show how git flow works | 2023-01-27 00:13:32 +0000 UTC |
-| 1 | [Challenge-20](https://github.com/Nwsheats/Challenge-20) |  | 2023-01-27 00:13:05 +0000 UTC |
-| 1 | [S6Moviles](https://github.com/omolina0984/S6Moviles) | Trabajo en clase | 2023-01-27 00:25:45 +0000 UTC |
-| 1 | [fundamentals-node](https://github.com/devLeticia/fundamentals-node) |  | 2023-01-27 00:31:14 +0000 UTC |
-| 1 | [work](https://github.com/bruhdamn/work) |  | 2023-01-27 00:47:40 +0000 UTC |
-| 1 | [chatgpt-news](https://github.com/neontomo/chatgpt-news) | Get all the current news about ChatGPT from Hacker News, to stay well and truly updated on an amazing new technology | 2023-01-27 00:05:50 +0000 UTC |
-| 1 | [starlight](https://github.com/nickstienz/starlight) |  | 2023-01-27 01:11:54 +0000 UTC |
-| 1 | [Tic-Tac-Toe](https://github.com/FacundoDLF/Tic-Tac-Toe) |  | 2023-01-27 00:25:40 +0000 UTC |
-| 1 | [gym-management](https://github.com/volixizes/gym-management) |  | 2023-01-27 01:31:46 +0000 UTC |
-| 1 | [learning-recaptcha](https://github.com/hchiam/learning-recaptcha) |  | 2023-01-27 01:31:52 +0000 UTC |
-| 1 | [TestDBT](https://github.com/ijaz-lab/TestDBT) |  | 2023-01-27 01:31:47 +0000 UTC |
-| 1 | [LearningPythonBasics](https://github.com/ChrisV-8/LearningPythonBasics) | From Hello World to Lists/Dictionaries/Tuples and more | 2023-01-27 00:22:43 +0000 UTC |
-| 1 | [vehicles](https://github.com/nmhkim/vehicles) |  | 2023-01-27 01:06:28 +0000 UTC |
-| 1 | [Project-1](https://github.com/Adelaide0810/Project-1) |  | 2023-01-27 00:23:51 +0000 UTC |
-| 1 | [Causal-Suicide-Scoping-Review](https://github.com/mruderman/Causal-Suicide-Scoping-Review) |  | 2023-01-27 00:47:14 +0000 UTC |
-| 1 | [html_css_practice_1](https://github.com/shuya1d8/html_css_practice_1) | HTML、CSSの練習で作成したサイトの枠組み | 2023-01-27 00:08:34 +0000 UTC |
-| 1 | [Datasets](https://github.com/antoinetordeux/Datasets) |  | 2023-01-27 00:24:33 +0000 UTC |
-| 1 | [Quiniela_SQL](https://github.com/A-M-Perez/Quiniela_SQL) | SQL project to explore and clean data from one of the main Argentinean lotteries, called "Quiniela" | 2023-01-27 00:00:27 +0000 UTC |
-| 1 | [React-style](https://github.com/Yuichi-W/React-style) | Created with CodeSandbox | 2023-01-27 00:47:48 +0000 UTC |
-| 1 | [chess-game](https://github.com/ericeinerson/chess-game) |  | 2023-01-27 00:55:57 +0000 UTC |
-| 1 | [portafolio-react](https://github.com/Eamll/portafolio-react) |  | 2023-01-27 00:44:55 +0000 UTC |
-| 1 | [IDAV](https://github.com/Thiago3600/IDAV) |  | 2023-01-27 00:36:02 +0000 UTC |
-| 1 | [song-reccomendation-system](https://github.com/ayush-shinde/song-reccomendation-system) |  | 2023-01-27 00:53:02 +0000 UTC |
-| 1 | [doctor-appoinment-system](https://github.com/drumil32/doctor-appoinment-system) |  | 2023-01-27 01:31:53 +0000 UTC |
-| 1 | [DKA-HTML-CSS](https://github.com/MrDummyTi/DKA-HTML-CSS) | Just try send HTML+CSS file in Github | 2023-01-27 01:31:54 +0000 UTC |
-| 1 | [OumaOS](https://github.com/DeiiOuma/OumaOS) | OumaOS is one of my first personal projects i've been planning on doing for a month now, | 2023-01-27 01:20:47 +0000 UTC |
-| 1 | [worksite_v2](https://github.com/megan-mai/worksite_v2) |  | 2023-01-27 00:38:45 +0000 UTC |
-| 1 | [fruits_app](https://github.com/bharathp9/fruits_app) | This is my sample fruits app | 2023-01-27 01:24:26 +0000 UTC |
-| 1 | [syncthing-windows-setup](https://github.com/nicholasdehnen/syncthing-windows-setup) | An simple setup for Syncthing on Windows. Updates automatically with new releases. | 2023-01-27 00:39:23 +0000 UTC |
-| 1 | [dato-format](https://github.com/archo5/dato-format) | a binary format for directly accessing a tree of objects | 2023-01-27 00:11:22 +0000 UTC |
-| 1 | [90_10454](https://github.com/uuid2com82/90_10454) | 子木CMS微信登录 1.4 商业版dz插件，支持PC端扫码注册/登录，支持PC端绑定等 | 2023-01-27 00:54:49 +0000 UTC |
-| 1 | [SpaceApp1](https://github.com/Mighty-Moth-Boy/SpaceApp1) |  | 2023-01-27 00:37:14 +0000 UTC |
-| 1 | [vpalazzesi.github.io](https://github.com/vpalazzesi/vpalazzesi.github.io) |  | 2023-01-27 00:38:44 +0000 UTC |
-| 1 | [desafio-2-modulo-3](https://github.com/poweragecl/desafio-2-modulo-3) | ejercicios javascript DOM manipulation | 2023-01-27 00:54:06 +0000 UTC |
-| 1 | [Portfolio-1](https://github.com/conorlacey/Portfolio-1) | Portfolio 1 for DS4P | 2023-01-27 00:59:18 +0000 UTC |
-| 1 | [cat-meme-picker](https://github.com/brianbud/cat-meme-picker) |  | 2023-01-27 00:46:01 +0000 UTC |
-| 1 | [battle-navals](https://github.com/MoWael11/battle-navals) |  | 2023-01-27 01:15:09 +0000 UTC |
-| 1 | [random-user-api](https://github.com/Francogalfre/random-user-api) | Random user Website made with an API 🍷 | 2023-01-27 01:06:07 +0000 UTC |
-| 1 | [barlowNartivida_M02-Lab_Case-Study_if_else-and-while](https://github.com/TivBit/barlowNartivida_M02-Lab_Case-Study_if_else-and-while) | This is program collects student name and grade information using if and else to determine if they made the Dean's list or the Honor Roll. | 2023-01-27 01:31:49 +0000 UTC |
-| 1 | [raxyerteam](https://github.com/RaxyerTechnologies/raxyerteam) |  | 2023-01-27 00:33:53 +0000 UTC |
-| 1 | [Apollo](https://github.com/YAL-GameMaker/Apollo) | Lua scripting in GameMaker | 2023-01-27 01:37:47 +0000 UTC |
-| 1 | [Reinforcement-Learning](https://github.com/AbdelRzk/Reinforcement-Learning) | In this Repository, we will be working on projects related to Reinforcement Learning (RL). We will go through different chapters or algorithms of RL. | 2023-01-27 00:18:50 +0000 UTC |
-| 1 | [TextUtils](https://github.com/Shahidch119/TextUtils) | A tool for analyzing Text data in django (BackEnd) | 2023-01-27 00:05:46 +0000 UTC |
-| 1 | [ApiProductoJava](https://github.com/AnthonyFabian212/ApiProductoJava) |  | 2023-01-27 00:35:54 +0000 UTC |
-| 1 | [Dinosaur-Game](https://github.com/JairoGabrielAban/Dinosaur-Game) | Project for CS$ | 2023-01-27 00:18:28 +0000 UTC |
-| 1 | [jeja_private_api](https://github.com/yuig/jeja_private_api) |  | 2023-01-27 00:45:34 +0000 UTC |
-| 1 | [enesecgin](https://github.com/enesecgin/enesecgin) |  | 2023-01-27 00:50:44 +0000 UTC |
-| 1 | [Jogo_da_velha_2](https://github.com/Thiago3600/Jogo_da_velha_2) |  | 2023-01-27 00:47:46 +0000 UTC |
-| 1 | [turbotest_xw7yznnk_hezfy2iv](https://github.com/turbocanary/turbotest_xw7yznnk_hezfy2iv) |  | 2023-01-27 00:45:02 +0000 UTC |
-| 1 | [hbo_login_page_clone](https://github.com/pxulin/hbo_login_page_clone) | w/interação no 'gerenciar perfis' | 2023-01-27 00:47:04 +0000 UTC |
-| 1 | [ZNOK](https://github.com/ZNOCK07/ZNOK) | GAMEESTOR | 2023-01-27 01:21:12 +0000 UTC |
-| 1 | [doing-something-here](https://github.com/LuigiVanin/doing-something-here) |  | 2023-01-27 01:31:48 +0000 UTC |
-| 1 | [korea-project](https://github.com/roxieetc/korea-project) |  | 2023-01-27 01:15:25 +0000 UTC |
-| 1 | [database](https://github.com/subarualx/database) |  | 2023-01-27 00:01:02 +0000 UTC |
-| 1 | [EVALUACION-DE-GRIETAS](https://github.com/calsinahelarfferrer/EVALUACION-DE-GRIETAS) | DESARROLLO-DE-UN-SISTEMA-DE-EVALUACION-DE-GRIETAS-EN-SUPERFICIES-DE-CONCRETO-MEDIANTE-REDES-NEURONAL | 2023-01-27 00:29:45 +0000 UTC |
-| 1 | [sandarma190180088.github.io](https://github.com/sandarma190180088/sandarma190180088.github.io) |  | 2023-01-27 00:35:53 +0000 UTC |
-| 1 | [beams_code](https://github.com/aguslzz/beams_code) | This is a python code that determines internal forces on any beam. Developed along Juan Camilo Ospina (JuanHaunted) and Ana Sofía Calle (ania940) | 2023-01-27 00:45:58 +0000 UTC |
-| 1 | [marakesh](https://github.com/kamleshkumar37/marakesh) |  | 2023-01-27 01:01:37 +0000 UTC |
-| 1 | [Prueba_2](https://github.com/A1EXF6A/Prueba_2) |  | 2023-01-27 00:55:47 +0000 UTC |
-| 1 | [TalexCalexK0133](https://github.com/TalexCalexK0133/TalexCalexK0133) |  | 2023-01-27 00:56:46 +0000 UTC |
-| 1 | [daikt](https://github.com/Adaikt/daikt) | Az123456789129 | 2023-01-27 00:59:00 +0000 UTC |
-| 1 | [introduction-to-github](https://github.com/sakshik-cmu/introduction-to-github) |  | 2023-01-27 01:05:00 +0000 UTC |
-| 1 | [sistema-de-cadastro](https://github.com/joaoguibr/sistema-de-cadastro) |  | 2023-01-27 00:55:50 +0000 UTC |
-| 1 | [Projects](https://github.com/yaneyalvarado/Projects) |  | 2023-01-27 01:31:12 +0000 UTC |
-| 1 | [Denis-Project](https://github.com/bohdangf/Denis-Project) |  | 2023-01-27 01:24:07 +0000 UTC |
-| 1 | [DoAnCNTT-AI-.github.io](https://github.com/sweetyNgoc/DoAnCNTT-AI-.github.io) |  | 2023-01-27 01:31:53 +0000 UTC |
-| 1 | [weather-information](https://github.com/joao-faust/weather-information) |  | 2023-01-27 01:33:28 +0000 UTC |
-| 1 | [Activity_25](https://github.com/GSynnott/Activity_25) |  | 2023-01-27 01:31:48 +0000 UTC |
-| 1 | [spg_stocks_test](https://github.com/MykolaPinchuk/spg_stocks_test) |  | 2023-01-27 00:47:40 +0000 UTC |
-| 1 | [blogs-api-project](https://github.com/cvsf91/blogs-api-project) |  | 2023-01-27 00:15:17 +0000 UTC |
-| 1 | [mmltech.net](https://github.com/MML4379/mmltech.net) | The MML Tech website | 2023-01-27 00:11:16 +0000 UTC |
-| 1 | [WebDev-Cheatsheet](https://github.com/jimju83/WebDev-Cheatsheet) | CodeCademy Challenge Web Development Cheatsheet | 2023-01-27 00:09:39 +0000 UTC |
-| 1 | [bam-axes](https://github.com/Clouds0147/bam-axes) |  | 2023-01-27 00:22:53 +0000 UTC |
-| 1 | [3d-palmeiras-galeria](https://github.com/Dossdev/3d-palmeiras-galeria) |  | 2023-01-27 00:38:57 +0000 UTC |
-| 1 | [solidity_Week1](https://github.com/ETIM-PAUL/solidity_Week1) |  | 2023-01-27 00:47:50 +0000 UTC |
-| 1 | [Silo](https://github.com/arn3342/Silo) |  | 2023-01-27 00:45:03 +0000 UTC |
-| 1 | [aws-eks-anywhere-test-vsphere-d93dd58b-c39a-4713-bfbd-83ad06c06858-52](https://github.com/that-jetpack-guy/aws-eks-anywhere-test-vsphere-d93dd58b-c39a-4713-bfbd-83ad06c06858-52) | repository for use with E2E test job aws-eks-anywhere-test-vsphere:d93dd58b-c39a-4713-bfbd-83ad06c06858-52 | 2023-01-27 00:32:06 +0000 UTC |
-| 1 | [BiZI_SAP_CODE](https://github.com/leewoonhyoung/BiZI_SAP_CODE) |  | 2023-01-27 00:15:26 +0000 UTC |
-| 1 | [pi-python](https://github.com/pi-apps/pi-python) |  | 2023-01-27 00:35:01 +0000 UTC |
-| 1 | [SemicircleClock](https://github.com/AsadpourMohammad/SemicircleClock) | A weird and unorthodox version of a Clock! | 2023-01-27 01:06:34 +0000 UTC |
-| 1 | [jhu-st-sp23-public](https://github.com/jhu-st/jhu-st-sp23-public) |  | 2023-01-27 01:25:08 +0000 UTC |
-| 1 | [Geographical-Scattering-of-Votes](https://github.com/felipelmc/Geographical-Scattering-of-Votes) | Experiment on generating maps using the "G" index for calculating geographical scattering of votes in Brazil. Based on Avelino, Biderman and Silva (2016). | 2023-01-27 00:18:19 +0000 UTC |
-| 1 | [Blazor-Trails](https://github.com/Hieutrinh1505/Blazor-Trails) |  | 2023-01-27 01:27:00 +0000 UTC |
-| 1 | [docusaurus](https://github.com/hyunglee2/docusaurus) |  | 2023-01-27 01:31:50 +0000 UTC |
-| 1 | [dio-desafio-github-primeiro-repositorio](https://github.com/Lap29/dio-desafio-github-primeiro-repositorio) | Primeiro desafio de projeto sobre Git/Github | 2023-01-27 00:25:45 +0000 UTC |
-| 1 | [ACT-Website-Design-System-Preview](https://github.com/ACTGov-Design-System/ACT-Website-Design-System-Preview) | A collection of static HTML/SCSS/JS preview files that demonstrates the ACT Government's Website Design System outside of the ACT-WDS Storybook environment. | 2023-01-27 00:51:56 +0000 UTC |
-| 1 | [PaulaRevainera-entregaFinalMarcopolo](https://github.com/PaulaRev/PaulaRevainera-entregaFinalMarcopolo) | Proyecto de pag web - coderH | 2023-01-27 00:24:58 +0000 UTC |
-| 1 | [portfolio](https://github.com/tecnicoemerson/portfolio) |  | 2023-01-27 01:18:39 +0000 UTC |
-| 1 | [Dise-oDesarrollo.](https://github.com/Dannte0316/Dise-oDesarrollo.) | Repositorio para el curso Diseño y Desarrollo | 2023-01-27 00:55:49 +0000 UTC |
-| 1 | [neuroeval](https://github.com/quinguyen-dev/neuroeval) | A cross-platform mobile application that aims to replace the printed information cards the neurologist use to enroll patients. | 2023-01-27 00:46:12 +0000 UTC |
-| 1 | [sprj34git](https://github.com/Yunho-Jun/sprj34git) |  | 2023-01-27 00:52:50 +0000 UTC |
-| 1 | [goto-resource](https://github.com/VenkataBhaskarr/goto-resource) | a goto-resource is a web application to route community to the great available resources to learn for free | 2023-01-27 01:18:55 +0000 UTC |
-| 1 | [tst-tc835-itazwrwjs-59513](https://github.com/crowdbotics-dev/tst-tc835-itazwrwjs-59513) | This react_native application was built with Crowdbotics www.crowdbotics.com | 2023-01-27 00:47:47 +0000 UTC |
-| 1 | [simple-to-do](https://github.com/BrunoZolini/simple-to-do) |  | 2023-01-27 00:45:55 +0000 UTC |
-| 1 | [mern-book-search-engine](https://github.com/Tooboi/mern-book-search-engine) |  | 2023-01-27 00:47:51 +0000 UTC |
+| 4 | [resume-builder-chatgpt](https://github.com/fahdi/resume-builder-chatgpt) | This is a web application that allows users to create, edit and download professional resumes. It was built using modern web technologies such as HTML, CSS, JavaScript, Node.js, Express, MongoDB, and various APIs. The project was initiated by fahdi and was assisted by ChatGPT, an AI language model by OpenAI. | 2023-01-28 00:58:36 +0000 UTC |
+| 3 | [vmp-analyzer](https://github.com/t0msa/vmp-analyzer) |  | 2023-01-28 00:16:56 +0000 UTC |
+| 2 | [overdue-santa](https://github.com/krupali2000/overdue-santa) | Santa was stuck at bottom of tower, has to get out cause christmas is overdue. | 2023-01-28 01:19:24 +0000 UTC |
+| 2 | [next-netlify-starter](https://github.com/NahidBorson007/next-netlify-starter) |  | 2023-01-28 00:09:40 +0000 UTC |
+| 2 | [deploy-me](https://github.com/andy108369/deploy-me) | A boilerplate for container deployments in Akash decentralized cloud | 2023-01-28 00:38:31 +0000 UTC |
+| 2 | [bundler-test-results](https://github.com/eth-infinitism/bundler-test-results) | Output of bundler-test-executor. Output of running spec-tests against bundlers. | 2023-01-28 00:29:25 +0000 UTC |
+| 2 | [Golang-Gin](https://github.com/TopTen1004/Golang-Gin) |  | 2023-01-28 00:55:31 +0000 UTC |
+| 2 | [pooPokemonApp](https://github.com/CaioCezarBezerra/pooPokemonApp) |  | 2023-01-28 00:04:25 +0000 UTC |
+| 2 | [RAYAN-GAMES](https://github.com/K0RNZ/RAYAN-GAMES) | My first ever project with my mentor Umar. Coded with HTML and CSS. | 2023-01-28 00:43:24 +0000 UTC |
+| 2 | [PHP_API](https://github.com/sassy-xx/PHP_API) | A simple PHP API library. | 2023-01-28 00:41:44 +0000 UTC |
+| 1 | [gitignore](https://github.com/Diego-Salem/gitignore) |  | 2023-01-28 00:58:35 +0000 UTC |
+| 1 | [Terraform_VM](https://github.com/AlessandroGracia27/Terraform_VM) |  | 2023-01-28 00:30:14 +0000 UTC |
+| 1 | [kevintea.github.io](https://github.com/kevintea/kevintea.github.io) |  | 2023-01-28 00:33:22 +0000 UTC |
+| 1 | [tlw](https://github.com/purpleteamNSC/tlw) |  | 2023-01-28 01:30:33 +0000 UTC |
+| 1 | [472-2023-G3](https://github.com/ks-moss/472-2023-G3) |  | 2023-01-28 01:00:30 +0000 UTC |
+| 1 | [DirtyCrops](https://github.com/RevolvingMadness/DirtyCrops) | This is a datapack that makes crops dirty when they are mined as they would be in real life. You have to wash them off in a cauldron with water. | 2023-01-28 01:27:40 +0000 UTC |
+| 1 | [ss-elliptic-curves](https://github.com/nhajouji/ss-elliptic-curves) | Python program for computing supersingular j-invariants modulo a given prime p | 2023-01-28 00:49:03 +0000 UTC |
+| 1 | [watch-rangers](https://github.com/victorcastro/watch-rangers) |  | 2023-01-28 00:35:22 +0000 UTC |
+| 1 | [last-pro](https://github.com/AhmedSaad1516/last-pro) |  | 2023-01-28 00:58:53 +0000 UTC |
+| 1 | [upgraded-couscous](https://github.com/marianac-campos/upgraded-couscous) |  | 2023-01-28 00:58:04 +0000 UTC |
+| 1 | [testng_second_project_5](https://github.com/OzanAtc/testng_second_project_5) |  | 2023-01-28 00:04:40 +0000 UTC |
+| 1 | [decentralized-ticketing](https://github.com/Moneybag100/decentralized-ticketing) | A fully decentralized single-user type ticketing smart contract. (An implementation of my M.Eng. Thesis) | 2023-01-28 01:27:26 +0000 UTC |
+| 1 | [SpeechScribe](https://github.com/mithunb9/SpeechScribe) |  | 2023-01-28 01:07:43 +0000 UTC |
+| 1 | [QHacks2023](https://github.com/sunyshore/QHacks2023) |  | 2023-01-28 00:56:55 +0000 UTC |
+| 1 | [formularios-bases-react](https://github.com/Xansiety/formularios-bases-react) |  | 2023-01-28 00:05:36 +0000 UTC |
+| 1 | [NFLDemo_ClassWalkthrough](https://github.com/CamiGrace/NFLDemo_ClassWalkthrough) | Example of a JPA API that was coded alongside professor during class. Some errors exist within the code, and I'm just saving this as an example.  | 2023-01-28 01:34:12 +0000 UTC |
+| 1 | [Use_VW_Rem](https://github.com/emobugs/Use_VW_Rem) |  | 2023-01-28 00:54:59 +0000 UTC |
+| 1 | [gitLearn](https://github.com/andyabatha/gitLearn) |  | 2023-01-28 01:04:52 +0000 UTC |
+| 1 | [Testing-For-CPSC](https://github.com/redenmer/Testing-For-CPSC) |  | 2023-01-28 00:05:45 +0000 UTC |
+| 1 | [SnakeGamePy](https://github.com/RisingProgramming/SnakeGamePy) |  | 2023-01-28 00:08:47 +0000 UTC |
+| 1 | [github-demo](https://github.com/Dan2Xcel/github-demo) | A simple demo repository to show the basic git workflow | 2023-01-28 00:05:37 +0000 UTC |
+| 1 | [first](https://github.com/khatnish/first) |  | 2023-01-28 00:04:53 +0000 UTC |
+| 1 | [testPublicPrivate](https://github.com/kwesiObuobi/testPublicPrivate) |  | 2023-01-28 00:23:45 +0000 UTC |
+| 1 | [SIMPLEPROJECT](https://github.com/Marcio-web/SIMPLEPROJECT) |  | 2023-01-28 00:25:05 +0000 UTC |
+| 1 | [SC_502_Documentacion_1_Justin](https://github.com/Gono27/SC_502_Documentacion_1_Justin) |  | 2023-01-28 01:02:04 +0000 UTC |
+| 1 | [tst-tc473-sdhfriekl-59629](https://github.com/crowdbotics-dev/tst-tc473-sdhfriekl-59629) | This react_native application was built with Crowdbotics www.crowdbotics.com | 2023-01-28 00:34:45 +0000 UTC |
+| 1 | [Golf](https://github.com/APSanghavi/Golf) |  | 2023-01-28 00:58:53 +0000 UTC |
+| 1 | [ZDZCode.OpenFinanceBrasil.Domain](https://github.com/zdzcode-projects/ZDZCode.OpenFinanceBrasil.Domain) | Modelagem de dados base para o OpenFinance Brasil. | 2023-01-28 00:48:13 +0000 UTC |
+| 1 | [Project-FinalU8](https://github.com/Silabuz-Students/Project-FinalU8) |  | 2023-01-28 01:24:25 +0000 UTC |
+| 1 | [Netflix-Login](https://github.com/ruanalexandreS/Netflix-Login) |  | 2023-01-28 00:44:28 +0000 UTC |
+| 1 | [Quran_apps](https://github.com/BadrulFlut/Quran_apps) |  | 2023-01-28 00:22:12 +0000 UTC |
+| 1 | [Folium_InteractiveGeoMap_Visualization](https://github.com/YanyingJiangUmich/Folium_InteractiveGeoMap_Visualization) |  | 2023-01-28 00:07:54 +0000 UTC |
+| 1 | [testng_second_project](https://github.com/ozzgithub/testng_second_project) |  | 2023-01-28 00:05:44 +0000 UTC |
+| 1 | [software-engineering](https://github.com/jmprasanthkumar/software-engineering) |  | 2023-01-28 00:02:43 +0000 UTC |
+| 1 | [Frontmentoreto1](https://github.com/ozzycol/Frontmentoreto1) |  | 2023-01-28 00:00:08 +0000 UTC |
+| 1 | [RocketSect](https://github.com/rafalavo/RocketSect) |  | 2023-01-28 00:03:40 +0000 UTC |
+| 1 | [plagiarism-detection-frontend](https://github.com/rekram1-node/plagiarism-detection-frontend) | TAMU HACK 2023 | 2023-01-28 00:58:12 +0000 UTC |
+| 1 | [Bidoofamari](https://github.com/GolyBidoof/Bidoofamari) | Que Sera Sera and Bidoofs rolled up against the middle xd | 2023-01-28 00:58:49 +0000 UTC |
+| 1 | [age_checker](https://github.com/hochiminh1996/age_checker) |  | 2023-01-28 00:41:48 +0000 UTC |
+| 1 | [Bank-system-using-C-](https://github.com/Youssefhassan1717/Bank-system-using-C-) | This is a C++ code that simulates a bank system. | 2023-01-28 01:15:42 +0000 UTC |
+| 1 | [TidyDataPeerGraded](https://github.com/hwhiser/TidyDataPeerGraded) |  | 2023-01-28 01:30:57 +0000 UTC |
+| 1 | [BitShowMUI](https://github.com/RadosRosic/BitShowMUI) |  | 2023-01-28 01:25:47 +0000 UTC |
+| 1 | [carla-kitti](https://github.com/Zaf233/carla-kitti) |  | 2023-01-28 01:29:33 +0000 UTC |
+| 1 | [Testing](https://github.com/MaskedMatters/Testing) |  | 2023-01-28 00:54:34 +0000 UTC |
+| 1 | [testapiautocatalog7-59591](https://github.com/crowdbotics-dev/testapiautocatalog7-59591) | This react_native application was built with Crowdbotics www.crowdbotics.com | 2023-01-28 00:05:18 +0000 UTC |
+| 1 | [Welcome](https://github.com/AnimeContent/Welcome) |  | 2023-01-28 00:44:42 +0000 UTC |
+| 1 | [Flutuar](https://github.com/KauanEspindula/Flutuar) | Projeto feito como aprendizado pela Rocketseat, com o tema de viajem! | 2023-01-28 00:32:32 +0000 UTC |
+| 1 | [ai-coder](https://github.com/jongan69/ai-coder) | An ai tool for building different types of code pieces | 2023-01-28 00:19:37 +0000 UTC |
+| 1 | [hr-system](https://github.com/rodrigovcf/hr-system) | Repositório do projeto desenvolvido no curso de Micro-serviços com Java.  | 2023-01-28 01:02:13 +0000 UTC |
+| 1 | [20230128_react](https://github.com/wizarddennis/20230128_react) | 리액트 강의 참고용-1일차 | 2023-01-28 01:25:47 +0000 UTC |
+| 1 | [startup](https://github.com/ErikVagil/startup) | CS260 homework: GitHub | 2023-01-28 00:19:36 +0000 UTC |
+| 1 | [yanzihan](https://github.com/GogoSpaceStudio/yanzihan) |  | 2023-01-28 01:29:40 +0000 UTC |
+| 1 | [XeicuLy](https://github.com/XeicuLy/XeicuLy) |  | 2023-01-28 01:34:39 +0000 UTC |
+| 1 | [hackrithmic-project](https://github.com/lifeng-yin/hackrithmic-project) | Project for Hackrithmic 2 | 2023-01-28 01:00:29 +0000 UTC |
+| 1 | [CC-VeinMiner](https://github.com/BrainStone/CC-VeinMiner) | This ComputerCraft program will automatically mine entire veins of ore | 2023-01-28 01:06:12 +0000 UTC |
+| 1 | [drvinfo](https://github.com/ptrrkssn/drvinfo) | A script that summarizes drive usage & information on FreeBSD systems | 2023-01-28 00:05:41 +0000 UTC |
+| 1 | [Prime-benchmark](https://github.com/AirVine64/Prime-benchmark) |  | 2023-01-28 00:05:50 +0000 UTC |
+| 1 | [GitHubDemo](https://github.com/ShumiAkter/GitHubDemo) |  | 2023-01-28 00:16:03 +0000 UTC |
+| 1 | [Portif-lio](https://github.com/FrancisleiXav/Portif-lio) |  | 2023-01-28 00:58:41 +0000 UTC |
+| 1 | [exportarlista](https://github.com/ricardozangelmifiorotto/exportarlista) |  | 2023-01-28 00:56:04 +0000 UTC |
+| 1 | [Starknet](https://github.com/IamDannyM/Starknet) |  | 2023-01-28 00:11:56 +0000 UTC |
+| 1 | [3_13717](https://github.com/uuid2com82/3_13717) | 战神引擎传奇手游【三职斩天火龙】3月整理Win半手工服务端+充值后台+双端 | 2023-01-28 00:05:40 +0000 UTC |
+| 1 | [ERMINE](https://github.com/hokonkim/ERMINE) | This is a repository for ERMINE-CrPoisoning work. | 2023-01-28 01:15:56 +0000 UTC |
+| 1 | [belajar-python](https://github.com/Yohanesluron96/belajar-python) |  | 2023-01-28 01:25:47 +0000 UTC |
+| 1 | [alx-pre_course](https://github.com/kelvinAddy/alx-pre_course) | I'm now a ALX Student, this is my first repository as a full-stack engineer | 2023-01-28 00:36:16 +0000 UTC |
+| 1 | [friendly-pancake](https://github.com/andiodang21/friendly-pancake) |  | 2023-01-28 00:25:42 +0000 UTC |
+| 1 | [Graphql-MERN](https://github.com/Mehr-o-maah/Graphql-MERN) |  | 2023-01-28 00:25:38 +0000 UTC |
+| 1 | [mainscript](https://github.com/Dark-Scripts/mainscript) |  | 2023-01-28 00:06:00 +0000 UTC |
+| 1 | [gradescope-submit](https://github.com/nmittu/gradescope-submit) |  | 2023-01-28 00:05:52 +0000 UTC |
+| 1 | [HerrSchmieroel.github.io](https://github.com/HerrSchmieroel/HerrSchmieroel.github.io) |  | 2023-01-28 00:11:10 +0000 UTC |
+| 1 | [masters-tsa-project2](https://github.com/WilliamRappel98/masters-tsa-project2) | Forecasting time series project. | 2023-01-28 01:01:25 +0000 UTC |
+| 1 | [chatGPTree](https://github.com/skydogenet/chatGPTree) | chatGPT IRC bot in python | 2023-01-28 00:08:10 +0000 UTC |
+| 1 | [Kregflix-Request-Line](https://github.com/Papachips/Kregflix-Request-Line) | Code utilizing Twilio and ngork to allow people to text requests to be picked up by Sonarr and Radarr for download. | 2023-01-28 00:58:49 +0000 UTC |
+| 1 | [discord_account_backup_creator](https://github.com/Saturn5Vfive/discord_account_backup_creator) |  | 2023-01-28 00:47:01 +0000 UTC |
+| 1 | [AP2022](https://github.com/Akshayp813/AP2022) | This is having CS code | 2023-01-28 01:30:30 +0000 UTC |
+| 1 | [collab-server](https://github.com/emm312/collab-server) |  | 2023-01-28 01:26:18 +0000 UTC |
+| 1 | [insni](https://github.com/xnuc/insni) | insni 简单的依赖注入容器 | 2023-01-28 00:55:10 +0000 UTC |
+| 1 | [cs149](https://github.com/starphys/cs149) | Worksheets and homework assignments for CS 149: Operating Systems at SJSU. | 2023-01-28 01:35:13 +0000 UTC |
+| 1 | [Funky-FoliageFixer-app](https://github.com/HariBarran/Funky-FoliageFixer-app) |  | 2023-01-28 00:58:44 +0000 UTC |
+| 1 | [Outsource_project](https://github.com/TrongNguyenzzz/Outsource_project) |  | 2023-01-28 00:52:57 +0000 UTC |
+| 1 | [Projeto-OneBitX](https://github.com/Hmardam/Projeto-OneBitX) |  | 2023-01-28 00:36:04 +0000 UTC |
+| 1 | [repositorio1](https://github.com/SantiagoNuste/repositorio1) |  | 2023-01-28 00:25:42 +0000 UTC |
+| 1 | [chat-app](https://github.com/LeonitKrasniqi/chat-app) |  | 2023-01-28 00:32:58 +0000 UTC |
+| 1 | [hw_java](https://github.com/githubalias1/hw_java) | hello world java script | 2023-01-28 00:29:14 +0000 UTC |
+| 1 | [IsaacChuangFanClub](https://github.com/guthriematthew/IsaacChuangFanClub) |  | 2023-01-28 01:11:42 +0000 UTC |
+| 1 | [Challenger-Oracle-ONE](https://github.com/SebastianAnticona/Challenger-Oracle-ONE) | Desafio de Alura Latam - Encriptador/Desencriptador de texto con JS | 2023-01-28 01:05:16 +0000 UTC |
+| 1 | [mantine-tailwind](https://github.com/notSagyo/mantine-tailwind) |  | 2023-01-28 01:23:03 +0000 UTC |
+| 1 | [SpotifyArtistAnalysis](https://github.com/cagdas5/SpotifyArtistAnalysis) | Kendrick Lamar's albums analysis, I mostly used methods in Pierian Training blogs | 2023-01-28 00:16:40 +0000 UTC |
+| 1 | [CSC443-Group-Project](https://github.com/xinyuan0801/CSC443-Group-Project) |  | 2023-01-28 00:12:25 +0000 UTC |
+| 1 | [turbotest_jy274hn1_d8xij6pu](https://github.com/turbocanary/turbotest_jy274hn1_d8xij6pu) |  | 2023-01-28 00:23:42 +0000 UTC |
 
