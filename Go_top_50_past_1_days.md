@@ -1,38 +1,24 @@
 | Stars | Name | Desc | Created | 
 | ----- | ------- | ------------- | ------------- |
-| 0 | [Rovarrine](https://github.com/AyokunlePaul/Rovarrine) |  | 2023-02-01 00:28:41 +0000 UTC |
-| 0 | [InventoryBackend](https://github.com/Israel-Solano/InventoryBackend) |  | 2023-02-01 00:08:24 +0000 UTC |
-| 0 | [otel-go-baggage-update](https://github.com/cartermp/otel-go-baggage-update) |  | 2023-02-01 01:02:04 +0000 UTC |
-| 0 | [datedis](https://github.com/SmartPrintsInk/datedis) | Internal Date functions | 2023-02-01 00:58:13 +0000 UTC |
-| 0 | [GoMonads](https://github.com/Sargastico/GoMonads) | Maybe Monad implementation in Go for studying purposes | 2023-02-01 00:40:04 +0000 UTC |
-| 0 | [learning-go-modules](https://github.com/DylanMorison/learning-go-modules) |  | 2023-02-01 00:39:41 +0000 UTC |
-| 0 | [CI-Alura-Docker](https://github.com/danielafdc/CI-Alura-Docker) |  | 2023-02-01 00:11:41 +0000 UTC |
-| 0 | [rest-api-bri-scrape](https://github.com/pramudya3/rest-api-bri-scrape) |  | 2023-02-01 01:16:13 +0000 UTC |
-| 0 | [keycloak](https://github.com/orleonbatista/keycloak) |  | 2023-02-01 01:31:11 +0000 UTC |
-| 0 | [curso-golang-alura-oop](https://github.com/rafaellimasnp/curso-golang-alura-oop) | Material do curso Go: Orientação a Objetos da Alura | 2023-02-01 01:11:46 +0000 UTC |
-| 0 | [generic-reflection](https://github.com/amass01/generic-reflection) | Generics vs. interface{} exercise | 2023-02-01 01:14:37 +0000 UTC |
-| 0 | [teste-Golang](https://github.com/Riqueemn/teste-Golang) | Teste Unitário em Golang | 2023-02-01 01:35:57 +0000 UTC |
-| 0 | [leetcode-golang](https://github.com/lauxinchi/leetcode-golang) |  | 2023-02-01 01:36:54 +0000 UTC |
-| 0 | [go-http-vs-grpc](https://github.com/anilsenay/go-http-vs-grpc) | Benchmark for HTTP and gRPC implementations in Golang | 2023-02-01 00:49:52 +0000 UTC |
-| 0 | [goarea](https://github.com/DeiviDev1/goarea) |  | 2023-02-01 00:15:15 +0000 UTC |
-| 0 | [read-advisor-bot](https://github.com/dro14/read-advisor-bot) |  | 2023-02-01 00:25:10 +0000 UTC |
-| 0 | [poci](https://github.com/tbeets/poci) | Junk drawer of routines and helpers (infrastructure) to speed along Go projects, often proof-of-concepts. | 2023-02-01 01:03:26 +0000 UTC |
-| 0 | [gotpl](https://github.com/chenyao11235/gotpl) |  | 2023-02-01 01:11:19 +0000 UTC |
-| 0 | [EntainTest](https://github.com/jonathanyji/EntainTest) |  | 2023-02-01 00:21:31 +0000 UTC |
-| 0 | [jsontype](https://github.com/MicahParks/jsontype) |  | 2023-02-01 00:21:27 +0000 UTC |
-| 0 | [Variables](https://github.com/AhmedElatreby/Variables) | Variables | 2023-02-01 00:58:17 +0000 UTC |
-| 0 | [6.824](https://github.com/hellokuls/6.824) | This is my answer of MIT6.824 exam | 2023-02-01 00:59:40 +0000 UTC |
-| 0 | [npoci](https://github.com/tbeets/npoci) | Junk drawer of NATS-specific routines and helpers (infrastructure) to speed along Go projects, often proof-of-concepts. | 2023-02-01 01:09:06 +0000 UTC |
-| 0 | [db_es_ck](https://github.com/ya2022j/db_es_ck) |  | 2023-02-01 01:37:26 +0000 UTC |
-| 0 | [GO-basic-course](https://github.com/antcodernez/GO-basic-course) | There are my notes about the go basic course | 2023-02-01 00:17:58 +0000 UTC |
-| 0 | [mlr-calendars](https://github.com/utahcon/mlr-calendars) |  | 2023-02-01 00:07:29 +0000 UTC |
-| 0 | [mcontigo-technical-test](https://github.com/vivianaarango/mcontigo-technical-test) |  | 2023-02-01 01:10:02 +0000 UTC |
-| 0 | [go-http-server](https://github.com/BobyMCbobs/go-http-server) |  | 2023-02-01 01:20:43 +0000 UTC |
-| 0 | [ga](https://github.com/ryda20/ga) | write autoit script in golang | 2023-02-01 01:18:23 +0000 UTC |
-| 0 | [sensor-api-new](https://github.com/rosgood98/sensor-api-new) |  | 2023-02-01 00:15:46 +0000 UTC |
-| 0 | [bond](https://github.com/freddierice/bond) | Scan youtube movies for secrets | 2023-02-01 00:22:00 +0000 UTC |
-| 0 | [numbers-service](https://github.com/Haladinoq/numbers-service) | Api management reservation numbers | 2023-02-01 00:20:32 +0000 UTC |
-| 0 | [mlr](https://github.com/utahcon/mlr) |  | 2023-02-01 00:01:59 +0000 UTC |
-| 0 | [Hex_add](https://github.com/Ashritha-Reddy1004/Hex_add) |  | 2023-02-01 00:21:52 +0000 UTC |
-| 0 | [misc](https://github.com/vrezendedev/misc) | Random (but with quality) stuff | 2023-02-01 00:59:49 +0000 UTC |
+| 8 | [imersao-12-esquenta-kafka](https://github.com/devfullcycle/imersao-12-esquenta-kafka) |  | 2023-02-02 00:36:47 +0000 UTC |
+| 0 | [go-book-crud](https://github.com/Jaz123-rgb/go-book-crud) |  | 2023-02-02 00:18:32 +0000 UTC |
+| 0 | [Go](https://github.com/anoban/Go) |  | 2023-02-02 00:09:14 +0000 UTC |
+| 0 | [twitter-util](https://github.com/Ukraine-DAO/twitter-util) | Library with an extra fuctions for poking Twitter API | 2023-02-02 00:37:28 +0000 UTC |
+| 0 | [shared-movie-playback-go](https://github.com/anthonyboutinov/shared-movie-playback-go) | A web-app concept that lets the visitors watch the same video in a shared state, with everybody being able to control play/pause/seek | 2023-02-02 01:07:30 +0000 UTC |
+| 0 | [go-rest-api](https://github.com/fabandalm/go-rest-api) |  | 2023-02-02 00:35:50 +0000 UTC |
+| 0 | [command](https://github.com/goodluckxu-go/command) | golang类似laravel的artisan的自定义命令生成工具 | 2023-02-02 00:49:19 +0000 UTC |
+| 0 | [cube](https://github.com/MaxwelMazur/cube) |  | 2023-02-02 00:38:48 +0000 UTC |
+| 0 | [Golang-Buffalo-FFMPEG](https://github.com/HenriqueBarucco/Golang-Buffalo-FFMPEG) |  | 2023-02-02 00:53:14 +0000 UTC |
+| 0 | [go-library-sample](https://github.com/dolthub/go-library-sample) | This is a sample C++ application showing how to embed a Go library into C/C++ | 2023-02-02 01:19:34 +0000 UTC |
+| 0 | [golang_timetravel](https://github.com/nickcoast/golang_timetravel) | golang experiment | 2023-02-02 00:16:50 +0000 UTC |
+| 0 | [DDoS-cli](https://github.com/lucas-code42/DDoS-cli) | Golang DDoS-cli | 2023-02-02 01:19:11 +0000 UTC |
+| 0 | [DORA01](https://github.com/MYFLiiX/DORA01) |  | 2023-02-02 00:35:37 +0000 UTC |
+| 0 | [album-control-hue](https://github.com/skykosiner/album-control-hue) |  | 2023-02-02 01:18:39 +0000 UTC |
+| 0 | [filesworks](https://github.com/mazol024/filesworks) |  | 2023-02-02 01:34:06 +0000 UTC |
+| 0 | [huffmancode](https://github.com/mamad-nik/huffmancode) |  | 2023-02-02 00:48:51 +0000 UTC |
+| 0 | [chess](https://github.com/padeir0/chess) | chess engine and ui | 2023-02-02 00:34:00 +0000 UTC |
+| 0 | [chatgptcli](https://github.com/MaxwelMazur/chatgptcli) |  | 2023-02-02 00:36:03 +0000 UTC |
+| 0 | [TestTask](https://github.com/an112chuh/TestTask) |  | 2023-02-02 00:59:00 +0000 UTC |
+| 0 | [go](https://github.com/ddenizerr/go) |  | 2023-02-02 01:22:12 +0000 UTC |
+| 0 | [testvaote](https://github.com/AdithyaKolla/testvaote) |  | 2023-02-02 00:42:16 +0000 UTC |
 
