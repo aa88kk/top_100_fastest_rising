@@ -1,24 +1,38 @@
 | Stars | Name | Desc | Created | 
 | ----- | ------- | ------------- | ------------- |
-| 8 | [imersao-12-esquenta-kafka](https://github.com/devfullcycle/imersao-12-esquenta-kafka) |  | 2023-02-02 00:36:47 +0000 UTC |
-| 0 | [go-book-crud](https://github.com/Jaz123-rgb/go-book-crud) |  | 2023-02-02 00:18:32 +0000 UTC |
-| 0 | [Go](https://github.com/anoban/Go) |  | 2023-02-02 00:09:14 +0000 UTC |
-| 0 | [twitter-util](https://github.com/Ukraine-DAO/twitter-util) | Library with an extra fuctions for poking Twitter API | 2023-02-02 00:37:28 +0000 UTC |
-| 0 | [shared-movie-playback-go](https://github.com/anthonyboutinov/shared-movie-playback-go) | A web-app concept that lets the visitors watch the same video in a shared state, with everybody being able to control play/pause/seek | 2023-02-02 01:07:30 +0000 UTC |
-| 0 | [go-rest-api](https://github.com/fabandalm/go-rest-api) |  | 2023-02-02 00:35:50 +0000 UTC |
-| 0 | [command](https://github.com/goodluckxu-go/command) | golang类似laravel的artisan的自定义命令生成工具 | 2023-02-02 00:49:19 +0000 UTC |
-| 0 | [cube](https://github.com/MaxwelMazur/cube) |  | 2023-02-02 00:38:48 +0000 UTC |
-| 0 | [Golang-Buffalo-FFMPEG](https://github.com/HenriqueBarucco/Golang-Buffalo-FFMPEG) |  | 2023-02-02 00:53:14 +0000 UTC |
-| 0 | [go-library-sample](https://github.com/dolthub/go-library-sample) | This is a sample C++ application showing how to embed a Go library into C/C++ | 2023-02-02 01:19:34 +0000 UTC |
-| 0 | [golang_timetravel](https://github.com/nickcoast/golang_timetravel) | golang experiment | 2023-02-02 00:16:50 +0000 UTC |
-| 0 | [DDoS-cli](https://github.com/lucas-code42/DDoS-cli) | Golang DDoS-cli | 2023-02-02 01:19:11 +0000 UTC |
-| 0 | [DORA01](https://github.com/MYFLiiX/DORA01) |  | 2023-02-02 00:35:37 +0000 UTC |
-| 0 | [album-control-hue](https://github.com/skykosiner/album-control-hue) |  | 2023-02-02 01:18:39 +0000 UTC |
-| 0 | [filesworks](https://github.com/mazol024/filesworks) |  | 2023-02-02 01:34:06 +0000 UTC |
-| 0 | [huffmancode](https://github.com/mamad-nik/huffmancode) |  | 2023-02-02 00:48:51 +0000 UTC |
-| 0 | [chess](https://github.com/padeir0/chess) | chess engine and ui | 2023-02-02 00:34:00 +0000 UTC |
-| 0 | [chatgptcli](https://github.com/MaxwelMazur/chatgptcli) |  | 2023-02-02 00:36:03 +0000 UTC |
-| 0 | [TestTask](https://github.com/an112chuh/TestTask) |  | 2023-02-02 00:59:00 +0000 UTC |
-| 0 | [go](https://github.com/ddenizerr/go) |  | 2023-02-02 01:22:12 +0000 UTC |
-| 0 | [testvaote](https://github.com/AdithyaKolla/testvaote) |  | 2023-02-02 00:42:16 +0000 UTC |
+| 1 | [cidr](https://github.com/btoll/cidr) |  | 2023-02-03 01:03:39 +0000 UTC |
+| 0 | [smart-calculator-go](https://github.com/oezg/smart-calculator-go) |  | 2023-02-03 00:41:15 +0000 UTC |
+| 0 | [server-http](https://github.com/jamillosantos/server-http) |  | 2023-02-03 00:14:00 +0000 UTC |
+| 0 | [time_api](https://github.com/emanuellers/time_api) | Code challenge from Udemy: REST based microservices API development in Golang Course | 2023-02-03 01:10:00 +0000 UTC |
+| 0 | [gqlgen-todos](https://github.com/kenta0603/gqlgen-todos) |  | 2023-02-03 00:54:10 +0000 UTC |
+| 0 | [Graphql-Social-Network](https://github.com/andru100/Graphql-Social-Network) |  | 2023-02-03 00:34:15 +0000 UTC |
+| 0 | [sse](https://github.com/crhntr/sse) | Server Sent Events utility | 2023-02-03 00:58:27 +0000 UTC |
+| 0 | [go-grpc-example](https://github.com/seungbohong94/go-grpc-example) |  | 2023-02-03 01:14:06 +0000 UTC |
+| 0 | [hexagonal-go](https://github.com/EdgardoArriagada/hexagonal-go) | me playing with hexagonal and go | 2023-02-03 01:34:34 +0000 UTC |
+| 0 | [gopkgs](https://github.com/thnt/gopkgs) |  | 2023-02-03 00:38:35 +0000 UTC |
+| 0 | [wx-robot](https://github.com/zach030/wx-robot) |  | 2023-02-03 00:55:52 +0000 UTC |
+| 0 | [minimal-errors](https://github.com/TheDSCPL/minimal-errors) | Proxy to std's errors package with extra functionality | 2023-02-03 00:25:07 +0000 UTC |
+| 0 | [go-serverless-api](https://github.com/Edigiraldo/go-serverless-api) |  | 2023-02-03 00:05:45 +0000 UTC |
+| 0 | [project4](https://github.com/gilliava/project4) |  | 2023-02-03 00:24:17 +0000 UTC |
+| 0 | [begginerGuideGo](https://github.com/ArmiKGG/begginerGuideGo) |  | 2023-02-03 00:49:52 +0000 UTC |
+| 0 | [go-hands-on](https://github.com/publiosilva/go-hands-on) |  | 2023-02-03 00:02:26 +0000 UTC |
+| 0 | [simplebank](https://github.com/TaylerD/simplebank) | Master class Golang part 1 | 2023-02-03 01:36:37 +0000 UTC |
+| 0 | [k8siinv](https://github.com/tcotav/k8siinv) | Inventory DB of container images running on your k8s Clusters | 2023-02-03 00:22:23 +0000 UTC |
+| 0 | [Test-ddns-go](https://github.com/WaterLemons2k/Test-ddns-go) |  | 2023-02-03 01:09:43 +0000 UTC |
+| 0 | [movieexample](https://github.com/luispinto23/movieexample) |  | 2023-02-03 01:00:09 +0000 UTC |
+| 0 | [MiniJVM](https://github.com/zkdlin211/MiniJVM) |  | 2023-02-03 00:39:10 +0000 UTC |
+| 0 | [syncmap](https://github.com/black-06/syncmap) | A genericized implementation of the Go sync.Map | 2023-02-03 01:25:36 +0000 UTC |
+| 0 | [tests-loafer-go](https://github.com/JustCodes/tests-loafer-go) |  | 2023-02-03 01:27:16 +0000 UTC |
+| 0 | [mgpusim](https://github.com/angel17n/mgpusim) |  | 2023-02-03 01:24:51 +0000 UTC |
+| 0 | [estudo-de-golang](https://github.com/vilmarap/estudo-de-golang) |  | 2023-02-03 00:07:43 +0000 UTC |
+| 0 | [harness-demo](https://github.com/aron71/harness-demo) |  | 2023-02-03 01:19:07 +0000 UTC |
+| 0 | [exemplos-go](https://github.com/fabrc/exemplos-go) |  | 2023-02-03 00:28:18 +0000 UTC |
+| 0 | [programWrapper](https://github.com/lrm25/programWrapper) | Program that wraps another program and captures its output for the purpose of testing | 2023-02-03 00:04:52 +0000 UTC |
+| 0 | [pipeline](https://github.com/TanukiSharp/pipeline) | A small pipeline library to simplify creation of concurrent processings | 2023-02-03 00:45:51 +0000 UTC |
+| 0 | [go-mongodb](https://github.com/hebobibun/go-mongodb) | golang with mongodb | 2023-02-03 00:51:30 +0000 UTC |
+| 0 | [TgRedditHotBot](https://github.com/asadzeynal/TgRedditHotBot) |  | 2023-02-03 00:32:10 +0000 UTC |
+| 0 | [user-registration](https://github.com/KapitalApp/user-registration) | User Registration service - Kapital | 2023-02-03 00:29:10 +0000 UTC |
+| 0 | [gitfs](https://github.com/gravypod/gitfs) | FUSE filesystem to mount git repos. | 2023-02-03 01:24:51 +0000 UTC |
+| 0 | [test-go](https://github.com/judennadi/test-go) |  | 2023-02-03 01:00:14 +0000 UTC |
+| 0 | [iomux](https://github.com/DanielThomas/iomux) | Unix Domain Sockets I/O multiplexing for Go | 2023-02-03 01:01:41 +0000 UTC |
 
