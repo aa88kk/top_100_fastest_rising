@@ -1,38 +1,38 @@
 | Stars | Name | Desc | Created | 
 | ----- | ------- | ------------- | ------------- |
-| 1 | [cidr](https://github.com/btoll/cidr) |  | 2023-02-03 01:03:39 +0000 UTC |
-| 0 | [smart-calculator-go](https://github.com/oezg/smart-calculator-go) |  | 2023-02-03 00:41:15 +0000 UTC |
-| 0 | [server-http](https://github.com/jamillosantos/server-http) |  | 2023-02-03 00:14:00 +0000 UTC |
-| 0 | [time_api](https://github.com/emanuellers/time_api) | Code challenge from Udemy: REST based microservices API development in Golang Course | 2023-02-03 01:10:00 +0000 UTC |
-| 0 | [gqlgen-todos](https://github.com/kenta0603/gqlgen-todos) |  | 2023-02-03 00:54:10 +0000 UTC |
-| 0 | [Graphql-Social-Network](https://github.com/andru100/Graphql-Social-Network) |  | 2023-02-03 00:34:15 +0000 UTC |
-| 0 | [sse](https://github.com/crhntr/sse) | Server Sent Events utility | 2023-02-03 00:58:27 +0000 UTC |
-| 0 | [go-grpc-example](https://github.com/seungbohong94/go-grpc-example) |  | 2023-02-03 01:14:06 +0000 UTC |
-| 0 | [hexagonal-go](https://github.com/EdgardoArriagada/hexagonal-go) | me playing with hexagonal and go | 2023-02-03 01:34:34 +0000 UTC |
-| 0 | [gopkgs](https://github.com/thnt/gopkgs) |  | 2023-02-03 00:38:35 +0000 UTC |
-| 0 | [wx-robot](https://github.com/zach030/wx-robot) |  | 2023-02-03 00:55:52 +0000 UTC |
-| 0 | [minimal-errors](https://github.com/TheDSCPL/minimal-errors) | Proxy to std's errors package with extra functionality | 2023-02-03 00:25:07 +0000 UTC |
-| 0 | [go-serverless-api](https://github.com/Edigiraldo/go-serverless-api) |  | 2023-02-03 00:05:45 +0000 UTC |
-| 0 | [project4](https://github.com/gilliava/project4) |  | 2023-02-03 00:24:17 +0000 UTC |
-| 0 | [begginerGuideGo](https://github.com/ArmiKGG/begginerGuideGo) |  | 2023-02-03 00:49:52 +0000 UTC |
-| 0 | [go-hands-on](https://github.com/publiosilva/go-hands-on) |  | 2023-02-03 00:02:26 +0000 UTC |
-| 0 | [simplebank](https://github.com/TaylerD/simplebank) | Master class Golang part 1 | 2023-02-03 01:36:37 +0000 UTC |
-| 0 | [k8siinv](https://github.com/tcotav/k8siinv) | Inventory DB of container images running on your k8s Clusters | 2023-02-03 00:22:23 +0000 UTC |
-| 0 | [Test-ddns-go](https://github.com/WaterLemons2k/Test-ddns-go) |  | 2023-02-03 01:09:43 +0000 UTC |
-| 0 | [movieexample](https://github.com/luispinto23/movieexample) |  | 2023-02-03 01:00:09 +0000 UTC |
-| 0 | [MiniJVM](https://github.com/zkdlin211/MiniJVM) |  | 2023-02-03 00:39:10 +0000 UTC |
-| 0 | [syncmap](https://github.com/black-06/syncmap) | A genericized implementation of the Go sync.Map | 2023-02-03 01:25:36 +0000 UTC |
-| 0 | [tests-loafer-go](https://github.com/JustCodes/tests-loafer-go) |  | 2023-02-03 01:27:16 +0000 UTC |
-| 0 | [mgpusim](https://github.com/angel17n/mgpusim) |  | 2023-02-03 01:24:51 +0000 UTC |
-| 0 | [estudo-de-golang](https://github.com/vilmarap/estudo-de-golang) |  | 2023-02-03 00:07:43 +0000 UTC |
-| 0 | [harness-demo](https://github.com/aron71/harness-demo) |  | 2023-02-03 01:19:07 +0000 UTC |
-| 0 | [exemplos-go](https://github.com/fabrc/exemplos-go) |  | 2023-02-03 00:28:18 +0000 UTC |
-| 0 | [programWrapper](https://github.com/lrm25/programWrapper) | Program that wraps another program and captures its output for the purpose of testing | 2023-02-03 00:04:52 +0000 UTC |
-| 0 | [pipeline](https://github.com/TanukiSharp/pipeline) | A small pipeline library to simplify creation of concurrent processings | 2023-02-03 00:45:51 +0000 UTC |
-| 0 | [go-mongodb](https://github.com/hebobibun/go-mongodb) | golang with mongodb | 2023-02-03 00:51:30 +0000 UTC |
-| 0 | [TgRedditHotBot](https://github.com/asadzeynal/TgRedditHotBot) |  | 2023-02-03 00:32:10 +0000 UTC |
-| 0 | [user-registration](https://github.com/KapitalApp/user-registration) | User Registration service - Kapital | 2023-02-03 00:29:10 +0000 UTC |
-| 0 | [gitfs](https://github.com/gravypod/gitfs) | FUSE filesystem to mount git repos. | 2023-02-03 01:24:51 +0000 UTC |
-| 0 | [test-go](https://github.com/judennadi/test-go) |  | 2023-02-03 01:00:14 +0000 UTC |
-| 0 | [iomux](https://github.com/DanielThomas/iomux) | Unix Domain Sockets I/O multiplexing for Go | 2023-02-03 01:01:41 +0000 UTC |
+| 3 | [imersao12-go-esquenta](https://github.com/devfullcycle/imersao12-go-esquenta) |  | 2023-02-04 00:42:48 +0000 UTC |
+| 2 | [myfiber-api](https://github.com/ivandi1980/myfiber-api) | REST API in Go with Fiber, Postgres, and GORM | 2023-02-04 00:33:27 +0000 UTC |
+| 1 | [proto-gen-md-diagrams](https://github.com/GoogleCloudPlatform/proto-gen-md-diagrams) | A utility for generating Markdown documentation for Protocol Buffers that include Mermaid UML Diagrams. | 2023-02-04 00:42:52 +0000 UTC |
+| 0 | [topprocs](https://github.com/mattbaron/topprocs) | Get metrics on interesting processes | 2023-02-04 00:35:14 +0000 UTC |
+| 0 | [Hello-World-GoLang](https://github.com/ursaturnine/Hello-World-GoLang) | Hello world function using GoLang | 2023-02-04 01:25:07 +0000 UTC |
+| 0 | [easycerte](https://github.com/MrE-Fog/easycerte) |  | 2023-02-04 00:10:19 +0000 UTC |
+| 0 | [ballot-cli](https://github.com/Mayoral13/ballot-cli) |  | 2023-02-04 00:11:50 +0000 UTC |
+| 0 | [hello-go](https://github.com/leah-crypto/hello-go) |  | 2023-02-04 01:22:14 +0000 UTC |
+| 0 | [go-clean-architecture](https://github.com/CSalih/go-clean-architecture) |  | 2023-02-04 00:59:52 +0000 UTC |
+| 0 | [mattermost-plugin-outlook](https://github.com/sinansonmez/mattermost-plugin-outlook) |  | 2023-02-04 00:11:23 +0000 UTC |
+| 0 | [pogi](https://github.com/Jushua123456/pogi) |  | 2023-02-04 00:25:06 +0000 UTC |
+| 0 | [yaml-reader](https://github.com/mphamid/yaml-reader) |  | 2023-02-04 00:35:47 +0000 UTC |
+| 0 | [go-build-example](https://github.com/EvertonTomalok/go-build-example) |  | 2023-02-04 00:34:19 +0000 UTC |
+| 0 | [netboxlib](https://github.com/scottlaird/netboxlib) |  | 2023-02-04 00:29:09 +0000 UTC |
+| 0 | [be-batch2](https://github.com/roamercodes/be-batch2) |  | 2023-02-04 01:13:11 +0000 UTC |
+| 0 | [TLDCheck](https://github.com/betillogalvanfbc/TLDCheck) |  | 2023-02-04 01:16:00 +0000 UTC |
+| 0 | [cve-2022-44268-detector](https://github.com/jnschaeffer/cve-2022-44268-detector) | Detect images that likely exploit CVE-2022-44268 | 2023-02-04 01:35:08 +0000 UTC |
+| 0 | [banking-system](https://github.com/Mayoral13/banking-system) |  | 2023-02-04 00:12:25 +0000 UTC |
+| 0 | [GoTrading](https://github.com/wvitzthum/GoTrading) |  | 2023-02-04 00:21:38 +0000 UTC |
+| 0 | [algorithm](https://github.com/baber115/algorithm) | go 算法 | 2023-02-04 01:02:18 +0000 UTC |
+| 0 | [go-dependency-injection](https://github.com/fahmiaz411/go-dependency-injection) |  | 2023-02-04 01:00:43 +0000 UTC |
+| 0 | [ingress-nginxx](https://github.com/MrE-Fog/ingress-nginxx) |  | 2023-02-04 01:10:41 +0000 UTC |
+| 0 | [go-jazz](https://github.com/data-programmer/go-jazz) |  | 2023-02-04 01:00:46 +0000 UTC |
+| 0 | [golang-tutor](https://github.com/juddbaguio/golang-tutor) |  | 2023-02-04 01:11:05 +0000 UTC |
+| 0 | [go-mailer](https://github.com/naufalihsan/go-mailer) |  | 2023-02-04 01:23:20 +0000 UTC |
+| 0 | [restAPI](https://github.com/TrishT201/restAPI) |  | 2023-02-04 01:01:09 +0000 UTC |
+| 0 | [bank-system-api](https://github.com/Mayoral13/bank-system-api) |  | 2023-02-04 00:12:56 +0000 UTC |
+| 0 | [fullcycle_ci](https://github.com/pedrodalvy/fullcycle_ci) |  | 2023-02-04 01:07:12 +0000 UTC |
+| 0 | [terraform-provider-issue644](https://github.com/chrismarget/terraform-provider-issue644) |  | 2023-02-04 00:36:57 +0000 UTC |
+| 0 | [localvm](https://github.com/phanikumarps/localvm) | localvm | 2023-02-04 00:42:41 +0000 UTC |
+| 0 | [porter](https://github.com/MrE-Fog/porter) |  | 2023-02-04 01:17:11 +0000 UTC |
+| 0 | [go-projects](https://github.com/patrickjburke245/go-projects) | Learning Go | 2023-02-04 01:35:27 +0000 UTC |
+| 0 | [snake-go](https://github.com/jno3/snake-go) | made a snake game while learning GO!! | 2023-02-04 00:19:58 +0000 UTC |
+| 0 | [notion-data-visualization](https://github.com/Andryyyha/notion-data-visualization) |  | 2023-02-04 00:26:07 +0000 UTC |
+| 0 | [noughts-and-crosses](https://github.com/hyphengolang/noughts-and-crosses) | Multiplayer noughts and crosses web application | 2023-02-04 00:39:06 +0000 UTC |
 
