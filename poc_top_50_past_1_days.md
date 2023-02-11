@@ -1,103 +1,103 @@
 | Stars | Name | Desc | Created | 
 | ----- | ------- | ------------- | ------------- |
-| 2 | [css-teste](https://github.com/LuccaLeonard/css-teste) |  | 2023-02-10 00:24:57 +0000 UTC |
-| 2 | [Trabalho-MVC-Agendamento](https://github.com/GersonBonetti/Trabalho-MVC-Agendamento) |  | 2023-02-10 00:44:39 +0000 UTC |
-| 2 | [always](https://github.com/wooonu/always) |  | 2023-02-10 00:39:24 +0000 UTC |
-| 2 | [rpg-em-python](https://github.com/LuccaLeonard/rpg-em-python) |  | 2023-02-10 00:17:24 +0000 UTC |
-| 2 | [nutricionista](https://github.com/guido-warken/nutricionista) | Este projeto serve para que possamos aprender a manipular o DOM com javascript. | 2023-02-10 00:03:55 +0000 UTC |
-| 2 | [Third-Project](https://github.com/Nwsheats/Third-Project) |  | 2023-02-10 00:57:41 +0000 UTC |
-| 2 | [THE-ADVENTURES-OF-B-DOG](https://github.com/the1guywhoisaguy/THE-ADVENTURES-OF-B-DOG) | THE ADVENTURES OF B DOG | 2023-02-10 00:20:59 +0000 UTC |
-| 1 | [SAR_ADC](https://github.com/andylithia/SAR_ADC) |  | 2023-02-10 00:07:06 +0000 UTC |
-| 1 | [portifoliook](https://github.com/heloisa-simoes/portifoliook) |  | 2023-02-10 00:01:37 +0000 UTC |
-| 1 | [dio-desafio-github-primeiro-repositorio](https://github.com/Guerrer26/dio-desafio-github-primeiro-repositorio) |  | 2023-02-10 00:01:34 +0000 UTC |
-| 1 | [Social_Network_API](https://github.com/MartinCespedes/Social_Network_API) | Module 18 Challenge, NoSQL, MongoDB, Mongoose, | 2023-02-10 00:39:22 +0000 UTC |
-| 1 | [talker-manager](https://github.com/RiicardoGabriel/talker-manager) | Projeto introdutório sobre o mysql, nele aprendi mais sobre middlewares de erros e status code de API's | 2023-02-10 00:44:15 +0000 UTC |
-| 1 | [spectrumanalyzer](https://github.com/Bl00dvault/spectrumanalyzer) | A simulated spectrum analyzer written in python | 2023-02-10 00:41:09 +0000 UTC |
-| 1 | [Tabmax-Website-Leaked-By-Xix409](https://github.com/Xix409/Tabmax-Website-Leaked-By-Xix409) |  | 2023-02-10 00:33:43 +0000 UTC |
-| 1 | [kube-app](https://github.com/SreekuttanCL/kube-app) |  | 2023-02-10 00:01:30 +0000 UTC |
-| 1 | [recetario](https://github.com/johabeltran88/recetario) |  | 2023-02-10 00:45:58 +0000 UTC |
-| 1 | [Landing-Page---Balle-Bot](https://github.com/lucasgiavaroti/Landing-Page---Balle-Bot) |  | 2023-02-10 01:37:53 +0000 UTC |
-| 1 | [my-react-app-intro-frontend-20](https://github.com/donCelis/my-react-app-intro-frontend-20) |  | 2023-02-10 00:33:52 +0000 UTC |
-| 1 | [Sales-Web-MVC](https://github.com/rodquaresma/Sales-Web-MVC) |  | 2023-02-10 00:10:37 +0000 UTC |
-| 1 | [AI-Music-Project3](https://github.com/MythicalNinjaDeezNuts/AI-Music-Project3) |  | 2023-02-10 00:01:36 +0000 UTC |
-| 1 | [93_14820](https://github.com/uuid2com94/93_14820) | 闯关格斗游戏 空手道格斗 | 2023-02-10 00:01:23 +0000 UTC |
-| 1 | [CSCI561_AI](https://github.com/AFEI20103511/CSCI561_AI) | USC CS 561 Courseworks | 2023-02-10 00:47:06 +0000 UTC |
-| 1 | [crud-dynamodb](https://github.com/afnarqui/crud-dynamodb) | Clean code, Clean Architecture aws with serverless | 2023-02-10 00:01:25 +0000 UTC |
-| 1 | [cursoscareca](https://github.com/Viniciusmq25/cursoscareca) |  | 2023-02-10 00:01:32 +0000 UTC |
-| 1 | [SILENT-PDF-EXPLOIT-CLEAN-bt](https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-bt) |  | 2023-02-10 00:04:33 +0000 UTC |
-| 1 | [git-repo](https://github.com/AumApichat/git-repo) |  | 2023-02-10 00:39:29 +0000 UTC |
-| 1 | [web-development](https://github.com/jmninja/web-development) |  | 2023-02-10 00:48:29 +0000 UTC |
-| 1 | [Homework7](https://github.com/OlgaStul/Homework7) |  | 2023-02-10 01:00:20 +0000 UTC |
-| 1 | [13_14897](https://github.com/uuid2com94/13_14897) | 《咒语力量3：陨落神明》v20201111 | 2023-02-10 01:04:19 +0000 UTC |
-| 1 | [PublicELMO](https://github.com/finnoshea/PublicELMO) | Public Version of ELM-O | 2023-02-10 01:02:03 +0000 UTC |
-| 1 | [store-manager](https://github.com/RiicardoGabriel/store-manager) | Projeto back-end que simula o gerenciamento de uma loja, usei: JavaScript, Node, Express, MySQL, joi, nodemon, dotenv | 2023-02-10 00:40:44 +0000 UTC |
-| 1 | [Olympus-E_commerce](https://github.com/HyperH29/Olympus-E_commerce) | Fictitious shopping site | 2023-02-10 00:47:17 +0000 UTC |
-| 1 | [Data-Science-Studies-and-Projects](https://github.com/EduNivinski/Data-Science-Studies-and-Projects) | All Data Science Studies files and projects | 2023-02-10 00:00:28 +0000 UTC |
-| 1 | [DesafioAndroid](https://github.com/mariaclarafreitaz/DesafioAndroid) |  | 2023-02-10 00:31:43 +0000 UTC |
-| 1 | [QAP1-DB](https://github.com/Jthomas227/QAP1-DB) | Basic Aircraft Database | 2023-02-10 01:04:34 +0000 UTC |
-| 1 | [laravel-crud](https://github.com/shudhamsu1/laravel-crud) |  | 2023-02-10 01:04:34 +0000 UTC |
-| 1 | [Exerc-cios-L-gica-C-6-](https://github.com/M4rcondess/Exerc-cios-L-gica-C-6-) |  | 2023-02-10 01:03:24 +0000 UTC |
-| 1 | [Clash-of-Code-Private-Replay](https://github.com/arthur-pte/Clash-of-Code-Private-Replay) | A web browser extension that adds a button to restart private games of Clash of Code (codingame.com). | 2023-02-10 01:04:57 +0000 UTC |
-| 1 | [Project_1](https://github.com/ThorDimas/Project_1) | Repository for Project One | 2023-02-10 01:06:58 +0000 UTC |
-| 1 | [first-todo-app](https://github.com/Pos3idon05/first-todo-app) |  | 2023-02-10 00:01:29 +0000 UTC |
-| 1 | [pokedex](https://github.com/JuniorSantos05/pokedex) |  | 2023-02-10 00:00:12 +0000 UTC |
-| 1 | [ok](https://github.com/Henriquecom/ok) | Normal | 2023-02-10 00:18:22 +0000 UTC |
-| 1 | [collab](https://github.com/themancalledzac/collab) |  | 2023-02-10 00:34:53 +0000 UTC |
-| 1 | [Maven-Test](https://github.com/Rezreh/Maven-Test) |  | 2023-02-10 00:39:12 +0000 UTC |
-| 1 | [36_10143](https://github.com/uuid2com93/36_10143) | 通用功能模块:中秋博饼V4.1.5 开源版 | 2023-02-10 00:39:33 +0000 UTC |
-| 1 | [docker-todo-list](https://github.com/RiicardoGabriel/docker-todo-list) | Neste projeto aprendi as principais queries docker, criação do arquivo docker-compose, docker-file. | 2023-02-10 00:48:03 +0000 UTC |
-| 1 | [budgetTracker](https://github.com/Nisharrk/budgetTracker) |  | 2023-02-10 00:15:43 +0000 UTC |
-| 1 | [serv](https://github.com/mindflix/serv) | Serveur en C | 2023-02-10 01:17:04 +0000 UTC |
-| 1 | [Projeto_Final_POOO_](https://github.com/mattes744/Projeto_Final_POOO_) |  | 2023-02-10 00:01:23 +0000 UTC |
-| 1 | [eigen3](https://github.com/AngelA01253832/eigen3) |  | 2023-02-10 00:38:03 +0000 UTC |
-| 1 | [proyecto-72](https://github.com/Alelasaurus/proyecto-72) |  | 2023-02-10 00:47:07 +0000 UTC |
-| 1 | [portifolio](https://github.com/peterson-ian/portifolio) | Meu portfolio | 2023-02-10 00:39:23 +0000 UTC |
-| 1 | [aws-api-gateway](https://github.com/ojuliomiguel/aws-api-gateway) |  | 2023-02-10 00:49:21 +0000 UTC |
-| 1 | [notreadme](https://github.com/johannmieles/notreadme) |  | 2023-02-10 01:04:32 +0000 UTC |
-| 1 | [123](https://github.com/PuxliyMishka/123) |  | 2023-02-10 00:55:06 +0000 UTC |
-| 1 | [Recipe-App](https://github.com/IslamElhadidy/Recipe-App) | Recipe-App (JS) | 2023-02-10 01:11:58 +0000 UTC |
-| 1 | [BlurImportExport](https://github.com/TimberStalker/BlurImportExport) |  | 2023-02-10 01:37:45 +0000 UTC |
-| 1 | [project-bazar](https://github.com/pSakowski/project-bazar) |  | 2023-02-10 00:01:28 +0000 UTC |
-| 1 | [BruteForceMetcalf](https://github.com/mattmetcalf059/BruteForceMetcalf) | Project Assignment  | 2023-02-10 00:39:23 +0000 UTC |
-| 1 | [raku-Slang-Otherwise](https://github.com/0racle/raku-Slang-Otherwise) | Slang::Otherwise - Slang to add 'otherwise' block to 'for' loops | 2023-02-10 00:21:38 +0000 UTC |
-| 1 | [Tabmax-menu-and-sentinel-menu-UI-Leak](https://github.com/Xix409/Tabmax-menu-and-sentinel-menu-UI-Leak) |  | 2023-02-10 00:45:44 +0000 UTC |
-| 1 | [HRNetworkGo](https://github.com/jaceg18/HRNetworkGo) |  | 2023-02-10 00:08:48 +0000 UTC |
-| 1 | [smart-home](https://github.com/mindflix/smart-home) | React App for smart home | 2023-02-10 01:14:18 +0000 UTC |
-| 1 | [desafio-go](https://github.com/filipefranz/desafio-go) |  | 2023-02-10 00:42:54 +0000 UTC |
-| 1 | [coding-assignments](https://github.com/btoaelbore/coding-assignments) |  | 2023-02-10 00:21:07 +0000 UTC |
-| 1 | [SLOT-D-PYTHON-192211689](https://github.com/Sakthivel1105/SLOT-D-PYTHON-192211689) | PYTHON PRACTICAL PROGRAMS | 2023-02-10 00:01:22 +0000 UTC |
-| 1 | [Math_Class_3D](https://github.com/KanbaraRyusei/Math_Class_3D) |  | 2023-02-10 00:37:02 +0000 UTC |
-| 1 | [po-elite](https://github.com/6rilique/po-elite) |  | 2023-02-10 00:47:14 +0000 UTC |
-| 1 | [Embers](https://github.com/gaminglemonss/Embers) | Game coded in PJS, and using ski.js to transfer into HTML environment | 2023-02-10 00:05:37 +0000 UTC |
-| 1 | [Trident](https://github.com/Hartman5/Trident) | Easy to deploy application for making discord chatbots, and chat based tools. | 2023-02-10 01:04:30 +0000 UTC |
-| 1 | [UX_UI_HW_4](https://github.com/jwoliver91/UX_UI_HW_4) |  | 2023-02-10 00:01:36 +0000 UTC |
-| 1 | [projeto-cordel](https://github.com/joaovict18/projeto-cordel) | Projeto de um site feito em HTML e CSS com efeito Parallax | 2023-02-10 00:06:43 +0000 UTC |
-| 1 | [portf-lio-LazaroMachava](https://github.com/Lazaromachava01/portf-lio-LazaroMachava) | Meu primeiro website. Portfólio 2023 | 2023-02-10 00:01:26 +0000 UTC |
-| 1 | [Terraform-Estudos](https://github.com/fabioafreitas/Terraform-Estudos) |  | 2023-02-10 00:01:18 +0000 UTC |
-| 1 | [Chat-App](https://github.com/ramon-salau/Chat-App) | A real-time chat application using ASP.Net Web API, WPF & SignalR. Available for Web and Desktop | 2023-02-10 00:45:42 +0000 UTC |
-| 1 | [Tela_Login_Interativa](https://github.com/JonaThFelix/Tela_Login_Interativa) | Utilizando HTML e explorando as animações do CSS | 2023-02-10 00:57:38 +0000 UTC |
-| 1 | [hanami-phlex-test-idea](https://github.com/konung/hanami-phlex-test-idea) | Just a simple Hanami 2 app to try out Phlex. Simply to test-idea | 2023-02-10 00:39:31 +0000 UTC |
-| 1 | [sparrow](https://github.com/io-jonathanlee/sparrow) | Sparrow food delivery application | 2023-02-10 01:04:31 +0000 UTC |
-| 1 | [jenkinsstudy](https://github.com/haydersaad/jenkinsstudy) |  | 2023-02-10 00:37:16 +0000 UTC |
-| 1 | [Grand-Central-Dispatch-Swift](https://github.com/pozitr0n/Grand-Central-Dispatch-Swift) | Grand Central Dispatch test project created using Swift. | 2023-02-10 00:07:10 +0000 UTC |
-| 1 | [22-23_ASIX1_UF1-A10_TurismeLocal_AlcazarEric2](https://github.com/Escalopedo/22-23_ASIX1_UF1-A10_TurismeLocal_AlcazarEric2) |  | 2023-02-10 00:39:31 +0000 UTC |
-| 1 | [alx_system_engineering_devops](https://github.com/Nyamburahh/alx_system_engineering_devops) |  | 2023-02-10 00:01:27 +0000 UTC |
-| 1 | [mariaclarafreitaz](https://github.com/mariaclarafreitaz/mariaclarafreitaz) |  | 2023-02-10 00:15:06 +0000 UTC |
-| 1 | [60_5146](https://github.com/uuid2com92/60_5146) | 响应式家庭装修企业通用织梦模板(自适应设备)+PC+移动端+利于SEO | 2023-02-10 01:04:25 +0000 UTC |
-| 1 | [sonDepremler_guncel_flutter](https://github.com/furkancan2107/sonDepremler_guncel_flutter) |  | 2023-02-10 01:25:40 +0000 UTC |
-| 1 | [iT_daconcept.github.io](https://github.com/logs94/iT_daconcept.github.io) | PORTFOLIO | 2023-02-10 00:37:20 +0000 UTC |
-| 1 | [API-REST](https://github.com/waytogold17/API-REST) | projet mettant en valeur le CRUD (Create ,Read,Update,Read) avec une api utilisant l'architecture rest et postman | 2023-02-10 00:01:24 +0000 UTC |
-| 1 | [sinsetu-teiga.github.io](https://github.com/sinsetu11teiga/sinsetu-teiga.github.io) |  | 2023-02-10 01:10:32 +0000 UTC |
-| 1 | [meu-primeiro-repo](https://github.com/joaosuzxn/meu-primeiro-repo) | Meu primeiro repositorio | 2023-02-10 00:01:30 +0000 UTC |
-| 1 | [starpro](https://github.com/starpro9/starpro) |  | 2023-02-10 01:04:39 +0000 UTC |
-| 1 | [BlurFileEditor](https://github.com/TimberStalker/BlurFileEditor) |  | 2023-02-10 01:32:10 +0000 UTC |
-| 1 | [15_10077](https://github.com/uuid2com93/15_10077) | 通用功能模块:柚子便利店V1.2.6 小程序前端+后端 | 2023-02-10 00:01:13 +0000 UTC |
-| 1 | [Exam_nouveau_exam](https://github.com/Samuelsam07/Exam_nouveau_exam) |  | 2023-02-10 00:01:29 +0000 UTC |
-| 1 | [html_css_js_game_web](https://github.com/Sengkue/html_css_js_game_web) |  | 2023-02-10 00:24:28 +0000 UTC |
-| 1 | [Responsive-Menu-For-Web](https://github.com/MatiasSilvestri/Responsive-Menu-For-Web) | Un Menu responsive para ahorrar tiempo escriviendo el codigo y los stilos | 2023-02-10 00:30:58 +0000 UTC |
-| 1 | [car-shop](https://github.com/RiicardoGabriel/car-shop) | Neste projeto utilizei node, express, dotenv, typescript, mongoDB, mongoose (ODM) | 2023-02-10 00:31:48 +0000 UTC |
-| 1 | [Numerical-Analysis-Using-Fortran](https://github.com/ArturoCaste/Numerical-Analysis-Using-Fortran) |  | 2023-02-10 00:01:10 +0000 UTC |
-| 1 | [Pensamento-Computacional-1-A-2023](https://github.com/jorgejessica01/Pensamento-Computacional-1-A-2023) |  | 2023-02-10 00:31:42 +0000 UTC |
-| 1 | [cursoprodj](https://github.com/gerez18/cursoprodj) | repositorio de ejemplo para curso profesional django3 | 2023-02-10 00:18:52 +0000 UTC |
-| 1 | [MusicPro](https://github.com/joabustamantec/MusicPro) | Proyecto de aprendizaje con el objetivo de lograr la integración de plataforma Java escritorio e Ionic web con una base de datos Oracle database developer | 2023-02-10 00:44:40 +0000 UTC |
+| 2 | [ABPPM](https://github.com/b43g/ABPPM) | A Better Python Package Manager | 2023-02-11 00:13:57 +0000 UTC |
+| 2 | [feature-invariant-learning](https://github.com/oh-yu/feature-invariant-learning) |  | 2023-02-11 01:19:31 +0000 UTC |
+| 2 | [FNF-KysikiEngine](https://github.com/LilDrippyMyFnf/FNF-KysikiEngine) | bean chilin!!! | 2023-02-11 00:10:03 +0000 UTC |
+| 1 | [bitcoinminer](https://github.com/cedric144/bitcoinminer) |  | 2023-02-11 00:08:59 +0000 UTC |
+| 1 | [projetoLanchonete](https://github.com/eduardo-assimo/projetoLanchonete) | exercicio projetoLanchonete | 2023-02-11 00:29:39 +0000 UTC |
+| 1 | [QRCODE](https://github.com/Birones22/QRCODE) | Primeiro Projeto HTML CSS | 2023-02-11 00:39:47 +0000 UTC |
+| 1 | [fluffy-winner](https://github.com/DuckMob/fluffy-winner) |  | 2023-02-11 00:36:32 +0000 UTC |
+| 1 | [100-Days-JavaScript](https://github.com/blackbonezz/100-Days-JavaScript) |  | 2023-02-11 00:54:29 +0000 UTC |
+| 1 | [portfolio](https://github.com/nvhung2711/portfolio) |  | 2023-02-11 01:14:58 +0000 UTC |
+| 1 | [To-Do-List](https://github.com/mohamed762000/To-Do-List) | A project To List is a tool that helps individuals keep track of tasks and activities that they need to complete. To use a to-do list, the individual adds tasks as soon as they appear and updates the list as they are completed. | 2023-02-11 01:05:39 +0000 UTC |
+| 1 | [Bird-AK112](https://github.com/Dan10110/Bird-AK112) |  | 2023-02-11 00:54:22 +0000 UTC |
+| 1 | [picture](https://github.com/leiliusi/picture) |  | 2023-02-11 01:19:38 +0000 UTC |
+| 1 | [about-me](https://github.com/InayaNoorKhan/about-me) |  | 2023-02-11 01:09:55 +0000 UTC |
+| 1 | [django_todo](https://github.com/cookingbetter/django_todo) |  | 2023-02-11 00:38:05 +0000 UTC |
+| 1 | [nlw_explorer_habits](https://github.com/AndrePaulino/nlw_explorer_habits) |  | 2023-02-11 00:39:38 +0000 UTC |
+| 1 | [courses](https://github.com/capitain20/courses) |  | 2023-02-11 00:53:42 +0000 UTC |
+| 1 | [mysqldb02](https://github.com/fculibao/mysqldb02) |  | 2023-02-11 01:19:32 +0000 UTC |
+| 1 | [GPT-3](https://github.com/Gaita1083/GPT-3) |  | 2023-02-11 01:15:56 +0000 UTC |
+| 1 | [Head_Space](https://github.com/joeythornberry/Head_Space) |  | 2023-02-11 01:19:26 +0000 UTC |
+| 1 | [yudao-ui-go-view](https://github.com/yudaocode/yudao-ui-go-view) | 芋道 🏆 GoView 是一个 Vue3 搭建的低代码数据可视化开发平台，将图表或页面元素封装为基础组件，无需编写代码即可完成业务需求。 它的技术栈为：Vue3 + TypeScript4 + Vite2 + NaiveUI + ECharts5 + Axios + Pinia2 + PlopJS | 2023-02-11 01:21:58 +0000 UTC |
+| 1 | [OnceYouExperienceARealRelationshipWithSomeone_YouRealizeHowScrewedUpThisWholeThingIs](https://github.com/swajid/OnceYouExperienceARealRelationshipWithSomeone_YouRealizeHowScrewedUpThisWholeThingIs) |  | 2023-02-11 01:36:35 +0000 UTC |
+| 1 | [Restaurant-Reservations](https://github.com/EricHBluhm/Restaurant-Reservations) |  | 2023-02-11 00:39:32 +0000 UTC |
+| 1 | [ImNotEngagedYET_ButHesTalkedToMyFamilyAboutItAndWeGetAlongReallyWell](https://github.com/swajid/ImNotEngagedYET_ButHesTalkedToMyFamilyAboutItAndWeGetAlongReallyWell) |  | 2023-02-11 01:30:46 +0000 UTC |
+| 1 | [auto-green](https://github.com/hunghg255/auto-green) |  | 2023-02-11 01:35:17 +0000 UTC |
+| 1 | [zero_day](https://github.com/imbirudalton/zero_day) | This is my first repository as a full-stack engineer | 2023-02-11 00:39:43 +0000 UTC |
+| 1 | [Aula_Django](https://github.com/BWartchow/Aula_Django) |  | 2023-02-11 00:39:18 +0000 UTC |
+| 1 | [-IPC1-1S2023_Practica1_201701010](https://github.com/Bryanthr/-IPC1-1S2023_Practica1_201701010) |  | 2023-02-11 00:13:08 +0000 UTC |
+| 1 | [SILENT-PDF-EXPLOIT-CLEAN-hg](https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-hg) |  | 2023-02-11 00:01:36 +0000 UTC |
+| 1 | [Weather-Extension](https://github.com/muki01/Weather-Extension) | Weather Extension for browsers | 2023-02-11 00:41:17 +0000 UTC |
+| 1 | [hoc](https://github.com/Nhuhoc113/hoc) | hi | 2023-02-11 01:08:26 +0000 UTC |
+| 1 | [ponrat-Kunrat-](https://github.com/Ponratciti/ponrat-Kunrat-) | แบบพิมพ์ ต้นฉบับ ของ โลก | 2023-02-11 01:19:04 +0000 UTC |
+| 1 | [Project0](https://github.com/Pallada1985/Project0) |  | 2023-02-11 00:02:38 +0000 UTC |
+| 1 | [oreanger](https://github.com/Oweanmaek/oreanger) |  | 2023-02-11 00:14:02 +0000 UTC |
+| 1 | [sohnosdesarrollosinmobiliarios](https://github.com/Samuelprograms/sohnosdesarrollosinmobiliarios) |  | 2023-02-11 00:39:39 +0000 UTC |
+| 1 | [CompanyPersonel](https://github.com/SabitUnsur/CompanyPersonel) | MVC Project-2 | 2023-02-11 00:06:15 +0000 UTC |
+| 1 | [Jailbreak-hack](https://github.com/Ilikedogslol3/Jailbreak-hack) | jailbreak hack for roblox.  Roblox exploit. 5M cash in 10 min. | 2023-02-11 01:13:12 +0000 UTC |
+| 1 | [CanadarmIK](https://github.com/sam25544/CanadarmIK) | Prototype inverse kinematics system for Canadarm in KSP. | 2023-02-11 00:29:55 +0000 UTC |
+| 1 | [personage-website](https://github.com/kunisstrong/personage-website) |  | 2023-02-11 00:06:49 +0000 UTC |
+| 1 | [SILENT-EXCEL-XLS-EXPLOIT-CLEAN-hg](https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-hg) |  | 2023-02-11 00:02:47 +0000 UTC |
+| 1 | [zero_day](https://github.com/ZIDANIOMAYMA/zero_day) | This is my first repository as a full-stack engineer | 2023-02-11 00:39:41 +0000 UTC |
+| 1 | [new-Admin_x](https://github.com/troycla/new-Admin_x) | 24525225244525225254225425245 | 2023-02-11 00:39:45 +0000 UTC |
+| 1 | [Wallet-balance-check](https://github.com/xkaktyzx1/Wallet-balance-check) |  | 2023-02-11 00:43:35 +0000 UTC |
+| 1 | [ticketmaster](https://github.com/thejoshtaylor/ticketmaster) | This is a bug tracker/ticket master system | 2023-02-11 00:32:04 +0000 UTC |
+| 1 | [Python-Pandas-Final](https://github.com/RafaelALMS/Python-Pandas-Final) | Esse e o repositorio da extencao Python Pandas | 2023-02-11 00:29:49 +0000 UTC |
+| 1 | [anstagram_mern_stack](https://github.com/pro-soichiro/anstagram_mern_stack) |  | 2023-02-11 01:24:26 +0000 UTC |
+| 1 | [Bank-Predictive-Machine-Learning-Model](https://github.com/YamanAlBochi/Bank-Predictive-Machine-Learning-Model) | A Bank wants to make use of machine learning to assess the creditworthiness of an applicant by implementing a model that will predict if the potential borrower will default on his/her loan or not, and do this such that they receive a response immediately after completing their application. | 2023-02-11 00:11:17 +0000 UTC |
+| 1 | [middlewares](https://github.com/mgrex97/middlewares) |  | 2023-02-11 01:19:31 +0000 UTC |
+| 1 | [IfAnythingActuallyHappensWithThis_TheresStillALongWayToGo](https://github.com/swajid/IfAnythingActuallyHappensWithThis_TheresStillALongWayToGo) |  | 2023-02-11 01:33:50 +0000 UTC |
+| 1 | [Quan_ly_covid_nhom_6](https://github.com/Tranbachhh/Quan_ly_covid_nhom_6) |  | 2023-02-11 00:47:03 +0000 UTC |
+| 1 | [Amjad](https://github.com/Amjadiza/Amjad) | English language - translating | 2023-02-11 00:30:57 +0000 UTC |
+| 1 | [Dolceria](https://github.com/ElielClementino/Dolceria) |  | 2023-02-11 01:15:02 +0000 UTC |
+| 1 | [portfolio](https://github.com/Zovira/portfolio) | Welcome to my coding portfolio! I showcase my skills in software development through a collection of projects, demonstrating proficiency in HTML, CSS, JavaScript, and C++. I am dedicated to constantly improving and expanding my skillset. Each project reflects my passion for coding and commitment to delivering high-quality, user-friendly products. | 2023-02-11 00:57:27 +0000 UTC |
+| 1 | [AnotherThing_IWroteWhatIWroteALittleQuicklyMainlyBCIWantYouToMoveOnBCThisIsntGoingAnywhere](https://github.com/swajid/AnotherThing_IWroteWhatIWroteALittleQuicklyMainlyBCIWantYouToMoveOnBCThisIsntGoingAnywhere) |  | 2023-02-11 01:30:07 +0000 UTC |
+| 1 | [mango](https://github.com/aphix-dev/mango) | an extensive mongodb schema validator featuring struct tags | 2023-02-11 01:16:10 +0000 UTC |
+| 1 | [h2-survival-mod-sChinese-localization](https://github.com/Animuses/h2-survival-mod-sChinese-localization) | A simplified chinese translation and bug fix mod for h2-survival-mod, which is a mod ported MW3 survival mode to MW2CR | 2023-02-11 00:21:52 +0000 UTC |
+| 1 | [osdev](https://github.com/emm218/osdev) | rust kernel 2 the electric boogaloo | 2023-02-11 00:09:52 +0000 UTC |
+| 1 | [Guess-the-Number-Game](https://github.com/mohamed762000/Guess-the-Number-Game) | Guess the Number Game is a classic number game where a secret random number from 1 to 100 is generated each time, and the player tries to guess the number.  The guessing player will then make a series of guesses of the secret number and will be given hints in response to each guess, such as "too high" or "too low". | 2023-02-11 00:16:28 +0000 UTC |
+| 1 | [Computational-Physics-II](https://github.com/arapineda/Computational-Physics-II) | Projects done during the Computational Physics II course | 2023-02-11 00:59:50 +0000 UTC |
+| 1 | [Automatismos-Arduino](https://github.com/arapineda/Automatismos-Arduino) | Projectos del laboratorio de Automatismos Lógicos usando Arduino | 2023-02-11 01:18:29 +0000 UTC |
+| 1 | [cvwebsitejep](https://github.com/JepSensei/cvwebsitejep) |  | 2023-02-11 01:15:21 +0000 UTC |
+| 1 | [NLP_Brand_MeasureProject](https://github.com/ckc1108/NLP_Brand_MeasureProject) |  | 2023-02-11 00:08:12 +0000 UTC |
+| 1 | [parking-sb](https://github.com/E-AND-L/parking-sb) | EST Api created with Spring Boot, PostgreSQL, 1 stars and 0 forks. | 2023-02-11 01:17:58 +0000 UTC |
+| 1 | [flask-ip-app](https://github.com/Kxpi/flask-ip-app) | Web app designed to return an IP address of requesting client. Dockerized and ready for deployment on Kubernetes or Openshift. | 2023-02-11 00:39:36 +0000 UTC |
+| 1 | [exercicio](https://github.com/Renato-Front-Teixeira/exercicio) | estudos html5 e css3 cursoemvideo | 2023-02-11 00:19:45 +0000 UTC |
+| 1 | [Ol-Bem-vinda-o-ao-meu-perfil](https://github.com/Cam1ss/Ol-Bem-vinda-o-ao-meu-perfil) | - 👩🏽‍💻Estudando Java & Javascript | 2023-02-11 00:35:49 +0000 UTC |
+| 1 | [Java_Algorithm](https://github.com/Heo-Tae-Min/Java_Algorithm) | 자바 알고리즘 공부 내용입니다. | 2023-02-11 01:19:41 +0000 UTC |
+| 1 | [Linux-Core-Skills](https://github.com/zorag0n/Linux-Core-Skills) |  | 2023-02-11 01:19:32 +0000 UTC |
+| 1 | [govm](https://github.com/golang-vm/govm) | Golang VM | 2023-02-11 00:11:19 +0000 UTC |
+| 1 | [github-user-search-app](https://github.com/thusmiley/github-user-search-app) |  | 2023-02-11 00:39:35 +0000 UTC |
+| 1 | [TII-Infrared](https://github.com/anishfish2/TII-Infrared) | Github for TII Infrared Challenge | 2023-02-11 00:20:35 +0000 UTC |
+| 1 | [Hacklytics](https://github.com/NathanDuggal/Hacklytics) |  | 2023-02-11 00:39:38 +0000 UTC |
+| 1 | [oi](https://github.com/biellil/oi) |  | 2023-02-11 00:51:18 +0000 UTC |
+| 1 | [Weather-App](https://github.com/OnyekauzO/Weather-App) | Simple weather application that shows temperature and allows users to search for other cities | 2023-02-11 00:58:17 +0000 UTC |
+| 1 | [WiiU-Tools-Cheats](https://github.com/YutixQ/WiiU-Tools-Cheats) |  | 2023-02-11 00:29:20 +0000 UTC |
+| 1 | [zero_day](https://github.com/Pacific1990/zero_day) | This is my first repository as a full-stack engineer | 2023-02-11 00:19:44 +0000 UTC |
+| 1 | [AnimeKu](https://github.com/GreaTrend/AnimeKu) |  | 2023-02-11 00:39:41 +0000 UTC |
+| 1 | [calendarAppBackend](https://github.com/lumartinezz/calendarAppBackend) |  | 2023-02-11 00:39:38 +0000 UTC |
+| 1 | [YouTube-Clone](https://github.com/nathanduran1/YouTube-Clone) |  | 2023-02-11 00:32:15 +0000 UTC |
+| 1 | [PythonLinearRegression](https://github.com/FJay81/PythonLinearRegression) |  | 2023-02-11 00:08:05 +0000 UTC |
+| 1 | [preEntrega3audisioJs](https://github.com/feraudisio/preEntrega3audisioJs) | PreEntrega3AudisioJavaScript | 2023-02-11 01:19:40 +0000 UTC |
+| 1 | [MyHTMLProject](https://github.com/serapkeles/MyHTMLProject) |  | 2023-02-11 01:19:42 +0000 UTC |
+| 1 | [BDCC-Hoang-Electric](https://github.com/Choang707/BDCC-Hoang-Electric) |  | 2023-02-11 01:17:16 +0000 UTC |
+| 1 | [hello_world](https://github.com/modao1/hello_world) | 1234 | 2023-02-11 01:19:34 +0000 UTC |
+| 1 | [SLOTD-PYTHON-day-3](https://github.com/ushamukkanti1010/SLOTD-PYTHON-day-3) |  | 2023-02-11 01:17:05 +0000 UTC |
+| 1 | [DraftGPT](https://github.com/TrentShapiro/DraftGPT) | Magic TCG OCR from screen selection | 2023-02-11 00:59:11 +0000 UTC |
+| 1 | [alx-system_engineering-devops](https://github.com/ryuraki/alx-system_engineering-devops) |  | 2023-02-11 00:39:33 +0000 UTC |
+| 1 | [SILENT-DOC-EXPLOIT-CLEAN-hg](https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-hg) |  | 2023-02-11 00:00:18 +0000 UTC |
+| 1 | [layoffs-the-game](https://github.com/team-FTL/layoffs-the-game) |  | 2023-02-11 00:30:52 +0000 UTC |
+| 1 | [1C2023_DA](https://github.com/Jzuniga1986/1C2023_DA) |  | 2023-02-11 01:05:21 +0000 UTC |
+| 1 | [note_taking_app](https://github.com/taylorzak/note_taking_app) | project 11 note taking app | 2023-02-11 01:12:59 +0000 UTC |
+| 1 | [sisVenda](https://github.com/albert-dias/sisVenda) | Aplicativo desenvolvido para o desafio da convicti | 2023-02-11 01:19:32 +0000 UTC |
+| 1 | [johnyacuta.github.io](https://github.com/johnyacuta/johnyacuta.github.io) | A personal website for John. Built with Jekyll. | 2023-02-11 00:35:33 +0000 UTC |
+| 1 | [1976](https://github.com/czmut/1976) |  | 2023-02-11 00:15:05 +0000 UTC |
+| 1 | [projeto-09-html-css](https://github.com/dev-jefferson-lopes/projeto-09-html-css) |  | 2023-02-11 00:39:38 +0000 UTC |
+| 1 | [CS125Group49](https://github.com/SherylrrrrTan/CS125Group49) |  | 2023-02-11 00:22:21 +0000 UTC |
+| 1 | [Data-Visualisation---Seaborn-](https://github.com/Ashish-kumar05/Data-Visualisation---Seaborn-) | Visualization the data using seaborn library. | 2023-02-11 00:39:36 +0000 UTC |
+| 1 | [block-gaem](https://github.com/txtxtx-tech/block-gaem) | block gaem. (vr) | 2023-02-11 01:18:43 +0000 UTC |
+| 1 | [AlexNet-PyTorch](https://github.com/prosti221/AlexNet-PyTorch) | Implementing AlexNet in PyTorch | 2023-02-11 00:18:32 +0000 UTC |
+| 1 | [DL_Malaria-Detection](https://github.com/ckc1108/DL_Malaria-Detection) |  | 2023-02-11 01:21:31 +0000 UTC |
+| 1 | [AlsoLikeImNotWereNotTheSamePeopleFrom6YearsAgo_IveGrownMostlyForTheBetterButImNotAsFearlessAsIWas](https://github.com/swajid/AlsoLikeImNotWereNotTheSamePeopleFrom6YearsAgo_IveGrownMostlyForTheBetterButImNotAsFearlessAsIWas) |  | 2023-02-11 01:32:52 +0000 UTC |
 
