@@ -1,38 +1,39 @@
 | Stars | Name | Desc | Created | 
 | ----- | ------- | ------------- | ------------- |
-| 1 | [go-crud-api](https://github.com/Diiplexus/go-crud-api) |  | 2023-03-01 00:37:18 +0000 UTC |
-| 0 | [golang-crud](https://github.com/trey-rustand/golang-crud) | golang crud app postgresql gorm gin framework  | 2023-03-01 01:06:48 +0000 UTC |
-| 0 | [meetups-core](https://github.com/adriantoro26/meetups-core) |  | 2023-03-01 00:51:40 +0000 UTC |
-| 0 | [gorrect](https://github.com/ntnn/gorrect) | gorrect is a yak shaving excercise to write a config management ecosystem a la Puppet, Ansible, Chef etc.pp. in go | 2023-03-01 00:30:24 +0000 UTC |
-| 0 | [leetcode](https://github.com/caelifer/leetcode) | Leetcode submissions | 2023-03-01 00:08:00 +0000 UTC |
-| 0 | [go-product-listing](https://github.com/yemiwebby/go-product-listing) |  | 2023-03-01 00:44:18 +0000 UTC |
-| 0 | [event-driven-test](https://github.com/ffelipelimao/event-driven-test) |  | 2023-03-01 01:20:37 +0000 UTC |
-| 0 | [go_qr_generator](https://github.com/JManzur/go_qr_generator) |  | 2023-03-01 00:07:55 +0000 UTC |
-| 0 | [immudblog](https://github.com/akosbalogh005/immudblog) |  | 2023-03-01 00:55:54 +0000 UTC |
-| 0 | [vils](https://github.com/boomlinde/vils) | Text editor file manager | 2023-03-01 01:36:22 +0000 UTC |
-| 0 | [pufs](https://github.com/StephenGriese/pufs) |  | 2023-03-01 01:28:37 +0000 UTC |
-| 0 | [dist-sys](https://github.com/reconbot/dist-sys) |  | 2023-03-01 00:00:47 +0000 UTC |
-| 0 | [go-crud](https://github.com/trey-rustand/go-crud) | building a go crud | 2023-03-01 00:47:25 +0000 UTC |
-| 0 | [go-formacao-alura](https://github.com/deusemarjunior/go-formacao-alura) | Material da formação de Go Alura  | 2023-03-01 00:35:45 +0000 UTC |
-| 0 | [battle](https://github.com/ajenpan/battle) | battle server for poker card game | 2023-03-01 00:16:34 +0000 UTC |
-| 0 | [vulkan-poe](https://github.com/banaconda/vulkan-poe) |  | 2023-03-01 01:36:52 +0000 UTC |
-| 0 | [golang-crud](https://github.com/magnojunior07/golang-crud) |  | 2023-03-01 00:33:58 +0000 UTC |
-| 0 | [task-queue](https://github.com/jaredellison/task-queue) |  | 2023-03-01 01:08:32 +0000 UTC |
-| 0 | [my-golang-handbook](https://github.com/Rambolts/my-golang-handbook) |  | 2023-03-01 00:10:15 +0000 UTC |
-| 0 | [golang-crud-app](https://github.com/nohadrweesh/golang-crud-app) | CRUD app where we can view/create/update/delete movies using any rest client like postman | 2023-03-01 01:04:02 +0000 UTC |
-| 0 | [roproxy](https://github.com/actuallyasmartname/roproxy) |  | 2023-03-01 00:36:58 +0000 UTC |
-| 0 | [free-code-camp-prepare-interview-go](https://github.com/mrrizal/free-code-camp-prepare-interview-go) |  | 2023-03-01 00:44:59 +0000 UTC |
-| 0 | [jode](https://github.com/kdssnd/jode) |  | 2023-03-01 00:49:05 +0000 UTC |
-| 0 | [kitty](https://github.com/StephenGriese/kitty) |  | 2023-03-01 01:07:58 +0000 UTC |
-| 0 | [streetspotter](https://github.com/harry-s-grewal/streetspotter) | A Golang app that looks at Montreal's public street cameras to find free parking | 2023-03-01 00:36:23 +0000 UTC |
-| 0 | [random-go](https://github.com/ancogamer/random-go) |  | 2023-03-01 00:03:30 +0000 UTC |
-| 0 | [pokedex](https://github.com/Conor-Fleming/pokedex) |  | 2023-03-01 00:16:16 +0000 UTC |
-| 0 | [go-graphql](https://github.com/JailtonJunior94/go-graphql) |  | 2023-03-01 00:15:40 +0000 UTC |
-| 0 | [paas](https://github.com/LCY2013/paas) |  | 2023-03-01 01:07:36 +0000 UTC |
-| 0 | [toobeci](https://github.com/eigenhombre/toobeci) | Yet Another Forth Interpreter Written in Go (YAFIWIG) | 2023-03-01 01:15:15 +0000 UTC |
-| 0 | [snippetbox](https://github.com/rachelnmlb/snippetbox) |  | 2023-03-01 01:24:26 +0000 UTC |
-| 0 | [fundamental-go](https://github.com/ALTA-BE16-dimasyudhana/fundamental-go) |  | 2023-03-01 01:34:33 +0000 UTC |
-| 0 | [go-telegram](https://github.com/SSS-Vir/go-telegram) | library to create telegram bots | 2023-03-01 00:16:17 +0000 UTC |
-| 0 | [Getir](https://github.com/Amirhossein2000/Getir) |  | 2023-03-01 00:05:49 +0000 UTC |
-| 0 | [VIP-rekor-monitor](https://github.com/SantiagoTorres/VIP-rekor-monitor) |  | 2023-03-01 00:00:27 +0000 UTC |
+| 1 | [InventoryApi](https://github.com/blackriper/InventoryApi) | Api desarrollada en golang para el registro de productos en una base de datos MySql | 2023-03-02 00:08:50 +0000 UTC |
+| 1 | [ocall](https://github.com/jeliashi/ocall) | Open Call: A simplified app for event application processes | 2023-03-02 00:26:13 +0000 UTC |
+| 0 | [gnark-setup-fork](https://github.com/HSG88/gnark-setup-fork) |  | 2023-03-02 01:04:00 +0000 UTC |
+| 0 | [fin](https://github.com/gerbenjacobs/fin) | Trading212 Aggregator tool for (Yahoo) Reporting | 2023-03-02 00:18:38 +0000 UTC |
+| 0 | [WpeWebui](https://github.com/mole828/WpeWebui) |  | 2023-03-02 00:56:28 +0000 UTC |
+| 0 | [dataStructureAlgo](https://github.com/cristianortiz/dataStructureAlgo) | Golang collections of data structure and algo problems, including testing | 2023-03-02 01:14:06 +0000 UTC |
+| 0 | [go-gRPC](https://github.com/BalooFlash/go-gRPC) |  | 2023-03-02 01:28:46 +0000 UTC |
+| 0 | [PJG](https://github.com/studosi-fer/PJG) |  | 2023-03-02 01:39:54 +0000 UTC |
+| 0 | [Interpreter](https://github.com/Manuelopez/Interpreter) | Build an Interpreter in go book | 2023-03-02 00:07:54 +0000 UTC |
+| 0 | [stalker](https://github.com/ekoiav/stalker) |  | 2023-03-02 01:31:30 +0000 UTC |
+| 0 | [dynamicCRUD-GOandMongoDB-](https://github.com/Gopal1Karki/dynamicCRUD-GOandMongoDB-) | here is a basic example of dynamic CRUD Operations using GO and Mongo DB before was the static CRUD | 2023-03-02 00:14:58 +0000 UTC |
+| 0 | [Campaign-Project](https://github.com/Rockuse/Campaign-Project) |  | 2023-03-02 01:02:06 +0000 UTC |
+| 0 | [Project1](https://github.com/jrtollison/Project1) |  | 2023-03-02 01:23:32 +0000 UTC |
+| 0 | [easyhttp](https://github.com/productaidevsecdataops/easyhttp) |  | 2023-03-02 00:30:32 +0000 UTC |
+| 0 | [go_workflow](https://github.com/veerakumarak/go_workflow) |  | 2023-03-02 00:32:28 +0000 UTC |
+| 0 | [Go_Blockchain](https://github.com/jorge-cab/Go_Blockchain) | Go Blockchain repository | 2023-03-02 00:13:19 +0000 UTC |
+| 0 | [lectronic-backend](https://github.com/wafellofazztrack/lectronic-backend) | lectronic-backend | 2023-03-02 00:45:05 +0000 UTC |
+| 0 | [dist-sys](https://github.com/bkane-msft/dist-sys) | (Mostly broken) problems from https://fly.io/dist-sys/ | 2023-03-02 00:27:05 +0000 UTC |
+| 0 | [openai-chatgpt-go-sdk](https://github.com/0xnu/openai-chatgpt-go-sdk) |  | 2023-03-02 01:04:40 +0000 UTC |
+| 0 | [gopher-cli](https://github.com/ekonuma/gopher-cli) | Go CLI training | 2023-03-02 00:05:36 +0000 UTC |
+| 0 | [test-go-mod](https://github.com/zongzw/test-go-mod) |  | 2023-03-02 01:36:57 +0000 UTC |
+| 0 | [Semi1](https://github.com/EduardoIxen/Semi1) |  | 2023-03-02 01:31:44 +0000 UTC |
+| 0 | [southhills-it100-finals](https://github.com/sorucoder/southhills-it100-finals) | My South Hills final projects for IT100 Intermediate Programming. | 2023-03-02 00:14:37 +0000 UTC |
+| 0 | [scaffold-go-pkg](https://github.com/hay-kot/scaffold-go-pkg) |  | 2023-03-02 00:07:12 +0000 UTC |
+| 0 | [metronero-frontend](https://github.com/moneropay/metronero-frontend) |  | 2023-03-02 01:03:50 +0000 UTC |
+| 0 | [go_practice](https://github.com/sanseongKo/go_practice) | golang 연습 | 2023-03-02 01:20:23 +0000 UTC |
+| 0 | [api-go-rest](https://github.com/eduardor2m/api-go-rest) |  | 2023-03-02 01:35:43 +0000 UTC |
+| 0 | [bookmark-maker](https://github.com/mtintes/bookmark-maker) | For makng bookmarks in your favorite browser | 2023-03-02 00:59:39 +0000 UTC |
+| 0 | [cdc-singularity](https://github.com/ansarars/cdc-singularity) |  | 2023-03-02 01:24:25 +0000 UTC |
+| 0 | [package_cachorro](https://github.com/vinicius4006/package_cachorro) | Colocando packge no ar | 2023-03-02 01:24:48 +0000 UTC |
+| 0 | [services](https://github.com/LeandroEstevez/services) |  | 2023-03-02 00:27:20 +0000 UTC |
+| 0 | [InternProject](https://github.com/Izra4/InternProject) |  | 2023-03-02 01:14:05 +0000 UTC |
+| 0 | [makelink](https://github.com/LovreMitrovic/makelink) |  | 2023-03-02 00:00:46 +0000 UTC |
+| 0 | [HandoverCloud](https://github.com/SoulChildTc/HandoverCloud) |  | 2023-03-02 01:21:55 +0000 UTC |
+| 0 | [go-social-app](https://github.com/BalooFlash/go-social-app) |  | 2023-03-02 01:33:37 +0000 UTC |
+| 0 | [todo-app-devops](https://github.com/fadellh/todo-app-devops) |  | 2023-03-02 00:15:39 +0000 UTC |
 
