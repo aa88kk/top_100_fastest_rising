@@ -1,0 +1,100 @@
+282, openai-go, https://github.com/rakyll/openai-go, "Go client libraries for OpenAI", "", 2023-02-24 22:07:28 +0000 UTC
+194, onelist, https://github.com/msterzhang/onelist, "一个类似emby的专注于刮削alist聚合网盘形成影视媒体库的程序。", "", 2023-02-27 10:52:41 +0000 UTC
+174, gitgpt, https://github.com/Hesse/gitgpt, "A natural language command line git assistant ", "", 2023-02-26 04:57:05 +0000 UTC
+146, DRat, https://github.com/SpenserCai/DRat, "去中心化远程控制工具（Decentralized Remote Administration Tool），通过ENS实现了配置文件分发的去中心化，通过Telegram实现了服务端的去中心化", "decentralized,ens,ethereum,golang,hacking,hacking-tool,rat,remote-control,security-tools,telegram", 2023-03-05 13:15:04 +0000 UTC
+133, chatgpt-telegram-bot, https://github.com/leafduo/chatgpt-telegram-bot, "Telegram bot for ChatGPT", "chatgpt,chatgpt-bot,go,golang,telegram,telegram-bot", 2023-03-04 09:34:57 +0000 UTC
+106, chatgpt, https://github.com/j178/chatgpt, "Cli for ChatGPT", "", 2023-03-02 10:44:18 +0000 UTC
+105, i18n-cli, https://github.com/pandodao/i18n-cli, "A  CLI tool that utilizes the OpenAI API to translate JSON-based locale files", "i18n,openai", 2023-03-04 03:05:30 +0000 UTC
+90, uncover-turbo, https://github.com/zt2/uncover-turbo, "一个简单的测绘引擎巴别塔", "", 2023-03-06 17:03:09 +0000 UTC
+89, popple, https://github.com/hoorayman/popple, "Popple is a distributed, highly available, general purpose key/value database.", "", 2023-02-24 00:31:51 +0000 UTC
+86, shad-go, https://github.com/slon/shad-go, "", "", 2023-03-08 08:47:33 +0000 UTC
+72, frontman, https://github.com/Frontman-Labs/frontman, "Frontman is an open-source API gateway written in Go that allows you to manage your microservices and expose them as a single API endpoint. It acts as a reverse proxy and handles requests from clients, routing them to the appropriate backend service.", "api,api-gateway,apigateway,development,docker,gateway,go,golang,k8s,kubernetes,load-balancer,microservices,redis,reverse-proxy", 2023-02-25 16:50:16 +0000 UTC
+69, im-fun, https://github.com/zhixunjie/im-fun, "", "", 2023-02-28 01:55:03 +0000 UTC
+67, ChopChopGo, https://github.com/M00NLIG7/ChopChopGo, "Rapidly Search and Hunt through Linux Forensics Artifacts", "", 2023-03-02 18:31:18 +0000 UTC
+46, openai, https://github.com/andrewstuart/openai, "A go client and cli for the openai APIs, focused on developer friendliness and convenience atop the basic building blocks for the OpenAI apis", "chatgpt,cli,client,dalle2,go,golang,gpt3,openai,whisper", 2023-03-02 05:30:09 +0000 UTC
+45, gossip-glomers, https://github.com/teivah/gossip-glomers, "My solutions to the Glomers Challenge: a series of distributed systems challenges.", "", 2023-02-25 09:52:52 +0000 UTC
+44, NotionAI-go, https://github.com/jyz0309/NotionAI-go, "Unofficial NotionAI Go SDK", "golang,gpt-3,gpt3,notion,notion-api,notionai", 2023-02-26 10:10:56 +0000 UTC
+43, CodeGPT, https://github.com/appleboy/CodeGPT, "A CLI written in Go language that writes git commit messages for you using ChatGPT AI (gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.", "chatgpt,chatgpt-api,git,git-hook,golang,openai,openai-api", 2023-03-04 13:49:29 +0000 UTC
+38, nxt_unit, https://github.com/bytedance/nxt_unit, "NxtUnit is an automatically unit test generation application for Go.", "codegenerator,go,unittest", 2023-03-01 09:53:17 +0000 UTC
+36, keep-sorted, https://github.com/google/keep-sorted, "keep-sorted is a language-agnostic formatter that sorts lines between two markers in a larger file.", "developer-tools,formatter,language-agnostic", 2023-02-23 15:47:45 +0000 UTC
+34, hacks, https://github.com/vitorfhc/hacks, "Collection of scripts that I use while bug hunting", "", 2023-03-07 19:21:24 +0000 UTC
+32, wizard-tutorial, https://github.com/charmbracelet/wizard-tutorial, "A basic wizard made with Bubble Tea and Lip Gloss. Follow along with the tutorial video for this project:", "", 2023-03-03 01:03:47 +0000 UTC
+32, openai-proxy, https://github.com/geekr-dev/openai-proxy, "基于 Go 实现 OpenAI API 代理（适用于腾讯云云函数）", "", 2023-03-06 09:09:19 +0000 UTC
+26, LazyDog, https://github.com/L10nK1n6/LazyDog, "LazyDog是一款通过网络空间测绘引擎读取资产并进行指纹识别的工具", "", 2023-03-02 05:14:03 +0000 UTC
+25, ffufsee, https://github.com/fyoorer/ffufsee, "Ffuf output browser", "", 2023-02-24 20:18:54 +0000 UTC
+23, gogpt, https://github.com/Nemoden/gogpt, "ChatGPT CLI", "ai,cli,cli-app,go,gpt-3,repl,terminal,terminal-app,terminal-based", 2023-03-04 07:42:36 +0000 UTC
+23, ecsnv, https://github.com/dineshgowda24/ecsnv, "A lightweight utility to dump AWS Fargate's ECS containers environment variables locally", "aws,aws-sdk,cli,ecs-cluster,ecs-fargate,ecs-service,golang,golang-application,homebrew", 2023-02-26 13:13:28 +0000 UTC
+22, daedalus, https://github.com/smsunarto/daedalus, "Deadalus is a  modular toolkit for zkSNARKs development and deployment written in Go using Gnark.", "gnark,zero-knowledge", 2023-02-25 20:26:01 +0000 UTC
+22, gpt-wework, https://github.com/razertory/gpt-wework, "企业微信（客服）能力下的 ChatGPT 微信机器人", "", 2023-02-28 07:16:19 +0000 UTC
+21, actions-usage, https://github.com/self-actuated/actions-usage, "Find your total usage on GitHub Actions", "", 2023-02-27 11:26:54 +0000 UTC
+20, bsky, https://github.com/mattn/bsky, "A cli application for bluesky social", "bluesky", 2023-03-05 16:04:55 +0000 UTC
+19, gointensivo2, https://github.com/devfullcycle/gointensivo2, "", "", 2023-03-07 01:03:59 +0000 UTC
+19, V2rayCollector, https://github.com/mrvcoder/V2rayCollector, "This project crawls v2ray configs from Telegram channels.", "cencorship,internet,iran,ss,trojan,v2ray,vless", 2023-03-03 11:22:12 +0000 UTC
+18, gpt3-5-turbo-go, https://github.com/AlmazDelDiablo/gpt3-5-turbo-go, "Golang client for official API of ChatGPT (GPT-3.5-turbo)", "", 2023-03-01 19:09:24 +0000 UTC
+18, ParamAngler, https://github.com/spyx/ParamAngler, "", "", 2023-02-25 20:59:24 +0000 UTC
+17, cases, https://github.com/rossmacarthur/cases, "A case conversion library for Go", "", 2023-02-25 16:03:51 +0000 UTC
+15, ShellMate, https://github.com/AvicennaJr/ShellMate, "Your very own terminal AI assisstant 🤖", "ai,artificial-intelligence,artificialintelligence,chatgpt,go,golang,terminal,virtual-assistant", 2023-03-08 17:15:18 +0000 UTC
+15, extip, https://github.com/hrbrmstr/extip, "℁ Retrieve your external IP address via DNS", "dns,external-ip,go,golang,my-ip", 2023-02-26 11:42:35 +0000 UTC
+14, oci, https://github.com/Vanilla-OS/oci, "A library for working with OCI images in Vanilla", "", 2023-03-02 15:51:59 +0000 UTC
+14, go-ssaviz, https://github.com/SilverRainZ/go-ssaviz, "Visualize Go SSA function using Graphviz", "golang,graphviz,linter,ssa,static-analysis", 2023-02-26 02:35:52 +0000 UTC
+14, gotld, https://github.com/WHOISshuvam/gotld, "Command-line tool to enumerate top-level domains, check response codes and find potential vulnerabilities for bug bounty hunters and security researchers.", "bugbounty,enumeration,golang,osint", 2023-03-02 16:32:14 +0000 UTC
+13, aichat, https://github.com/tkawachi/aichat, "Integrate OpenAI Chat API with command line", "", 2023-03-04 14:29:49 +0000 UTC
+13, heapspurs, https://github.com/adamroach/heapspurs, "Heap analysis and leak-hunting tool for Golang", "", 2023-02-24 02:19:15 +0000 UTC
+13, backend-risk-place, https://github.com/risk-place-angola/backend-risk-place, "Web API - service responsible for providing data.", "", 2023-02-24 21:13:06 +0000 UTC
+12, savings-estimator, https://github.com/LeanerCloud/savings-estimator, "Desktop application for Windows, Mac and Linux that can be used to estimate your Spot savings and optionally prepare configuration for our AutoSpotting Spot optimization engine.", "aws,cost-optimization,finops,golang-application,gui-application,tooling", 2023-02-28 15:54:53 +0000 UTC
+12, dependabutler, https://github.com/getyourguide/dependabutler, "tool to automatically create and update the config file for Dependabot (dependabot.yml)", "", 2023-02-23 13:03:34 +0000 UTC
+12, wechatbot, https://github.com/poorjobless/wechatbot, "微信机器人(文字版) 使用了OpenAI chatGPT 大型预训练语言模型 gpt-3.5-turbo", "", 2023-03-02 09:19:11 +0000 UTC
+11, keygen, https://github.com/FiloSottile/keygen, "Deterministic key generation for Go.", "", 2023-03-06 16:07:36 +0000 UTC
+11, chatgpt-aws-proxy, https://github.com/nangcr/chatgpt-aws-proxy, "本项目是一个 AWS Lambda 函数，用于将 HTTP 请求转发到 OpenAI 的 ChatGPT API。", "", 2023-03-05 16:14:59 +0000 UTC
+11, goreleaser-example-zig-cgo, https://github.com/goreleaser/goreleaser-example-zig-cgo, "A showcase of using Zig to cross-compile Go application with GoReleaser", "amd64,arm64,cross-compilation,golang,goreleaser,linux,macos,windows,zig", 2023-02-27 18:57:07 +0000 UTC
+10, Raven, https://github.com/nemzyxt/Raven, "Fairly Undetectable Linux Spyware", "", 2023-03-01 07:51:29 +0000 UTC
+10, pyxis, https://github.com/zan8in/pyxis, "pyxis can automatically identify http and https requests, and get response headers, status codes, response size, response time, tools for fingerprinting (favicon has, service, CMS, framework, etc.)", "", 2023-03-05 06:09:06 +0000 UTC
+10, ShellGo, https://github.com/BlackShell256/ShellGo, "Simple Shellcode Loader tool", "", 2023-02-27 23:05:18 +0000 UTC
+10, cacher, https://github.com/AnimeKaizoku/cacher, "A simple but efficient caching library written in Go.", "caching,caching-library,fast,in-memory-caching,lightweight", 2023-02-24 20:26:39 +0000 UTC
+10, eclaire, https://github.com/donuts-are-good/eclaire, "lightning-fast static site webserver with automatic HTTPS right out of the box!", "go,golang,https,letsencrypt,static-site,static-website,webserver", 2023-02-24 01:36:14 +0000 UTC
+10, Bambulabs-Exporter, https://github.com/Aetrius/Bambulabs-Exporter, "BambuLabs Prometheus Exporter by Aetrius", "", 2023-02-26 15:17:43 +0000 UTC
+9, gomponents-htmx, https://github.com/maragudk/gomponents-htmx, "HTMX attributes and helpers for gomponents.", "components,go,golang,golang-library,gomponents,htmx", 2023-02-24 10:20:49 +0000 UTC
+9, chatgpt-client, https://github.com/geekr-dev/chatgpt-client, "命令行版 ChatGPT 应用", "", 2023-03-03 10:04:23 +0000 UTC
+9, goatlang, https://github.com/philhassey/goatlang, "Goatlang is a subset of Go written in Go for scripting in Go", "", 2023-02-28 02:58:52 +0000 UTC
+9, xk6-opentelemetry, https://github.com/thmshmm/xk6-opentelemetry, "k6 extension to generate OpenTelemetry signals for load testing", "k6,k6-extension,opentelemetry,xk6", 2023-03-04 15:43:47 +0000 UTC
+9, openai-proxy, https://github.com/yqchilde/openai-proxy, "OpenAI API 代理", "", 2023-03-07 01:58:50 +0000 UTC
+9, linuxtips-github-tags, https://github.com/biancarosa/linuxtips-github-tags, "", "", 2023-03-02 22:54:04 +0000 UTC
+9, distrBoltX, https://github.com/s5364733/distrBoltX, "Handwriting based on boltDB distributed KV database, the library will be updated from time to time, suitable for small white scholars entry and distributed advanced", "", 2023-02-28 02:33:39 +0000 UTC
+9, DuckDuckGo-API, https://github.com/acheong08/DuckDuckGo-API, "API server and module for DuckDuckGo", "", 2023-03-01 02:19:06 +0000 UTC
+9, ulid-tui, https://github.com/aldernero/ulid-tui, "A text based UI for inspecting ULIDs", "", 2023-02-26 01:13:51 +0000 UTC
+8, freakshake, https://github.com/freakshake/freakshake, "freakshake is an opinionated guide and a demonstrative Go backend project structure. Attempting to structure the project in a way that complies with the SOLID principles, layered, and clean architecture.", "api,architecture,backend,clean-architecture,dry,go,golang,layered-architecture,project-structure,project-template,rest,rest-api,solid,solid-principles,structure,template", 2023-02-26 15:23:44 +0000 UTC
+8, Go-for-Pentester, https://github.com/Aryanstha/Go-for-Pentester, "", "", 2023-02-24 08:20:23 +0000 UTC
+8, watchdog, https://github.com/1996Paul-Wen/watchdog, "watchdog provides a rate limiter based on \"token bucket\" algorithm", "", 2023-02-26 09:38:26 +0000 UTC
+8, lifeform3, https://github.com/kkthmyh/lifeform3, "lifeform mint脚本", "", 2023-03-01 15:42:01 +0000 UTC
+8, go-blog-api, https://github.com/eraygundogmus/go-blog-api, "", "", 2023-02-26 10:57:21 +0000 UTC
+8, sonia, https://github.com/zhengkai/sonia, "Stable Diffusion Web UI Dispatcher", "automation,stable-diffusion-webui", 2023-02-23 03:04:21 +0000 UTC
+8, tic-tac-toe, https://github.com/dineshgowda24/tic-tac-toe, "🎮 Tic Tac Toe implementation over network 🌐", "golang,network,tic-tac-toe", 2023-02-25 03:54:08 +0000 UTC
+8, resvg-go, https://github.com/kanrichan/resvg-go, "A SVG render written in Go & WASM depended on resvg without CGO", "render,svg,wasm,wazero", 2023-03-02 14:57:01 +0000 UTC
+7, chatgpt, https://github.com/diemus/chatgpt, "Command line version of ChatGPT", "", 2023-03-04 02:55:33 +0000 UTC
+7, extip-svr, https://github.com/hrbrmstr/extip-svr, "🍦 Lightweight DNS resolver to return the requester's external IP address", "dns,dns-server,go,golang", 2023-02-27 18:04:08 +0000 UTC
+7, soccer-cli, https://github.com/Caixetadev/soccer-cli, ":soccer: soccer-cli an application for you to stay on top of the world of soccer", "cli,go,soccer", 2023-02-23 03:25:17 +0000 UTC
+7, Sirius, https://github.com/SiriusScan/Sirius, "", "", 2023-02-24 03:23:04 +0000 UTC
+7, chat, https://github.com/changkun/chat, "ChatGPT in command line", "", 2023-03-05 15:22:17 +0000 UTC
+7, treechat, https://github.com/nahum-maurice/treechat, "A TCP-based, console-based chat system.", "", 2023-03-07 22:17:49 +0000 UTC
+7, go-gpt-3.5-turbo-example, https://github.com/thegeorgenikhil/go-gpt-3.5-turbo-example, "Trying out the new gpt-3.5 turbo api by getting the model to answers a set of question based on a data from .csv file", "chatgpt-api,go,gpt-3-5-turbo-api,openai-api", 2023-03-02 13:55:37 +0000 UTC
+7, skout, https://github.com/felipecruz91/skout, "Use Docker Scout to analyze container images running in a Kubernetes cluster", "", 2023-03-03 22:48:03 +0000 UTC
+7, go-crud-live, https://github.com/FrancescoXX/go-crud-live, "", "", 2023-02-25 15:46:00 +0000 UTC
+7, aries, https://github.com/zan8in/aries, "Aries  is a free and open-source network scanner, support SYN scanning mode.", "", 2023-02-24 06:33:09 +0000 UTC
+7, nocloud-metadata-server, https://github.com/jalseth/nocloud-metadata-server, "Metadata server to configure Cloud-Init VMs in non-cloud environments.", "cloud-init,nocloud", 2023-03-04 18:07:11 +0000 UTC
+7, Go-QuickStart, https://github.com/fanchann/Go-QuickStart, "to speed up the creation of your REST API", "boilerplate-template,open-source,rest-api-template", 2023-03-07 14:35:46 +0000 UTC
+7, go-logstash, https://github.com/KaranJagtiani/go-logstash, "go-logstash is a Golang package for pushing logging events to Logstash through TCP and UDP protocols. This package provides an easy-to-use interface to integrate your Go application with Logstash, allowing you to centralize and analyze your logs.", "go,golang-library,json,logging,logging-library,logstash,tcp,udp", 2023-02-26 06:56:08 +0000 UTC
+7, RealiTLScanner, https://github.com/XTLS/RealiTLScanner, "A TLS server scanner for Reality", "", 2023-03-06 02:29:08 +0000 UTC
+7, googleplay, https://github.com/4cq2/googleplay, "Download APK from Google Play or send API requests", "android,google-play", 2023-03-02 22:19:57 +0000 UTC
+7, s3cache, https://github.com/xiebinbin/s3cache, "", "", 2023-03-01 03:18:46 +0000 UTC
+7, LogRhythmOne, https://github.com/alwashali/LogRhythmOne, "Controle Multiple LogRhythm SIEMs Alert and Cases from a Single API", "", 2023-02-23 13:12:38 +0000 UTC
+6, OmvWebdav, https://github.com/Lamzier/OmvWebdav, "Go轻量化可挂载webdav，有用户组权限管理", "", 2023-03-07 13:27:06 +0000 UTC
+6, hrt, https://github.com/diamondburned/hrt, "HTTP routing with types", "", 2023-02-28 11:32:39 +0000 UTC
+6, simple, https://github.com/codingo/simple, "A collection of one off hacks and simple scripts", "", 2023-03-08 03:05:25 +0000 UTC
+6, doc-extractor, https://github.com/alex/doc-extractor, "", "", 2023-02-25 14:30:49 +0000 UTC
+6, go-logadapter, https://github.com/vuduongtp/go-logadapter, "", "", 2023-03-03 04:25:32 +0000 UTC
+6, chatgpt-web, https://github.com/Arvintian/chatgpt-web, "Golang基于OpenAI API实现的ChatGPT Web程序", "chatgpt,gin,golang,openai", 2023-03-02 11:25:49 +0000 UTC
+6, ctf-portal, https://github.com/Fabucik/ctf-portal, "Generally usable CTF portal originally made for HackDays", "", 2023-03-02 20:19:27 +0000 UTC
+6, go-jsonpath, https://github.com/jabbalaci/go-jsonpath, "Find the path of a key / value in a JSON hierarchy easily.", "cli,go,json", 2023-02-28 11:57:12 +0000 UTC
+6, pgrok, https://github.com/pgrok/pgrok, "Poor man's ngrok", "", 2023-03-08 12:43:55 +0000 UTC
+6, go-notion, https://github.com/kissy24/go-notion, "", "", 2023-02-28 01:02:41 +0000 UTC
+6, chezmoi-net, https://github.com/nmorenor/chezmoi-net, "Golang bidirectional jsonrpc2 implementation over Web Socket", "bidirectional,golang,jsonrpc,jsonrpc2,rpc,websocket", 2023-02-25 19:41:48 +0000 UTC
