@@ -1,103 +1,103 @@
 | Stars | Name | Desc | Created | 
 | ----- | ------- | ------------- | ------------- |
-| 3 | [Group_Project_2](https://github.com/Reptartheman/Group_Project_2) |  | 2023-03-09 00:42:27 +0000 UTC |
-| 2 | [Mobile_Etec](https://github.com/GlenNancy/Mobile_Etec) | 2º Módulo - Kotlin com Android Studio | 2023-03-09 01:33:32 +0000 UTC |
-| 2 | [bidet](https://github.com/poopingface/bidet) | The cleanest machine learning library | 2023-03-09 00:04:20 +0000 UTC |
-| 2 | [my-fast](https://github.com/ivandi1980/my-fast) | This is a Simple Microservices Project using FastAPI on the Backend and React on the Frontend. | 2023-03-09 00:03:56 +0000 UTC |
-| 2 | [NoteApp](https://github.com/belaleid5/NoteApp) |  | 2023-03-09 00:34:14 +0000 UTC |
-| 1 | [restapi-study](https://github.com/duburani/restapi-study) | restapi-study | 2023-03-09 00:34:14 +0000 UTC |
-| 1 | [alx-system_engineering-devops](https://github.com/elmahdiouyaaz/alx-system_engineering-devops) |  | 2023-03-09 00:18:10 +0000 UTC |
-| 1 | [Summary-Test](https://github.com/DEVLevid/Summary-Test) |  | 2023-03-09 00:20:30 +0000 UTC |
-| 1 | [coco](https://github.com/gorsat/coco) | Rusty CoCo - TRS-80 Color Computer emulator written in Rust | 2023-03-09 00:03:44 +0000 UTC |
-| 1 | [pmv-sint-2023-1-e5-proj-mov-t1-grupo-1-projetos](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e5-proj-mov-t1-grupo-1-projetos) | pmv-sint-2023-1-e5-proj-mov-t1-grupo-1-projetos created by GitHub Classroom | 2023-03-09 00:23:14 +0000 UTC |
-| 1 | [capivara.page](https://github.com/Pphantom-dev/capivara.page) |  | 2023-03-09 00:14:06 +0000 UTC |
-| 1 | [Singleton](https://github.com/igorliisboa/Singleton) | Trabalho da matéria Padrões de Projeto utilizando o padrão Singleton | 2023-03-09 01:04:19 +0000 UTC |
-| 1 | [test-action](https://github.com/erhanyil/test-action) |  | 2023-03-09 00:29:43 +0000 UTC |
-| 1 | [Login2](https://github.com/Fer619/Login2) |  | 2023-03-09 00:36:38 +0000 UTC |
-| 1 | [Origins-SpigotMC](https://github.com/PurpleWolf1909/Origins-SpigotMC) | Origins for SpigotMC | 2023-03-09 01:17:07 +0000 UTC |
-| 1 | [alx-system_engineering-devops](https://github.com/AliAtef20/alx-system_engineering-devops) |  | 2023-03-09 00:08:43 +0000 UTC |
-| 1 | [riyaolin.github.io](https://github.com/riyaolin/riyaolin.github.io) | testing | 2023-03-09 01:38:25 +0000 UTC |
-| 1 | [rich-presence](https://github.com/novusthedev/rich-presence) | Basic rich presence app written in UWP & WinUI 3. | 2023-03-09 00:09:35 +0000 UTC |
-| 1 | [app-tarefas](https://github.com/Guzzera/app-tarefas) | Aplicativo desenvolvido com React Native, Node e MySQL | 2023-03-09 00:20:07 +0000 UTC |
-| 1 | [RpgGame_C](https://github.com/SciammarellaBrenno/RpgGame_C) |  | 2023-03-09 00:34:32 +0000 UTC |
-| 1 | [chatgpt-go](https://github.com/dreamcoin1998/chatgpt-go) | Go语言封装的chatgpt接口，支持上下文和预定义角色 | 2023-03-09 01:26:48 +0000 UTC |
-| 1 | [react_jest](https://github.com/RungrawinMar16/react_jest) |  | 2023-03-09 01:38:30 +0000 UTC |
-| 1 | [teste](https://github.com/eliasdasb/teste) |  | 2023-03-09 01:32:38 +0000 UTC |
-| 1 | [aluraplus](https://github.com/dkrlma/aluraplus) | Feito junto com as aulas do alura.com.br. | 2023-03-09 01:35:36 +0000 UTC |
-| 1 | [latihan](https://github.com/Adifa19/latihan) | latihan | 2023-03-09 01:38:26 +0000 UTC |
-| 1 | [alx-system_engineering-devops](https://github.com/melm18/alx-system_engineering-devops) |  | 2023-03-09 00:51:12 +0000 UTC |
-| 1 | [UnityIniciante_MOD10](https://github.com/Daniel-leal-lima/UnityIniciante_MOD10) |  | 2023-03-09 01:38:29 +0000 UTC |
-| 1 | [Trex1](https://github.com/MaryamfK07/Trex1) |  | 2023-03-09 00:34:12 +0000 UTC |
-| 1 | [Basic-EDA-with-SQL](https://github.com/Dara017/Basic-EDA-with-SQL) | Exploratory Data Analysis with SQL | 2023-03-09 00:32:18 +0000 UTC |
-| 1 | [scroll_PRYCT_1](https://github.com/DiegoCastr00/scroll_PRYCT_1) |  | 2023-03-09 00:34:21 +0000 UTC |
-| 1 | [blogApi](https://github.com/Leandromenezes81/blogApi) |  | 2023-03-09 00:48:00 +0000 UTC |
-| 1 | [30DaysOfPython](https://github.com/xAdriIV/30DaysOfPython) | Challenge 30 Days Of Python | 2023-03-09 01:27:45 +0000 UTC |
-| 1 | [gpt-summarizer-main](https://github.com/gently1223/gpt-summarizer-main) |  | 2023-03-09 00:16:07 +0000 UTC |
-| 1 | [Online-Portfolio](https://github.com/BradenMeade/Online-Portfolio) |  | 2023-03-09 00:14:29 +0000 UTC |
-| 1 | [G.G.B-](https://github.com/HashmMuhammed/G.G.B-) | G.B.B is a company specialized in making and developing Android games and applications | 2023-03-09 00:06:22 +0000 UTC |
-| 1 | [turbotest_xs1mpav8_61fogaep](https://github.com/turbocanary/turbotest_xs1mpav8_61fogaep) |  | 2023-03-09 00:33:12 +0000 UTC |
-| 1 | [ADV-142](https://github.com/YIVKA/ADV-142) |  | 2023-03-09 00:33:57 +0000 UTC |
-| 1 | [githubTest](https://github.com/minjoott/githubTest) |  | 2023-03-09 01:04:19 +0000 UTC |
-| 1 | [Ajijul](https://github.com/Ba8180159/Ajijul) | Ajijul | 2023-03-09 01:25:29 +0000 UTC |
-| 1 | [violet](https://github.com/violet-lang/violet) |  | 2023-03-09 00:45:25 +0000 UTC |
-| 1 | [alx-system_engineering-devops](https://github.com/DrewAttakorah/alx-system_engineering-devops) |  | 2023-03-09 00:44:52 +0000 UTC |
-| 1 | [darkmatter-ui](https://github.com/wesleey/darkmatter-ui) | From UI to code. A repository containing a simple example design system developed using Stitches CSS-in-JS and Radix UI. | 2023-03-09 01:30:36 +0000 UTC |
-| 1 | [chat-laravel](https://github.com/wendel-sa/chat-laravel) | Este projeto consiste em uma aplicação web de chat que utiliza a API OpenAI ChatGPT para gerar respostas a partir de perguntas enviadas pelo usuário. A aplicação é desenvolvida em Laravel e utiliza a biblioteca Livewire para criar interações dinâmicas na interface de chat | 2023-03-09 01:27:53 +0000 UTC |
-| 1 | [gitflow](https://github.com/chrisbcarl/gitflow) | a demo of gitflow | 2023-03-09 01:04:15 +0000 UTC |
-| 1 | [process_cpu_time_limit](https://github.com/elielcio/process_cpu_time_limit) |  | 2023-03-09 00:30:26 +0000 UTC |
-| 1 | [AntiSpawn](https://github.com/Procy0n450/AntiSpawn) | Anti Spawn Client Basique (non use sur blacklife) | 2023-03-09 00:34:13 +0000 UTC |
-| 1 | [taimafrica-index](https://github.com/PhillDev-coder256/taimafrica-index) |  | 2023-03-09 00:11:58 +0000 UTC |
-| 1 | [oracle-iPhone](https://github.com/Zunderdog2/oracle-iPhone) | Virtual lunux | 2023-03-09 00:48:26 +0000 UTC |
-| 1 | [Simple-Network-Scanner](https://github.com/FireHeart786/Simple-Network-Scanner) |  | 2023-03-09 00:52:30 +0000 UTC |
-| 1 | [orientalism](https://github.com/novemberizing/orientalism) |  | 2023-03-09 00:55:57 +0000 UTC |
-| 1 | [LPOO_4sem](https://github.com/manu-nornberg/LPOO_4sem) |  | 2023-03-09 00:31:24 +0000 UTC |
-| 1 | [MD3_HienThiCacSoNhoHon100](https://github.com/letheanh2003/MD3_HienThiCacSoNhoHon100) |  | 2023-03-09 01:14:55 +0000 UTC |
-| 1 | [auto-clicker](https://github.com/MONKEISSONNYGOD/auto-clicker) | hehe | 2023-03-09 01:15:30 +0000 UTC |
-| 1 | [fdfgen](https://github.com/taandreo/fdfgen) | This program transforms strings in fdf maps | 2023-03-09 01:14:28 +0000 UTC |
-| 1 | [alx-system_engineering-devops](https://github.com/Emino007/alx-system_engineering-devops) |  | 2023-03-09 00:34:23 +0000 UTC |
-| 1 | [SILENT-EXCEL-XLS-EXPLOIT-CLEAN-2a](https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-2a) |  | 2023-03-09 00:05:55 +0000 UTC |
-| 1 | [trippy-tremblant](https://github.com/abdallahaac/trippy-tremblant) |  | 2023-03-09 00:21:40 +0000 UTC |
-| 1 | [PhotoGallery](https://github.com/guilhermefcs7/PhotoGallery) | React application for uploading images using Typescript and Firebase as a specific cloud hosting service. | 2023-03-09 00:50:03 +0000 UTC |
-| 1 | [custom-form-hook](https://github.com/thejuggernaut01/custom-form-hook) |  | 2023-03-09 01:04:17 +0000 UTC |
-| 1 | [wcd](https://github.com/chensteven/wcd) |  | 2023-03-09 01:04:19 +0000 UTC |
-| 1 | [alx-system_engineering-devops](https://github.com/veinarous1/alx-system_engineering-devops) |  | 2023-03-09 00:57:09 +0000 UTC |
-| 1 | [ja-tarefas](https://github.com/JorgeDeAquino/ja-tarefas) |  | 2023-03-09 01:36:53 +0000 UTC |
-| 1 | [alx-system_engineering-devops](https://github.com/Eyram002/alx-system_engineering-devops) |  | 2023-03-09 00:34:14 +0000 UTC |
-| 1 | [Conectividade-em-Sistemas-Ciberfisicos](https://github.com/FunNyLuAz/Conectividade-em-Sistemas-Ciberfisicos) | Lucas Azevedo Dias \| 2ºB de Ciência da Computação (Manhã) | 2023-03-09 00:28:22 +0000 UTC |
-| 1 | [alx-system_engineering-devops](https://github.com/MAHMOUD128/alx-system_engineering-devops) |  | 2023-03-09 00:34:13 +0000 UTC |
-| 1 | [NES-SNES](https://github.com/sudo-self/NES-SNES) | 1K Original Untouched Classics | 2023-03-09 01:16:22 +0000 UTC |
-| 1 | [DevOps_As2](https://github.com/keyborred/DevOps_As2) |  | 2023-03-09 01:28:32 +0000 UTC |
-| 1 | [MyDemoProject](https://github.com/RebiyaM/MyDemoProject) |  | 2023-03-09 01:13:18 +0000 UTC |
-| 1 | [RedHat1-Practice-Server-Materials](https://github.com/StValentino/RedHat1-Practice-Server-Materials) | All the stuff that was made in the RedHat1 Practice server | 2023-03-09 01:38:28 +0000 UTC |
-| 1 | [alx-system_engineering-devops](https://github.com/Rahma-Ali8/alx-system_engineering-devops) | alx-system_engineering-devops | 2023-03-09 00:32:21 +0000 UTC |
-| 1 | [alurabooks](https://github.com/dkrlma/alurabooks) | Feito junto com as aulas do alura.com.br. | 2023-03-09 01:32:54 +0000 UTC |
-| 1 | [demo-projectPractice](https://github.com/millivida21/demo-projectPractice) |  | 2023-03-09 01:38:27 +0000 UTC |
-| 1 | [ChatGPT-clone](https://github.com/Cristiane-Pereira/ChatGPT-clone) |  | 2023-03-09 00:45:32 +0000 UTC |
-| 1 | [devFBatch23B](https://github.com/arthurDj2/devFBatch23B) | computer science de DEV.F | 2023-03-09 00:34:19 +0000 UTC |
-| 1 | [Performance-em-Sistemas-Ciberfisicos](https://github.com/FunNyLuAz/Performance-em-Sistemas-Ciberfisicos) | Lucas Azevedo Dias \| 3ºB de Ciência da Computação (Manhã) | 2023-03-09 00:10:47 +0000 UTC |
-| 1 | [projetoModelagemSoftware](https://github.com/git-kmoraes/projetoModelagemSoftware) | Projeto curso modelagem de software | 2023-03-09 00:44:05 +0000 UTC |
-| 1 | [algoTradeGo23](https://github.com/KyraZzz/algoTradeGo23) |  | 2023-03-09 00:40:01 +0000 UTC |
-| 1 | [passwordManager](https://github.com/santoshsatyavarapu/passwordManager) |  | 2023-03-09 01:38:29 +0000 UTC |
-| 1 | [alx-system_engineering-devops](https://github.com/Luomah/alx-system_engineering-devops) | for shell | 2023-03-09 00:15:49 +0000 UTC |
-| 1 | [entregable-marzo23](https://github.com/JoseCaicedoDev/entregable-marzo23) | Formulario de elegir un color | 2023-03-09 00:23:48 +0000 UTC |
-| 1 | [proyectos](https://github.com/MarianoTorena/proyectos) |  | 2023-03-09 00:43:59 +0000 UTC |
-| 1 | [Interesting_things](https://github.com/MoiraLei/Interesting_things) | 一些有意思的python代码 | 2023-03-09 01:34:53 +0000 UTC |
-| 1 | [agatavitoria](https://github.com/agatavitoria/agatavitoria) |  | 2023-03-09 00:39:13 +0000 UTC |
-| 1 | [e2e-gh-1054d324-74ab-9fd6-c1e3-dd917358af6a](https://github.com/tf-vcs-e2e/e2e-gh-1054d324-74ab-9fd6-c1e3-dd917358af6a) |  | 2023-03-09 01:38:19 +0000 UTC |
-| 1 | [NMQ](https://github.com/MASR27/NMQ) |  | 2023-03-09 00:48:53 +0000 UTC |
-| 1 | [ImGUI-Menu-CheatTemplate](https://github.com/cRiZZlyy-CR/ImGUI-Menu-CheatTemplate) | First ImGUI-Menu Cheat Template from me. | 2023-03-09 01:11:13 +0000 UTC |
-| 1 | [notes](https://github.com/dev-pdp/notes) |  | 2023-03-09 00:32:37 +0000 UTC |
-| 1 | [projeto_flutter001](https://github.com/AmanddaLuz/projeto_flutter001) | Statelesswidget and statefullwidget | 2023-03-09 00:47:36 +0000 UTC |
-| 1 | [SILENT-DOC-EXPLOIT-CLEAN-2a](https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-2a) |  | 2023-03-09 00:07:39 +0000 UTC |
-| 1 | [learn-advanced-typescript](https://github.com/Michael-Liendo/learn-advanced-typescript) |  | 2023-03-09 01:04:18 +0000 UTC |
-| 1 | [kit](https://github.com/lucianogarciaz/kit) | Kit is a library ready to use for your service | 2023-03-09 00:47:47 +0000 UTC |
-| 1 | [Encriptador](https://github.com/abraham-1270/Encriptador) | Encriptador | 2023-03-09 00:58:32 +0000 UTC |
-| 1 | [SDS-322E](https://github.com/RodGL6/SDS-322E) |  | 2023-03-09 01:04:21 +0000 UTC |
-| 1 | [Vault-Steganography-Tool](https://github.com/acoskun1/Vault-Steganography-Tool) |  | 2023-03-09 01:01:16 +0000 UTC |
-| 1 | [ylk-package-components](https://github.com/yelikang/ylk-package-components) |  | 2023-03-09 01:38:26 +0000 UTC |
-| 1 | [portfolioalura](https://github.com/dkrlma/portfolioalura) | Feito junto com as aulas do alura.com.br. | 2023-03-09 01:36:17 +0000 UTC |
-| 1 | [apostas](https://github.com/marcosmedeirros/apostas) |  | 2023-03-09 00:56:24 +0000 UTC |
-| 1 | [gitignore_repo](https://github.com/kimjungtaes/gitignore_repo) |  | 2023-03-09 00:15:16 +0000 UTC |
-| 1 | [Projeto-James-Quarta](https://github.com/hebert1112/Projeto-James-Quarta) | Projeto James Quarta | 2023-03-09 00:21:20 +0000 UTC |
-| 1 | [low-code](https://github.com/clonekim/low-code) | 코드작성 툴 | 2023-03-09 00:36:05 +0000 UTC |
+| 4 | [pmv-ads-2023-1-e4-proj-infra-t3-grupo5-planner](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-infra-t3-grupo5-planner) | pmv-ads-2023-1-e4-proj-infra-t3-grupo5-planner created by GitHub Classroom | 2023-03-10 00:03:43 +0000 UTC |
+| 3 | [actixweb-axum-example](https://github.com/blockchainlover2019/actixweb-axum-example) | Example of ActixWeb and Axum for Rust Backend API. This api is for "redux-saga-example" | 2023-03-10 01:02:18 +0000 UTC |
+| 2 | [m01s06-receita-react](https://github.com/FullStack-Itaguacu/m01s06-receita-react) | Projeto desenvolvido durante a aula 03 do curso Full Stack Lab365 - Módulo 1 Semana 06 - React | 2023-03-10 01:11:50 +0000 UTC |
+| 1 | [SirGeorge-ux](https://github.com/SirGeorge-ux/SirGeorge-ux) |  | 2023-03-10 00:29:14 +0000 UTC |
+| 1 | [SecondRepo](https://github.com/Ishm43l/SecondRepo) | This is my second repository that is  created straight on the GitHub server | 2023-03-10 00:01:52 +0000 UTC |
+| 1 | [webcam](https://github.com/emlyzhng/webcam) | project for Unit 4 Information and Systems | 2023-03-10 00:01:46 +0000 UTC |
+| 1 | [Sem4Modul1](https://github.com/annisaartantiw/Sem4Modul1) | Latihan 1 Modul 1 | 2023-03-10 00:56:07 +0000 UTC |
+| 1 | [cuesports-testbed](https://github.com/meo-s/cuesports-testbed) |  | 2023-03-10 00:56:03 +0000 UTC |
+| 1 | [alx-zero_day1](https://github.com/Selorm-Gerald-Colsonz/alx-zero_day1) | I'm now a ALX Student, this is my first repository as a full-stack engineer | 2023-03-10 00:01:55 +0000 UTC |
+| 1 | [Nitro-Gen-and-Checker](https://github.com/Samuel9221991/Nitro-Gen-and-Checker) | Gen and check discord nitro .gift codes, then, blacklist the worst codes | 2023-03-10 00:00:39 +0000 UTC |
+| 1 | [SpotipiCurrentlyPlaying](https://github.com/tomowen02/SpotipiCurrentlyPlaying) |  | 2023-03-10 00:16:18 +0000 UTC |
+| 1 | [macmate-app.github.io](https://github.com/macmate-app/macmate-app.github.io) | Official website | 2023-03-10 00:28:41 +0000 UTC |
+| 1 | [hierarchical_clustering](https://github.com/afatsumcemreg/hierarchical_clustering) |  | 2023-03-10 01:03:02 +0000 UTC |
+| 1 | [aass](https://github.com/lamlamloi/aass) |  | 2023-03-10 01:21:16 +0000 UTC |
+| 1 | [C46](https://github.com/honeybunny1129/C46) |  | 2023-03-10 00:01:11 +0000 UTC |
+| 1 | [Js-Interview-Prep-Course](https://github.com/omar1Mayallo/Js-Interview-Prep-Course) | Challenge myself by solve all JS problems of this udemy course ( JavaScript Interview Prep: Practice Problems ) | 2023-03-10 00:01:52 +0000 UTC |
+| 1 | [LaserScan](https://github.com/Fiary-Tale/LaserScan) |  | 2023-03-10 00:20:11 +0000 UTC |
+| 1 | [spa-post3](https://github.com/wndudtjd/spa-post3) | 항해 숙련주차 lv.3 | 2023-03-10 01:02:50 +0000 UTC |
+| 1 | [animal-house](https://github.com/DavidTaplin/animal-house) | codelabs api class | 2023-03-10 00:01:43 +0000 UTC |
+| 1 | [adivinheOnumero](https://github.com/remyfonseca/adivinheOnumero) | Jogo simples feito com HTML CSS e JavaScript para resolução de adivinhação de um número secreto entre 0 e 100. Após o acerto do número, aparecerá a quantidade de tentativas do usuário para a resolução do desafio. | 2023-03-10 00:17:07 +0000 UTC |
+| 1 | [Juntador-de-audios.](https://github.com/XxNessuxX/Juntador-de-audios.) | Una herramienta simple que permite juntar varios archivos de audio, separados por silencios, en un solo archivo de audio. | 2023-03-10 00:10:40 +0000 UTC |
+| 1 | [QR-CODE](https://github.com/ETHICS0/QR-CODE) |  | 2023-03-10 00:57:29 +0000 UTC |
+| 1 | [pedroolivrdev](https://github.com/pedroolivrdev/pedroolivrdev) |  | 2023-03-10 00:47:30 +0000 UTC |
+| 1 | [FDPClient](https://github.com/ImOd8m/FDPClient) |  | 2023-03-10 00:10:11 +0000 UTC |
+| 1 | [Construyendo_IA](https://github.com/CristianBastidas99/Construyendo_IA) |  | 2023-03-10 00:01:46 +0000 UTC |
+| 1 | [Android-GithubUserApp](https://github.com/grandier/Android-GithubUserApp) |  | 2023-03-10 01:03:55 +0000 UTC |
+| 1 | [copier-template-clasp](https://github.com/gotofritz/copier-template-clasp) | A copier template for a clasp project, that allow you to code Google Apps Script locally with typescript | 2023-03-10 00:49:02 +0000 UTC |
+| 1 | [dns-resolver-list](https://github.com/ghost11411/dns-resolver-list) |  | 2023-03-10 01:03:16 +0000 UTC |
+| 1 | [FSA](https://github.com/KeenanP520/FSA) |  | 2023-03-10 00:01:52 +0000 UTC |
+| 1 | [be2](https://github.com/DINHTAI2207/be2) |  | 2023-03-10 01:03:53 +0000 UTC |
+| 1 | [kive-financeiro-nextjs](https://github.com/walissonwaal/kive-financeiro-nextjs) |  | 2023-03-10 00:58:23 +0000 UTC |
+| 1 | [frequentei-api](https://github.com/oliveira7/frequentei-api) |  | 2023-03-10 00:41:13 +0000 UTC |
+| 1 | [faith-forward-blogpost-generator](https://github.com/phrazzld/faith-forward-blogpost-generator) |  | 2023-03-10 00:20:52 +0000 UTC |
+| 1 | [ENSE-352-Wack-A-Mole](https://github.com/lane203m/ENSE-352-Wack-A-Mole) | Collection of Labs and a wack-a-mole game in assembly | 2023-03-10 00:07:05 +0000 UTC |
+| 1 | [Python-Programming](https://github.com/HyunwooYi/Python-Programming) | 과제 제출 | 2023-03-10 00:01:54 +0000 UTC |
+| 1 | [cofohWebsiteNew](https://github.com/Skippyijsa/cofohWebsiteNew) |  | 2023-03-10 00:22:18 +0000 UTC |
+| 1 | [time_series_smooting_methods](https://github.com/afatsumcemreg/time_series_smooting_methods) |  | 2023-03-10 01:05:31 +0000 UTC |
+| 1 | [Sandwich](https://github.com/SimplyBruh/Sandwich) | https://SimplyBruh.github.io/Sandwich | 2023-03-10 01:03:50 +0000 UTC |
+| 1 | [shivakeerthi_AdvancedJavascript_gradedproj2](https://github.com/ironman-100/shivakeerthi_AdvancedJavascript_gradedproj2) |  | 2023-03-10 01:04:00 +0000 UTC |
+| 1 | [mobile_dev](https://github.com/ulisseshen/mobile_dev) |  | 2023-03-10 01:32:11 +0000 UTC |
+| 1 | [Walmart-Shipping-Options](https://github.com/GSreeSwetha/Walmart-Shipping-Options) | Data Architectural project for improving  Walmart's shipping options for online orders | 2023-03-10 00:23:01 +0000 UTC |
+| 1 | [CH25_Ejercicio](https://github.com/AdrianaIbarraG/CH25_Ejercicio) | Ejercicio para practicar la conexión de Git Hub | 2023-03-10 00:01:55 +0000 UTC |
+| 1 | [gimnasio-frontend-js](https://github.com/JuancaBrun/gimnasio-frontend-js) |  | 2023-03-10 00:01:52 +0000 UTC |
+| 1 | [custom-profile-card-by-fujiko](https://github.com/fujikomilk17/custom-profile-card-by-fujiko) | responsive page profile that I made as a reference from several tutorials on YouTube | 2023-03-10 00:51:37 +0000 UTC |
+| 1 | [Cassidy-Schultz-Unit-5-Project](https://github.com/cassidysch/Cassidy-Schultz-Unit-5-Project) | https://cassidysch.github.io/Cassidy-Schultz-Unit-5-Project | 2023-03-10 01:00:59 +0000 UTC |
+| 1 | [Algoritmos-e-Programacao](https://github.com/Joaohnt27/Algoritmos-e-Programacao) | Faculdade de Engenharia de Computação  | 2023-03-10 00:34:45 +0000 UTC |
+| 1 | [GameNews](https://github.com/LucasFerreiraTech9/GameNews) |  | 2023-03-10 01:01:17 +0000 UTC |
+| 1 | [honestry](https://github.com/litalico-engineering/honestry) | ナーシングネットプラスワン・訪問モバイル機能のレポジトリです。 | 2023-03-10 01:20:58 +0000 UTC |
+| 1 | [Project--3](https://github.com/Dmancini87/Project--3) |  | 2023-03-10 00:12:32 +0000 UTC |
+| 1 | [space-invaders-clone](https://github.com/Santyru-C/space-invaders-clone) | A tutorial project made with Godot game engine | 2023-03-10 00:01:52 +0000 UTC |
+| 1 | [fatec_noite](https://github.com/rodrigoplotze/fatec_noite) | FATEC Ribeirão Preto - Programação para Dispositivos Móveis | 2023-03-10 00:35:06 +0000 UTC |
+| 1 | [React-To-Do-list](https://github.com/HomaX1/React-To-Do-list) |  | 2023-03-10 01:03:57 +0000 UTC |
+| 1 | [Bennett-Unit-5-project](https://github.com/guffmach/Bennett-Unit-5-project) | https://guffmach.github.io/Bennett-Unit-5-project | 2023-03-10 01:01:40 +0000 UTC |
+| 1 | [sugawara](https://github.com/takeru-k/sugawara) |  | 2023-03-10 00:59:52 +0000 UTC |
+| 1 | [ass3](https://github.com/lamlamloi/ass3) |  | 2023-03-10 01:01:14 +0000 UTC |
+| 1 | [curso-de-react](https://github.com/rosannyoropeza/curso-de-react) |  | 2023-03-10 00:01:45 +0000 UTC |
+| 1 | [javascript](https://github.com/HeltonCarlos85/javascript) | Curso de javascript | 2023-03-10 00:51:33 +0000 UTC |
+| 1 | [hahahaha](https://github.com/MrPixell/hahahaha) |  | 2023-03-10 01:03:57 +0000 UTC |
+| 1 | [group1](https://github.com/Pisethsek/group1) |  | 2023-03-10 01:13:45 +0000 UTC |
+| 1 | [Administrador-citas-JS](https://github.com/pulygarcia/Administrador-citas-JS) | Administrador de pacientes de veterinaria, proyecto creado usando POO | 2023-03-10 00:19:10 +0000 UTC |
+| 1 | [Painel-de-Estatistica-KingoNetwork](https://github.com/MrMadaraUchiha/Painel-de-Estatistica-KingoNetwork) |  | 2023-03-10 01:25:01 +0000 UTC |
+| 1 | [ResultsSummaryComponents](https://github.com/DanielOlaverria/ResultsSummaryComponents) | Reto de FrontEndMentor cumplido | 2023-03-10 00:14:52 +0000 UTC |
+| 1 | [moviee.github.io](https://github.com/LuxferreYT/moviee.github.io) | moviee | 2023-03-10 01:06:17 +0000 UTC |
+| 1 | [MercuryRadio](https://github.com/Rutgers-RPL/MercuryRadio) | RRPL Mercury Gen I Radio | 2023-03-10 00:58:17 +0000 UTC |
+| 1 | [Prelim-Edrian-Lamoglia-BSIT-1A](https://github.com/RinLamoglia/Prelim-Edrian-Lamoglia-BSIT-1A) |  | 2023-03-10 00:00:47 +0000 UTC |
+| 1 | [linktree](https://github.com/nat-jpg/linktree) | link website | 2023-03-10 00:27:22 +0000 UTC |
+| 1 | [python_udemy_course](https://github.com/Vitor-Marconi/python_udemy_course) |  | 2023-03-10 00:20:49 +0000 UTC |
+| 1 | [5239-2023-code](https://github.com/AnotherUser12/5239-2023-code) |  | 2023-03-10 00:33:00 +0000 UTC |
+| 1 | [proyecto_de_grados](https://github.com/1007326158/proyecto_de_grados) | conexion base de datos | 2023-03-10 01:04:42 +0000 UTC |
+| 1 | [fastcod-code](https://github.com/jasonbian97/fastcod-code) | A fast python tool for extracting diffusion-based brain connectivity | 2023-03-10 00:51:37 +0000 UTC |
+| 1 | [BE2-GroupE-Project](https://github.com/minhquan130/BE2-GroupE-Project) |  | 2023-03-10 00:57:53 +0000 UTC |
+| 1 | [Recriando-um-Wikipedia-Moderno](https://github.com/Gabrielh360/Recriando-um-Wikipedia-Moderno) | Uma pagina web feita a partir do layout do wikipédia, porem refeito utilizando HTML5 e CSS3. | 2023-03-10 01:28:44 +0000 UTC |
+| 1 | [angular_prueba](https://github.com/DanielMO7/angular_prueba) |  | 2023-03-10 00:01:06 +0000 UTC |
+| 1 | [387-Maze-Navigating-Rover](https://github.com/lane203m/387-Maze-Navigating-Rover) | This repo includes an assortment of lab submissions, followed  by my project for a rover that can navigate a maze. It is written in C and Assembly | 2023-03-10 00:34:21 +0000 UTC |
+| 1 | [GitHub_Tutorial](https://github.com/Lilysium/GitHub_Tutorial) |  | 2023-03-10 01:03:51 +0000 UTC |
+| 1 | [BISNet](https://github.com/wm-Githuber/BISNet) |  | 2023-03-10 01:23:29 +0000 UTC |
+| 1 | [AzureStorageSample-dotnet7](https://github.com/Moongazing/AzureStorageSample-dotnet7) |  | 2023-03-10 01:30:52 +0000 UTC |
+| 1 | [Ola-Mundo](https://github.com/manutavares/Ola-Mundo) | Primeiro repositorio do curso Git e Github | 2023-03-10 01:04:01 +0000 UTC |
+| 1 | [CppBasics](https://github.com/jomerdevs/CppBasics) | ES: Repositorio con archivos fuentes para aprender el lenguaje de programación C++ ... EN: Repo with source files to learn the C++ programming language | 2023-03-10 01:07:26 +0000 UTC |
+| 1 | [yumimi_react](https://github.com/hhnnww/yumimi_react) |  | 2023-03-10 00:01:33 +0000 UTC |
+| 1 | [Terraform](https://github.com/DiazElcid/Terraform) | Terraform code | 2023-03-10 01:20:15 +0000 UTC |
+| 1 | [InstaX-Pro-](https://github.com/Danilo4All/InstaX-Pro-) | Trade chatting  | 2023-03-10 01:30:08 +0000 UTC |
+| 1 | [1er-a-o-Programaci-n](https://github.com/JulietaZotes/1er-a-o-Programaci-n) |  | 2023-03-10 00:10:21 +0000 UTC |
+| 1 | [Intelligent_Search_Algorithms_Project](https://github.com/MayarAboumahmood/Intelligent_Search_Algorithms_Project) | get the shortest path from the current place to the home(and cheapest and healthiest) using A star algorithm | 2023-03-10 01:01:02 +0000 UTC |
+| 1 | [cloudflare-general](https://github.com/PrathibaRamesh/cloudflare-general) |  | 2023-03-10 00:59:58 +0000 UTC |
+| 1 | [docsget](https://github.com/mytom1998/docsget) | Docsget 主要用于记录个人开发过程中遇到或者解决的一些方式及经验。 | 2023-03-10 00:55:11 +0000 UTC |
+| 1 | [mchqmyxh.github.io](https://github.com/mchqmyxh/mchqmyxh.github.io) | 博客 | 2023-03-10 01:09:37 +0000 UTC |
+| 1 | [integracao2023](https://github.com/dideconto/integracao2023) | Repositório de todos os projetos da disciplina de Integração de Sistemas de Software de quinta-feira de noite. | 2023-03-10 00:01:49 +0000 UTC |
+| 1 | [Rizki_Harisenincom](https://github.com/Rizki0720/Rizki_Harisenincom) |  | 2023-03-10 00:55:31 +0000 UTC |
+| 1 | [assignment03](https://github.com/lamlamloi/assignment03) |  | 2023-03-10 00:38:30 +0000 UTC |
+| 1 | [Practica-Python](https://github.com/Heber1939/Practica-Python) | Ejercicios de practicas de | 2023-03-10 01:33:59 +0000 UTC |
+| 1 | [siyeonliz](https://github.com/siyeonliz/siyeonliz) |  | 2023-03-10 01:05:39 +0000 UTC |
+| 1 | [Introduccion-a-GitHub](https://github.com/Ehamons/Introduccion-a-GitHub) | Primer acercamiento al uso de GitHub | 2023-03-10 00:01:49 +0000 UTC |
+| 1 | [Boing](https://github.com/EwanLorimer/Boing) |  | 2023-03-10 00:01:49 +0000 UTC |
+| 1 | [minigame_prac](https://github.com/maiqlan/minigame_prac) |  | 2023-03-10 00:01:53 +0000 UTC |
+| 1 | [Airline-Delays](https://github.com/GSreeSwetha/Airline-Delays) | Processed and analyzed a dataset related to airline delays with Python and designed graph model (Neo4j) to perform vizualizations for the business scenarios (Tableau) | 2023-03-10 00:15:46 +0000 UTC |
+| 1 | [Android-Jetpack-Navigation-Component](https://github.com/ahmed-tech-t/Android-Jetpack-Navigation-Component) | android jetpack component using safe args in kotlin  | 2023-03-10 00:37:05 +0000 UTC |
+| 1 | [ProgLang2023](https://github.com/dfloaiza/ProgLang2023) |  | 2023-03-10 00:32:53 +0000 UTC |
+| 1 | [KMeans_Clustering](https://github.com/afatsumcemreg/KMeans_Clustering) |  | 2023-03-10 01:00:39 +0000 UTC |
+| 0 | [aziz-serin](https://github.com/aziz-serin/aziz-serin) |  | 2023-03-10 00:05:16 +0000 UTC |
 
