@@ -1,103 +1,103 @@
 | Stars | Name | Desc | Created | 
 | ----- | ------- | ------------- | ------------- |
-| 121 | [shad-go](https://github.com/slon/shad-go) | Golang programming course | 2023-03-08 08:47:33 +0000 UTC |
-| 107 | [uncover-turbo](https://github.com/zt2/uncover-turbo) | 一个简单的测绘引擎巴别塔 | 2023-03-06 17:03:09 +0000 UTC |
-| 55 | [openai-proxy](https://github.com/geekr-dev/openai-proxy) | 基于 Go 实现 OpenAI API 代理（适用于腾讯云云函数） | 2023-03-06 09:09:19 +0000 UTC |
+| 582 | [pgrok](https://github.com/pgrok/pgrok) | Poor man's ngrok - a multi-tenant HTTP reverse tunnel solution through SSH remote port forwarding | 2023-03-08 12:43:55 +0000 UTC |
+| 127 | [shad-go](https://github.com/slon/shad-go) | Golang programming course | 2023-03-08 08:47:33 +0000 UTC |
 | 49 | [hacks](https://github.com/vitorfhc/hacks) | Collection of scripts that I use while bug hunting | 2023-03-07 19:21:24 +0000 UTC |
-| 44 | [intcomp](https://github.com/ronanh/intcomp) | Fast integer compression library | 2023-03-09 21:07:55 +0000 UTC |
-| 33 | [pgrok](https://github.com/pgrok/pgrok) | Poor man's ngrok - a multi-tenant HTTP reverse tunnel solution through remote port forwarding from the SSH protocol | 2023-03-08 12:43:55 +0000 UTC |
-| 28 | [tg-dumb-bot](https://github.com/hackroid/tg-dumb-bot) |  | 2023-03-06 14:04:19 +0000 UTC |
-| 26 | [queryxss](https://github.com/vitorfhc/queryxss) | Tool for testing reflections in the HTTP responses | 2023-03-10 01:34:09 +0000 UTC |
-| 25 | [linux-command-gpt](https://github.com/asrul10/linux-command-gpt) | Get Linux commands in natural language with the power of ChatGPT. | 2023-03-11 13:20:39 +0000 UTC |
-| 20 | [gpt-go](https://github.com/hanyuancheung/gpt-go) | OpenAI ChatGPT/GPT-3 SDK Client Enables Go Programs to Interact with the GPT-3 APIs. | 2023-03-11 01:43:32 +0000 UTC |
+| 47 | [intcomp](https://github.com/ronanh/intcomp) | Fast integer compression library | 2023-03-09 21:07:55 +0000 UTC |
+| 46 | [linux-command-gpt](https://github.com/asrul10/linux-command-gpt) | Get Linux commands in natural language with the power of ChatGPT. | 2023-03-11 13:20:39 +0000 UTC |
+| 41 | [queryxss](https://github.com/vitorfhc/queryxss) | Tool for testing reflections in the HTTP responses | 2023-03-10 01:34:09 +0000 UTC |
+| 22 | [gpt-go](https://github.com/hanyuancheung/gpt-go) | OpenAI ChatGPT/GPT-3 SDK Client Enables Go Programs to Interact with the GPT-3 APIs. | 2023-03-11 01:43:32 +0000 UTC |
+| 22 | [mint](https://github.com/btvoidx/mint) | 🍃 Tiny event emitter built on generics | 2023-03-09 09:02:55 +0000 UTC |
 | 20 | [gointensivo2](https://github.com/devfullcycle/gointensivo2) |  | 2023-03-07 01:03:59 +0000 UTC |
-| 20 | [mint](https://github.com/btvoidx/mint) | 🍃 Tiny event emitter built on generics | 2023-03-09 09:02:55 +0000 UTC |
+| 16 | [openai-scf-goproxy](https://github.com/riba2534/openai-scf-goproxy) | Golang开发的腾讯云函数OpenAI反向代理 | 2023-03-08 13:25:06 +0000 UTC |
 | 16 | [watchtower](https://github.com/NCCloud/watchtower) | Effortlessly monitor your Kubernetes resource activity :rocket: | 2023-03-09 17:04:46 +0000 UTC |
 | 16 | [ShellMate](https://github.com/AvicennaJr/ShellMate) | Your very own terminal AI assisstant 🤖 | 2023-03-08 17:15:18 +0000 UTC |
 | 16 | [Go-QuickStart](https://github.com/fanchann/Go-QuickStart) | to speed up the creation of your REST API | 2023-03-07 14:35:46 +0000 UTC |
-| 13 | [keygen](https://github.com/FiloSottile/keygen) | Deterministic key generation for Go. | 2023-03-06 16:07:36 +0000 UTC |
-| 12 | [caddy-ngrok-listener](https://github.com/mohammed90/caddy-ngrok-listener) |  | 2023-03-09 20:01:11 +0000 UTC |
 | 12 | [simple](https://github.com/codingo/simple) | A collection of one off hacks and simple scripts | 2023-03-08 03:05:25 +0000 UTC |
-| 12 | [openai-scf-goproxy](https://github.com/riba2534/openai-scf-goproxy) | Golang开发的腾讯云函数OpenAI反向代理 | 2023-03-08 13:25:06 +0000 UTC |
+| 12 | [caddy-ngrok-listener](https://github.com/mohammed90/caddy-ngrok-listener) | Caddy listener_wrapper to automatically listen on an ngrok tunnel | 2023-03-09 20:01:11 +0000 UTC |
 | 12 | [federation-benchmarks](https://github.com/wundergraph/federation-benchmarks) | Comparison of a different federation gateways, e.g. supergraphs implementations | 2023-03-08 16:55:25 +0000 UTC |
-| 12 | [RealiTLScanner](https://github.com/XTLS/RealiTLScanner) | A TLS server scanner for Reality | 2023-03-06 02:29:08 +0000 UTC |
 | 11 | [bobibo](https://github.com/orzation/bobibo) | A cli-app, convert pictures to ascii arts. :tada: | 2023-03-08 09:59:41 +0000 UTC |
 | 10 | [OmvWebdav](https://github.com/Lamzier/OmvWebdav) | Go轻量化可挂载webdav，有用户组权限管理 | 2023-03-07 13:27:06 +0000 UTC |
+| 10 | [treechat](https://github.com/nahum-maurice/treechat) | A TCP-based, console-based chat system. | 2023-03-07 22:17:49 +0000 UTC |
 | 10 | [VQLite](https://github.com/VQLite/VQLite) | VQLite - Simple and Lightweight Vector Search Engine | 2023-03-10 07:35:19 +0000 UTC |
 | 9 | [openai-proxy](https://github.com/yqchilde/openai-proxy) | OpenAI API 代理 | 2023-03-07 01:58:50 +0000 UTC |
+| 9 | [microsoft-rewards-helper-action](https://github.com/Clov614/microsoft-rewards-helper-action) | 自动化获取微软积分action版，借助工作流的定时任务，实现自动化获取积分 | 2023-03-11 09:46:47 +0000 UTC |
 | 9 | [JsValidator](https://github.com/SirBugs/JsValidator) | JsValidator is a tool created for validating the JS files after crawlling it from waybackurls | 2023-03-09 16:37:49 +0000 UTC |
-| 9 | [spofi](https://github.com/davidborzek/spofi) | Spotify controls in rofi. | 2023-03-06 11:48:46 +0000 UTC |
 | 8 | [go-quines](https://github.com/eliben/go-quines) | Some quines in the Go programming language | 2023-03-07 13:46:55 +0000 UTC |
 | 8 | [releaser](https://github.com/eBay/releaser) | A declarative API that syncs specs from git to kubernetes  | 2023-03-09 02:26:57 +0000 UTC |
 | 7 | [go-redis-distributed-lock](https://github.com/BacklitCat/go-redis-distributed-lock) | 基于Golang和Redis的分布式锁。 | 2023-03-10 08:44:18 +0000 UTC |
-| 7 | [treechat](https://github.com/nahum-maurice/treechat) | A TCP-based, console-based chat system. | 2023-03-07 22:17:49 +0000 UTC |
 | 7 | [gitnostr](https://github.com/spearson78/gitnostr) | Git integration for Nostr that supports creation and cloning of repositories and managing permissions of to access the repositorie | 2023-03-09 16:04:40 +0000 UTC |
-| 7 | [chainloop](https://github.com/chainloop-dev/chainloop) | Chainloop Core is an open source software supply chain control plane, a single source of truth for artifacts plus a declarative attestation crafting process. | 2023-03-06 14:30:50 +0000 UTC |
+| 7 | [awesome-go-stars](https://github.com/eleven26/awesome-go-stars) | Awesome go with stargazers count. | 2023-03-10 09:45:06 +0000 UTC |
 | 7 | [Collar](https://github.com/DVKunion/Collar) | Collar 是长亭牧云主机助手(Collie) 的 CLI 工具，方便使用者在终端管理 Collie。 | 2023-03-07 08:43:35 +0000 UTC |
-| 6 | [kindsys](https://github.com/grafana/kindsys) | a kind system for schematizing objects | 2023-03-06 18:36:06 +0000 UTC |
-| 5 | [dagger-compose](https://github.com/vito/dagger-compose) | Docker Compose... but in Dagger | 2023-03-08 05:38:19 +0000 UTC |
-| 5 | [terminal-bot](https://github.com/xusenlin/terminal-bot) | 🍭Quickly ask questions using chatgpt in the terminal. | 2023-03-09 05:01:15 +0000 UTC |
+| 6 | [terminal-bot](https://github.com/xusenlin/terminal-bot) | 🍭Quickly ask questions using chatgpt in the terminal. | 2023-03-09 05:01:15 +0000 UTC |
+| 6 | [dagger-compose](https://github.com/vito/dagger-compose) | Docker Compose... but in Dagger | 2023-03-08 05:38:19 +0000 UTC |
 | 5 | [Scalable-chat-service](https://github.com/Ejedavy/Scalable-chat-service) | This is an implementaion of a scalable chat service which supports horizontal scalability hence using Redis publisher-subscriber for exchanging messages | 2023-03-10 06:52:02 +0000 UTC |
 | 5 | [go-mitm](https://github.com/jweny/go-mitm) | mitm实现demo：两种方式goproxy or 参考hetty | 2023-03-09 11:09:19 +0000 UTC |
 | 5 | [cli-chatgpt](https://github.com/BkrmDahal/cli-chatgpt) | CLI to call chatGPT api with query and system context.  | 2023-03-08 11:53:20 +0000 UTC |
-| 5 | [bigmod](https://github.com/FiloSottile/bigmod) |  | 2023-03-06 12:33:32 +0000 UTC |
 | 5 | [dag.dev](https://github.com/jonjohnsonjr/dag.dev) |  | 2023-03-08 23:01:43 +0000 UTC |
+| 5 | [openai-on-wechat](https://github.com/riba2534/openai-on-wechat) | 🍺基于 Golang 实现的，OpenAI 微信聊天机器人 | 2023-03-12 05:22:04 +0000 UTC |
 | 4 | [aws-iam-policy](https://github.com/micahhausler/aws-iam-policy) | AWS IAM policy in Go | 2023-03-07 16:32:17 +0000 UTC |
 | 4 | [nest-golang](https://github.com/dewidyabagus/nest-golang) | Simple Code with Go Language | 2023-03-07 08:41:52 +0000 UTC |
+| 4 | [go-mmap](https://github.com/rfyiamcool/go-mmap) | golang unix mmap | 2023-03-11 13:18:19 +0000 UTC |
+| 4 | [rocketdb](https://github.com/ostafen/rocketdb) | An in-memory first key/value store based on lock-free data structures and optimistic concurrency control | 2023-03-11 12:55:05 +0000 UTC |
+| 4 | [clank](https://github.com/chainguard-dev/clank) | Simple tool that allows you to detect imposter commits in GitHub Actions workflows. | 2023-03-07 13:39:39 +0000 UTC |
+| 4 | [WhatShouldIDo](https://github.com/SandTripper/WhatShouldIDo) | 提供互联网大厂的岗位需求 | 2023-03-09 12:28:30 +0000 UTC |
 | 4 | [chatgpt-cli](https://github.com/liCells/chatgpt-cli) | Get the desired command through ChatGPT. | 2023-03-08 01:18:20 +0000 UTC |
-| 4 | [bubbletea-heatmap](https://github.com/slinlee/bubbletea-heatmap) | A Charm.sh Bubbletea Heatmap component | 2023-03-06 19:57:49 +0000 UTC |
-| 4 | [v2ray-api](https://github.com/acheong08/v2ray-api) | v2ray server controlled by an API | 2023-03-06 06:15:11 +0000 UTC |
+| 4 | [hive-op](https://github.com/Alis-Proger-OT-Boga/hive-op) |  | 2023-03-10 09:08:51 +0000 UTC |
+| 4 | [gptcli](https://github.com/lucasepe/gptcli) | An interactive ChatGPT client featuring shortcuts and auto-complete. | 2023-03-11 15:12:58 +0000 UTC |
+| 4 | [oracle](https://github.com/script-wizards/oracle) | Oracle is a tool for picking random items from a table. | 2023-03-11 19:19:32 +0000 UTC |
+| 4 | [watchhttp](https://github.com/nikolaydubina/watchhttp) | 🌺 Run command periodically and expose latest STDOUT as HTTP endpoint | 2023-03-11 17:26:41 +0000 UTC |
 | 4 | [schema_registry](https://github.com/codegangsta/schema_registry) | A Bare bones and barely working schema registry for NATS | 2023-03-10 22:39:35 +0000 UTC |
 | 4 | [ftree](https://github.com/periaate/ftree) | Ftree provides tools for building and traversing file trees. A Walker can be used to walk a FileTree with Steppers, which are conditionally given the files they want to process. This allows for multiple functions to read the same file. | 2023-03-08 11:53:49 +0000 UTC |
-| 4 | [ntpc](https://github.com/haikelfazzani/ntpc) | 🕚 NTP (Network Time Protocol) client | 2023-03-06 21:57:14 +0000 UTC |
+| 4 | [go-family-catering](https://github.com/mfajri11/go-family-catering) |  | 2023-03-11 10:56:42 +0000 UTC |
 | 4 | [smart-campus-server](https://github.com/z354392349/smart-campus-server) | 智慧校园管理系统server端 | 2023-03-09 02:16:43 +0000 UTC |
 | 3 | [wormhole](https://github.com/MeteorDevelopment/wormhole) | The backend api server for wormhole chat. | 2023-03-11 11:56:17 +0000 UTC |
-| 3 | [Cranberry](https://github.com/VentGrey/Cranberry) | Cranberry is a small Go program that helps you find console logging statements in your TypeScript project. | 2023-03-09 03:17:04 +0000 UTC |
-| 3 | [taskit](https://github.com/Pradumnasaraf/taskit) | Task manager that allows you to create, edit, delete and list tasks from the command line. | 2023-03-07 07:08:37 +0000 UTC |
-| 3 | [simple-redis](https://github.com/dawnzzz/simple-redis) | golang实现的简易redis | 2023-03-09 12:26:40 +0000 UTC |
 | 3 | [gjq](https://github.com/4cecoder/gjq) | simple jq rewritten in go | 2023-03-07 16:15:16 +0000 UTC |
 | 3 | [tiktoken-go](https://github.com/pkoukk/tiktoken-go) | go version of tiktoken | 2023-03-08 10:31:35 +0000 UTC |
-| 3 | [go-mmap](https://github.com/rfyiamcool/go-mmap) | golang unix mmap | 2023-03-11 13:18:19 +0000 UTC |
+| 3 | [taskit](https://github.com/Pradumnasaraf/taskit) | Task manager that allows you to create, edit, delete and list tasks from the command line. | 2023-03-07 07:08:37 +0000 UTC |
+| 3 | [kargo](https://github.com/mumoshu/kargo) | Deploy your Kubernetes application directly or indirectly | 2023-03-10 05:50:39 +0000 UTC |
+| 3 | [Cranberry](https://github.com/VentGrey/Cranberry) | Cranberry is a small Go program that helps you find console logging statements in your TypeScript project. | 2023-03-09 03:17:04 +0000 UTC |
+| 3 | [simple-redis](https://github.com/dawnzzz/simple-redis) | golang实现的简易redis | 2023-03-09 12:26:40 +0000 UTC |
 | 3 | [nostr-makeitquote](https://github.com/mattn/nostr-makeitquote) |  | 2023-03-10 14:59:29 +0000 UTC |
-| 3 | [rocketdb](https://github.com/ostafen/rocketdb) | An in-memory first key/value store based on lock-free data structures and optimistic concurrency control | 2023-03-11 12:55:05 +0000 UTC |
 | 3 | [xpu-scheduler-extender](https://github.com/xpucube/xpu-scheduler-extender) | Kubernetes scheduler extender. | 2023-03-08 02:47:15 +0000 UTC |
 | 3 | [Gohook-spammer](https://github.com/Syntheticc/Gohook-spammer) | Golang discord webhook spammer and deleter, very fast | 2023-03-11 04:00:10 +0000 UTC |
-| 3 | [gpt-zmide-server](https://github.com/PBK-B/gpt-zmide-server) | 💡 zmide ChatGPT 应用服务，用于管理应用程序对接和集成 ChatGPT API 的服务应用 | 2023-03-06 14:20:15 +0000 UTC |
+| 3 | [go-check-sumtype](https://github.com/alecthomas/go-check-sumtype) | A simple utility for running exhaustiveness checks on Go "sum types." | 2023-03-11 21:14:21 +0000 UTC |
 | 3 | [gohlslib](https://github.com/bluenviron/gohlslib) | HLS client and muxer library for the Go programming language | 2023-03-10 11:27:05 +0000 UTC |
 | 3 | [dagger-knative](https://github.com/marcosnils/dagger-knative) |  | 2023-03-09 15:32:59 +0000 UTC |
 | 3 | [vanity-crypto-address-factory](https://github.com/Telept-xyz/vanity-crypto-address-factory) |  | 2023-03-08 06:53:30 +0000 UTC |
-| 3 | [golang-views-counter](https://github.com/Kvertinum01/golang-views-counter) |  | 2023-03-06 07:42:17 +0000 UTC |
 | 3 | [HITEX](https://github.com/Omed0/HITEX) |  | 2023-03-09 10:27:20 +0000 UTC |
-| 3 | [gojson](https://github.com/Grivn/gojson) | NJSON to normalize the JSON documents with template. | 2023-03-06 11:29:42 +0000 UTC |
+| 3 | [mira](https://github.com/ivaaaan/mira) | Convert your Markdown to Jira issues | 2023-03-11 14:05:21 +0000 UTC |
 | 3 | [xpu-device-plugin](https://github.com/xpucube/xpu-device-plugin) | Kubernetes device plugin for XPU. | 2023-03-08 02:30:14 +0000 UTC |
-| 3 | [hive-op](https://github.com/Alis-Proger-OT-Boga/hive-op) |  | 2023-03-10 09:08:51 +0000 UTC |
-| 3 | [testing](https://github.com/bozkayasalihx/testing) |  | 2023-03-10 18:42:13 +0000 UTC |
+| 3 | [golang-tape-storage](https://github.com/CameronSima/golang-tape-storage) |  | 2023-03-07 17:41:52 +0000 UTC |
 | 3 | [wechatbot](https://github.com/superheze/wechatbot) | weixin chatgpt3.5 | 2023-03-08 11:50:54 +0000 UTC |
+| 3 | [Tetris](https://github.com/GoldenSheep402/Tetris) | Tetris game building by golang. Just write for learning. | 2023-03-10 14:09:32 +0000 UTC |
 | 3 | [Erfes](https://github.com/iimrudy/Erfes) | Telegram bot to download yt video as audio | 2023-03-07 14:22:27 +0000 UTC |
-| 3 | [janrs](https://github.com/janrs-io/janrs) |  | 2023-03-06 04:05:05 +0000 UTC |
+| 3 | [simurest](https://github.com/cleuton/simurest) | Server simulator | 2023-03-09 21:42:31 +0000 UTC |
 | 3 | [go-sui-indexer](https://github.com/coming-chat/go-sui-indexer) | go-sui-indexer is an off-fullnode service to serve data from Sui Node. | 2023-03-07 07:57:51 +0000 UTC |
 | 3 | [Bartender](https://github.com/mimrock/Bartender) | An OpenAI chatbot for Rocket.Chat written in Go | 2023-03-10 01:51:35 +0000 UTC |
-| 3 | [ColorPing](https://github.com/Kioubit/ColorPing) | IPv6 Canvas - draw by pinging. One IPv6 Address = a single pixel with color information | 2023-03-06 17:45:36 +0000 UTC |
+| 3 | [pack-essentials](https://github.com/hax0r31337/pack-essentials) | Encrypt Minecraft: BE resource packs inside your browser | 2023-03-11 14:28:04 +0000 UTC |
+| 3 | [Jobguru](https://github.com/szymon676/Jobguru) | Jobguru is a web application that allows employers to post job openings and job seekers to search for and apply to jobs. | 2023-03-08 19:26:29 +0000 UTC |
 | 3 | [network-test](https://github.com/ShevonKuan/network-test) |  | 2023-03-08 06:42:52 +0000 UTC |
+| 3 | [m3u8-downloader](https://github.com/iyzyi/m3u8-downloader) | M3U8下载器 | 2023-03-11 13:11:44 +0000 UTC |
+| 3 | [gorb](https://github.com/nibbleshift/gorb) | GO Regression testing and Benchmark Tools | 2023-03-08 01:45:33 +0000 UTC |
 | 3 | [promqlsmith](https://github.com/cortexproject/promqlsmith) | A random PromQL query generator | 2023-03-07 03:07:33 +0000 UTC |
-| 3 | [awesome-go-stars](https://github.com/eleven26/awesome-go-stars) | Awesome go with stargazers count. | 2023-03-10 09:45:06 +0000 UTC |
 | 2 | [template-go-vitejs](https://github.com/aziis98/template-go-vitejs) | My personal template for building web server using Go and ViteJS | 2023-03-07 21:38:06 +0000 UTC |
 | 2 | [echo_swagger](https://github.com/ruanlianjun/echo_swagger) | golang echo swagger | 2023-03-09 07:24:21 +0000 UTC |
-| 2 | [searchcmd](https://github.com/hacden/searchcmd) |  | 2023-03-06 08:01:29 +0000 UTC |
-| 2 | [feishu-ogg-wav-converter](https://github.com/trevorwang/feishu-ogg-wav-converter) |  | 2023-03-11 09:30:05 +0000 UTC |
-| 2 | [kargo](https://github.com/mumoshu/kargo) | Deploy your Kubernetes application directly or indirectly | 2023-03-10 05:50:39 +0000 UTC |
+| 2 | [ogg](https://github.com/trevorwang/ogg) |  | 2023-03-11 09:30:05 +0000 UTC |
 | 2 | [matrix-multiply-concurrently](https://github.com/yigitaltunay/matrix-multiply-concurrently) | golang matrix multiply concurrently | 2023-03-11 06:46:57 +0000 UTC |
-| 2 | [Serve](https://github.com/drakulah/Serve) | A simple utility tool for serving directory. | 2023-03-06 13:15:24 +0000 UTC |
 | 2 | [blackhat-tools](https://github.com/Think-Me/blackhat-tools) | 本仓库用于自学go语言渗透测试编程，仅供学习交流之用！ | 2023-03-09 06:50:54 +0000 UTC |
-| 2 | [clank](https://github.com/chainguard-dev/clank) | Simple tool that allows you to detect imposter commits in GitHub Actions workflows. | 2023-03-07 13:39:39 +0000 UTC |
 | 2 | [go-compose-practise](https://github.com/pvmtriet232/go-compose-practise) |  | 2023-03-07 16:46:40 +0000 UTC |
 | 2 | [consul-services](https://github.com/andrewstucki/consul-services) | Consul Service Mesh Configuration Testing Helper | 2023-03-08 06:02:01 +0000 UTC |
 | 2 | [rachadinha](https://github.com/matheus306/rachadinha) |  | 2023-03-07 02:20:15 +0000 UTC |
 | 2 | [actuated-cli](https://github.com/self-actuated/actuated-cli) | CLI for actuated | 2023-03-08 17:07:15 +0000 UTC |
-| 2 | [openai-quickstart-go](https://github.com/Zhima-Mochi/openai-quickstart-go) | OpenAI API Quickstart - Golang example app | 2023-03-06 14:13:57 +0000 UTC |
+| 2 | [IwaekiriBlog](https://github.com/CodereInc/IwaekiriBlog) |  | 2023-03-12 04:37:36 +0000 UTC |
 | 2 | [go-pg-poc](https://github.com/rpolnx/go-pg-poc) |  | 2023-03-09 21:53:21 +0000 UTC |
-| 2 | [cmdb](https://github.com/playmood/cmdb) | 云主机配置管理中心 | 2023-03-06 02:04:30 +0000 UTC |
-| 2 | [WhatShouldIDo](https://github.com/SandTripper/WhatShouldIDo) | 提供互联网大厂的岗位需求 | 2023-03-09 12:28:30 +0000 UTC |
-| 2 | [GlanHx](https://github.com/13l00m/GlanHx) | 多模块主机扫描工具，目前已完成HOST碰撞模块。持续更新中 | 2023-03-06 03:21:04 +0000 UTC |
-| 2 | [kubectl-gpt](https://github.com/yoyofx/kubectl-gpt) | kubectl-gpt is kubectl plus that is increased Intelligent hint  smart and code generate ability by chatgpt. | 2023-03-09 10:38:08 +0000 UTC |
+| 2 | [betula](https://github.com/bouncepaw/betula) | Mirror of https://sr.ht/~bouncepaw/betula. Contribute on Sourcehut | 2023-03-11 21:35:02 +0000 UTC |
+| 2 | [CVE-2023-23752](https://github.com/GhostToKnow/CVE-2023-23752) | 开源，go多并发批量探测poc，准确率高 | 2023-03-09 07:32:06 +0000 UTC |
+| 2 | [go-sync](https://github.com/xnamic/go-sync) | sync folder | 2023-03-11 19:02:02 +0000 UTC |
+| 2 | [kubectl-gpt](https://github.com/yoyofx/kubectl-gpt) | 🔥kubectl-gpt is kubectl plus that is increased intelliSense and code generate ability by chatgpt. | 2023-03-09 10:38:08 +0000 UTC |
+| 2 | [endoflife](https://github.com/mdelapenya/endoflife) | eol provides a CLI to interact with the endoflife.date API | 2023-03-08 09:44:46 +0000 UTC |
+| 2 | [XrayR](https://github.com/JustineTouchstone/XrayR) |  | 2023-03-07 02:36:58 +0000 UTC |
+| 2 | [normalizejson](https://github.com/Grivn/normalizejson) | NormalizeJSON is a Go package that provides a simple way to normalize the key/value in a JSON documents with a template. | 2023-03-09 14:44:11 +0000 UTC |
+| 2 | [tftarget](https://github.com/orangekame3/tftarget) | tftarget is a CLI tool for Terraform plan/apply with target option. You can interactivity select resource to plan/appply with target option. | 2023-03-09 12:46:21 +0000 UTC |
 
