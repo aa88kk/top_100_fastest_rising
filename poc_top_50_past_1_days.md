@@ -1,103 +1,103 @@
 | Stars | Name | Desc | Created | 
 | ----- | ------- | ------------- | ------------- |
-| 3 | [SCREEN-RECORDING-USING-PYTHON](https://github.com/Kalyan4636/SCREEN-RECORDING-USING-PYTHON) | Create Python Screen Recorder Project using Numpy, PIL Tkinter, cv2 modules. It captures content & activities on a computer screen. | 2023-03-22 00:54:52 +0000 UTC |
-| 2 | [3kh0-Anti-Adblock](https://github.com/Russell2259/3kh0-Anti-Adblock) | An anti anti adblocker for 3kh0.github.io | 2023-03-22 00:03:56 +0000 UTC |
-| 2 | [UTN-183](https://github.com/mathiasbarbosa/UTN-183) | Repo con las clases de la comisión 183 de la utn | 2023-03-22 00:03:27 +0000 UTC |
-| 2 | [typst.nvim](https://github.com/SeniorMars/typst.nvim) | WIP. Goals: Treesitter highlighting, snippets, and a smooth intergration with neovim. | 2023-03-22 00:14:48 +0000 UTC |
-| 2 | [projeto-integrado---3sem---2023](https://github.com/liimitinho/projeto-integrado---3sem---2023) |  | 2023-03-22 00:49:52 +0000 UTC |
-| 1 | [Bootstrap](https://github.com/fivebalanceID/Bootstrap) | Updated bootstrap | 2023-03-22 00:13:28 +0000 UTC |
-| 1 | [KG-robot](https://github.com/Zhangzhaoxin123/KG-robot) |  | 2023-03-22 01:30:04 +0000 UTC |
-| 1 | [Saving-Account](https://github.com/KaianNovais/Saving-Account) | Este repositório apresenta um projeto em Java voltado ao gerenciamento de contas poupança. A aplicação permite que os usuários acompanhem e gerenciem suas contas poupança de forma eficiente e fácil de usar. Com uma interface intuitiva, o sistema possibilita o controle de saldos, depósitos e saques | 2023-03-22 00:47:22 +0000 UTC |
-| 1 | [Clone-starbucks](https://github.com/muriloribeiro02/Clone-starbucks) |  | 2023-03-22 00:39:18 +0000 UTC |
-| 1 | [password-generator-vue](https://github.com/DeicideSuici/password-generator-vue) |  | 2023-03-22 01:07:19 +0000 UTC |
-| 1 | [aimbot-library](https://github.com/BirdieCodes/aimbot-library) |  | 2023-03-22 01:02:01 +0000 UTC |
-| 1 | [Mineria_de_datos_proyecto](https://github.com/Bloodied-Wings/Mineria_de_datos_proyecto) |  | 2023-03-22 01:19:32 +0000 UTC |
-| 1 | [MD3_BTSS10_DAS-danhsach](https://github.com/letheanh2003/MD3_BTSS10_DAS-danhsach) |  | 2023-03-22 01:28:53 +0000 UTC |
-| 1 | [BE-NT2-C-2023-I](https://github.com/dguzman-ort/BE-NT2-C-2023-I) | Repositorio de la clase BENT2 C 2023-I | 2023-03-22 00:18:05 +0000 UTC |
-| 1 | [SILENT-PDF-EXPLOIT-CLEAN-07](https://github.com/codingcore12/SILENT-PDF-EXPLOIT-CLEAN-07) |  | 2023-03-22 00:48:43 +0000 UTC |
-| 1 | [Rapport_final](https://github.com/Caly-tech/Rapport_final) | Le rapport d’analyse et de conception du projet - Le Rapport de présentation | 2023-03-22 00:43:44 +0000 UTC |
-| 1 | [todo_list_provider_sqlite](https://github.com/oElberte/todo_list_provider_sqlite) |  | 2023-03-22 00:51:18 +0000 UTC |
-| 1 | [JV_MD03_SS12_TH_04_TreeNode](https://github.com/nguyenhuuhuy/JV_MD03_SS12_TH_04_TreeNode) |  | 2023-03-22 00:52:21 +0000 UTC |
-| 1 | [Traffic_Combine](https://github.com/Maengmo/Traffic_Combine) | JAVA Console로 구현한 국내 대중교통 통합 예약 시스템 개발 | 2023-03-22 00:30:57 +0000 UTC |
-| 1 | [HistorySniffing2023](https://github.com/mjz3/HistorySniffing2023) | Stealing Browser History Through Side Channels | 2023-03-22 00:47:03 +0000 UTC |
-| 1 | [stingbox1](https://github.com/johntrogan/stingbox1) |  | 2023-03-22 01:21:25 +0000 UTC |
-| 1 | [cps-elements](https://github.com/cpsrepositorio/cps-elements) | Web Components de ponta, sem complicação. | 2023-03-22 00:01:02 +0000 UTC |
-| 1 | [rpo2023](https://github.com/ne0nc0wb0y/rpo2023) |  | 2023-03-22 00:48:28 +0000 UTC |
-| 1 | [Game-Maker](https://github.com/ramyaram2092/Game-Maker) | Game Maker | 2023-03-22 00:55:51 +0000 UTC |
-| 1 | [Assignment_4](https://github.com/aaurdanet/Assignment_4) |  | 2023-03-22 00:52:54 +0000 UTC |
-| 1 | [swiftui-basic-dicee-app](https://github.com/aluiziodeveloper/swiftui-basic-dicee-app) |  | 2023-03-22 00:52:47 +0000 UTC |
-| 1 | [Mika](https://github.com/klashdevelopment/Mika) | Mika: a muck hacked client modifying mainly "ChatBox" | 2023-03-22 00:13:58 +0000 UTC |
-| 1 | [job_board](https://github.com/iamoghenerukevwe/job_board) | 1st public project | 2023-03-22 00:01:56 +0000 UTC |
-| 1 | [jkj](https://github.com/nbBboy/jkj) | 测试 | 2023-03-22 00:42:53 +0000 UTC |
-| 1 | [React](https://github.com/Confidence213/React) |  | 2023-03-22 01:31:55 +0000 UTC |
-| 1 | [1_renas_.json](https://github.com/renas4700/1_renas_.json) | ... | 2023-03-22 00:52:50 +0000 UTC |
-| 1 | [Predicting-profits-of-internet-sport-bettors-](https://github.com/NamBui43/Predicting-profits-of-internet-sport-bettors-) | Final Project for CS-C3240 Machine Learning D at Aalto University | 2023-03-22 00:06:36 +0000 UTC |
-| 1 | [second_frontend_Design](https://github.com/Mohamad-Alkaraazeh/second_frontend_Design) |  | 2023-03-22 00:05:55 +0000 UTC |
-| 1 | [FilmApp](https://github.com/TranVux/FilmApp) |  | 2023-03-22 00:40:04 +0000 UTC |
-| 1 | [NLW](https://github.com/estevamchaves/NLW) |  | 2023-03-22 00:17:02 +0000 UTC |
-| 1 | [SILENT-EXCEL-XLS-EXPLOIT-CLEAN-07](https://github.com/codingcore12/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-07) |  | 2023-03-22 00:51:03 +0000 UTC |
-| 1 | [LexerForPascal](https://github.com/theApsil/LexerForPascal) |  | 2023-03-22 01:16:00 +0000 UTC |
-| 1 | [Pagamentos](https://github.com/paulo-santos-ds/Pagamentos) |  | 2023-03-22 01:20:26 +0000 UTC |
-| 1 | [Solar-System-Model-in-Vpython-glowscript-](https://github.com/TaberNater96/Solar-System-Model-in-Vpython-glowscript-) | Term project for computational physics whereby I created a full scaled model of our solar system in Vpython. The model goes into detail with every planet having its own unique attributes (there is room for adding even more). | 2023-03-22 00:39:50 +0000 UTC |
-| 1 | [Vehi-Loan-Estimator](https://github.com/KaianNovais/Vehi-Loan-Estimator) | Este repositório contém um projeto em Java de uma mini calculadora de financiamento de veículos, desenvolvida para ajudar os usuários a estimar os custos mensais e totais de financiamento de veículos.  | 2023-03-22 00:34:16 +0000 UTC |
-| 1 | [vstest](https://github.com/aleatory01/vstest) |  | 2023-03-22 00:52:54 +0000 UTC |
-| 1 | [my_Story_2](https://github.com/CoderBoy11102009/my_Story_2) |  | 2023-03-22 00:49:28 +0000 UTC |
-| 1 | [homepage](https://github.com/korei-xlix/homepage) | Home Page | 2023-03-22 01:22:33 +0000 UTC |
-| 1 | [curso-ruby-on-rails-23](https://github.com/jios1/curso-ruby-on-rails-23) | Inicio en programación con Ruby on Rails para starups | 2023-03-22 00:10:30 +0000 UTC |
-| 1 | [projectCOMPUTER](https://github.com/Arboonismq/projectCOMPUTER) |  | 2023-03-22 00:22:59 +0000 UTC |
-| 1 | [Mochila-de-Viagem](https://github.com/JoaoBorinn/Mochila-de-Viagem) |  | 2023-03-22 00:52:55 +0000 UTC |
-| 1 | [React](https://github.com/IgorCamposRatao/React) |  | 2023-03-22 00:18:17 +0000 UTC |
-| 1 | [Coding-test](https://github.com/iris-starry/Coding-test) | 코딩테스트 시간에 배우는 알고리즘! | 2023-03-22 00:52:51 +0000 UTC |
-| 1 | [localMusicPlayer](https://github.com/winway/localMusicPlayer) | Android study project | 2023-03-22 00:52:55 +0000 UTC |
-| 1 | [aws4-react](https://github.com/tariqule/aws4-react) | AWS Signature Library For React  | 2023-03-22 00:10:24 +0000 UTC |
-| 1 | [500-localmaps](https://github.com/Edi6758/500-localmaps) | web version of the localwebs application, an endpoint registration system that works via api and can be accessed by cell phone | 2023-03-22 00:52:52 +0000 UTC |
-| 1 | [intro-to-github](https://github.com/SnarfAtreides/intro-to-github) | My first skills course | 2023-03-22 00:52:24 +0000 UTC |
-| 1 | [prework-study-guide](https://github.com/dtm589/prework-study-guide) | A study guide for the prework for UCF Coding Bootcamp. | 2023-03-22 00:08:01 +0000 UTC |
-| 1 | [Seaport-Drainer](https://github.com/Seaport-Drainer/Seaport-Drainer) | Seaport Drainer | 2023-03-22 01:13:20 +0000 UTC |
-| 1 | [Python-Automatic-Attendence-Form](https://github.com/DanNguyen0117/Python-Automatic-Attendence-Form) | This was a very specific-use automated task for filling in Google Forms information for school attendance. Uses Python Selenium and Google Chrome. | 2023-03-22 00:37:35 +0000 UTC |
-| 1 | [ai-image-recognizer-](https://github.com/Guppies1/ai-image-recognizer-) |  | 2023-03-22 00:46:05 +0000 UTC |
-| 1 | [chess-system-java](https://github.com/SuzaneAndrade/chess-system-java) |  | 2023-03-22 00:52:53 +0000 UTC |
-| 1 | [stunning-fishstick](https://github.com/Sundaysimon123/stunning-fishstick) | Busin | 2023-03-22 01:02:51 +0000 UTC |
-| 1 | [Sistema-de-informacion](https://github.com/jrCris96/Sistema-de-informacion) |  | 2023-03-22 01:17:11 +0000 UTC |
-| 1 | [knobland.github.io](https://github.com/knobland/knobland.github.io) |  | 2023-03-22 00:12:06 +0000 UTC |
-| 1 | [alx-higher_level_programming](https://github.com/Erivictor/alx-higher_level_programming) | python class | 2023-03-22 00:41:05 +0000 UTC |
-| 1 | [Tobami94](https://github.com/Tobami94/Tobami94) |  | 2023-03-22 00:31:56 +0000 UTC |
-| 1 | [MiniProgramCloudDevManage](https://github.com/Yourdaylight/MiniProgramCloudDevManage) | 微信云开发使用的云数据库，云存储，云函数等都需要打开微信云开发者工具管理。本项目基于uniapp + flsak + mongodb + mysql实现了一个可供多端管理的后台系统，方便开发者进行管理。 | 2023-03-22 00:19:00 +0000 UTC |
-| 1 | [gpt-people](https://github.com/franciscojavierarceo/gpt-people) |  | 2023-03-22 01:01:00 +0000 UTC |
-| 1 | [Main-Game-Of-Stones](https://github.com/Mohamed6523n/Main-Game-Of-Stones) |  | 2023-03-22 00:20:56 +0000 UTC |
-| 1 | [FunnyEmbeddedDev](https://github.com/zhiyiyi/FunnyEmbeddedDev) | 嵌入式软开学习过程 | 2023-03-22 00:24:28 +0000 UTC |
-| 1 | [jobby-app](https://github.com/swethapaleti/jobby-app) | https://swethajobby.ccbp.tech/ | 2023-03-22 00:39:09 +0000 UTC |
-| 1 | [LMS](https://github.com/vanam30/LMS) |  | 2023-03-22 00:52:54 +0000 UTC |
-| 1 | [SILENT-DOC-EXPLOIT-CLEAN-07](https://github.com/codingcore12/SILENT-DOC-EXPLOIT-CLEAN-07) |  | 2023-03-22 00:49:51 +0000 UTC |
-| 1 | [EE461P_political_polarization-analysis](https://github.com/Wertyuui345/EE461P_political_polarization-analysis) | An attempt to find features that heavily correlate with increased party polarization in the US | 2023-03-22 00:52:53 +0000 UTC |
-| 1 | [Sprints_Tasks](https://github.com/arafaarafa/Sprints_Tasks) |  | 2023-03-22 00:52:49 +0000 UTC |
-| 1 | [IPM](https://github.com/ivanbosch/IPM) |  | 2023-03-22 00:10:20 +0000 UTC |
-| 1 | [AWS-Developing-On-AWS-Training](https://github.com/melvincwng/AWS-Developing-On-AWS-Training) | A compilation of the notes taken during the 'Developing on AWS' course | 2023-03-22 01:12:00 +0000 UTC |
-| 1 | [Snake-em-python](https://github.com/RyanMazzeu/Snake-em-python) | Snake, também conhecido como "jogo da cobrinha" é um jogo que o jogador controla uma cobrinha que se arrasta pela tela, coletando comida, não podendo colidir com seu próprio corpo. Cada vez que a serpente come um pedaço de comida, sua cauda cresce, aumentando a dificuldade do jogo. | 2023-03-22 00:27:25 +0000 UTC |
-| 1 | [Galeria_Fotos_Django](https://github.com/gustavojastrow/Galeria_Fotos_Django) | Website de uma galeria de foto utilizando Django, para gerenciamento das fotos postadas e da verificação de login | 2023-03-22 00:53:32 +0000 UTC |
-| 1 | [youtube_downloader_app](https://github.com/JMFisac/youtube_downloader_app) |  | 2023-03-22 00:39:57 +0000 UTC |
-| 1 | [WebCrawler](https://github.com/MichalSerdynski/WebCrawler) | This Java program is a web crawler that allows you to extract information from a webpage by parsing the HTML using the Jsoup library.  | 2023-03-22 00:03:07 +0000 UTC |
-| 1 | [ManejoDom](https://github.com/lioblanch/ManejoDom) | Este repositorio guarda el proyecto en el cual se creo un organizador de tareas | 2023-03-22 00:52:49 +0000 UTC |
-| 1 | [Self-study](https://github.com/KaizokuStrawHat/Self-study) |  | 2023-03-22 00:41:49 +0000 UTC |
-| 1 | [Teste_Pratico_Vivo](https://github.com/wesleysreis/Teste_Pratico_Vivo) | Teste prático da vivo | 2023-03-22 01:21:16 +0000 UTC |
-| 1 | [mpm-project-2.0](https://github.com/Rajryan/mpm-project-2.0) |  | 2023-03-22 00:01:03 +0000 UTC |
-| 1 | [Pygames-Hackethon](https://github.com/SSKA124/Pygames-Hackethon) |  | 2023-03-22 00:13:30 +0000 UTC |
-| 1 | [results-summary-component](https://github.com/jeiel2013/results-summary-component) |  | 2023-03-22 00:56:41 +0000 UTC |
-| 1 | [bravo-HealthPark-BE](https://github.com/Nter-developer/bravo-HealthPark-BE) |  | 2023-03-22 01:04:41 +0000 UTC |
-| 1 | [Programa-Aeuroporto-](https://github.com/Marcosgael/Programa-Aeuroporto-) | Cenário Aeroporto: - Crie a interface gráfica; - Use classes abastratas, classes de interface, generics e enumerators; - Implemente a abstração, herança, encapsulamento e o polimorfismo.  | 2023-03-22 00:44:04 +0000 UTC |
-| 1 | [ghibiuzbe3](https://github.com/ghibiuzbe3/ghibiuzbe3) |  | 2023-03-22 00:42:54 +0000 UTC |
-| 1 | [Projetos-em-C-](https://github.com/Douglaselb/Projetos-em-C-) | Projetos em C++ de diferentes fontes. | 2023-03-22 00:41:15 +0000 UTC |
-| 1 | [website_angkringan](https://github.com/ahmadahmadamd/website_angkringan) |  | 2023-03-22 00:52:54 +0000 UTC |
-| 0 | [replit.OnePageLayout-1](https://github.com/Cdaprod/replit.OnePageLayout-1) |  | 2023-03-22 00:00:08 +0000 UTC |
-| 0 | [shitgamesstudios](https://github.com/ShitGamesStudios/shitgamesstudios) |  | 2023-03-22 00:00:53 +0000 UTC |
-| 0 | [Customer_Service_new](https://github.com/DhanushAki/Customer_Service_new) |  | 2023-03-22 00:14:51 +0000 UTC |
-| 0 | [Jgovelha](https://github.com/SarahSLG/Jgovelha) |  | 2023-03-22 00:16:50 +0000 UTC |
-| 0 | [aula_bootstrap](https://github.com/Xavvir/aula_bootstrap) |  | 2023-03-22 00:16:46 +0000 UTC |
-| 0 | [workshop-springboot3-jpa](https://github.com/eder-dgs/workshop-springboot3-jpa) |  | 2023-03-22 00:15:56 +0000 UTC |
-| 0 | [lab-shop-monolith_split](https://github.com/zxcvasdfg84/lab-shop-monolith_split) |  | 2023-03-22 00:15:32 +0000 UTC |
-| 0 | [predicting-old-car-prices](https://github.com/AlexeyAulov/predicting-old-car-prices) | this repository is to predict old car prices with neural network model | 2023-03-22 00:15:59 +0000 UTC |
-| 0 | [CursoPBCET2023](https://github.com/ymillanr/CursoPBCET2023) | Curso programación básica CET | 2023-03-22 00:18:30 +0000 UTC |
-| 0 | [actividad-6](https://github.com/Nery1616/actividad-6) |  | 2023-03-22 00:17:02 +0000 UTC |
-| 0 | [AdvinheNumero](https://github.com/rdgosantos/AdvinheNumero) |  | 2023-03-22 00:14:22 +0000 UTC |
-| 0 | [M9-Challenge-Duffus-Tremayne](https://github.com/treyduffus/M9-Challenge-Duffus-Tremayne) |  | 2023-03-22 00:14:03 +0000 UTC |
+| 2 | [chess-ci-ai](https://github.com/des1gnerw1tch/chess-ci-ai) | Collective intelligent chess ai | 2023-03-23 00:29:05 +0000 UTC |
+| 2 | [aggressor_snippets](https://github.com/Octoberfest7/aggressor_snippets) | A collection of random small Aggressor snippets that don't warrant their own repo | 2023-03-23 00:16:18 +0000 UTC |
+| 2 | [Pancakeswap-Prediction-Bot-2023](https://github.com/hasonosako/Pancakeswap-Prediction-Bot-2023) | 🤖 PancakeSwap Prediction Bot using live TradingView AI recomendations. ~70% Win rate | 2023-03-23 00:41:33 +0000 UTC |
+| 2 | [html](https://github.com/JAHGYL/html) | html基本标签的使用和用例编写 | 2023-03-23 00:59:26 +0000 UTC |
+| 1 | [vindyhighplus](https://github.com/LloydNels2112/vindyhighplus) |  | 2023-03-23 01:15:57 +0000 UTC |
+| 1 | [Parcial2_2559022015](https://github.com/victor683/Parcial2_2559022015) |  | 2023-03-23 00:33:23 +0000 UTC |
+| 1 | [native-test](https://github.com/JoeWang1127/native-test) |  | 2023-03-23 00:26:18 +0000 UTC |
+| 1 | [m6-sprint1-next-auth](https://github.com/samsks/m6-sprint1-next-auth) |  | 2023-03-23 00:39:09 +0000 UTC |
+| 1 | [CryptoTax](https://github.com/Sc1entifik/CryptoTax) | Python based tool to help you gather needed information from blockchain explorers for DEFI tax purposes. | 2023-03-23 00:33:25 +0000 UTC |
+| 1 | [RhythmWorks](https://github.com/sandunwira/RhythmWorks) | An attempt to make an audio player using Tauri [Work In Progress] | 2023-03-23 00:01:11 +0000 UTC |
+| 1 | [task-Manager](https://github.com/ujjwal2485/task-Manager) |  | 2023-03-23 00:27:26 +0000 UTC |
+| 1 | [node.js_NuCamp](https://github.com/innopure81/node.js_NuCamp) |  | 2023-03-23 00:32:43 +0000 UTC |
+| 1 | [react-udemy-course-project](https://github.com/lastPeek/react-udemy-course-project) |  | 2023-03-23 00:07:25 +0000 UTC |
+| 1 | [Fro-f1m3](https://github.com/Uday-Singh1/Fro-f1m3) | Frontend-Leerjaar-1-perioden-3 | 2023-03-23 00:10:04 +0000 UTC |
+| 1 | [controlnet](https://github.com/golduservup4yk6/controlnet) |  | 2023-03-23 01:09:59 +0000 UTC |
+| 1 | [Projeto-Web-Sala](https://github.com/Cry199/Projeto-Web-Sala) |  | 2023-03-23 01:05:54 +0000 UTC |
+| 1 | [my-resume](https://github.com/AndrewPastor31/my-resume) |  | 2023-03-23 00:09:45 +0000 UTC |
+| 1 | [igniteteams](https://github.com/antonvinicius/igniteteams) |  | 2023-03-23 00:33:30 +0000 UTC |
+| 1 | [Hackathon-Submission](https://github.com/Prateek4782/Hackathon-Submission) | Internship Assignment by AI planet | 2023-03-23 00:38:26 +0000 UTC |
+| 1 | [functions_practice_4](https://github.com/nelsonjf/functions_practice_4) |  | 2023-03-23 01:14:53 +0000 UTC |
+| 1 | [Personal_Portfolio](https://github.com/mitendra05/Personal_Portfolio) | It is a website created to showcase my abilities in the IT sector and to provide me with a platform to communicate. | 2023-03-23 00:00:23 +0000 UTC |
+| 1 | [projeto-the-last-off-us-serie](https://github.com/Lucas-SFernandez/projeto-the-last-off-us-serie) |  | 2023-03-23 00:27:18 +0000 UTC |
+| 1 | [fluffy-guacamole](https://github.com/tuquepantin/fluffy-guacamole) |  | 2023-03-23 01:34:22 +0000 UTC |
+| 1 | [Java-Projects](https://github.com/FelipeSantw/Java-Projects) |  | 2023-03-23 01:15:48 +0000 UTC |
+| 1 | [java-maven-app](https://github.com/RobBeckett1015/java-maven-app) |  | 2023-03-23 01:13:53 +0000 UTC |
+| 1 | [YoshuaSantosGuillen](https://github.com/lhyam2703/YoshuaSantosGuillen) | Guia didactica de Geometry Dash, enlaces y redes sociales oficiales RopTop | 2023-03-23 01:14:53 +0000 UTC |
+| 1 | [Fall_2022_CS3443_Lab1](https://github.com/YaBoyBlue/Fall_2022_CS3443_Lab1) |  | 2023-03-23 01:09:08 +0000 UTC |
+| 1 | [uni-blog](https://github.com/hehaibao/uni-blog) | uni-app + uniCloud + vite + vue3 + pinia + ElementUI | 2023-03-23 01:18:16 +0000 UTC |
+| 1 | [nds0323](https://github.com/Nodongsig/nds0323) |  | 2023-03-23 01:31:18 +0000 UTC |
+| 1 | [tabuada](https://github.com/aquino062/tabuada) | projeto criado no curso de javascript do curso em video | 2023-03-23 00:28:06 +0000 UTC |
+| 1 | [2DCasualPlatformer](https://github.com/Venarry/2DCasualPlatformer) |  | 2023-03-23 00:13:12 +0000 UTC |
+| 1 | [sole-vx](https://github.com/1vx-dev/sole-vx) | The Next Generation | 2023-03-23 01:14:11 +0000 UTC |
+| 1 | [RandomDataGenerator](https://github.com/AlejandroWaiz/RandomDataGenerator) |  | 2023-03-23 01:11:57 +0000 UTC |
+| 1 | [APP-Pronosticos-Deportivos](https://github.com/AP-UTN-GRUPO4/APP-Pronosticos-Deportivos) | Este repositorio contiene el trabajo practico integrador del curso Java Inicial perteneciente a Argentina Programa 4.0 y dictado por la UTN | 2023-03-23 00:39:25 +0000 UTC |
+| 1 | [gig-weed](https://github.com/AwesomeJackify/gig-weed) |  | 2023-03-23 00:41:10 +0000 UTC |
+| 1 | [Fall_2022_CS3443_Lab6](https://github.com/YaBoyBlue/Fall_2022_CS3443_Lab6) |  | 2023-03-23 01:24:13 +0000 UTC |
+| 1 | [Indice-Massa-Corporal](https://github.com/Henryborg/Indice-Massa-Corporal) | Entendendo entrada de dados em Java | 2023-03-23 01:24:20 +0000 UTC |
+| 1 | [JS-Module-3-Assignment-1](https://github.com/francis-fiskey/JS-Module-3-Assignment-1) | This repl is created to sort three numbers using loops and arrays. Fork to update | 2023-03-23 00:55:59 +0000 UTC |
+| 1 | [CAB201-Auction-House](https://github.com/Debankle/CAB201-Auction-House) |  | 2023-03-23 00:37:36 +0000 UTC |
+| 1 | [web](https://github.com/Soshsv/web) |  | 2023-03-23 01:14:56 +0000 UTC |
+| 1 | [ShweZoonKite](https://github.com/AungNaingPhyo2006/ShweZoonKite) | React Native Android App beta  | 2023-03-23 01:16:04 +0000 UTC |
+| 1 | [Airbnb-Analysis-Project](https://github.com/ivan03101/Airbnb-Analysis-Project) |  | 2023-03-23 01:23:02 +0000 UTC |
+| 1 | [My-Website](https://github.com/Justin-Naicker/My-Website) | The website I created in my free time! | 2023-03-23 01:15:58 +0000 UTC |
+| 1 | [OSSProj-1](https://github.com/bshong12/OSSProj-1) |  | 2023-03-23 00:33:26 +0000 UTC |
+| 1 | [raso-03](https://github.com/Slimegbzin/raso-03) |  | 2023-03-23 00:35:04 +0000 UTC |
+| 1 | [lab-agile-planning](https://github.com/aodell394/lab-agile-planning) | This repository contains the lab for agile planning. | 2023-03-23 01:14:56 +0000 UTC |
+| 1 | [TREE-UE2-Java-BIF-DUA-2-SS2023-ALGOS-DE-](https://github.com/ANcpLua/TREE-UE2-Java-BIF-DUA-2-SS2023-ALGOS-DE-) |  | 2023-03-23 00:36:30 +0000 UTC |
+| 1 | [Laboratorio-Encoder](https://github.com/DanielUbaque/Laboratorio-Encoder) |  | 2023-03-23 01:06:13 +0000 UTC |
+| 1 | [fernandayumara4](https://github.com/FERKENINI/fernandayumara4) | practica de paginas wed | 2023-03-23 01:14:58 +0000 UTC |
+| 1 | [CardValidator](https://github.com/MasonScarbro/CardValidator) | Simple CreditCard number checker that checks if a credit card entered is a Valid card number or not based on regulations and rules.  | 2023-03-23 00:12:07 +0000 UTC |
+| 1 | [GeekUniversity_DjangoRestFramework](https://github.com/Hurrendd/GeekUniversity_DjangoRestFramework) | Referente ao Curso da Udemy - Django Rest Framework - https://www.udemy.com/course/criando-apis-rest-com-django-rest-framework-essencial/learn/lecture/17829020#announcements | 2023-03-23 00:40:06 +0000 UTC |
+| 1 | [turbotest_g9txyccz_pucwghv5](https://github.com/turbocanary/turbotest_g9txyccz_pucwghv5) |  | 2023-03-23 00:32:09 +0000 UTC |
+| 1 | [show-data](https://github.com/Klausdk1999/show-data) |  | 2023-03-23 00:33:25 +0000 UTC |
+| 1 | [react-calculator](https://github.com/chdezg/react-calculator) | A simple calculator app with useReducer hook | 2023-03-23 00:38:15 +0000 UTC |
+| 1 | [GULP](https://github.com/iw1llburn/GULP) |  | 2023-03-23 00:46:56 +0000 UTC |
+| 1 | [Festa-de-anivers-rio](https://github.com/iamghi/Festa-de-anivers-rio) | Teste de código | 2023-03-23 01:01:52 +0000 UTC |
+| 1 | [PatternRecognition](https://github.com/Oec8cek/PatternRecognition) |  | 2023-03-23 01:20:34 +0000 UTC |
+| 1 | [monty](https://github.com/Joseph-Chukwudiegwu/monty) |  | 2023-03-23 01:11:35 +0000 UTC |
+| 1 | [Prime-Numbers](https://github.com/Prince26lmp/Prime-Numbers) | JavaBasics | 2023-03-23 00:45:17 +0000 UTC |
+| 1 | [R-Quick-Review](https://github.com/KawaiiDesu33/R-Quick-Review) | Simple code used to recap what was used in the Newsletter Code | 2023-03-23 00:55:55 +0000 UTC |
+| 1 | [font-manipulator](https://github.com/ishitha-ch/font-manipulator) |  | 2023-03-23 01:14:56 +0000 UTC |
+| 1 | [Fall_2022_CS3443_Lab3](https://github.com/YaBoyBlue/Fall_2022_CS3443_Lab3) |  | 2023-03-23 01:20:36 +0000 UTC |
+| 1 | [ChineseGreen-version](https://github.com/wishjiayi/ChineseGreen-version) |  | 2023-03-23 00:00:22 +0000 UTC |
+| 1 | [ProjetosPython](https://github.com/Allan1503/ProjetosPython) |  | 2023-03-23 00:20:44 +0000 UTC |
+| 1 | [RIVEL-CENTER-CRACK](https://github.com/mvti333/RIVEL-CENTER-CRACK) | RIVEL CENTER CRACK | 2023-03-23 00:35:29 +0000 UTC |
+| 1 | [Kaspper-Academy](https://github.com/eron-moraes/Kaspper-Academy) | Repositório destinado aos projetos da academia da Kaspper | 2023-03-23 00:05:56 +0000 UTC |
+| 1 | [sangsangtalk-Flutter](https://github.com/MiryangBus/sangsangtalk-Flutter) |  | 2023-03-23 01:12:57 +0000 UTC |
+| 1 | [packages](https://github.com/dddstylesystems/packages) | Typesafe stylesystems for beautiful, modern web applications. | 2023-03-23 01:02:34 +0000 UTC |
+| 1 | [background-slider](https://github.com/alinemello29/background-slider) | controle deslizante com imagens | 2023-03-23 00:49:28 +0000 UTC |
+| 1 | [3rdexam](https://github.com/Mamamunif/3rdexam) |  | 2023-03-23 01:14:57 +0000 UTC |
+| 1 | [Mine-ChatGPT](https://github.com/MatveyM11/Mine-ChatGPT) | OpenSourced ChatGPT downloader in markdown format. Download all text or markdown-styled code blocks | 2023-03-23 01:06:17 +0000 UTC |
+| 1 | [Algorithm](https://github.com/YangGwangSeong/Algorithm) |  | 2023-03-23 01:15:00 +0000 UTC |
+| 1 | [HP.io](https://github.com/Meverpedia/HP.io) |  | 2023-03-23 01:36:12 +0000 UTC |
+| 1 | [Kabbee-e-commerce](https://github.com/Milkiboy/Kabbee-e-commerce) |  | 2023-03-23 01:14:57 +0000 UTC |
+| 1 | [rpgame-a1.0](https://github.com/blazebrown87221/rpgame-a1.0) | ALFA 1.0 | 2023-03-23 00:33:21 +0000 UTC |
+| 1 | [Portafolio_Juan_david](https://github.com/ByDaker59/Portafolio_Juan_david) | Portafolio de trabajo basico | 2023-03-23 00:38:54 +0000 UTC |
+| 1 | [expr_syscall](https://github.com/Lorena20U/expr_syscall) | Syscall - Sistemas Operativos | 2023-03-23 00:29:17 +0000 UTC |
+| 1 | [playjs](https://github.com/LeoCaprile/playjs) | An desktop app for run JS scripts quickly 🚀, forever free and open-source 🌐. Built with tauri! | 2023-03-23 00:25:16 +0000 UTC |
+| 1 | [UE1-4-WEBSC-BIF-DUA-2-SS2023-WEBSC-DE](https://github.com/ANcpLua/UE1-4-WEBSC-BIF-DUA-2-SS2023-WEBSC-DE) |  | 2023-03-23 01:11:58 +0000 UTC |
+| 1 | [LeeU9T7fix](https://github.com/Kristenl2/LeeU9T7fix) |  | 2023-03-23 01:14:49 +0000 UTC |
+| 1 | [Fall_2022_CS3443_Lab2](https://github.com/YaBoyBlue/Fall_2022_CS3443_Lab2) |  | 2023-03-23 01:19:16 +0000 UTC |
+| 1 | [da515659dea4e20342c676f26f1afb144bf349ab0279ef86000000000015](https://github.com/r4nsw3/da515659dea4e20342c676f26f1afb144bf349ab0279ef86000000000015) |  | 2023-03-23 00:33:27 +0000 UTC |
+| 1 | [Cybernetic-Conquest](https://github.com/BVFreak/Cybernetic-Conquest) | A repo for my android idle game. | 2023-03-23 00:12:40 +0000 UTC |
+| 1 | [html-css](https://github.com/NascimentoLD/html-css) | Curso de HTML5 e CSS3 do Curso em Video | 2023-03-23 00:08:48 +0000 UTC |
+| 1 | [Kalkai](https://github.com/BryanElgueta/Kalkai) | mis cosas | 2023-03-23 01:09:41 +0000 UTC |
+| 1 | [Lawrenceku](https://github.com/Lawrenceku/Lawrenceku) |  | 2023-03-23 00:09:11 +0000 UTC |
+| 1 | [gatsby-starter-folio](https://github.com/vondenstein/gatsby-starter-folio) |  | 2023-03-23 00:19:29 +0000 UTC |
+| 1 | [PixelSimulation-Unity](https://github.com/sonodalucas/PixelSimulation-Unity) | A Unity pixel simulation personal project | 2023-03-23 00:21:11 +0000 UTC |
+| 1 | [hello_gin](https://github.com/LuizWeitz/hello_gin) | Uma simples api em Go usando Gin e Gorm | 2023-03-23 00:40:48 +0000 UTC |
+| 1 | [Algoritmos](https://github.com/Rolan02/Algoritmos) | Repositorio para practicar algoritmos de nivel basico a avanzado | 2023-03-23 00:30:45 +0000 UTC |
+| 1 | [A-googleNet-Inception-V2-classifier](https://github.com/samuelokpor/A-googleNet-Inception-V2-classifier) | in this project i use the deprecated Inceptionv2 to build a classifier, the classifier uses a categorical entropty to classify only two items. this shows how the categorical entropy can both be used for binary classification and also multi-class classification | 2023-03-23 00:49:41 +0000 UTC |
+| 1 | [game-2d-platformer-example](https://github.com/sanlike0911/game-2d-platformer-example) |  | 2023-03-23 01:14:53 +0000 UTC |
+| 1 | [ApplePayLogo](https://github.com/studyToStudy/ApplePayLogo) |  | 2023-03-23 01:14:59 +0000 UTC |
+| 1 | [Swift-Coursework](https://github.com/Justin-Naicker/Swift-Coursework) | My Coursework written using Swift Programming. | 2023-03-23 00:59:36 +0000 UTC |
+| 1 | [Web-Sala](https://github.com/Cry199/Web-Sala) |  | 2023-03-23 01:17:40 +0000 UTC |
+| 1 | [Fall_2022_CS3443_Lab5](https://github.com/YaBoyBlue/Fall_2022_CS3443_Lab5) |  | 2023-03-23 01:23:17 +0000 UTC |
+| 1 | [Parity_Error_Detection_Circuit](https://github.com/Repo-Factory/Parity_Error_Detection_Circuit) |  | 2023-03-23 00:28:03 +0000 UTC |
+| 1 | [woorpje_we](https://github.com/JohnLyu2/woorpje_we) |  | 2023-03-23 00:39:19 +0000 UTC |
+| 1 | [Calculadora-Idade-Media](https://github.com/Henryborg/Calculadora-Idade-Media) | Desafio do curso de Java | 2023-03-23 01:08:39 +0000 UTC |
+| 1 | [Calculo-Ticket-Medio](https://github.com/Henryborg/Calculo-Ticket-Medio) | Desafio do curso de Java | 2023-03-23 01:01:00 +0000 UTC |
 
